@@ -157,65 +157,65 @@ features:
 ---
 
 
-< 自定义设置>
-导入 { 挂载 } 从“ Vue ” 导入 { onmounted }
+<script setup>
+进口 {安装} 从"vue"
 
-写入( () {} {
-Var 偏爱川井
-试 {
-首选的 Kawaii = 本地Storage. getThomat( uwu)
-捕捉(err)
-const urlParams = 新的 URL 搜索Params(窗口. place. search)
-康斯特川井 = urlParams.get(“ uwu” )
-康斯特设置卡瓦伊 = ()  {
-const 图像 = 文档.querySelectorAll (“.Vpimage.image- src ”)
-图像。 forEach( img) {{
-ISG.src = /logo-uwu.svg = /logo-uwu.svg
-}) }
-时 间
-康斯特重置川井 = ()  {
-const 图像 = 文档.querySelectorAll (“.Vpimage.image- src ”)
-图像。 forEach( img) {{
-img.src = “/测试.png ”
-}) }
-时 间
-{如果(kawaii  {`tri' {) {
-试 {
-本地种子。 setTitem( uwu, 真实)
-捕捉(err)
-控制台.log(启用了“ uwu 模式 ” 。 禁用“ ? uwu=false ” ) ;
-设定 skawaii ()
-§如果(kawaii
-试 {
-本地管理工具.remove Timit( uwu, 假的)
-捕捉(err)
-重设 Kawaii ()
-{如果(首选的Kawaii) {
-设定 skawaii ()
-时 间
+上的
+偏好Kawaii
+试着
+首选Kawaii = 地方存储.getItem('uwu')
+鱼 (错误)
+const urlParams = 新的URL搜索参数(window.location.search)
+查看下面的内容.
+设定{{{}{{}}{{}}{{}}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}}{}{}{}{}}{}{}}{}{}{}}{}}{}{}{}{}{}}{}}{}{}}{}{}{}}{}{}{}}{{}}}}{{{}}}}}
+总结图像 = 文档.查询SelectorAll('.VPImage.image-src')
+图像.为每一个
+标签: 标签:
+现在,我们要去做什么?
+现在,我们要去.
+设置后,
+总结图像 = 文档.查询SelectorAll('.VPImage.image-src')
+图像.为每一个
+试验.png
+现在,我们要去做什么?
+现在,我们要去.
+如果 (kawaii === '真') {
+试着
+地方存储.设置标题 (('uwu',真)
+鱼 (错误)
+控制器.log('uwu模式启用. 禁用"uwu=false".');
+    
+否则,如果 (kawaii === '假') {
+试着
+移除物件 (('uwu',错误)
+鱼 (错误)
+恢复Kawaii()
+否则,如果 (最好Kawaii) {
+    
+现在,我们要去.
 
-点击数=0;
-Cast 英雄图像 = 文件. query 选择器 (“. Vpimage. image- src ” );
+让点击Count = 0;
+总结:
   
-平坦控点 点击 = ()  {
-点击Count =% 1;
-{如果(点击Count = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-康斯特是 Kawaii = 本地Storage。 get temp( uwu)  {“ true ” ;
-{如果是川谷 {
-本地Storage.removeTroject (“ uwu” ) ; 本地Storage. remove Troject (“ uwu” ) ; 本地Storage. remove
-重置 Kawaii () ;
-控制台.log(禁用“ uwu 模式 ” );
-其它 {
-设置项目( uwu, 真实 ) ;
-设定 Kawaii () ;
-控制台.log( 5 个点击后启用的“ uwu 模式 ” );
-时 间
-点击数=0;
-时 间
-; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
+控制Click = () => {
+按数量+=1;
+如果 (点击数量 === 5) {
+总体的说法是:
+如果 (是Kawaii) {
+地方存储.移除物品 (('uwu');
+恢复Kawaii();
+控制台.log('uwu模式已被禁用.');
+其他地方
+地方存储.设置标题 (('uwu', true);
+设置Kawaii();
+console.log("uwu模式启用后5次点击".);
+现在,我们要去.
+按数 = 0;
+现在,我们要去.
+现在,我们要做什么?
 
-if(英雄形象) {
-英雄图像。 添加 Event 听者( 点击, 控点 Click ) ;
-时 间
-}) }
-</标记>
+如果 (英雄图片) {
+其他类型: 片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片,片
+现在,我们要去.
+现在,我们要去做什么?
+</script>

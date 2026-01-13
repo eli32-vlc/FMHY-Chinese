@@ -1,136 +1,139 @@
-
 import os
 import re
 import argparse
-from transformers import MarianMTModel, MarianTokenizer
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 
-def load_model(model_name="liam168/trans-opus-mt-en-zh"):
-    tokenizer = MarianTokenizer.from_pretrained(model_name)
-    model = MarianMTModel.from_pretrained(model_name)
+def load_model(model_name="facebook/nllb-200-distilled-600M"):
+    """Load NLLB translation model for English to Chinese translation."""
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
     return model, tokenizer
 
 def translate_batch(texts, model, tokenizer):
+    """Translate English texts to Chinese using NLLB model."""
     if not texts:
         return []
     
-    # MarianMT handles batch translation
-    # Use standard generate parameters
+    # NLLB uses language codes: eng_Latn for English, zho_Hans for Simplified Chinese
+    tokenizer.src_lang = "eng_Latn"
     inputs = tokenizer(texts, return_tensors="pt", padding=True, truncation=True, max_length=512)
-    translated = model.generate(**inputs)
+    translated = model.generate(
+        **inputs, 
+        forced_bos_token_id=tokenizer.convert_tokens_to_ids("zho_Hans"),
+        max_length=512
+    )
     result = [tokenizer.decode(t, skip_special_tokens=True) for t in translated]
     return result
 
-def replace_code_blocks(content):
-    # Placeholders for code blocks to prevent translation
-    code_blocks = []
+def protect_content(content):
+    protected = []
     
-    def replacer(match):
-        code_blocks.append(match.group(0))
-        return f"__CODE_BLOCK_{len(code_blocks)-1}__"
+    def make_placeholder(match):
+        protected.append(match.group(0))
+        return f"__PROTECTED_{len(protected)-1}__"
+    
+    patterns = [
+        (r'```[\s\S]*?```', 'code_block'),
+        (r'`[^`\n]+?`', 'inline_code'),
+        (r'<[^>]+>', 'html_tag'),
+        (r'!\[([^\]]*)\]\([^\)]+\)', 'image'),
+        (r'\[([^\]]+)\]\(([^\)]+)\)', 'link'),
+        (r'https?://[^\s\)]+', 'bare_url'),
+    ]
+    
+    for pattern, _ in patterns:
+        content = re.sub(pattern, make_placeholder, content)
+    
+    return content, protected
 
-    # Regex for fenced code blocks
-    pattern = r"```[\s\S]*?```"
-    content = re.sub(pattern, replacer, content)
-    
-    # Regex for inline code
-    pattern_inline = r"`[^`]+`"
-    content = re.sub(pattern_inline, replacer, content)
-    
-    return content, code_blocks
-
-def restore_code_blocks(content, code_blocks):
-    for i, block in enumerate(code_blocks):
-        content = content.replace(f"__CODE_BLOCK_{i}__", block)
+def restore_content(content, protected):
+    for i, item in enumerate(protected):
+        content = content.replace(f"__PROTECTED_{i}__", item)
     return content
 
-def split_text_preserve_formatting(text):
-    # Simple semantic splitting by newlines to preserve paragraph structure
-    lines = text.split('\n')
-    chunks = []
-    current_chunk = []
-    
-    for line in lines:
-        if line.strip() == "":
-            if current_chunk:
-                chunks.append("\n".join(current_chunk))
-                current_chunk = []
-            chunks.append("")  # Preserve empty line
-        elif line.startswith("#") or line.startswith("-") or line.startswith("*") or line.startswith(">"):
-             # Structural lines handled separately or as single chunk
-             if current_chunk:
-                 chunks.append("\n".join(current_chunk))
-                 current_chunk = []
-             chunks.append(line)
-        else:
-            current_chunk.append(line)
-            
-    if current_chunk:
-        chunks.append("\n".join(current_chunk))
-        
-    return chunks
+def extract_frontmatter(content):
+    if content.startswith("---"):
+        parts = content.split("---", 2)
+        if len(parts) >= 3:
+            return f"---{parts[1]}---", parts[2]
+    return "", content
 
 def translate_markdown_file(file_path, model, tokenizer):
     with open(file_path, 'r', encoding='utf-8') as f:
         content = f.read()
-
-    # Frontmatter handling (basic)
-    frontmatter = ""
-    if content.startswith("---"):
-        parts = content.split("---", 2)
-        if len(parts) >= 3:
-            frontmatter = f"---{parts[1]}---\n"
-            content = parts[2]
-            
-    # Protect code blocks
-    safe_content, code_blocks = replace_code_blocks(content)
     
-    # Split into translatable chunks
-    # We split by double newlines to keep paragraphs together roughly
-    # For a robust implementation, we'd need a full parser, but splitting by lines/paragraphs acts as a good heuristic
+    frontmatter, main_content = extract_frontmatter(content)
     
-    lines = safe_content.split('\n')
+    protected_content, protected_items = protect_content(main_content)
+    
+    lines = protected_content.split('\n')
     translated_lines = []
     
     batch_lines = []
     batch_indices = []
     
     for idx, line in enumerate(lines):
-        if not line.strip():
+        stripped = line.strip()
+        
+        if not stripped or re.match(r'^__PROTECTED_\d+__$', stripped) or re.match(r'^[\*\-]{3,}$', stripped):
             translated_lines.append(line)
             continue
         
-        # Check if line is a placeholder
-        if re.match(r"__CODE_BLOCK_\d+__", line.strip()):
-            translated_lines.append(line)
+        if re.match(r'^#+\s+', line):
+            header_match = re.match(r'^(#+\s+)(.+)$', line)
+            if header_match:
+                prefix, text = header_match.groups()
+                protected_text, text_protected = protect_content(text)
+                batch_lines.append(protected_text)
+                batch_indices.append((idx, 'header', prefix, text_protected))
+                translated_lines.append("")
+            else:
+                translated_lines.append(line)
             continue
-            
-        # Basic heuristic: Check if it's structural markdown that shouldn't be fully translated like urls
-        # For simplicity, we translate everything that isn't a code block placeholder
-        # Ideally we would extract text from links [text](url), but MarianMT is decent at keeping structure if simple
         
-        # Add to batch
-        batch_lines.append(line)
-        batch_indices.append(idx)
-        translated_lines.append("") # Placeholder
+        if re.match(r'^[\*\-\+]\s+', line) or re.match(r'^\d+\.\s+', line):
+            list_match = re.match(r'^([\*\-\+]\s+|\d+\.\s+)(.+)$', line)
+            if list_match:
+                prefix, text = list_match.groups()
+                protected_text, text_protected = protect_content(text)
+                batch_lines.append(protected_text)
+                batch_indices.append((idx, 'list', prefix, text_protected))
+                translated_lines.append("")
+            else:
+                translated_lines.append(line)
+            continue
         
-    # Translate batch
+        protected_line, line_protected = protect_content(line)
+        batch_lines.append(protected_line)
+        batch_indices.append((idx, 'plain', None, line_protected))
+        translated_lines.append("")
+    
     if batch_lines:
-        # Process in smaller sub-batches to avoid OOM
         sub_batch_size = 8
         results = []
         for i in range(0, len(batch_lines), sub_batch_size):
             sub_batch = batch_lines[i:i+sub_batch_size]
             results.extend(translate_batch(sub_batch, model, tokenizer))
+        
+        for i, batch_item in enumerate(batch_indices):
+            idx, item_type, prefix, line_protected = batch_item
+            translated_text = results[i]
+            restored_text = restore_content(translated_text, line_protected)
             
-        for i, original_idx in enumerate(batch_indices):
-            translated_lines[original_idx] = results[i]
-
-    # Reassemble
-    result_content = "\n".join(translated_lines)
-    result_content = restore_code_blocks(result_content, code_blocks)
+            if item_type == 'header':
+                translated_lines[idx] = prefix + restored_text
+            elif item_type == 'list':
+                translated_lines[idx] = prefix + restored_text
+            else:
+                translated_lines[idx] = restored_text
     
-    # Combine with frontmatter
-    final_output = frontmatter + result_content
+    result_content = "\n".join(translated_lines)
+    result_content = restore_content(result_content, protected_items)
+    
+    final_output = frontmatter
+    if frontmatter and not frontmatter.endswith('\n'):
+        final_output += '\n'
+    final_output += result_content
     
     return final_output
 
@@ -155,16 +158,17 @@ def main():
                 file_path = os.path.join(root, file)
                 all_files.append(file_path)
     
-    # Sort for deterministic sharding
     all_files.sort()
     
-    # Calculate shard range
     total_files = len(all_files)
-    chunk_size = (total_files + args.total_shards - 1) // args.total_shards
-    start_idx = (args.shard_index - 1) * chunk_size
-    end_idx = min(start_idx + chunk_size, total_files)
     
-    files_to_process = all_files[start_idx:end_idx]
+    # Use round-robin distribution for better load balancing
+    # Shard 1 gets files [0, total_shards, 2*total_shards, ...]
+    # Shard 2 gets files [1, total_shards+1, 2*total_shards+1, ...]
+    # This ensures even distribution even when files vary in size
+    files_to_process = [
+        all_files[i] for i in range(args.shard_index - 1, total_files, args.total_shards)
+    ]
     
     print(f"Shard {args.shard_index}/{args.total_shards}: Processing {len(files_to_process)} files out of {total_files}")
 

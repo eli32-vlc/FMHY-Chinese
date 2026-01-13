@@ -6,37 +6,37 @@ prev: false
 ---
 
 
-< 自定义设置>
-从 ./.vitepress/ 主题/构件/ WallpaperCard.vue 导入的壁纸卡
-</标记>
+<script setup>
+导入墙纸卡"/.vitepress/主题/组件/墙纸卡.vue"
+</script>
 
-壁纸
+# 壁纸
 
-带着美丽的壁纸 将自己提升到下一个水平
+带着我们的美丽壁纸,提升自己到下一个层次.
 
-所有这些壁纸都是由[taskylizard](https://github.com/taskylizard)制作的。
+它们都是由[taskylizard](https://github.com/taskylizard)制作的.
 
-单纸纸纸纸箱
-标题=“弧”
-描述 = “ 圆弧设计有令人愉快的淡化。 ”
-手机=“https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/arc_move.png”
-桌面=“https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/arc_desktop.png”
-/ >
+<WallpaperCard
+  title="Arc"
+  description="A rounded arc design with a pleasing fade."
+  mobile="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/arc_mobile.png"
+  desktop="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/arc_desktop.png"
+/>
 
-- ---
+---
 
-单纸纸纸纸箱
-标题=“雷”
-描述 = “ 斜坡背景, 带有软圆弧 。 ”
-手机=“https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/rays_move.png”
-桌面=“https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/rays_desktop.png”
-/ >
+<WallpaperCard
+  title="Rays"
+  description="A gradient background with a soft, rounded arc."
+  mobile="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/rays_mobile.png"
+  desktop="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/rays_desktop.png"
+/>
 
-- ---
+---
 
-单纸纸纸纸箱
-标题 = “ 牵引雷”
-描述 = “ 带有软圆弧的梯度背景。 底角有粉红色。 ”
-手机=“https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/tinted_rays_move.png”
-桌面=“https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/tinted_rays_desktop.png”
-/ >
+<WallpaperCard
+  title="Tinted Rays"
+  description="A gradient background with a soft, rounded arc. Tinted white at the bottom corner."
+  mobile="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/tinted_rays_mobile.png"
+  desktop="https://cdn.jsdelivr.net/gh/fmhy/design-system/branding/tinted_rays_desktop.png"
+/>

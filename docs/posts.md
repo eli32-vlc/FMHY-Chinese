@@ -9,8 +9,8 @@ sidebar: true
 ---
 
 
-< 自定义设置>
-输入索引来自 ./.vitepress/ 主题/ 邮政
-</标记>
+<script setup>
+从"/.vitepress/theme/Posts.vue"的进口指数
+</script>
 
-<Index/ >
+<Index/>

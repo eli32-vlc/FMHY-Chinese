@@ -1,455 +1,455 @@
-*** ***
-*** ***
-** [返回维基索引](http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
-*** ***
-*** ***
-
-# 檔案工具
-
-* ** ** [易用扫描机](http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-pravacy#wiki_25B7_files_scanners)**
-* ****[czkawka](https://github.com/qarmin/czkawka)** 或[dupeGuru](https://dupeguru.voltatalicas.net/) - 重复文件查找器
-* [解锁IT](https://emco software.com/unlock-it/download) 或[锁定猎人] (https://lockhunter.com/) - 文件解锁器 /删除器
-* [伊卡洛斯](https://github.com/Xanashi/Icaros) -- -- 将探索者缩略图添加到任何视频格式
-* [创本缔约方](https://github.com/9001/opyparty/) - 便携式文件服务器
-* [HTTPDirfs](https://github.com/fangfu/httpdirfs)或[hfs](https://rejetto.com/hfs/) /[2](https://github.com/rejetto/hfs) - HTTP文件系统
-* [WinBtrfs](https://github.com/maharmstone/btrfs) - Btrfs 文件系统
-* [合并](https://github.com/tragexit/mergerfs) - 联合文件系统
-* [档案-样 (https://file-examples.com/) - 假文件示例
-
-*** ***
-
-□ □ □ 下载管理者
-
-* **注** - 下载管理员惠益的更多信息,见[《海盗术语汇编》](https://rentry.org/the-property-glossary)。
-
-*** ***
-
-** ** [JDownloader] (https://jdownloader.org/jdownloader2] ** - 下载管理员 / ** [警告] (https://github.com/fmhy/FMHY/wiki/FMHY%E2% 80% 90 Notes.md#jdownloader)**
-* ** ** JDownloader Tools** - [Dark Times] (https://claraiscute.neocities.org/Guides/jdownloader2/),[2] (https://claraiscute.pages.dev/Guides/jdloader2/) /[Apps] (https://my.jdownloader.org/apps/) /[达克主题] (https://github.com/moktavizen/macine-downloader),[2] (https://redd.it/q3xrgj) /[德拉夸拉主题] (https://dracula主题.com/jdrowloader2)
-* ****[AB下载管理机 (https://abdownloadmanager.com/)** -下载管理机 /[Telegram] (https://t.me/abdownloadmanager_discussion) /[GitHub] (https://github.com/amir1376/ab-download-manager)
-* **[IDM](http://www.reddit.com/r/FREEMEDIAHKYEA/wiki/download#wiki_25BA_software_sites)**,[2](http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_25BA_download_games)(搜索)——下载管理员/[Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-comm-commule.gogle.com/detail/idm-commall-module/ngampapapapnpotilojfohadhhghlaek)
-* [前进速度](https://gopeed.com/) - 下载管理器 / [Extension] (https://github.com/GopeedLab/browser-extension) / [插件] (https://github.com/search?q=top %3) / [GitHub] (https://github.com/GopedLab/gopeed)
-* [Brisk] (https://github.com/BrisklyDev/brisk) - 下载管理器 / [Extension] (https://github.com/BrisklyDev/brisk-browser-extension) / [Discord] (https://discord.gg/hGBDWNDG3]
-* [FDM](https://www.freedownloadmanager.org/) - 下载管理员/[YTDL Addon](https://github.com/meowcateatrat/elephant)
-* [aria2](https://aria2.github.io/)或[Persepolis](https://persepolisdm.github.io/)——终端下载管理员/[Download Bot](https://github.com/gaowanliang/DownloadBot)/[WebUI](https://github.com/ziahamza/webui-aria2),[2](https://ariag.mayswind.net/)/[GitHub](https://github.com/aria2/aria2]]。
-轻量级下载管理器 / [GitHub] (https://github.com/pyload/ pyload)
-* [Hitomi] (https://github.com/KurtBestor/Hitomi-Downloader) - 多功能媒体下载工具
-* [箭头DL](https://github.com/setvisible/ArrowDL/) - 下载管理器
-* [Varia](https://github.com/giantpinkrobots/varia) - 下载管理器
-* [文件单 (https://filecxx.com/) - 上传/ 下载管理器
-下载管理扩展(http://www.downthethall.org/)
-* [HTTP下载机] (https://erickutcher.github.io/) - HTTP / FTP / SFTP 协议的下载管理器 / [GitHub] (https://github.com/erickutcher/ httpdownloader)
-
-*** ***
-
-## 存档/压缩
-
-** ** [超压缩] (https://supercompression.org/)** - 文件压缩资源
-* ** [纳纳齐 (https://github.com/M2Team/NANAZip)** 或** [7-Zip] (https://www.7-zip.org/)** - 档案存档员
-* ****[PeaZip](https://peazip.github.io/)**——跨平台档案归档器/[GitHub](https://github.com/peazip/PeaZip/)
-* * ****[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - 透明压缩
-* [论坛](https://fileforums.com/)或[编码](https://encode.su/) -- -- 数据压缩论坛
-* [TurboBench](https://github.com/powturbo/TurboBench) - 压缩基准
-* [有效压缩工具](https://github.com/fhanau/Effigist-Compression-Tool)或[Miniumus](https://birds-are-nice.me/software/minuimus.html) - 档案归档员/优化
-* [女声](https://www.ezyzip.com/) - 在线Zip文件
-* [unzip- online] (https://unzip-online.com/en) - Unzip 在线文件
-* [在线单 (https://unrar.online/) - 在线Unrar文件
-* [WinRAR](https://www.win-rar.com/),[2](https://www.rarlab.com) -- -- 档案保管员/[Hide Popups](https://claraiscute.neocities.org/Guides/x3-rawr/),[2](https://claraiscute.pages.dev/Guides/x3-rawr/)/[更新(important)](https://github.com/fmhy/FMHY/wiki/FMHY%E2.80%/90Notes.md#winrar)
-* [UPX](https://upx.github.io/)——可执行文件压缩机/[GitHub](https://github.com/upx/upx)
-
-*** ***
-
-□ 文件转换器
-
-* ****[易转换器](https://file-converter.io/)** - 转换/压缩文件/[GitHub](https://github.com/Tichau/FileConverter)
-* ****[VERT](https://vert.sh/)**/[Discord](https://discord.gg/8XXZ7TFFrK)/[GitHub](https://github.com/VERT-sh/VERT)
-* ** [对 (https://www.aconvert.com/)** - 各种转换器/ 40MB
-* [Docling](https://docling-project.github.io/docling/)/[GitHub](https://github.com/docling-project/docling)或[Pandoc](https://pandoc.org/) - 文件/PDF文件转换器
-* [定位CSV](https://www.convertcsv.com/) -- -- 在线CSV数据转换
-* [编码转换器] (https://encoding-converter.netlify.app/) - 在线文件编码转换器
-* [亲爱的](https://entopropymine.com/deark/) -- -- 解码和转换文件/[GitHub](https://github.com/jsummers/deark)
-* [text2img] (https://master.ayra.ch/text2img/) - 在线NFO文件转换成图像转换器
-- 转换文件(https://github.com/paulpacifico/shutter-encoder)
-* [视频小 (https://www.taviutils.com/) - 文件转换器 / 500MB
-* [离线调 (https://www.offlineconvert.com/) - 文件转换器
-* [Xconvert] (https://www.xconvert.com) - 文件转换器 / 400MB
-* [FeeConvert](https://www.freeconconvert.com/) -- -- 无限/清晰的曲奇
-* (https://www.convertifiles.com/) - 文件转换器 / 250MB
-* [翻 (https://condrio.co/) - 文件转换器 / 100MB
-* [任何调 (https://anyconv.com/) - 文件转换器 / 100MB
-* [MiConv](https://miconv.com/) - 文件转换器 / 75MB
-
-*** ***
-
-□  档案管理员
-
-* ** [董事专 [https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_25BA_software_sites]**(搜索) - Windows文件管理员
-跨平台文件管理员(https://www.muccomgerer.com/)
-* [Sigma](https://sigma-file-manager.vercel.app) - 现代文件管理员/[GitHub](https://github.com/aleksey-hoffman/sigma-file-manager)
-* [Choroma Filer](https://chroma.zone/chromafiler/) - 以列为基础的文件管理器
-* [Yazi](https://yazi-rs.github.io/) -- -- 终端文件管理员/[GitHub](https://github.com/sxyazi/yazi)
-* [一名指挥官](https://www.onecomcom/) - 文件管理员
-* [自由指挥 (https://freecommander.com/) - 文件管理器
-* [Q-Dir](https://www.softwareok.com/?seite=freeware/Q-Dir) - 文件管理员
-* [文件](https://files.community/) - 自定义文件管理器 / 使用经典安装器 / [Discord] (https://discord.gg/files)
-* [专家++](https:// exdrorerplusplus.com/) - 轻量级窗口文件管理器
-* [Far 管理员](https://www.farmanager.com/) - 文件/档案管理员
-* [总司令 (https://www.ghisler.com/) - 共享文件管理器
-* [Tablacus Explorler](https://tablacus.github.io/explorer_en.html)或[多位指挥官](https://multicommander.com/) - Tab 文件管理员
-* [视频](https://vifm.info/) - 以 Vim- 为基础的文件管理器
-* [超级文件] (https://superfile.netlify.ap/) - 终端文件管理器 / [GitHub] (https://github.com/yorukot/superfile)
-(https://filebrowserquantum.com/) - 自封网页文件管理器 / [GitHub] (https://github.com/gtsteffaniak/filebrowser)
-
-*** ***
-
-##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%文件搜索%%%%%%%%%%%%文件搜索%%%%%%%%%%%%%文件搜索%%%%%%%%%%%%%%文件搜索%%%%%%%%%%%%文件搜索%%%%%
-
-* ****[每件](http://lawetools.com/)**——文件搜索引擎/[Alpha](https://www.lawetools.com/eventhing-1.5a/)
-* [检索](https://www.recoll.org/)/[Addon](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/),[DocFletcher](https://docfetcher.sourceforge.io/)或[Orange](https://0-range.github.io/)——跨平台搜索引擎
-* [任何TXT](https://anytxt.net/),[WizFile](https://antibody- software.com/wizfile/)或[流星搜索](https://fluentsearch.net/) - Windows搜索引擎
-* [AstroGrep](https://sourceforge.net/projects/astrogrep/)、[grepWin](https://github.com/stefankueng/grepWin)或[dnGrep](https://dngrep.github.io/) -- -- 视窗图形用户Grep公用事业
-* [fselect] (https://github.com/jhspetersson/fselect) - 类似 SQL 的搜索引擎
-* [fd] (https://github.com/sharkdp/fd) - 方便用户的“查找”备选
-简单递增搜索工具
-
-*** ***
-
-□ 文件加密
-
-* ****[加密机 (https://cryptomator.org/)** [GitHub] (https://github.com/cryptomator/cryptomator) 或[Tahoe-LAFS] (https://tahoe-lafs.org/trac/tahoe-lafs) /[GitHub] (https://github.com/tahoe-lafs/tahoe-lafs) - 云文件加密
-* ** [加密](https://www.veracrypt.fr/en/Home.html)** - 磁盘加密器
-* [年龄](https://github.com/FiloSottile/age) -- -- 文件加密器
-* [REM](https://github.com/liriri/rem) -- -- 文件加密员 / 立方公
-* [gocrypts] (https://github.com/bailey27/cppcrypts) - 文件加密器
-* [加密](https://www.kryptor.co.uk/) - 文件加密器
-
-*** ***
-
-□ 文件同步
-
-* ****[合成声](https://syncthing.net/)** - 跨平台文件同步/[tray Support](https://martchus.github.io/syncthingtray/) /[GitHub](https://github.com/syncthing/syncthing)
-* * ** ** [FreeFileSync](https://freefilesync.org/)** - 开放源码文件同步
-* [MyPhoneExplorer](https://www.fjsoft.at/)或[SyncFolder](https://apps.microsoft.com/detail/9nc73mjwshww?rtc=1&hl=en-us&gl=US) - 电话和桌面同步
-* (https://allwaysync.com/) - 文件同步工具
-* [复苏](https://www.resilio.com/ persons/) - P2P文件同步
-* [SmartFTP](https://www.smartftp.com/) - FTP 文件同步
-* [rsync](https://rsync.samba.org) - 命令行文件同步 / [GitHub] (https://github.com/RsyncProject/rsync)
-* [联合](https://github.com/bcpierce00/unison) - 双向文件同步
-
-*** ***
-
-□ 文件备份
-
-* ** ** [备注](https://restic.net/)** - 安全文件备份/[GitHub](https://github.com/restic/restic)
-** ** [科皮亚] (https://kopia.io/)** - 加密文件备份 / [GitHub] (https://github.com/kopia/kopia/)
-* ****[Rescuezilla](https://rescuezilla.com/)** [GitHub](https://github.com/rescuezilla/rescuezilla)或[CloneZilla](https://clonezilla.org/) - 磁盘图像备份
-* [FolderClone](https://www.fallerclone.com/)或[Echosync](https://www.luminescence-software.org/en/echosync/about/) - Clone文件夹/备份
-* [备份PC] (https://packuppc.github.io/packupc/) - 网络化文件备份
-* [特拉科皮] (https://www.codesection.com/teraopy) - 复制文件快速/更安全
-* [Urbackup](https://www.urbackup.org/) - 客户端/服务器文件备份
-* [重叠](https://duplicity.gitlab.io/) - 文件备份
-* [Duplicati](https://www.dolicatti.com/) - 文件备份
-* AOMEI 备份(https://www.ubackup.com/) - 文件备份
-* [Borg] (https://www.borgbackup.org/) - 去除复制文件备份
-* [USBImager] (https://bztsrc.gitlab.io/usbimager/) - USB 图像备份
-* [Toucan] (https://github.com/PortableApps/Toucan) - 便携式文件备份
-
-*** ***
-
-## *%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%文件回收%%%%%%%%%%%%%%%%%%%%%%%%%%文件回收%%%%%%%%%%%%%%%%%%%%%%%%%%%文件回收%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-* ** [数据检索] (https://igwiki.lyci.de/wiki/Data_recovery)** - 数据检索工具索引
-* ** [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - 档案检索
-* [hotoRec](https://www.cgsecurity.org/wiki/PhotoRec) -- -- 档案检索
-* [DDDE](https://dmde.com/download.html) - 文件回收
-* [窗口文件回收](https://apps.microsoft.com/detail/9n26s50605) - 文件回收
-预防档案腐败/[引 (https://youtu.be/5TsExAsXA)
-* [Shadow Explorer](http://www.shadow explorer.com/)或[ShadowCopyView](https://www.nirsoft.net/utils/shadow_option_view.html/) -- -- 影子影印探索者
-
-*** ***
-
-# # 文件信息/元数据
-
-* ****[图像元数据工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_25B7_photo_forensics_2F_metatadata)**
-* ** ** [Audio元数据工具] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_25B7_audio_metadata)**
-* ** ** [档案信息] (https://fileinfo.com/)**, [Filext] (https://filext.com/) 或[OpenMyFiles] (https://www.openmyfiles.com/) - 文件扩展图书馆
-* *  ** ** [Phockup] (https://github.com/ivandokov/phockup)** - 组织照片/视频
-* [媒体信息](https://mediaInfo.net/en/mediaInfo) -- -- 媒体文件分析/元数据查看器/[在线](https://mediaInfoOnline)
-* [ExtrapMetatadata](https://www.extrapmatatadata.com/),[FilesMD](https://www.filesmd.com/)或[Metatadata2Go](https://www.metadata2go.com/) - 元数据查看器/编辑
-(https://0xacab.org/jvoisin/mat2-web) -- -- 从文件中移除元数据。
-* [属性变更器](https://www.petges.lu/) - 编辑文件 & 文件夹属性
-* [WhatsLink] (https://whatslink.info/) - 查看文件下载网页元数据
-* [Magika](https://github.com/google/magika)或[TridUI](https://github.com/JMcrafter26/TridUI) -- -- 档案类型识别工具
-* [OpenHashTab] (https://github.com/namazso/OpenHashTab) - 比较/显示文件Hashes
-* [Tagspaces](https://www.tagspaces.org/)或[Windows拖 (https://tagging.contapaste.com/) - 标记文件系统
-* [SKTimeStamp] (https://tools.stefankueng.com/SKTimeStamp.html) - 更改创建的文件 / 修改时间
-
-*** ***
-
-□  格式/删除
-
-* ****[Sdelete](https://learn.microsoft.com/ en-us/sysinterns/downloads/sdelete)** - 文件删除 CLI
-* [Eraser](https://eraser.heidi.ie/),[File Shredder](https://fileshredder.org/),[备选文件Shredder](https://www.altherate-tools.com/pages/c_fileshredder.php?lang=ENG),[Permadellete](https://developerstree.github.io/permadlete/)或[Delapp](https://github.com/parain/Delapp) -文件Shreding
-* [部分魔术](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_25BA_软软件_网站)(搜索) - 磁盘分割/数据恢复
-(https://www.ssuiteoffice.com/ software/sitefileshredder.htm) - 带有磁盘燃烧的文件Shredder
-* [低级别格式](https://www.lowlevelformat.info/),[nwipe](https://github.com/martijnvanbrummelen/nwipe) 或[ShredOS](https://github.com/PartialVolume/shredos.x86_64) -- -- 全面硬盘散射器
-* [RED](https://www.jonasjohn.de/red.htm) -- -- 清除空目录
-
-*** ***
-
-□ □ □ 数据自动化
-
-* ****[高级重命名机](https://www.advancedrenamer.com/)**,[PowerRename](https://learn.microsoft.com/ en-us/windows/powertoys/powerrename),[Szyszka](https://github.com/qarmin/szyszka),[F2](https://github.com/ayoisaiah/f2),[Ant Regramer](https://www.antp.be/software/renamer),[浮石重命名机](https://github.com/sun-jiao/fluut-renamer)或[Bulk重命名机](https://www.bulkrenameutitity.co.uk/) -Bulk重命名机。
-* [备选](https://dineshsolanki.github.io/FoliCon/)——自动自定义媒体图标/文件夹/[GitHub](https://github.com/DineshSolanki/FoliCon)
-* [Media Monkey](https://www.mediamonkey.com/) -- -- 媒体组织者
-媒体收集管理员(http://www.tinymediamanager.org/)或[MediaElch](https://www.kvibes.de/medielch/)
-* [易动](https://www.filebot.net/) -- -- 媒体文件重命名
-* [TVRename](https://www.tvrename.com/)或[重新命名我的电视系列](https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/)——电视文件数据自动化
-* [Shoko](https://github.com/sokoanime) - 动画文件数据自动化
-
-*** ***
-
-PDF 工具
-
-* [PDFGrep](https://pdfgrep.org/)或[OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF 文本搜索
-* [PDFESncrypt] (https://pdfencrypt.net/) - PDF 文件加密
-(https://incompetech.com/graphpaper/) - PDF图表
-* [PDF固定机 (https://pdffixer.com/) - 修复损坏的PDF
-* [公开签署](https://github.com/OpenSignLabs/OpenSign)、[签名PDF](https://pdf.24eme.fr/)/[GitHub](https://github.com/24eme/designpdf)、[FalsiScan](https://gitlab.com/edouardklein/falsisign)、[JustsignPDF](https://justignpdf.com/)或[Adobe Sign](https://www.adobe.com/acrobat/online/sign-pdf.html)-PDF签字工具)
-* [谷歌驱动器PDF下载机](https://github.com/zeltox/Google-Drive-PDF-Downloader) - 下载受保护的谷歌驱动器 PDF
-* [PDFCoffee] (https://pdfcoffee.com/) - 上传 PDF、 Word 或 PowerPoint 文件
-* [PriintFriendly](https://www.print友好.com/) - 打印机格式工具
-
-*** ***
-
-在线PDF工具包
-
-* ** ** [本托PDF] (https://bentopdf.com/)** /Web-based /[GitHub] (https://github.com/lam000/bentopdf)
-* [塞达](https://www.sejda.com/)
-* [IlovePDF](https://www.ilovepdf.com/)
-(https://breezepdf.com/)
-* [DIGPDF](https://digipdf.ap/?lang=en_US)
-* [PDF2Go](https://www.pdf2go.com/)
-* [PDFClear](https://www.pdfclear.com/)
-* [SproppDF](https://spemplepdf.com/)
-* [DPDF](https://dpdf.com/)
-* [数字标 (https://www.digiparser.com/free-tools/pdf)
-
-*** ***
-
-o# 离线PDF工具包
-
-* ****[Stirling-PDF](https://www.stirlingpdf.com/)**/Windows、Mac、Linux/注册需要/[GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
-****[PDF24](https://www.pdf24.org/)**/Web-based/Windows
-* [PDF4QT](https://jakubmelka.github.io/)/Windows,Linux/[GitHub](https://github.com/JakubMelka/PDF4QT)
-* [福克斯特](http://www.foxit.com/pdf-reader/)/Web-Based/Windows,Linux,Android,iOS/[地 (https://www.reddit.com/r/FREEMEDIAHECKYEA/wiki/download#wiki_25BA_software_sites)(搜索)/[警告](https://github.com/fmhy/FMHY/wiki/FMHY%E2.80%/90Notes.md#fosit-ward)
-* [xPDFReader](https://www.xpdfreader.com/)/Windows、Mac、Linux
-/ Windows, Linux (https://github.com/pdfarranger/pdfarranger) / Windows, Linux (https://github.com/pdfarranger/pdfaranger) / Windows, Linux / [PDF Aranger] (https://github.com/pdfarranger/pdfarger) / Windows, Linux / 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗, 视窗
-
-*** ***
-
-# PDF 转换工具
-
-* [Rare2PDF] (https://rare2pdf.com/), [在线2pdf] (https://online2pdf.com/) 或[2PDF Converter] (https://www.2pdfconververder.com/) - 文件转换为 PDF
-(https://github.com/BDenizKoca/Tideflow-md-to-pdf) 或[MD2PDF] (https://md2pdf.netlify.ap/) - 标记到 PDF 转换器
-* [PDFconvert] (https://docupubu.com/pdfconvert/) - PDF 文件转换器
-* [Marker](https://github.com/VikParuchuri/marker) - PDF 到 Markdown
-* [PDFCrowd] (https://pdfcrowd.com/),[TailWindPDF] (https://tailwindpdf.com/) 或[wkhtmltopdf] (https://wkhtmltopdf.org/) - HTML 到 PDF / 图像转换器
-* [Issuu](https://issuu.com/) - 将PDF文件转换成网页、页本、小册子和更多/[下载机](https://docdownloader.com/)
-* [WebToPDF] (https://webtopdf.com/) 或[Percollate] (https://github.com/danburzo/percollate) - PDF转换器网页
-* [危险区](https://dangerzone.rocks/) -- -- 将恶意PDF转换为安全文件/[GitHub](https://github.com/freedomofpress/dangerzone)
-
-*** ***
-
-# 档案传输 #
-
-* ** [LocalSend] (https://localsend.org/)** - 桌面/移动传输 /[Discord] (https://discord.com/invite/GSRWmQNP87) /[Subreddit] (https://www.reddit.com/r/localsend/) /[GitHub] (https://github.com/locsend/localsend)
-** ** ** [翻页] (https://blip.net/)** - 桌面/移动传输
-* [Photon](https://photondev.netlify.ap/) - 桌面/移动传输/[GitHub](https://github.com/abhi16180/photon)
-* [KDE连接] (https://kdeconnect.kde.org/) - 桌面/移动传输
-* [Wormshole] (https://osthole.ap/) - 桌面/移动传输 /[Discord] (https://discord.com/invite/de6FscsK5Z) /[GitHub] (https://github.com/SocketDev)
-* [引 (https://github.com/linuxmint/warpinator) - 桌面/移动传输
-——桌面/移动文件传输
-* [Sefirah](https://github.com/shrimqy/Sefirah) -- -- 桌面/移动传输
-* [QRServ](https://play.google.com/store/apps/ details?id=dev.int.qrserv) -- -- 桌面/移动传输/[GitHub](https://github.com/intdev/qrserv)
-* [巨虫洞](https://github.com/magic-虫洞/magic-虫洞) -- -- 桌面/移动传输
-* [croc](https://github.com/schollz/croc) -- -- 桌面/移动传输/[GUI](https://github.com/howeyc/crocgui)
-* [Landrop](https://landrop.ap/) - 桌面/移动传输
-* [单鱼](https://clip.fish/) - 桌面/移动传输
-* [IPFS](https://ipfs.tech/) - 桌面/移动传输
-* 森林小组工具——[资源](https://awesome.ipfs.tech/),[2](https://github.com/ipfs/awesome-ipfs)/[扩展](https://github.com/ipfs/ipfs-companion)/[Desktop](https://github.com/ipfs/ipfs-desktop)/[IPFS群组](https://ipfs群集.io/)
-* [aQRoss](https://aqross.ap/)或[qrcp](https://qrcp.sh/)/[GitHub](https://github.com/claudiodangelis/qrcp)——使用 QR 代码共享文件
-* [Onionshare] (https://onionshare.org/) - 共享 Tor 网络文件
-* [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP客户端/[警告](https://github.com/fmhy/FMHY/wiki/FMHY%E2% 80% 90 Notes.md#filezilla)
-* [WinSCP](https://winscp.net/eng/index.php) - FTP客户端
-* [roboopcops](https://learn.microsoft.com/en-us/windows-server/Agency/windows-commants/robocops) - Windows In文件传输指南
-
-*** ***
-
-□ P2P 转让
-
-* ** [派尔德罗普] (https://pairdrop.net/) ** /[GitHub] (https://github.com/schlagmichdoch/pairdrop)
-* ** [Just beamit] (https://justbeamit.com/)**
-****[空间裁 (https://spacedrop.app/)**
-* [Surge] (https://getsurge.io/) - P2P App / [GitHub] (https://github.com/rule110-io/surge)
-* [ToffeeShare](https://toffeeshare.com/)/[GitHub](https://github.com/ToffeeShare)
-* [新的.space](https://new.space/)
-* [菲尔皮萨](https://files.pizza/)/[GitHub](https://github.com/kern/filespizza)
-* [WebWormhole](https://web虫洞.io/)/[GitHub](https://github.com/saljam/web虫洞)
-
-*** ***
-
-文件主机
-
-* ** Note** - 牢记将个人或机密文件上传到任何文件主机,即使它们声称是加密的,** 绝非好主意。大多数文件主机只有在不活动后才能删除文件,而有些文件主机可以删除,不管如何。如果你担心文件过期,请检查每个主机。标记是: 全部存储(x日 w/ acc) / 最大文件大小/ 文件过期(x日 w/ acc) / 签名要求。
-
-*** ***
-
-** ** [PollyUpload文件主机索引](https://github.com/spel987/polyUploader?tab=readme-ov-files#-hosts)**
-* ** [视频文件主机](http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/视频工具#wiki_25B7_视频文件主机)**
-* ** [图像文件主机](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_25B7_image_hosts)**
-* ** **[Gofile](https://gofile.io/)** - 100GB月度/无限制/10天后最后一次下载/[Manager Export](https://grasifork.org/en/scripts/515250)
-* ****[像 **(https://pixeldrain.com/)** - 20GB / 120天后最后一次下载(10%分钟) / [Speedtest] (https://pixeldrain.com/spethtest)
-* ** ** [ VikingFile] (https://vikingfile.com/)** - 无限 / 15天后最后一次下载 / [Discord] (https://discord.gg/EPEFC6KkpF)
-* ******[Buzzheavier](https://buzzheavier.com/)**,[2](https://fuckisfast.net/),[3](https://bzzhr.co/) - 无限/15天后最后下载/[File Expiry](https://buzzheavier.com/help) /** 使用[Adblock](https://github.com/fmhy/FMHY/wiki/FMHY%E2.80%/90 Notes.mdbuzheavier-ward)** /[Discord.gg/ttQgC28WP]
-* ****(https://rootz.so/)** - 25GB / 15天后最后一次下载/后台用户无限制 / [Discord] (https://discord.com/invite/rtz)
-** ** [专箱] (https://catbox.moe/)** - 200MB / 永远 / [Proxy] (https://fatbox.moe/)
-** **[小案例](https://pillows.su/)** - 音频文件主机 / 200MB (500MB w/concern) / 永远
-/[CLI] (https://github.com/kirmola/zerofs-cli) /[Discord] (https://discord.gg/PJWsgUt7XM)
-* [视频](https://filemirage.com/) - 50GB / 30天后最后视图
-* [发送.now] (https://send.now/) - 100GB / 15天后最后一次下载
-* [转让.it](https://transfer.it/)/无限制/90天/Mega.nz 拥有。
-* [DesiUpload] (https://desiupload.co/) - 15天(每个文件2GB / 30天 w/ count)
-* [投](https://www.udrop.com/) - 5GB/50GB 注册/永远
-* [混合裁 (https://mixdrop.ag/) - 无限 / 60 天 / 签名要求
-* [拉诺兹](https://ranoz.gg/) - 20GB / 30天后最后下载
-* [1fichier.com](https://1fichier.com/) - 300GB / 15天(30天/账户)
-* [Filebin] (https://filebin.net/) - 无限制 / 6 天 / [警告] (https://github.com/fmhy/FMHY/wiki/FMHY%E2% 80% 90 Notes.md#filebin-ward)
-* [file.kiwi] (https://file.kiwi/) - 无限/90小时/[File Expiry] (https://file.kiwi/en/price)
-(https://siaupload.io/) - 100GB / 30天
-- 无限 / 5GB / 签名要求
-======================================================================================================================================================= ===================================================================================== ===================================================================================================================================================================================================================================================
-* [Uploadhive] (https://uploadhive.com/) - 无限 / 上次下载后50天 / 使用 Adblock
-* [消防](https://www.fireload.com/) -无限制 / 60天 / 签名要求
-* [FEX.NET](https://fex.net/) - 100GB / 7天
-(https://dropmefiles.com/) - 50GB / 14天
-* (https://mixloads.to/) - 25.6GB / 2TB / 60天后最后一次下载/ 签名需要
-* [GigaFile](https://gigafile.nu/) - 300GB / 100天
-(https://uploadnow.io/) - 100GB / 7天后最后一次下载
-* [电子磁 (https://www.edisk.cz/) - 20GB / 30天
-* [裁剪下载](https://drop. download/) - 25GB / 90天 / 签名要求
-* [瑞士传送](https://www.swissstransfer.com/) - 50GB / 30天 / 250次下载
-10GB 120天(https://www.filecad.com/) - 10GB / 120天
-* [Dfiles] (https://dfiles.com/) - 10GB / 90天
-* [BowFile](https://bowfile.com/) - 20GB / 20天
-10GB / 60 天
-* [Gulfup](https://www.gulf-up.com/) - 10GB/30天/签名要求
-* [Hexupload](https://hexload.com/)或[Anntransfer](https://anontransfer.com/) - 15GB / 30天
-* [Temmpcloud](https://temp.kotol.cloud/) - 10GB / 3 天
-* [GrosFichiers](https://www.grosfichiers.com/)或[DataTransfer](https://www.datatransfer.com/) - 10GB/14天
-* [简 (https://filefa.st/),[2] (https://gofile.to/) - 5GB/无限制
-* [Akira 插件](https://akirabox.com/),[2](https://akirabox.to/) - 20GB免费/30天后最后一次下载/签名/需要
-6GB / 21天 / 50 下载
-* [imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30天后最后下载
-5GB /永远
-5GB /永远
-* [imgur.gg] (https://imgur.gg/) - 5GB / 永远 / 签名要求
-* [档案插件](https://fileport.io/) - 5GB / 7天
-* [档案](https://fileditch.com/)或[SendGB](https://www.sendgb.com/) - 5GB/90天
-(https://megaup.net/) - 5GB / 60 天
-* [#DataVaults] (https://datavaults.co/) - 5GB / 15GB / 7天后最后一次下载/ 签名需要
-* [Bestfile](https://bestfile.io/) - 5GB /80天后最后下载
-* [ufile.io](https://ufile.io/) - 5GB / 30天
-* [Internxt send](https://send.internxt.com/) - 5GB / 15天
-* [用户驱动](https://ussdrive.com/) - 5GB / 65 天
-5GB / 7天/电子邮件 需要
-* [Temp.sh](https://temp.sh/) - 4GB / 3 天
-3GB / 183GB / 150天后下载
-* [发送](https://send.vis.ee/) - 2.5GB / 3 天 / 10个下载 / [CIL] (https://github.com/timvise/ffsend) / [Instances] (https://gitlab.com/timvisee/send-instances)
-* [JUMBOmail] (https://www.jumbomail.me/) - 2GB / 7天/ 电子邮件需要
-* [传送](https://www.transferSIze].com/) - 50GB / 7天
-* [Kraken Files] (https://krakenfiles.com/) - 1GB / 签名时 3 个月
-512MB / 5年。
-* [FileGo](https://filego.ap/) - 2GB / 30 天 / 签名要求
-* [Lufi](https://upload.disroot.org/) - 2GB / 30天
-* [FilesPayouts] (https://filespatouts.com/) - 10GB / 永远/ 签名需要
-* [DooDrive] (https://doodrive.com/) - 2GB / 30 天 / 签名要求
-* [点击加 (https://clicknupload. click) - 10GB / 8 天 / 签名要求
-* [Smash](https://fromsmash.com/) - 2GB / 7天/ 电子邮件需要
-(https://discord.gg/2yUEQPxTU) 或[Mirored.to] (https://www.mirrored.to/) - 多个主机上传者
-(https://polyuploader.vercel.ap/)/[GitHub](https://gitHub.com/spel987/polyUploader)或[Z-o-o-m](https://z-o-o-o-m.eu/) - 多主上传桌面应用程序
-* [文件Q] (https://fileq.net/) 或[数据标记] (https://datanodes.to/) /[Discord] (https://discord.gg/mKyBMyeKvh) - 网站技术主管仅文件主机
-* [有限上传主 (https://rentry.org/xc48kg) - 更多主机 / 1GB 或以下
-
-*** ***
-
-∮ 云存 ∮ 云存 ∮
-
-* ** 注** - 免费计划存储/免费计划账户不活动删除/每个肺结核每月价格(年计划)。
-
-*** ***
-
-* ****[爱伦堡比较](https://elenburg.github.io/cloud_comparisson.htm)** 或[ComparissonTabl.es](https://comparisontabl.es/cloud-storage/)——比较云储场
-** ** [谷歌驱动 (https://drive.google.com/)** - 15GB Free / 2 年
-* **[大 (https://mega.io/)** - 20GB自由 / 3个月 / ~ 10美元 3TB / [GitHub] (https://github.com/meganz)
-5GB free / 2 年 / ~ 2 个
-* [filen] (https://fillen.io/) - 10GB Free / 3个月 / 3个月 /~ $8 用于 1TB / 签名- 需要共享
-* [花样框 (https://www.dropbox.com/) - 1 或 2GB free / 12 个月 / ~ $ 5 / 1TB / [观众] (https://github.com/SamSchott/maestral)
-10GB Free / 8 个月 / 5 美元 1TB
-10GB Free / 3 个月 / 5 美元 1TB
-* [掌声](https://www.pcloud.com/) - 10GB免费/1年/~4美元
-* [FEB](https://www.febbox.com/) - 1TB 免费 / 1个月 /~ $4 用于 2TB
-* [关键](https://keybase.io/) - 250GB / 永远/[GitHub](https://github.com/keybase/client)
-* [质子驱动 (https://proton.me/drive) - 5GB free / 1 year /~ $10 / 1TB / [注] (https://proton.me/support/ more-free-storage- alive-users)
-* [Jumpshare](https://jumpshare.com/) - 2GB 自由 / 1年 / 8.25 美元 1TB
-* [FileLu](https://filelu.com/) - 10GB / forever / ** [Exdiri 警告] (https://github.com/fmhy/FMHY/wiki/FMHY%E2% 80% 90 Notes.md#filelu-ward)**
-* [单 10GB Free *(https://cyberfile.me/) - 10GB Free
-* [ MrOwl] (https://www.mrowl.com/) - 10GB Free /~16美元 1TB
-* [滚 (https://www.blomp.com/) - 40GB Free / 1 个月 /~ $3 2TB
-10GB Free 10GB 1TB $ ~ 6
-* [Cloudflare R2] (https://www.cloudflare.com/ developmenter-platform/ products/r2/) - 10GB 免费 /~ 15.5美元/每1TB
-* [1 Cloud 文件] (https://1cloudfile.com/) - 10GB Free
-* [Fix-OneDrive-Zip] (https://github.com/pmqs/Fix-OneDrive-Zip) - 固定 oneDrive Zip 文件 > 4GB
-
-*** ***
-
-□ 云管理者 □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者 □ □ □ 云管理者
-
-** **[克隆](https://rclone.org/)** - 云层存储管理器
-* ∗ ** 克隆工具** - [指南](https://rentry.co/simple-rclone-usage)/[GUI](https://github.com/liriri/rem)/[Colab](https://colab.research.google.com/github/szyha/RclooneLabArgive/bob/master/RclooneLab.ipynb)/[转让工具](https://github.com/TheCaduce/Multi-Cloud-Transfer-Tool)/[电信](https://t.me/rclonexbot)
-** **[单 (https://github.com/dogbutcat/gcloone)** - 云存储管理器
-** **[航空探险家](https://air explorer.net/en/)** - 云存经理
-* ** [雷达机 (https://www.raidrive.com/)** - 云存经理
-* ****[赛伯杜克](https://cyberduck.io/)** - Libre服务器/云存浏览器/[GitHub](https://github.com/iterate-ch/cyberduck)
-* [SpaceDrive](https://www.spacedrive.com/)——云存储经理
-* [开放列表](https://github.com/OpenListTeam/OpenList) - 云存储经理
-* [哑 (https://www.multcloud.com/) - 云存经理
-* [xipop](https://xipop.io) - 远程文件管理员
-* [卷宗](https://www.filstash.ap/) - 文件管理员/[GitHub](https://github.com/mickael-kerjean/filestash)
-
-*** ***
-
-□ 谷歌驱动工具
-
-* **** [单闪存] (https://colab.research.google.com/github/bplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - 谷歌驱动工具 /[属性] (https://github.com/fmhy/FMHY/wiki/FMHY%E2% 80% 90 Notes.md#one point-note) / 使用丢弃的谷歌账户
-* (DriveUploader) (https://driveuploader.com/) - 通过 Google 驱动接收文件
-* [ZIP 提取机](https://zipextractor.ap/) -- -- 谷歌驱动器/Gmail File 存档器
-* [谷歌驱动 CLI] (https://github.com/glotlabs/gdrive) - 谷歌驱动 CLI客户端
-* [goodls] (https://github.com/tanaikech/goodls) - 谷歌驱动下载器
-* [gdrivedl] (https://github.com/matthuisman/gdrivedl) - 谷歌驱动器 Python 下载脚本
-* [ISAC](https://rentry.co/FMHYB64#gservice-gen)——谷歌服务账户生成器
-* [Goindex-extend](https://github.com/menukaonline/goindex-extend)/[主 /[主 /[主 /[主 /(https://adved.kenci.works.dev/] 或[Google-Drive-Index] (https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - 谷歌驱动索引器
-* [gdurl](https://gdurl.com/),[GDrive 链接生成器](https://www.wonderplugin.com/online-tools/goagle-drive-direct-link-generator/),[Direct.GDrive](https://direct.gdrive.vip/en/),[Maulvi](https://maulvi.github.io/)或[GDriveWebApppublish](https://github.com/Cloudflare-Hackers/GDriveWebApppublic) - GDrive链接生成器/主链接器
-(https://jsmsj.github.io/GdriveCloneBot/) - 复制谷歌驱动器/[GitHub](https://github.com/jsmsj/GdriveCloneBot)
-* [GD-EFC链接加密机](https://rekuous.github.io/gd-efc-encryptor/)——GD-EFC谷歌驱动器链接加密机
-* [DriveRename] (https://driverename.iblogbox.com/) - 散装谷歌驱动器文件重命名
-* [Sharer](https://sharr.pw),[Yushare](https://yusharre.my.id)或[GDToT](https://new10.gdtot.dad)——谷歌驱动器文件共享
-
-*** ***
-
-□ MEGA 工具
-
-* ** ** [Megabastard] (https://github.com/tonikeloppe/megabasterd)** - 下载配额通道/[注] (https://github.com/fmhy/FMHY/wiki/FMHY%E2% 80% 90 Notes.md#megabasterd-note)
-* ****[超级账户生成器](https://rentry.co/FMHYB64#mega-gen)** - 账户 Gen/无限制上传大小/[Fix](https://rentry.co/mega_count_generator)
-* [MEGA桌面](https://mega.io/desktop) - 正式图形用户界面 App / [GitHub] (https://github.com/meganz/MEGasync)
-* [MEGA CMD](https://mega.io/cmd) -- -- 正式的CLI App/[GitHub](https://github.com/meganz/MEGAcmd)
+***
+***
+保护的
+***
+***
+
+# 文件工具
+
+* ️ **[File Scanners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_file_scanners)**
+* ⭐ **[czkawka](https://github.com/qarmin/czkawka)**或 [dupeGuru](https://dupeguru.voltaicideas.net/) - 复制文件查找器
+* 文件解锁器/删除器
+* 添加浏览器缩影到任何视频格式
+* 保护_7__ - 可移植文件服务器
+* 保护_8__或_保护_9__ / 保护_10__ - HTTP文件系统
+* 保护_11__ - Btrfs文件系统
+* 保护_12__ - 联盟文件系统
+* 错误文件示例
+
+***
+
+## ▷ 下载管理员
+
+* ** 注 - 查看下载管理器的好处的更多信息.
+
+***
+
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - 下载管理器 / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#jdownloader)**
+* ⭐ **JDownloader工具** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
+* ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - 下载管理器 / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
+* ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (搜索) - 下载管理器 / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
+* 保护_30__ - 下载管理器 / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
+* 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航:
+* 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航: 导航:
+* 保护_39__或保护_40__ - 终端下载管理器 / 保护_41__ / 保护_42__, 保护_43__ / 保护_44__
+* 保护_45__ - 轻量级下载管理器 / [GitHub](https://github.com/pyload/pyload)
+* 保护_47__ - 多站点媒体下载工具
+* 导航: 导航: 导航:
+* 导航: 导航:
+* 保护_50__ - 上传 / 下载管理器
+* 导航服务:
+* 文件的编辑:http/FTP/SFTP协议下载管理器
+
+***
+
+## ▷ 存档/压缩
+
+*  **[SuperCompression](https://supercompression.org/)** - 文件压缩资源
+* ⭐ **[NanaZip](https://github.com/M2Team/NanaZip)**或 **[7-Zip](https://www.7-zip.org/)** - 文件档案
+* ⭐ **[PeaZip](https://peazip.github.io/)** - 跨平台文件档案馆 / [GitHub](https://github.com/peazip/PeaZip/)
+* ⭐ **[CompactGUI](https://github.com/IridiumIO/CompactGUI)** - 透明压缩
+* 保护_60__或_保护_61__ - 数据压缩论坛
+* 压缩指标
+* 文件档案存档 / 优化器
+* 保护_65__ - 网上 Zip 文件
+* 保护_66__ - 解锁在线文件
+* 保护_67__ - 无限文件在线
+* 文件档案 / 保护_70__, 保护_71__ / 保护_72__
+* 执行文件压缩机 / [GitHub](https://github.com/upx/upx)
+
+***
+
+## ▷ 文件转换器
+
+* ⭐ **[File Converter](https://file-converter.io/)** - 转换/压缩文件 / [GitHub](https://github.com/Tichau/FileConverter)
+* ⭐ **[VERT](https://vert.sh/)** / [Discord](https://discord.gg/8XXZ7TFFrK) / [GitHub](https://github.com/VERT-sh/VERT)
+* ⭐ **[Aconvert](https://www.aconvert.com/)** - 各种转换器 / 40MB
+* 文件转换器:
+* 网络CSV数据转换
+* 保护_85__ - 网上文件编码转换器
+* 文件的解码和转换
+* 保护_88__ - 在线转换NFO文件到图像转换器
+* 文件转换器 / 文件转换器
+* 文件转换器 / 500MB
+* 文件转换器
+* 文件转换器 / 400MB
+* 保护_94__ - 无限 / 清晰的Cookies
+* 文件转换器 / 250MB
+* 文件转换器 / 100MB
+* 文件转换器 / 100MB
+* 文件转换器 / 75MB
+
+***
+
+## ▷ 文件管理器
+
+* ⭐ **[Directory Opus](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)** (搜索) - Windows文件管理器
+* 保护_100__ / 保护_101__或 保护_102__ - 跨平台文件管理器
+* 保护_103__ - 现代文件管理器
+* 基于列的文件管理器
+* 终端文件管理器 / [GitHub](https://github.com/sxyazi/yazi)
+* 文件管理器
+* 文件管理器
+* 文件管理器
+* 您可以使用PROTECTED_111__ - 可定制文件管理器 / 使用经典安装器 / [Discord](https://discord.gg/files)
+* 简单的Windows文件管理器
+* 文件 / 档案管理器
+* 保护_115__ - 分享软件文件管理器
+* 保护_116__或_保护_117__ - 标签文件管理器
+* 基于Vim的文件管理器
+* 终端文件管理器 / [superfile](https://superfile.netlify.app/)
+* 保护_121__ - 自主托管的网络文件管理器
+
+***
+
+## ▷ 文件搜索
+
+* ⭐ **[Everything](https://voidtools.com/)** - 文件搜索引擎 / [Alpha](https://www.voidtools.com/everything-1.5a/)
+* 保护_128__ - 跨平台搜索引擎
+* 保护_129__,保护_130__或保护_131__ - Windows搜索引擎
+* 保护_132__,保护_133__或保护_134__ - Windows GUI 接收工具
+* 像SQL一样的搜索引擎
+* 保护_136__ - 用户友好的"找到"替代方案
+* 简单的增量搜索工具
+
+***
+
+## ▷ 文件加密
+
+* ⭐ **[Cryptomator](https://cryptomator.org/)** / [GitHub](https://github.com/cryptomator/cryptomator)或 [Tahoe-LAFS](https://tahoe-lafs.org/trac/tahoe-lafs) / [GitHub](https://github.com/tahoe-lafs/tahoe-lafs) - 云文件加密
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - 磁盘加密器
+* 文件加密器
+* 文件加密器 / Rclone GUI
+* 文件密码器
+* 文件加密器
+
+***
+
+## ▷ 文件同步
+
+* ⭐ **[SyncThing](https://syncthing.net/)** - 跨平台文件同步 / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
+* ⭐ **[FreeFileSync](https://freefilesync.org/)** - 开源文件同步
+* 电话和桌面同步
+* 文件同步工具
+* 保护_154__ - P2P文件同步
+* 通过FTP文件同步
+* 命令行文件同步 / 保护_157__
+* 两个方向文件同步
+
+***
+
+## ▷ 备份文件
+
+* ⭐ **[restic](https://restic.net/)** - 安全备份文件 / [GitHub](https://github.com/restic/restic)
+* ⭐ **[Kopia](https://kopia.io/)** - 加密文件备份 / [GitHub](https://github.com/kopia/kopia/)
+* ⭐ **[Rescuezilla](https://rescuezilla.com/)** / [GitHub](https://github.com/rescuezilla/rescuezilla)或 [CloneZilla](https://clonezilla.org/) - 磁盘图像备份
+* 文件克隆 / 备份
+* 网络文件备份
+* 快速复制文件 / 更安全
+* 保护_170__ - 客户端/服务器文件备份
+* 保护_171__ - 备份文件
+* 保护_172__ - 备份文件
+* 保护_173__ - 备份文件
+* 保护_174__ - 删除复制文件备份
+* 保护_175__ -  USB 备份图像
+* 保护_176__ - 可移植文件备份
+
+***
+
+## ▷ 文件恢复
+
+*  **[Data Recovery](https://igwiki.lyci.de/wiki/Data_recovery)** - 数据恢复工具指数
+* ⭐ **[TestDisk](https://www.cgsecurity.org/wiki/TestDisk)** - 文件恢复
+* 保护_179__ - 文件恢复
+* 保护_180__ - 文件恢复
+* 保护_181__ - 文件恢复
+* 保护文件的腐败
+* 保护的_184__或保护的_185__ - 影子复制探险器
+
+***
+
+## ▷ 文件信息 / 转载数据
+
+* ️ **[Image Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
+* ️ **[Audio Metadata Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_audio_metadata)**
+* ⭐ **[Fileinfo](https://fileinfo.com/)**, [Filext](https://filext.com/)或 [OpenMyFiles](https://www.openmyfiles.com/) - 文件扩展库
+* ⭐ **[Phockup](https://github.com/ivandokov/phockup)** - 按照 EXIF 日期组织照片/视频
+* 保护_192__ - 媒体文件分析 / 转数据查看器 / 保护_193__
+* 保护_194__,保护_195__或保护_196__ - 转载数据观看者/编辑
+* 删除文件中的元数据
+* 编辑文件和文件属性
+* 查看文件下载网页元数据
+* 文件类型检测工具
+* 保护_205__ - 进行比较/显示文件 Hash
+* 基于标签的文件系统
+* 修改文件的时间
+
+***
+
+## ▷ 格式化/删除
+
+* ⭐ **[SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete)** - 文件删除CLI
+* 保护_210__,保护_211__,保护_212__,保护_213__或保护_214__ - 文件碎片
+* 搜索: 磁盘分区 / 数据恢复
+* 文件碎片器与磁盘烧
+* 保护_217__,保护_218__或保护_219__ - 完整硬盘驱动器
+* 删除空目录
+
+***
+
+## 信息自动化
+
+* ⭐ **[Advanced Renamer](https://www.advancedrenamer.com/)**, [PowerRename](https://learn.microsoft.com/en-us/windows/powertoys/powerrename), [Szyszka](https://github.com/qarmin/szyszka), [F2](https://github.com/ayoisaiah/f2), [Ant Renamer](https://www.antp.be/software/renamer), [Flut Renamer](https://github.com/sun-jiao/flut-renamer)或 [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) - 大量更名
+* 专用媒体图标 / 文件 / 专用媒体图标
+* 媒体组织者
+* 保护_231__或_保护_232__ - 媒体收集管理人员
+* 保护_233__ - 媒体文件的名称更改
+* 电视文件数据自动化
+* 动漫文件数据自动化
+
+***
+
+#  PDF 工具
+
+* 保护_237__或保护_238__ - PDF 文字搜索
+* 保护_239__ - PDF文件加密
+* 保护_240__ - 文件图
+* 修复损坏的PDF文件
+* 保护_242__,保护_243__ / 保护_244__,保护_245__,保护_246__或保护_247__ - PDF签字工具
+* 保护_248__ - 下载保护的谷歌驱动器PDF文件
+* 文件的内容:
+* 保护_250__ - 打印机格式化工具
+
+***
+
+## ▷ 在线PDF工具包
+
+* ⭐ **[BentoPDF](https://bentopdf.com/)** / 基于网络的 / [GitHub](https://github.com/alam00000/bentopdf)
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+
+***
+
+## ▷ 无线PDF工具包
+
+* ⭐ **[Stirling-PDF](https://www.stirlingpdf.com/)** / Windows,Mac,Linux / 登记要求 / [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+* ⭐ **[PDF24](https://www.pdf24.org/)** / 基于网络的 / 窗户
+* 系统的安全性
+* 基于Web的 / Windows,Linux,Android,iOS / 保护的_268__ (搜索) / 保护的_269__
+* 系统的安全性
+* 系统的安全性
+
+***
+
+## ▷ 转换工具
+
+* 文件转换为PDF
+* 转换文件的标记
+* 保护_277__ - 文件转换器
+* 保护的_278__ - PDF到标记
+* 保护_279__,保护_280__或保护_281__ - HTML转换为PDF/图像转换器
+* 转换PDF文件为网页,翻页,小册子等
+* 保护_284__或_保护_285__ - 网页转换为PDF转换器
+* 保护_286__ - 将恶意PDF转换为安全文件
+
+***
+
+#  文件转移
+
+* ⭐ **[LocalSend](https://localsend.org/)** - 桌面 / 手机转移 / [Discord](https://discord.com/invite/GSRWmQNP87) / [Subreddit](https://www.reddit.com/r/localsend/) / [GitHub](https://github.com/localsend/localsend)
+* ⭐ **[Blip](https://blip.net/)** - 桌面/移动转移
+* 电脑设备的移动移动移动
+* 电脑移动移动
+* 电脑设备的移动移动传输
+* 电脑/电脑移动传输
+* 电脑/机器文件传输
+* 电脑/电脑移动传输
+* 电脑设备的移动移动移动
+* 电脑移动移动
+* 电脑设备的移动移动移动
+* 电脑移动移动
+* 电脑移动移动
+* 电脑移动移动
+* 保护_312__ / 保护_313__ / 保护_314__
+* 通过QR码共享文件
+* 通过Tor网络共享文件
+* 服务器的服务器
+* 通过FTP客户端
+* 保护_322__ - Windows内置文件传输指南
+
+***
+
+## ▷ P2P转移
+
+* ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
+* ⭐ **[JustBeamIt](https://justbeamit.com/)**
+* ⭐ **[SpaceDrop](https://spacedrop.app/)**
+* 保护的应用程序
+* 保护的_329__ / [GitHub](https://github.com/ToffeeShare)
+* 保护的
+* 保护的,保护的,保护的,保护的,保护的
+* 保护的_334__ / 保护的_335__
+
+***
+
+# 文件主机
+
+* ** 注 - 记住,即使说文件是加密的,也许是个不好的想法.大多数文件主机只会在无活动后删除文件,而有些则会不管如何删除它们.如果您担心文件过期,请检查每个主机.标签是:总存储 (x 天 w/ acc) /最大文件大小 /文件过期 (x 天 w/ acc) /注册要求.
+
+***
+
+*  **[PolyUpload File Host Index](https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts)**
+* ️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
+* ️ **[Image File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_image_hosts)**
+* ⭐ **[Gofile](https://gofile.io/)** - 每月100GB / 无限 / 最后下载后10天 / [Manager Export](https://greasyfork.org/en/scripts/515250)
+* ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 20GB / 120 天后最后下载 (10% 分钟) / [Speedtest](https://pixeldrain.com/speedtest)
+* ⭐ **[VikingFile](https://vikingfile.com/)** - 无限 / 最后下载15天后 / [Discord](https://discord.gg/EPEFC6KkpF)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - 无限 / 最后15天下载 / [File Expiry](https://buzzheavier.com/help) / **使用 [Adblock](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15天后最后下载 / 无限后台用户 / [Discord](https://discord.com/invite/rtz)
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / 永远 / [Proxy](https://fatbox.moe/)
+* ⭐ **[Pillowcase](https://pillows.su/)** - 音频文件主机 / 200MB (500MB w/ 账户) / 永远
+* 免费阅读: 免费阅读: 免费阅读:
+* 后期视频:
+* 后续下载时间为100GB / 15天
+* 无限 / 90 天 / 拥有Mega.nz
+* 保护_362__ - 15 天 (每文件2GB/30 天/账户)
+* 您可以在此访问.
+* 免费服务: 免费服务:
+* 后续下载时间为20GB/30天
+* 保护_366__ - 300GB / 15 天 (30 天 w/ 账户)
+* 保护的时间:
+* 保护_369__ - 无限 / 90 小时 / 保护_370__
+* 保护时间:
+* 无限 / 5GB / 需要注册
+* 预测: 预测: 预测: 预测: 预测:
+* 免费版权所有_PROTECTED_374__ - 无限 / 最后一次下载后50天 / 使用广告区块
+* 免费服务: 免费服务: 免费服务:
+* 保护时间:
+* 保护时间:
+* 版权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权
+* 保护时间: 300GB/100天
+* 后续7天后的下载
+* 保护时间: 20GB / 30 天
+* 预订时间:
+* 您可以在此访问.
+* 保护时间: 10GB / 120 天
+* 保护_385__ - 10GB / 90 天
+* 保护时间: 20GB / 20天
+* 保护时间: 10GB / 60 天
+* 预订时间:
+* 保护_389__或保护_390__ - 15GB / 30 天
+* 保护时间: 10GB / 3 天
+* 保护_392__或保护_393__ - 10GB / 14 天
+* 保护_394__,保护_395__ - 5GB / 无限
+* 免费20GB / 最后30天下载 / 登录要求
+* 您可以在此访问.
+* 后续5GB / 30天下载
+* 保护的_400__ - 5GB / 永远
+* 保护的 - 5GB / 永远
+* 您需要注册,请注册.
+* 保护时间: 5GB / 7 天
+* 保护_404__或保护_405__ - 5GB / 90 天
+* 保护时间: 5GB / 60 天
+* 版权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权所有权
+* 后续下载时间为5GB/80天
+* 保护时间: 5GB / 30 天
+* 保护_410__ - 5GB / 15 天
+* 保护时间: 5GB / 65 天
+* 保护_412__或保护_413__ - 5GB / 7 天 / 需要电子邮件
+* 保护的时间: 4GB / 3 天
+* 后续3GB / 183GB / 150天下载
+* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
+* 需要电子邮件
+* 保护_420__ - 50GB / 7 天
+* 报名后的1GB/3个月
+* 保护的_422__ - 512MB / 5年
+* 您需要注册,请注册.
+* 保护时间: 2GB / 30 天
+* 您需要注册,请注册.
+* 您需要注册,请注册.
+* 您需要登录.
+* 需要电子邮件
+* 保护_429__ / 保护_430__ / 保护_431__或 _ 保护_432__ - 多个主机上传器
+* 保护_433__ / [GitHub](https://github.com/spel987/PolyUploader)或 [Z-o-o-m](https://z-o-o-m.eu/) - 多主机上传桌面应用程序
+* 保护_436__或_保护_437__ / __保护_438__ - 仅为网页管理员的文件主机
+* 更多主机 / 1GB或以下
+
+***
+
+## ▷ 云存储
+
+* **注** - 免费计划存储 /免费计划账户无活动删除 / AVG每TB的月价 (年度计划).
+
+***
+
+*  **[Eylenburg Comparisons](https://eylenburg.github.io/cloud_comparison.htm)**或 [ComparisonTabl.es](https://comparisontabl.es/cloud-storage/) - 进行云存储站点的比较
+* ⭐ **[Google Drive](https://drive.google.com/)** - 15GB免费 / 2年
+* ⭐ **[mega](https://mega.io/)** - 20GB免费 / 3个月 / ~ 10美元 3TB / [GitHub](https://github.com/meganz)
+* 免费5GB / 2年 / ~ 2美元 1TB
+* 免费10GB / 3个月 / ~ $ 8 费用1TB / 需要注册才能共享
+* 免费 / 12个月 / ~ 5美元 1TB / [Client](https://github.com/SamSchott/maestral)
+* 免费10GB / 8个月 / 5美元 1TB
+* 免费10GB / 3个月 / 5美元 1TB
+* 免费10GB / 1年 / ~ $ 4 1TB
+* 免费1TB / 1个月 / ~$4为2TB
+* 保护的453... - 250GB / 永远 / 保护的454__
+* 免费5GB / 1年 / ~$10为 1TB / [Note](https://proton.me/support/more-free-storage-existing-users)
+* 免费2GB / 1年 / $8.25 1TB
+* 保护的_458__ - 10GB / 永远 / **__保护的_459__**
+* 免费的10GB
+* 免费10GB / ~$16为1TB
+* 免费40GB / 1个月 / ~ 3美元为 2TB
+* 免费10GB / ~$6为1TB
+* 免费10GB / ~$15.5每一TB
+* 免费的10GB
+* 修复OneDrive Zip文件>4GB
+
+***
+
+## ▷ 云管理人员
+
+* ⭐ **[Rclone](https://rclone.org/)** - 云存储管理员
+* ⭐ **Rclone Tools** - 保护_468__ / 保护_469__ / 保护_470__ / 保护_471__ / 保护_472__
+* ⭐ **[gclone](https://github.com/dogbutcat/gclone)** - 云存储管理员
+* ⭐ **[Air Explorer](https://airexplorer.net/en/)** - 云存储管理员
+* ⭐ **[RaiDrive](https://www.raidrive.com/)** - 云存储管理员
+* ⭐ **[Cyberduck](https://cyberduck.io/)** - 免费服务器 /云存储浏览器 / [GitHub](https://github.com/iterate-ch/cyberduck)
+* 云存储管理器
+* 云存储管理器
+* 云存储管理器
+* 保护_481__ - 远程文件管理器
+* 文件管理器 / 保护_483__
+
+***
+
+## ▷ 谷歌驱动工具
+
+* ⭐ **[OneClickRun](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)** - 谷歌驱动工具 / [Features](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#oneclick-note) / 使用抛弃谷歌账户
+* 通过Google Drive接收文件
+* 您的位置: 首页 > 列表 > 列表
+* 您的位置: 首页
+* 您的位置: 首页
+* 浏览器:PROTECTED_490__ - Google驱动器 Python 下载脚本
+* 关键字: 关键字:
+* 您可以在此查看更多信息.
+* 保护_498__或_保护_499__ - GDrive链接生成器 / 主机直接链接
+* 您的位置: 首页 > 列表 > 列表
+* 保护_502__ - 谷歌驱动器链接加密器
+* 保护_503__ - 大量谷歌驱动器文件重命名
+* 保护_504__,保护_505__或保护_506__ - Google驱动器文件共享
+
+***
+
+## ▷ 巨大的工具
+
+* ⭐ **[Megabasterd](https://github.com/tonikelope/megabasterd)** - 下载定额绕行 / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#megabasterd-note)
+* ⭐ **[Mega Account Generators](https://rentry.co/FMHYB64#mega-gen)** - 账户代码 / 无限上传规模 / [Fix](https://rentry.co/mega_account_generator)
+* 官方GUI应用程序
+* 官方CLI应用程序 / 保护_514__

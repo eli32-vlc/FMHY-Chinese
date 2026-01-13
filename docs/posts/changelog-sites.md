@@ -10,20 +10,20 @@ footer: true
 ---
 
 
-< 后发作者 = “ 列” / >
+<Post authors="nbats"/>
 
-** https://changes.fmhy.bid/**
+保护的
 
-包括最近加入的##Month- update 频道和我们差异中的#Month-moddate 频道发生的变化。
+这包括我们Disord中最近添加和每月更新的频道中的变化.
 
-*** ***
+***
 
-** https://fmhy-tracker.pages.dev/**。
+保护的
 
-包括通过观看 GitHub 更改而添加、更新或删除的链接。
+这包括通过查看GitHub查看变更添加,更新或删除的链接.
 
-*** ***
+***
 
-请注意,我们还将一如既往地继续担任每月职位,你还可以加入我们的[Discord](https://redd.it/17f8msf),或观看GitHub本人的[Commits Page](https://github.com/fmhy/edit/commits/main/)。
+请注意,我们还将继续像往常一样发布月刊文章,您可以通过加入我们的 [Discord](https://redd.it/17f8msf)或在GitHub上亲自观看 [Commits Page](https://github.com/fmhy/edit/commits/main/)来跟踪更新.
 
-我们希望你们喜欢他们,如果有任何建议或问题,可以让我们知道。
+我们希望你们喜欢他们,如果有任何建议或问题,请随时告诉我们.

@@ -5,8 +5,8 @@ pageClass: startpage-custom-styling
 ---
 
 
-< 自定义设置>
-导入“. vitepress/ 主题/ 组件/ 启动页面/ Startpage. vue ” 的 startPage
-</标记>
+<script setup>
+import StartPage从 './.vitepress/theme/components/startpage/Startpage.vue'
+</script>
 
-< startPage / >
+<StartPage />

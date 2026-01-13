@@ -1,914 +1,914 @@
-*** ***
-*** ***
-** [返回维基索引](http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)**
-*** ***
-*** ***
+***
+***
+保护的
+***
+***
 
-# 图像编辑
+#  图像编辑
 
-* ** ** [小豆小豆工作表] (https://docs.google.com/spreteshes/d/1-8OKuERR038Uno-Vi9tQRE4FCSfQTPov7nXgiJ3w/)** - 图像创造资源
-* ** [AI 图像生成器] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_25BA_image_sing)**
-* ** [艺术教 (http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_25B7_art_2F_editing)**
-* [作物pola](https://croppola.com/),[autoCropper](https://www.autocropper.io/),[Bulk 图像作物](https://bulkimagecrop.com/)或[Avatar Cropper](https://avatarcropper.com/)——作物工具
-* [imgsli](https://imgsli.com/) - 滑动发电机前和后
-* 流行文化图形生成器(https://pixelframe.design/) - 自定义流行文化图形生成器。
-* [Scribus](https://www.scribus.net/)或[Quarkdown](https://qarkdown.com/)/[GitHub](https://github.com/iamgio/qarkdown) -- -- 页面布局和排版程序
-* [图像.weserv.nl] (https://images.weserv.nl/) - 图像编辑服务器
-* [GradientArt] (https://gra.dient.art/) 或[TailBlend] (https://tailblend.vercel.ap/) - 渐变编辑
-* [坎瓦斯](https://www.nvidia.com/en-us/studio/creative-side-hustle/) -- -- 将简单艺术转化为具有摄影现实性的景观
-* [图像分割机] (https://ruyili.ca/image-splitter/) - 图像分割成瓷砖
-* [PicFont] (https://picfont.com/) - 将文字添加到图像中
+*  **[PuccaNoodles' Sheet](https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/)** - 图像创建资源
+* ️ **[AI Image Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_image_generation)**
+* ️ **[Art Education](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_art_.2F_editing)**
+* 保护_4__,保护_5__,保护_6__或保护_7__ - 剪切工具
+* 之前和后滑动器生成器
+* 专用 Pop Culture 图形生成器
+* 保护_10__或_保护_11__ / __保护_12__ - 页面布局和类型设置程序
+* 保护_13__ - 图像编辑服务器
+* 保护_14__或保护_15__ - 渐进编辑器
+* 简单的艺术变成现实景观
+* 保护图片分成
+* 保护_18__ - 添加文字到图像中
 
-*** ***
+***
 
-####编辑软件
+## ▷ 编辑软件
 
-* ** [Adobe软件] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_25BA_torrent_sites)**
-* ****[机器人编辑](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_25B7_image_tools)**
-* ****[GIMP](https://www.gimp.org/)**/Windows、Mac、Linux/[Photoshop UI](https://github.com/Diolinux/PhotoGIMP)/[Textre Synthesizer](https://github.com/bootchk/resynthesizer)/[Discord](https://discord.gg/kHBNw2B)/[Subreddit](https://www.reddit.com/r/GIMP/)/[GitLab](https://gitlab.gnome.org/GNOME/gimp)
-* ****[图像Magick](https://imagemagick.org/index.php)**/Windows、Mac、Linux、iOS/[Scripts](https://www.fmwconcepts.com/imagemagick/index.php)/[GitHub](https://github.com/imagemagick/imagemaggick)
-(https://rentry.co/FMHYB64#acquity) (https://rentry.co/FMHYB64#acquity)
-* [LazPaint](https://lazpaint.github.io/)/Windows、Mac、Linux/[GitHub](https://github.com/bgrabitmap/lazpaint/)
-(https://photodimon.org/)/Windows/[GitHub](https://github.com/tannerheland/PhotoDemon)
-/ Windows, Mac, Linux (https://github.com/CyberTimon/RapidRAW) / Windows, Mac, Linux (https://github.com/CyberTimon/RapidRAW)
-* [帕int.net](https://www.getpaint.net/index.html)/Windows/[GitHub](https://github.com/paintdotnet)
-* [Gimel Studio](https://gimelstudio.com/)/Windows/[GitHub](https://github.com/GimelSTudio/GimelSTudio)
-* [Hugin](https://hugin.sourceforge.io/) -- -- 全景图像生成器/视窗、Mac、Linux
-* [IOPaint](https://github.com/Sanster/IOPaint) - AI 图像多工具编辑
+* ️ **[Adobe Software](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/#wiki_.25BA_torrent_sites)**
+* ️ **[Android Editors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_tools)**
+* ⭐ **[GIMP](https://www.gimp.org/)** / 窗户,Mac,Linux / [Photoshop UI](https://github.com/Diolinux/PhotoGIMP) / [Texture Synthesizer](https://github.com/bootchk/resynthesizer) / [Discord](https://discord.gg/kHBNw2B) / [Subreddit](https://www.reddit.com/r/GIMP/) / [GitLab](https://gitlab.gnome.org/GNOME/gimp)
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** / 窗户,Mac,Linux,iOS / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
+* 保护_30__ / 窗户,Mac / 保护_31__
+* 保护_32__ / 窗户,Mac,Linux / 保护_33__
+* 保护的_35__
+* 保护_36__ / 窗户,Mac,Linux
+* 保护的_37__ / 窗户 / 保护的_38__
+* 保护的_39__ / 窗户 / 保护的_40__
+* 保护_41__ - 泛光图像生成器 / 窗户,Mac,Linux
+* 保护_42__ - AI图像多工具编辑器
   
-*** ***
-
-□  在线编辑器
-
-* ****[Pixlr](https://pixlr.com/)** - 简单编辑/[Hide Premium](https://grisefork.org/en/scripts/42573737)/[无限制储蓄](https://griseafork.org/en/scripts/460881),[2](https://grisefork.org/en/scripts/490940)
-* ****[Lunapic](https://lunapic.com/)** - 多工具
-* **[摄影影 (https://www.photopea.com/)** - 摄影店Alt
-* [BitMapppery](https://www.igorski.nl/application/bittmappery/) - 摄影店Alt
-* [iPiccy](https://ipiccy.com/) - 摄影店Alt
-* [Stet](https://stet.io/) - 摄影店Alt
-* [polarr](https://photoeditor.polarar.co/) - 多工具
-* [恢复像 (https://www.resizepixel.com/) - 多工具
-* [汤姆的编辑 (https://tomseditor.com/editor/) - 多工具
-* [图片编码](https://www.photo.codes/) - 简单编辑 w/可分享的科拉布编码
-* [Photomate](https://photomate.dev/) - 简单编辑
-* [MINI 照片编辑 (https://mini2-photo-editor.netlifi.app/) - 简单编辑 / [GitHub] (https://github.com/xdadda/mini-photo-editor)
-* [polotno演播室] (https://studio.polotno.com/) - 简单编辑
-* [IlovelImg](https://www.iloveimg.com/photo-editor) - 简单编辑
-* [上 Pix] (https://upperpix.com/) - 简单编辑器
-* [在线照片编辑 (https://www.freeonlinephotoeditor.com/) - 简单编辑
-* [引 (https://www.picverse.com/online-photo-editor) -- -- 简单编辑
-* [网站2jpg] (https://renzheezhilu.github.io/webp2jpg-online/) -- 简单编辑
-* [编辑.photo] (https://edit.photo/) - 简单编辑
-* [红番茄酱](https://redketchup.io/) - 多工具
-* [ffffpill](https://fffpext.co/) - 多工具
-* [马拉](https://mara.photos/) - 多工具
-
-*** ***
-
-## 内容移除器
-
-* ******[目标重写](https://objectremover.com/)**,**[拉马清洁工]**(https://lama-cleaner-docs.vercel.ap/)**,[Inpaint](https://theinpaint.com/),[Cleanup.pictures](https://cleanup.pictures/)或[HAMA](https://www.hama.ap/) -目标除尘器
-** **[BRIA RMBG](https://briaai-bria-rria-rmbg-2-0.hf.space/)** - 背景移除器
-* ****[BG 拜(https://bgbyeb.io/)**,[2](https://fyrean.itch.io/bgbye-backflack-remover),[3](https://bgbye.fylean.com/)——背景移除器/[GitHub](https://github.com/MangoLion/bgbye)
-* [像素](https://www.pixelcut.ai/) -- -- 背景移除器
-* [Ripolas背景移除 (https://ripolas.org/background-remover/) - 背景移除器/非AI
-* [变化BG](https://www.change-bg.org/) -- -- 背景检索器
-* [BGNix](https://www.bgnix.com/) - 背景移除器/[GitHub](https://github.com/ thinkingingjimmy/bg-remove)
-(https://www.adobe.com/表达/fature/image/remove-backround) - 背景移除器
-* [重新移动.bg](https://www.remove.bg/) - 背景移除器/[GIMP插件](https://github.com/manu12121999/RemoveBG-GIMP)
-* [ORMBG](https://huggingface.co/spaces/schirrrmacher/ormbg) -- -- 人优化背景移除器
-* [朗 (https://github.com/danielgatis/rembg) -- -- 自我居住的背景推移器
-(https://sement-anything.com/) - 视觉分割/[GUI](https://github.com/dibrale/samist) /[稳定传播WebUI](https://github.com/continue- revolution/sd-webui-sement-anything) /[Extensions](https://github.com/kevmo314/magic-copy)
-
-*** ***
-
-## 提升/恢复
-
-* ****[Waifu2x](https://github.com/nagadomi/unif)** - 动画图像升级/[WebUI](https://www.waifu2x.net/),[2](https://unlimit.waifu2x.net/),[3](https://waifu2x.pro/)/自封
-* ****[WaifuXL](https://waifuxl.com/)** - 动画图像升级/在线/自住
-* ****[Upscayl](https://upscayl.org/)** - 图像升级/自封/[GitHub](https://github.com/upscayl/upscayl)
-* ****[chainner](https://clancener.ap/)** - 图像升级/自封/[GitHub](https://github.com/chaiNNer-org/chainner)
-** ** [开放模式DB] (https://openmodeldb.info/)** - AI 提升模型数据库
-* [真实-ESRGAN](https://github.com/xinantao/real-ESRGAN) - 图像恢复升降率/[脸部恢复](https://github.com/TencentAR/GPGAN) /在线/自住
-* [图像升尺度.net] (https://image - 升尺度.net/) - 图像升尺度/在线
-* [IMGUPscaler](https://imgupscalr.ai/) - 图像升级/恢复/视频升级/在线
-* [大jpg] (https://biggjpg.com/) - 图像升级/在线
-* [Ilaria_Upscallr](https://huggingface.co/spaces/TheStinger/Ilaria_Upscallr) - 图像升级/在线
-* [Final2x](https://github.com/Tohrusky/Final2x) -- -- 图像升级/自封
-* [无损缩 (https://fmhy.net/gaming#download-games)(搜索) - 图像升级
-* [缩略语](https://imgupscalr.com/) - 图像升级/在线
-* [质量标 (https://github.com/Djdefrag/Q质量标 - 图像升级/视频升级/Denoising/自封
-* [resdet] (https://github.com/0x09/resdet) - 检测升级图像的源解 / 自我定位
-
-*** ***
-
-□  图像效果
-
-* ****(https://moshpro.ap/)**,[glitch2](https://akx.github.io/glitch2]或[GlitchyImaage](https://glitchyimage.com/)——闪烁图像
-照片效果/滤镜(https://imagemaage.github.io/)
-* [Palettum](https://palettum.com/) - 在图像和GIFs中添加自定义调色板 / [GitHub] (https://github.com/arrowpc/palettum)
-* [彩色](https://www.myheritage.com/ incolor) - B&W 图像彩色 / 签名要求
-创世纪生物和W图像 w/ 彩色主题
-* [Photojoiner](https://www.photojoiner.com/) - 协调器
-* [shabzefilters](https://shabzefilters.netlify.app/) - ASCII, Dot, 盲文, 块, 线等
-* [AIDraw](https://ai-draw.tokyo/en/)或[FiniteCurve](https://www.finitecurve.com/)——将照片变成系列艺术。
-* [提 (https://github.com/nuno-faria/tiler) - 摩西图像生成器
-* [Fotsketcher](https://fotosketcher.com/) - 将照片转换成艺术/视窗
-* [米米] (https://mimi-panda.com/) - 将照片转换成彩色书串
-* [文本图像](https://www.text-image.com/) - 文本图像生成器
-* [有秩序的dither-maker](https://seleb.github.io/ordered-dither-maker/),[BDFM](https://bittmap.design familymark.com/),[dtherist](https://github.com/robertkist/ditherist/)或[Didther meth](https://doodad.dev/dither-me-this/) - 图像抖动/Bitmap 发电机
-* [Rutt-Etra-Izer] (https://airtightinteractive.com/demos/js/rutttra/) - 扫描线图像
-* [丹 (https://github.com/uxie-io/tinter) - 女主角编辑
-* [女巨人](https://www.geometrize.co.uk/) - 带有几何形状的重新绘制图像 /[GitHub] (https://github.com/Tw1ddle/geometrize)
-* [促 (https://pbnify.com/) - 数字绘画工具
-* [缔约方化](https://nathanielw.github.io/part-ific/) - 政党化图像
-
-*** ***
-
-□  [Linux 图像编辑 (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_25B7_linux_image)
-
-*** ***
-
-□  [硕士图像编辑 (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_25B7_mac_image)
-
-*** ***
-
-创造图像
-
-*** ***
-
-□  绘画 / 绘画
-
-* ** ** [数字艺术布鲁希 (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - 下载布鲁希斯
-* ****[Krita](https://krita.org/en/)** - 绘画应用/视窗、Mac、Linux/[AID G世代](https://github.com/Acly/krita-ai-difuncation/)/[GitHub](https://github.com/KDE/krita)
-* ****[微型帕 (https://viliusle.github.io/miniPaint/)** - 浏览者绘画/网络
-* ****[项目](https://www.pinta-project.com/)** - 油漆应用/视窗、Mac、Linux/[GitHub](https://github.com/PintaProject/Pinta)
-(https://qrli.github.io/smoothdraw/) - 油漆应用/视窗
-* [Inkscape] (https://inkscape.org/) - 绘图 / 制片 / 制片 / Windows, Mac, Linux / [GitLab] (https://gitlab.com/inkscape/inkscape)
-* [FireALpaca](https://firealpaca.com/) - 油漆应用/视窗,麦克
-* [PixiEditor](https://pissieditor.net/) - 矢量编辑/绘画应用/Windows、Mac、Linux/[Discord](https://discord.com/invite/qSRMYmq)/[GitHub](https://github.com/PixiEditor/PixiEditor)
-* [SumoPaint](https://sumopaint.com/) - 浏览者绘画/网络
-* [KRESKA.art] (https://kreska.art/) - 浏览者绘画 / 绘图 / Web
-浏览者绘画 / 动画布鲁希斯
-* [Milton](https://www.miltonpaint.com/) -- -- 无限坎瓦斯绘画/视窗、Linux/[GitHub](https://github.com/sege-rgb/milton)
-* [自动拖 (https://www.autodraw.com/) - AI 绘图工具/网络
-* [Provector] (https://start.provctor.app/) - 矢量编辑器 / Web / [GitHub] (https://github.com/diaoliu/provctor)
-* [巨 (https://graphite.rs/) - 矢量编辑 /Web /[GitHub] (https://github.com/GraphiteEditor/Graphite)
-* 矢量编辑器/网络
-水彩画 / Android、iOS、Web
-(https://scrtwpns.com/mixbox/painter/) - 现实绘画混合/网络
-* [Vervette](https://www.taron.de/Vervette/sandbox/) -- -- 现实流辉绘画/网络
-* [艺术助学创 (https://artistsparap.com/) - 有用的绘画工具/网络
-* [备注](https://indict.ap/)——基于 Sletch的幻灯片/网页/[GitHub](https://github.com/chunrapepat/备注)
-* [石器玩具](https://www.sketchtoy.com/) -- -- 绘图/制片/网络
-* [草 (https://www.tldraw.com/) - 绘图 / 制片 / Web
-* [OK!] (https://okso.ap/) - 绘图 / 切入 / Web
-* [Kleki](https://kleki.com/) - 绘图/切入/网络
-* [Sketchbook](https://www.sketchbook.com/) -- -- 绘图/切入/视窗、Mac、Android、iOS
-* [弗雷斯科](https://www.adobe.com/products/fresco.html) -- -- 绘图/视窗,iOS
-* [概念] (https://concepts.ap/) - 绘图 / 切入 / Windows, Android, iOS
-* [Magma](https://magma.com/),[DrawPile](https://drawpile.net/)或[malmal](https://malmal.io/)——协作绘图
-* [门马 (https://monstermash.zone/) - 基于 Sletch 的建模和动画工具/ Web
-* [IO Graphica](https://ilogia.com/) - 将鼠标运动变成艺术/视窗、Mac、Linux
-(https://perfect-freehand-example.vercel.ap/) - 绘制自由手线/网络/[GitHub](https://github.com/steveruizok/perfect-freehand)
-* [模拟](https://minimator.ap/) - 创建网格绘图/网络/[GitHub](https://github.com/maxwellito/minimator/)
-* [展望工具](https://perspecttools.com/) -- -- 交互视角网格
-* [动画](https://sketch.medademolab.com/),[FAIR 动画](https://fairanimatddrawings.com/site/home),[MotorPen](https://motorpen.com/) -动画
-* [拖 (https://docs.the s77pens.com/drawtab) - 绘图板信息/维基
-
-*** ***
-
-□ □ 像素艺术 □ □ 像素艺术 □ □ 像素艺术 □ □ 像素艺术 □ □ 像素艺术 □ □ 像素艺术 □ □ 像素艺术 □ □ 像素艺术 □ 像素艺术
-
-****[美丽的像素美 (https://github.com/Siilwyn/aweome-pixel-art)** - 像素艺术资源索引
-* ** [ASCII 艺术] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_25B7_ascii_art)**
-* ****[阿斯特丽 (https://github.com/aseprite/aseprite)**——像素艺术编辑/[指南](https://youtu.be/Z4Enx-Nb43E)
-* ** [利布里斯普里特](https://libresprite.github.io/)** - 像素艺术编辑
-* **[Piskel](https://www.piskelapp.com/)** - 像素艺术编辑/网络
-* [rx](https://rx.cloudhead.io/) - 像素艺术编辑/Mac,Linux/[Discord](https://discord.com/invite/xHggPjfsS9)/[GitHub](https://github.com/cloudhead/rx)
-* [PixiEditor](https://pissieditor.net/) - 象素艺术编辑 / Windows, Mac, Linux / [Discord] (https://discord.com/invite/qSRMYmq) /[GitHub] (https://github.com/PixiEditor/PixiEditor)
-* [CSprite](https://csprite.github.io/) - 像素艺术编辑 / Windows、Mac、Linux /[GitHub](https://github.com/csprite/csprite)
-* [PyDPainter](https://pydpainter.org/) - 位图图形编辑 / Windows、Mac、Linux /[GitHub](https://github.com/mriale/PyDPainter)
-* [波斯图 (https://donin.itch.io/ptop) - 鼠标普及像素艺术工具/Windows,Mac
-* [促 (https://pixelated.vercel.ap/) - 像素艺术编辑器/Web
-* 象素艺术(https://www.pissilart.com/draw) - 像素艺术编辑器/网络
-* [格言Gale](https://graphicsgale.com/us/) - 像素艺术编辑
-* [JPixel](https://pixelfromhell.itch.io/jpixel) - 像素艺术编辑
-* [SpookyGhost] (https://eneslo.itch.io/spookyghost) - 像素艺术编辑
-(https://app.monopro.org/pixel/?lang=en) -- -- 图像到像素艺术转换器/网络
-(https://pixelorama.org/) - 2D Sprite编辑 / Windows、Mac、Linux、Web /[Discord] (https://discord.com/invite/GTMtr8s) /[GitHub] (https://github.com/Olama-Interactive/Pixelorama)
-* [像素杜马 (https://0x72.itch.io/pixeldudesmaker) 或[创像混合机] (https://kenney.itch.io/creature-mixer) - 闪石生成器/网络
-* [纳苏](https://100rabbits.itch.io/nasu) -- -- 简单编辑 / Windows、Mac、Linux、Android
-* [GIF to frames] (https://giftoframes.com/) - GIF to Splitesh
-* [像素吸 /[GitHub] (https://github.com/Hugo-Dz/spritevolve-pixel-snapper) - 自动使像素艺术进入网格/[Discord] (https://discord.com/invite/8sCEAspmBV) /[GitHub] (https://github.com/Hugo-Dz/spritevolve-pixel-snapper)
-* [像素重建机 (https://i-win.neocities.org/pixel/),[像素艺术升级机](https://imaginarycallab.com/free-pixel-art-upscaler.html) 或[像素艺术缩放机](https://lospec.com/pixel-art-scassallr/) - 象素艺术升级机
-
-*** ***
-
-□  GIF 工具
-
-* **[Gifski](https://gif.ski/)** - GIF编码器/Windows、Mac、Linux/[GitHub](https://github.com/ImageOptim/gifski)
-* ****[EZGif](https://ezgif.com/)**或[GIFnText](https://www.gifntext.com/)/Web。
-* [MakeEmoji](https://makemoji.com/)或[Slackmoji Lab](https://slackmojilab.com/) - 制作自定义动画片
-* [吉普塞 (http://www.lcdf.org/gifsclicle/)/Windows、Mac、Linux/[GitHub](https://github.com/kohler/gifsclicle)
-* [Giphy](https://giphy.com/),[Tenor](https://tenor.com/),[Gifer](https://gifer.com/en),[GifCities](https://gifcities.org/),[动画](https://bleuje.com/animationsite/)或[GIFBin](https://gifbin.com/)——查看/下载GIFs
-* [下滑岛 (https://drawasland.com/) 或[石匠机 (https://sketchmicher.net/) - 从绘图中创建 GIF
-* [screenToGif] (https://www.screentogif.com/) - GIF录音机/Windows/[GitHub](https://github.com/Nicke Manarin/ScreenToGif)
-* [虱子](https://www.cockos.com/icescap/) -- -- 通过屏幕/视窗、Mac、Linux/[GitHub](https://github.com/justinfrankel/licecap)创建GIF
-(https://iobureau.com/ugiffer/) - 通过屏幕播客/视窗创建 GIF
-* [blinkies.cafe] (https://blinkies.cafe/) - 定制的Retro Blinkie GIFs / 徽章 [GitHub] (https://github.com/picanout/blinkies.cafe)
-
-*** ***
-
-## meme 工具
-
-* * * ** [了解你的meme] (https://know yourmeme.com/] ** 或[FindTememe] (https://findthatmeme.com/) - 计量数据库
-* [ImgFlip](https://imgflip.com/memegenerator)、[Meme 生成器](https://www.memegenerator.top/)、[Meme镇](https://meme.town/)、[MemeBetter](https://memebetter.com/)、[meme-generator](https://newfastoff.com/meme-generator/)、[Classic memes](https://clasmic.depationa.meme/)或[Emacs Meme生成器](https://github.com/larsmagne/me) -- 创建者
-* [memeCam](https://www.mecam.io/) -- -- AIMeme发电机
-* [麦梅甘](https://memegine.com/) -- -- MEME搜索引擎
-* [绿色屏幕美 (https://greencreenmemes.com/) - 绿色屏幕美 美
-* [TweetGen](https://www.tweetgen.com/) -- -- 假曲缔造者
-* [iFake] (https://ifaketextmessage.com/) - 假文本创建者
-* [反对](https://option.lol/) - Ace 检察官审判室/反对发电机
-* [波克蒙战斗创 (http://www.pokemonbattlecreator.com/) -- -- 波克蒙战斗舞台
-瑞克和莫蒂米米发电机
-——辛普森Meme发电机
-* [莫博特 (https://morbotron.com/) - 富图拉马Meme发电机
-* [低质 (https://www.lowlequalmemes.com/) - 低质 / 压模 生成器
-- "你不会偷"Meme发电机。
-突破新闻Meme生成器
-(https://animodrogenerator.com/) - Animaft 图像生成器
-* [AweomeCars] (https://aweomecars.neocities.org/) - 德里普卡梅斯
-* [GIFEMemes] (https://gifmememes.io/) - GIFME 创造者
-
-*** ***
-
-□  [动画] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/vici/ 视频-tools#wiki_25B7_animation_tools)
-
-*** ***
-
-设计资源/想法
-
-* ** [前注.design](https://www.evernote.design/)** - 设计资源
-** **[人民设计图书馆](https://rentry.co/FMHYB64#设计-资源)** - 设计资源
-** ** [建筑设计](https://archives.design/)** - 图形设计档案
-* ** [awwwards](https://www.awwwards.com/websites)** - 网站设计构想
-* [一页爱 (https://onepagelove.com/) - 单页站点设计构想
-* [SMposter](https://www.smposter.com/) -- -- 海报设计
-* [另外一组](https://anothergraphic.org/) -- -- 拼写设计
-* [布尔游戏] (https://boolean.method.ac/) - 在矢量编辑器中学习布尔操作
-
-*** ***
-
-应用软件
-
-* ** [Figma](https://www.figma.com/)** - 设计科拉布应用程序/网络
-* [坎昆](https://www.canva.com/) - 设计应用/视窗、麦克、网页/[Invites](https://rentry.co/FMHYB64#canva)
-设计应用 / Windows, Mac, Linux 设计应用 / Windows, Mac, Linux 设计应用 / Windows, Mac, Linux
-* [VistaCreate](https://development.vista.com/) - 设计应用/网络
-* [Penpot] (https://pentpot.ap/) - 设计应用和原型平台 / [GitHub] (https://github.com/pentpot/pentpot)
-* [脸红](https://脸红.design/) - 说明设计/网络
-- 背景/模式设计/网络
-* 在线设计工具/网络
-* Antlii](https://antlii.work/) - 在线设计发电机
-
-
-*** ***
-
-# # 图标 / 宗教
-
-* ****[SVG图标](http://www.reddit.com/r/FREEMEDIAHKYEA/wiki/storage#wiki_svg_itons)******[SVG工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_25B7_svg_tools)**
-* ** [阿尔法科多尔阿凡达 (https://avatars.alphacoders.com/)** - 私营部门筹资和伙伴关系司/阿凡达斯
-* **[石 (https://picrew.me/en/)** - 创造者阿凡达
-* [#Icongen] (https://icon-gen.netlify.app/) - 登录到 Avatar / 图标生成器
-* [像模 (https://xsgames.co/pixelme/) 或[阿凡达混合] (https://kenney.itch.io/avatar-mixer) - 8-bit Avatar 创造者
-* [Bitmoji](https://www.bitmoji.com/) -- -- 创世者全体
-* [阿凡达制造者](https://avatarmaker.com/),[Avataaars](https://getavataaars.com/)或[人](https://personas.dropbit.com/) -- -- 简单的阿凡达创造者
-* [多位阿凡达](https://multiAvatar.com/) -- -- 产生随机阿凡达
-* 自由游说者协会(https://myfreelogomaker.com/),[BrandCrowd](https://www.brandcrowd.com/)或[在线游说者协会](https://www.onlinelogomaker.com/) - Logo创造者
-* [Logo Fast] (https://logofa.st/) 或[LogoFreaway] (https://logofreeway.com/logos.php) - 以预设图标为基础的简单登录创建者
-* [LogoMaker](https://www.namecheap.com/logo-maker/app/new/) - 以项目名称和风格为基础生成Logo Logos
-* [PFP查找者](https://pfpfinder.com) - PFPs / Avatars
-* [Random Avatars](https://randomavatar.com/) -- -- 私营部门筹资和伙伴关系司/Avatars
-* [pfps.gg] (https://pfps.gg/) - 概况图片索引
-* [诺肯齐](https://avatar.innocenzi.dev/) -- -- 圆形阿凡达创造者
-(https://realfavicongenerator.net/) - 法维康生成器
-* [Formia](https://www.formia.so/) - 2D 至 3D 图标转换器
-
-*** ***
-
-□  纹理 / 模式
-
-(https://midiccg.com/) -- -- 纹理
-(https://textres.neocities.org/) - 纹理
-* [3D纹理](https://icons8.com/l/3d-textres/) - 纹理
-* [踢 (https://www.textureking.com/) - 纹理
-(https://texturelabs.org/) - 纹理
-* [透明纹理](https://www.transpondertextres.com/) - 纹理
-* [钓鱼俱乐部](https://www.skthatup textureclub.com/) - 纹理
-(https://textresforfree.com/) - 纹理
-* [texture4photoshop](https://t.me/texture4photoshop) -- -- 纹理
-* [MatLib](https://matlib.gpuopen.com/main/matters/all) -- -- 纹理
-* [戏剧新 (https://texture. ninja/) - 纹理
-* [缩略语](https://www.cgbookcase.com/) -- -- 纹理
-* [子模式](https://www.toptal.com/designers/subtlepatters/) - 模式
-* [背景平 (https://背景平面.com/) - 模式
-* [ArmorLab](https://armory3d.org/lab/),[Pixela](https://pixela.ai/)或[TextureLab](https://www.texturelab.io/) -- -- 纹理生成器
-(https://njbrown.itch.io/texturelab) -- -- 程序质质生成器/[Discord](https://discord.com/invite/975NdQPsSc)/[GitHub](https://github.com/njbrown/texturelab)
-程序质素创造者
-* [Dooddad](https://doodad.dev/pattern-generator),[Repeater](https://repeater.space/),[PatternPad](https://patternpad.com/),[patternico.com/),[Repeater](https://www.richardwestenra.com/repeater/),[moe.graphics](https://more.graphics/),[Valentina](https://gitlab.com/smart-patter/valentina) 或[Haikei](https://ap.haikei.ap/) -模式发电机
-(https://www.noiseandgradient.com/),[PhotoGradient](https://photogradient.com/),[BGJar](https://bgjar.com/),[MeshGradient](https://meshgradient.in/)或[BGGenator](https://bggenerator.com/) - 背景/Gradient发电机
-艺术型发电机。
-* [混合](https://quixel.com/mixer) - 3D质素创造软件
-* [纹理资源](https://textress.spriters-resources.com/) - 游戏纹理
-* [特里格里弗.io](https://trianglify.io/) - 低差质质发电器
-
-*** ***
-
-## 自由资产
-
-* [引 (https://gumroad.com/) (单位: 0)
-(https://psdkeys.com/)
-* [专用](https://www.freeject.net/)
-* [============================================================================================================================= =========================== ======================================= =========== == = === == === === = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
-* [AvaxGFX](https://avxgfx.com/)
-* [Cg_peers档案](https://t.me/Cgpeers_archive)
-* [PNGTree](https://pngtree.com/)
-* [TianUI](https://www.titanui.com/)
-* [设计坎迪斯](https://designercandies.net/ 类/freebies/)
-* [PSDLY](https://www.psdly.to/)
-* [爆 (https://unblast.com/)
-* [批 (https://cgarchives.com/)
-* [创价单 (https://t.me/cgperec)
-* [搜索GFX](https://searchgfx.com/)
-* [Quasual](https://m.vk.com/quasual)
-* [设计师们9](https://m.vk.com/designersgan9)
-* [free_design_Files](https://t.me/free_design_Files)
-》(https://m.vk.com/mockupworld)
-* [唯一的GFX](https://www. onlygfx.com/)
-[全球论坛](https://m.vk.com/the_gfx)
-* [格 材料](https://vk.com/topic-1781866334_39330245)
-* [designertm](https://vk.com/desiignertm)
-* [all_psd] (https://vk.com/all_psd)
-(https://t.me/playersdsg) (https://t.me/playersdsg)
-* [设计流血](https://vk.com/design bloody)
-* [设计](https://t.me/设计)
-* [外 (https://t.me/s/ outsideotf)
-* [DOPE编辑 (https://t.me/DOPE_editing)
-* [沙漠](https://t.me/desgang)
-* [grphc dsgn](https://t.me/+x21YjI6DC4RiZjJk)
-* [准 (https://t.me/creatimrkt)
-* [freeppsdvn](https://freepsdvn.com/)
-* [私人设计 (https://t.me/私人设计 )
-* [单声 (https://t.me/solutioonn)
-* [一个项目](https://ae-project.su/)
-(https://www.godownloads.org/)
-* [PanosFX](https://www.panosfx.com/)或[固定相 (https://fixthophoto.com/free-photoshop-actions)——摄影商店行动
-
-*** ***
-
-下载图像
-
-* ** ** [第二行] (https://rentry.co/2ndBrain)** 或[设计人] (https://start.me/p/jj0JAp/设计人) - 图像下载网站索引
-* ** [巴布亚新几内亚图像/剪贴 (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_2F_clipart)**
-* ****[gallery-dl](https://github.com/mikf/gallery-dl)**、[RipMe](https://github.com/RipMeApp/ripme)、[WFDownloader](https://www.wfdownloader.xyz/)、[ImgDownloader](https://imgdownloader.com/)、[SCrawler](https://gthub.com/AAAAAADYProgram/SCrawler)/[Discord](https://discord.gg/uFNUXvFFmg)或[图像提取机](https://extrap.pics/)——图像下载工具
-* [相同能源](https://same.energy/) - 视觉搜索引擎
-* [缩放](https://dezomifief.ophir.dev/) - 下载可缩放图像
-* [开放Moji](https://openmoji.org/)或[JoyPixels](https://www.joypixels.com/)-埃莫吉斯
-* [像素联合](https://pixeljoint.com/),[Lospec](https://lospec.com/)或[rsrcs](https://rentry.co/rsrcs) - 下载/共享像素艺术
-* [shot.cafe](https://shot.cafe/)、[FanCaps](https://fancaps.net/)或[Film Grab](https://film-grab.com/) -- -- 媒体截图
-足球相关形象(https://www.footylenders.com/)
-* [PSDGriphics](https://www.psdgraphics.com/) - 私营部门司文件
-* [Placeit] (https://placeit.net/) - 图像模板
-(https://edent.github.io/SuperTinyICons/) - 登录搜索/设计
-* [MariaLetta](https://github.com/mariaLetta/mega-doods-pack) -- -- 免费面条
-(https://www.blockposters.com/),[posterRazor](https://posterazor.sourceforge.io/)或[Rasterbator](https://rasterbator.net/)——创建可打印的海报
-
-*** ***
-
-□  图像搜索引擎
-
-* ** [Yandex图像](https://yandex.com/images/)** 或[Mavink](https://mavink.com/) - 图像搜索
-** ** [通过图像搜索](https://github.com/dessant/Search-by-image)** - 浏览扩展
-* ****[参赛大 [https://saucenao.com/]** - 反向图像搜索/[扩展](https://saucenao.com/tools/)
-* ** [SmartImaage](https://github.com/Decimation/SmartImaage)** - 反向图像搜索应用程序
-* ** [谷歌镜头](https://www.google.com/?olud)** - 反向图像搜索
-* ****[TinEye](https://tineye.com/)** - 反向图像搜索/[扩展](https://tineye.com/extensions)
-* [infini.wtf](https://infini.wtf/) - 重编图像搜索
-* [视觉搜索](https://www.bing.com/visualsearch) -- -- 反向图像搜索
-* [IQDB](https://iqdb.org/) - 反向图像搜索
-* [复制寻求者](https://copsseerker.net/) - 反向图像搜索
-* [MaxURL](https://qsniyg.github.io/maxurl/) - 较大图像搜索/[GitHub](https://github.com/qsniyg/maxurl)
-* [VISE](https://www.robots.ox.ac.uk/~vgg/ software/vise/) -- -- 搜索图像查询
-AI 图像搜索
-* [rootAbout] (https://rootabout.com/) - 归档 / OpenLibrary 反向图像搜索
-* [多元](https://labs.tineye.com/multcolr/) - 彩色图像搜索
-* [追踪.moe](https://trace.moe/)或[Saucekudasai](https://sacucekudasai.com/) - 动画反影图像搜索
-* [图像_max_URL](https://openuserjs.org/scripts/qsniyg/Imag_max_URL) - 浏览器用户标本
-
-*** ***
-
-□ □ □ □  股票图像
-
-创用CC0是创用CC0,意味着图像为公共领域,没有标记的网址有不同的许可证。
-
-*** ***
-
-****[壮美的股票资 (https://github.com/smerettone/aweomes-stock-resources#photgraph)** — 股票照片索引
-* ** ** [GetPaidStock] (https://getadardstock.com/)**,** [ownPic] (https://downpic.cc)** 或** [Downloader.la] (https://downloader.la/)** - 付费股票照片下载器
-* ****[每样](https://www.iampixel.com/)**,[O-dan](https://o-dan.net/en/)或[LibreStock](https://librestock.com/)——股票照片搜索引擎
-* [Unssplash](https://unsplash.com/) - 股票照片/皇家免费
-* [Pixabay](https://pixabay.com/) - 股票照片
-* [阿多贝股票](https://stock.adobe.com/free) - 股票照片/皇家免费
-* [Pixnio](https://pixnio.com/) - 股票照片/皇家免费
-* [Pikwizard] (https://pikwizard.com/) - 股票照片/皇家自由
-* [Pexels](https://www.pexels.com/) - 股票照片/皇家免费
-* [像素模 (https://ap.pixelmob.co/) - 股票照片/皇家免费
-* [dverseui] (https://diverseui.com/) - 人脸照片/皇家自由
-* [主题](https://mystock.drimisle.com/) -- -- 股票照片/CC0
-* [Pxhere] (https://pxhere.com/) - 股票照片 / CC0
-* [focastock](https://focastock.com/) - 股票照片/CC0
-* [粮食](https://www.foodiesfeed.com/) -- -- 食品照片/CC0
-(https://freenantestock.com/) - 自然照片 / CC0
-* [布斯特](https://www.shopify.com/stock-photos) -- -- 股票照片
-* [Hippopx](https://www.hippopx.com/) -- -- 股票照片
-(https://barnimages.com/) - 股票照片
-* [Lummi](https://www.lummi.ai/) - AI 生成的股票照片
-* [Smithsonian 开放存 (https://www.si.edu/ OpenAccess) -- -- 史密斯高品质照片
-(https://desirefx.me/类别/stock_images/) - 股票照片重叠
-* [创影103](https://creativersity103.com/) -- -- 简要背景照片
-* [华沙摄影机](https://www.warrenphotlogic.co.uk/index.php) -- -- 动物照片
-* [移动电话](https://www.phiplopic.org/) -- -- 动物小休
-* [iwaria](https://iwaria.com/) - 非洲照片
-* [twnsnd] (https://nos.twnsnd.co/) - 旧照片/公共域
-* [PNGIMG](https://pngimg.com/)或[stickpng](https://www.stickpng.com/) - PNG照片/非商业性许可证
-* [gfxmountain](https://gfxmountain.com/stock-photos/) -- -- 股票照片集
-* [freepikuz_pro] (https://t.me/freepikuz_pro) - FreePik 下载器
-* [Flickr Commons](https://www.flickr.com/com/commons) -- -- 公共照片档案/[下载机](https://github.com/beaufour/flickr-download)
-* [全面托盘前 [https://t.me/shutterstocktpremium]、[自由斯托克磷](https://t.me/freestockphotos)或[全面托盘](https://t.me/shutter) - 全面托盘电信下载器
-* [Nohat](https://nohat.cc/),[FreeImages](https://www.freeimages.com/),[cgispread](https://cgispread.com/),[Vecteezy](https://www.vecteezy.com/)或[freedDignFile](https://freedeignfile.com/) -- -- 杂项图片/矢量器
-* [公共司 ,(https://publicdomainverctors.org/),[自由矢 ,(https://www.freevictors.com/),[VectorJunky],(https://www.victorjunky.com/),[frectors],(https://www.freevictors.net/),或[vector4free],(https://www.vector4free.com/) - 杂项矢量。
-(https://www.vectorportal.com/) - 矢量集 / 创意共同归属
-(https://www.123freevictors.com/) - 背景矢量
-(https://mockups- deign.com/),[zippypixels] (https://zippypixels.com/) 或[Mockups] (https://mockups.pixeltreat.com/) - 产品模拟
-
-*** ***
-
-□ 艺术/插文
-
-* ****[ Kimono](https://kemono.cr/posts?tag=)** - 帕特里昂内容/一些NSFW/[Patreon Redirect (https://sleazyfork.org/en/pritss/483259),[2](https://grisefork.org/en/scripts/553616)/使用[Adblock](https://www.reddit.com/r/FREEMEDIAHKYEAH/wiki/adblock-vpn-pravacy/#wiki_25BA_adblocking)
-* ** [异常艺术](https://www.deviantart.com/)** - 用户-数学艺术/范纳特
-* ****[艺术标 (https://www.artstation.com/)** - 用户- 地图艺术/范纳特/[下载机](https://github.com/findix/ArtStationDownloader)
-* ** **(Pixiv)(https://www.pixiv.net/)** - 日语范艺术
-* ** Pixiv Tools** - [官方前台] (https://pixiv.ccom/Nandaka/PixivUtil2) [2] (https://github.com/xuejianxianzun/PixivBatchDownloaders) /[官方前台] (https://pixiv.navirank.com/) /[官方前台] (https://pixiv.perimatte.ch/) /[前台列表] (https://pixivfe-docs.pages.dev/intance-list/) /[Preview] (https://github.com/NightLancer/PixivPrevicew) [2] (https://github.com/ppix/ppixiv) /[Adroid] (https://github.com/ Notssssfssfsf/pixez-flett/b/blots/master/master/.github/
-* ****[丹博鲁](https://safebooru.donmai.us/)**,[桑kaku Complex](https://chan.sankakucomplex.com/)或[扬德.re](https://yande.re/) - Anime-Style 图像布鲁/[Downloader](https://github.com/kuanui/BooruShinshi)
-* ****[水合 (https://hydusnetwork.github.io/hydus/)** - 博鲁-Style媒体Tagger/[GitHub](https://github.com/hydusnetwork/hydrus)
-* [Buzzly](https://buzzly.art/) - 用户-Made Art/Fanart
-* [Artfol](https://www.artfol.app/) - 用户-Made Art/Fanart
-* [Cara](https://cara.app/) - 用户-Made Art/Fanart
-* [InkBlot] (https://inkblot.art/) - 用户- 地图艺术 / Fanart / 签名要求
-* [(chan] (https://www.zerochan.net/) - 日语范art / [Discord] (https://discord.gg/HkGgX6Q3N)
-视频游戏 PNGs / [Discord] (https://discord.gg/Eg9QahqpXf)
-* [Safebooru](https://safebooru.org/)或[TBIB](https://tbib.org/) -- -- 图像博鲁斯
-* [iconc8] (https://icons8.com/i说明 ),[失 ,[失 ,(https://lostgeography.craftwork.design/,[3D 说明],(https://3d.khagwal.com/),s - 3D 说明
-(https://storyset.com/)、[unDraw](https://undraw.co/i说明)、[blush](https://blush.design/)或[Humaaans](https://www.humaaaans.com/)——可定制的说明
-* [Patel](https://usepastel.com/marker-i说明) - 标记说明
-(https://fresh-folk.com/)或[lukaszadam](https://lukaszadam.com/i说明)
-(https://github.com/MariaLetta/free-gophers-pack) - 戈佛斯说明
-* [重发](https://www.reshot.com/),[freei说明](https://freei说明s.xyz/),[DrawKit](https://www.drawkit.com/),[Neti说明](https://niceidences.com/free-i说明s/)或[manypixels](https://www.manypixels.co/gallery) -- -- 杂项说明
-* [旧书插图](https://www.oldbooki说明.com/) -- -- 旧书中的插图
-* [Buhitter] (https://buhitter.com/) - X.com I说明搜索
-* [巨 ——Booru图像下载器(https://www.bionus.org/imgbrd-grabber/)
-* [艺术](https://artbreeder.com/) - 图像发现 /组合
-* [TEv2] (http://te2.tewi.us/) - 分享你的绘图
-
-*** ***
-
-□  媒体封面/海报
-
-* ****[本·多德森](https://bendodson.com/projects/itunes-artwork-finder/)**,[2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) -电影/电视/音乐/漫画/书/Anime/Manga
-3D 游戏框
-* [海报DB](https://theposterdb.com/)/[Subreddit](https://www.reddit.com/r/ThePosterDB)/[Discord](https://discord.com/invite/NARZQX)、[DVD封面](https://www.dvd-covers.org/)或[MediUX](https://mediux.pro/)-电影/电视
-* [电影招贴画廊](https://www.movieposposterersgallery.com/),[纸上的辉煌](https://www.filmonpaper.com/posterers/),[招贴画收集机](https://postersargallor.co.uk/)或[IMP 奖(http://www.impawards.com/)——电影
-* [GameTDB](https://www.gametdb.com/),[封面项目](https://www.theoverproject.net/),[Libretro 缩略图/nails](https://thumbnails.libretro.com/)或[嘉明亚历山大](https://www.gamingalexandria.com/wp/#) -- -- 运动会
-* [世纪](https://www.coverocentro.com/) -- -- 电影/运动会
-* [艺术](https://fanart.tv/) - 招贴画范纳特/[Discord](https://discord.gg/r9VufRk)
-* [r/MoviePosterPorn](https://www.reddit.com/r/MoviePosterPorn/) - 电影海报Subreddit
-
-*** ***
-
-□ □ □ □ 下载扩展
-
-* [下载所有图像](https://webextension.org/list/save-images.html)/[GitHub](https://github.com/belaviyo/save-images/)
-(https://github.com/Dezaimasu/cute- button)
-* [svgexport](https://svgexport.io/)
-* [SVG Gobbler](https://github.com/rossmoody/svg-gobbler)
-* [图像皮卡](https://github.com/ 2804/image-picka)
-
-*** ***
-
-□ □ □ □ [瓦 □ (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_25B7_壁纸)
-
-*** ***
-
-3D模型
-
-* * * ** ** [长长长] (https://www.thingivverse.com/)** - 共享 / 下载 3D 模型
-* ****[概要](https://www.printables.com/)** - 找到实用的3D模型,准备打印
-* [Clara.io](https://clara.io/library),[波利哈文](https://polyhaven.com/),[CadNav](https://www.cadnav.com/),[Open3dModel](https://open3dmodel.com/)或[Archibase](https://archibase.co/) - Misc 3D模型
-* [Sketchfab](https://sketchfab.com/),[Tripo工作室](https://studio.tripo3d.ai/) (temp mail, [3Darchive] (https://t.me/ArchiveStl),[cgtrader] (https://www.cgtradr.com/free-3d-models) 或[3dsky] (https://3dsky.org/) - Misc 3D 模型/Sign-Upt 需要
-* [Cults](https://cults3d.com/),[挂](https://thangs.com/),[MakerWorld](https://makerworld.com/)或[Pinshape](https://pinshape.com/) - 可打印的 3D 模型/签名要求
-* [搜索声](https://www.stlfinder.com/) - 多石搜索
-* [3D 仓库(https://3dwarhouse.sketchup.com/) - 3D 模型与 Strachup 兼容 / 签名- Up 需要
-* [包装 3D模型](https://p3dm.ru/) - 车辆/字符 3D模型
-* [方 (https://figurosity.com/) - 人3D模型
-* [手部](https://www.handz.design/) - 3D手模
-* [引名照片] (https://genod.photos/) - AI 生成的模 样照片
-* [ripper.store](https://forum.rippper.store/) - 3D Avatar资产
-* [档案3D](https://free3d.io/) - 家具 / Accessories / 车辆 3D 模型
-* [poly.pizza](https://poly.pizza/) - 低聚三维模型
-* [RIGMODels](https://rig models.com/) - Rig / 动画 3D 模型
-* [NASA 3D资源](https://nasa3d.arc.nasa.gov/models/prampable) - 美国航天局3D模型
-* [3D find it](https://www.3dfindit.com/en/) - 工业/工程3D模型
-* [数据库](https://www.the basemesh.com/) - 综合3D模型
-* [BlenderKit](https://www.blenderkit.com/) - 3D 模 模 模 模 库并入辉
-* 3D储存系统(https://gridfinity.xyz/) - 3D储存系统
-(https://t.me/cosplayStaticFigure) - 科斯佩特 / Figrine 3D 模型
-* [3DBrute] (https://3dbrute.com/), [3DZip] (https://3dzip.org/) 或[设计连接] (https://www.deignconted.com/) - 3D家具模型
-* [伏特 (https://vertex.im/) - 3D 图标
-* [阿迈迪](https://www.ameede.com/) - CNC /激光设计矢量
-* [Skybox] (https://skybox.blockadelabs.com/) - AI 生成 3D 环境
-(http://www.postermaniacs.com/),[解剖Docs](https://photos.google.com/share/AF1 QipMbaST0BLK1kBK1kBKVvzyDhcgçuaDBb8v8Lj6xBANH7YWKKCPCyr-10-A?pli=1&key=cU5OaV9TwhoMLVZERnaEc2YFKQTJJJbnVDRW3),[Adorkastock] 或[Atomy360](https://anatomy360.info/antom-scan-reg-dum/) -Pose 参考文献
-
-*** ***
-
-# 3D 建模应用软件
-
-* ****[标 (https://www.blender.org/)** - FOSS 3D 建模应用程序
-* ** 发泡工具** - [资源](https://awesome-blender.netlify.ap/),[GitHub](https://github.com/agmmnn/awepos-blender)/[adons](https://t.me/BlenderUniverse/3)/[Plugins](https://t.me/blender plugs)/[Textres](https://github.com/carson-katri/dream-textres)/[Render](https://gthub.com/prman-pixar/RenderManforBlender)/[STADNodes](https://t.me/geogradnodes)/[AI Render](https://github.com/brugg/Benrugg/AI-Render)
-* ****[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - All-in-one Minecraft Blender Addon /[Discord](https://discord.com/invite/mb8hBUC) /[GitHub](https://github.com/Moo-Ack-Productions/MCprep)
-* ****[Shap-e](https://github.com/openai/shap-e)** - 生成基于文本/图像提示的 3D对象
-* [谷歌引擎](https://www.dillongoostudios.com/gooengine/) - 3D Anime Blender Mod
-* [Meshy.ai](https://www.meshy.ai/)/[Discord](https://discord.com/invite/KgD5yVM9Y4),[Tripo工作室](https://studio.tripo3d.ai/)或[TRELLIS](Trellis3d.github.io/)/[GitHub](https://github.com/microft/TRELLIS)/[HuggingFace](https://huggingface.co/spaces/JeffreXiang/TRELLIS) -AI 3D示范发电机)
-* [VFXmed](https://www.vfxmed.com/) - 闪亮Addons
-* [Wings 3D](https://www.wins3d.com/) - 跨平台 3D模型应用
-* [JustsSketchMe] (https://justsketch.me/) - 跨平台 3D 秒参考工具
-* [MakeHuman](https://static.makehumancommunity.org/) - 3D人形模型
-(https://apps.postermy.art/),[etPose](https://setpose.com/),[designDall](https://terawell.net/en/index.php),[Magic Poser](https://magicposer.com/),[Quickposts](https://quickposes.com/en)或[JustSketchMe](https://ap.justsketch.me/) -- posing 工具
-* [插件](https://www.vectary.com/),[Womp](https://beta.womp.com/),[Bloom3D](https://bloom3d.com/)或[Zdog](https://zzz.dog/) - 在线3D建模工具
-* [脸孔](http://facemaker.uvrg.org/) - 3D脸 / Avatar 发电机
-3D 树的创造者
-* [模 (https://modelviewer.dev/), [3DViewer] (https://3dviewer.net/) 或[F3D] (https://f3d.app/) - 3D 模型查看器
-* [Armorpaint](https://armorpaint.org/) - 3D绘画
-* [雕塑GL](https://stephaneginiier.com/sculptgl/) - 3D雕塑
-* [MagicaVoxel](https://ephtracy.github.io/)或[Goxel](https://goxel.xyz/) - Voxel艺术编辑 /交互式路径追踪导师
-
-*** ***
-
-## 3D建模工具
-
-* [Embossify](https://www.embossify.com/)或[Tripo3D](https://www.tripo3d.ai/ap/home) - 3D 模型转换器图像
-* [3D 变换器] (https://www.3dtransfer.com/) - 旋转 3D 图像
-* [3DConvert] (https://3d-convert.com/en/) - 在线 3D 图像转换器
-将2D艺术化为3D艺术。
-* [钥匙](https://keygen.co/) - 3D 关键模型生成器
-3D重建/摄像机跟踪
-* [展望网 (https://www.reubenlara.com/perspectigrid/) - 3D展望工具
-* [Assemblr](https://www.semblrworld.com/) - 增强现实形象创造者
-* [MeshLab](https://www.meshlab.net/) - 3D网格处理/[GitHub](https://github.com/cnr-isti-vclab/meshlab)
-* [尼斯开膛手](https://kemono.cr/patreon/user45591569) /[2] (https://gamebanana.com/tools/5638) /[3] (https://0crantain0.github.io/ninja_ripper.html) - 运动会的3D模型摘录
-
-*** ***
-
-□ 3D 打印
-
-* [polymaker] (https://wiki.polymaker.com/) /[Discord] (https://discord.com/invite/polymaker) 或[教学技术] (https://teachingtechyt.github.io/index.html) /[GitHub] (https://github.com/teachingtechYT/techingtechYT.github.io) - 3D打印机指南/学习
-* [3D 打印机检索](https://redd.it/1bh9jud) - 霍布比斯特 3D打印机建议
-搜索 / 比较 3D 打印页价
-* [OrcaSlicher](https://www.orcaslicher.com/)/[X](https://x.com/real_OrcaSlicher)/[Discord](https://discord.gg/P4VE9UY9gJ)/[GitHub](https://github.com/OrcaSlister/OrcaSlister),[PRusaSlicher](https://help.prusa3d.com/produc/press/prusaslicer)/[GitHub](https://gitub.gg/Prialityprint)或[Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - 3D打印软件
-* [e-Nable](https://enablingthe future.org/) - 用于假肢纸印刷的自愿自动3D打印机
-
-*** ***
-
-* CAD工程部
-
-* [Onshape](https://www.onshape.com/en/products/free) - CAD 实时协作模式模型
-* [廷克卡 (https://www.tinkercad.com/) -- -- 教育、儿童发展与发展模型
-* [FreeCAD](https://www.freecad.org/) -- -- 参数CAD模型/[GitHub](https://github.com/FreeCAD/FreeCAD)
-* ——网基 CAD App / [GitHub] (https://github.com/xiangechen/chili3d)
-* [BRL-CAD](https://brlcad.org/)或[OpenSCAD](https://openscad.org/) -- -- 跨平台CSG CAD模型
-* [利布雷CAD](https://librecad.org/)或[QCAD](https://www.qcad.org/en/) - 2D CAD模型
-* [Mayo](https://github.com/fougue/mayo) - 3D CAD 查看器和转换器
-* [CadHub](https://cadhub.xyz/) - CAD项目社区中心
-
-*** ***
+***
+
+## ▷ 网上编辑
+
+* ⭐ **[Pixlr](https://pixlr.com/)** - 简单编辑器 / [Hide Premium](https://greasyfork.org/en/scripts/425737) / [Unlimited Saves](https://greasyfork.org/en/scripts/460881), [2](https://greasyfork.org/en/scripts/490940)
+* ⭐ **[Lunapic](https://lunapic.com/)** - 多工具
+* ⭐ **[Photopea](https://www.photopea.com/)** - 照片
+* 照片来源: 照片来源:
+* 照片来源: 照片来源:
+* 照片来源: 照片来源:
+* 保护_52__ - 多工具
+* 保护_53__ - 多工具
+* 保护的工具
+* 简单编辑器 w/可共享的协作代码
+* 简单编辑器
+* 简单编辑器 / 保护_58__
+* 简单编辑器
+* 简单编辑器
+* 简单编辑器
+* 简单编辑器
+* 简单编辑器
+* 简单编辑器
+* 简单编辑器
+* 保护的工具
+* 保护的工具
+* 保护_68__ - 多工具
+
+***
+
+## ▷ 删除内容
+
+* ⭐ **[ObjectRemover](https://objectremover.com/)**, **[Lama Cleaner](https://lama-cleaner-docs.vercel.app/)**, [Inpaint](https://theinpaint.com/), [Cleanup.pictures](https://cleanup.pictures/)或 [HAMA](https://www.hama.app/) - 删除物体
+* ⭐ **[BRIA RMBG](https://briaai-bria-rmbg-2-0.hf.space/)** - 背景清除器
+* ⭐ **[BG Bye](https://bgbye.io/)**, [2](https://fyrean.itch.io/bgbye-background-remover), [3](https://bgbye.fyrean.com/) - 背景清除器 / [GitHub](https://github.com/MangoLion/bgbye)
+* 保护_79__ - 背景清除器
+* 保护_80__ - 背景移除器 / 非AI
+* 保护_81__ - 背景清除器
+* 保护_82__ - 背景移除器 / [GitHub](https://github.com/thinkingjimmy/bg-remove)
+* 保护_84__ - 背景清除器
+* 保护_85__ - 背景移除器 / [GIMP Plugin](https://github.com/manu12121999/RemoveBG-GIMP)
+* 保护_87__ - 人类优化背景移除器
+* 保护_88__ - 自主主机后台清除器
+* 视觉分区 / 保护_90__ / 保护_91__ / 保护_92__
+
+***
+
+## ▷ 升级/恢复
+
+* ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - 动漫图像升级 / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / 自主主播
+* ⭐ **[WaifuXL](https://waifuxl.com/)** - 动漫图像升级 / 在线 / 自主主播
+* ⭐ **[Upscayl](https://upscayl.org/)** - 图像升级 / 自主托管 / [GitHub](https://github.com/upscayl/upscayl)
+* ⭐ **[chaiNNer](https://chainner.app/)** - 图像升级 / 自主托管 / [GitHub](https://github.com/chaiNNer-org/chaiNNer)
+* ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI扩展模型数据库
+* 保护_103__ - 图像恢复算法 / 保护_104__ / 在线 / 自主托管
+* 保护_105__ - 图像升级 / 在线
+* 保护_106__ - 图像升级 / 恢复 / 视频升级 / 在线
+* 保护_107__ - 图像升级 / 在线
+* 保护_108__ - 图像升级 / 在线
+* 保护_109__ - 图像升级 / 自主托管
+* 查看图像的数据
+* 保护_111__ - 图像升级 / 在线
+* 保护_112__ - 图像升级 / 视频升级 / 否认 / 自主主机
+* 检测升级图像的源分辨率 / 自主托管
+
+***
+
+## ▷ 图像效果
+
+* ⭐ **[Mosh](https://moshpro.app/)**, 保护_115__或 保护_116__ - 错误图片
+* 保护_117__,保护_118__,保护_119__或保护_120__ - 照片效果 / 过器
+* 添加自定义颜色片到图片和GIF / [GitHub](https://github.com/arrowpc/palettum)
+* 您需要在此访问.
+* 创建B&W图像 w/ 彩色主题
+* 保护的 - 合器制造商
+* 保护_126__ - ASCII,点,盲字,区块,线等
+* 转换照片成线画
+* 保护_129__ - 摩赛克图像生成器
+* 转换照片为图片 / 窗户
+* 转换照片为彩图书草图
+* 电子电子设备
+* 保护_133__,保护_134__,保护_135__或保护_136__ - 图像消化 / 位图生成器
+* 通过电子设备来检查
+* 保护的_138__ - 颜色编辑器
+* 保护_139__ - 复制图像与几何形状
+* 根据数字工具来绘制
+* 保护人 - 如果是党的图片
+
+***
+
+##  保护
+
+***
+
+##  保护
+
+***
+
+#  图像创作
+
+***
+
+## ▷ 绘画/绘画
+
+*  **[Digital Art Brushes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_brushes)** - 下载刷子
+* ⭐ **[Krita](https://krita.org/en/)** - 绘画应用程序 / Windows,Mac,Linux / [AI Generation](https://github.com/Acly/krita-ai-diffusion/) / [GitHub](https://github.com/KDE/krita)
+* ⭐ **[miniPaint](https://viliusle.github.io/miniPaint/)** - 浏览器绘画 / 网页
+* ⭐ **[Pinta Project](https://www.pinta-project.com/)** - 绘画应用程序 / Windows,Mac,Linux / [GitHub](https://github.com/PintaProject/Pinta)
+* 保护_152__ - 绘画应用程序 / 窗户
+* 保护_153__ - 绘画 / 图案 / 窗户,Mac,Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
+* 保护_155__ - 绘画应用程序 / 窗户,Mac
+* 它们是可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,可用于使用的,
+* 浏览器绘画 / 网页
+* 浏览器绘画 / 绘画 / 网页
+* 浏览器绘画 /动画刷
+* 无限帆布绘画 / 窗户,Linux / 保护_163__
+* 技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术技术
+* 导读: 导读: 导读: 导读: 导读: 导读: 导读: 导读:
+* 导读: 导读: 导读: 导读: 导读: 导读: 导读:
+* 导读: 导读: 导读:
+* 保护_170__ - 水色绘画 / 安卓,iOS,网络
+* 保护_171__ - 现实化绘画混合 / 网
+* 保护_172__ - 现实流体绘画 / 网
+* 保护_173__ - 有用的绘画工具 / 网
+* 根据图片的图片, 网站/ 网站
+* 保护的网页
+* 保护的网页
+* 保护的网页
+* 保护的网页
+* 保护_180__ - 绘画/图案 / 窗户,Mac,Android,iOS
+* 其他类型: 图片/Windows,iOS
+* 保护_182__ - 绘画 / 图案 / 窗户,安卓,iOS
+* 保护_183__,保护_184__或保护_185__ - 合作绘画
+* 基于图案的建模和动画工具 / 网络
+* 转换鼠标运动为艺术 / 窗户,Mac,Linux
+* 免费手线 / 网页 / 免费手线
+* 创建基于网格的图片 / 网页 / 保护_191__
+* 互动视角网
+* 保护动物图片
+* 图纸板信息 / 维基
+
+***
+
+## ▷ 像素艺术
+
+*  **[Awesome Pixel Art](https://github.com/Siilwyn/awesome-pixel-art)** - 像素艺术资源指数
+* ️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
+* ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - 像素艺术编辑器 / [Guide](https://youtu.be/Z4Enx-Nb43E)
+* ⭐ **[LibreSprite](https://libresprite.github.io/)** - 像素艺术编辑器
+* ⭐ **[Piskel](https://www.piskelapp.com/)** - 像素艺术编辑器 / 网页
+* 专业的技术编辑器
+* 保护的艺术编辑器 / 窗户,Mac,Linux / 保护的艺术编辑器
+* 保护_209__ - 像素艺术编辑器 / 窗户,Mac,Linux / [GitHub](https://github.com/csprite/csprite)
+* 保护_211__ - 位图图形编辑器 / 窗户,Mac,Linux / __保护_212__
+* 保护_213__ - 光镜像艺术工具 / 窗户,Mac
+* 保护_214__ - 像素艺术编辑器 / 网
+* 保护_215__ - 像素艺术编辑器 / 网
+* 像素艺术编辑器
+* 像素艺术编辑器
+* 保护_218__ - 像素艺术编辑器
+* 保护_219__,保护_220__,保护_221__或保护_222__ - 图像到像素艺术转换器 / 网络
+* 保护_223__ - 2D 喷雾编辑器 / Windows,Mac,Linux,Web / [Discord](https://discord.com/invite/GTMtr8s) / [GitHub](https://github.com/Orama-Interactive/Pixelorama)
+* 电子产品的使用方式
+* 电子电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备,电子设备等
+* 保护_229__ - GIF 转载到 喷雾表
+* 保护_231__ - 自动固定像素艺术到网格
+* 保护的_233__,保护的_234__或保护的_235__ - 像素艺术升级器
+
+***
+
+## ▷ GIF 工具
+
+* ⭐ **[Gifski](https://gif.ski/)** - GIF编码器 / Windows,Mac,Linux / [GitHub](https://github.com/ImageOptim/gifski)
+* ⭐ **[EZGif](https://ezgif.com/)**或_PROTECTED_239__ / 网
+* 制作自定义动画的爱莫吉
+* 保护_242__ / 窗户,Mac,Linux /
+* 保护_244__,保护_245__,保护_246__,保护_247__,保护_248__或保护_249__ - 查看/下载 GIF
+* 通过图片创建 GIF
+* 保护_252__ - GIF记录器 / 窗户 / 保护_253__
+* 通过屏幕视频/Windows,Mac,Linux/
+* 通过屏幕视频 / 窗户创建GIF
+* 保护_257__ - 定制回归闪光 GIFs / 标志 [GitHub](https://github.com/piconaut/blinkies.cafe)
+
+***
+
+## ▷ 备忘录工具
+
+* ⭐ **[Know Your Meme](https://knowyourmeme.com/)**或 [FindThatMeme](https://findthatmeme.com/) - 语数据库
+* 保护的_261__,保护的_262__,保护的_263__,保护的_264__,保护的_265__,保护的_266__或保护的_267__ - Meme创作者
+* 没有任何信息,
+* 为了让我们可以找到一个好消息,
+* 绿色屏幕的美美
+* 假发帖创作者
+* 假文本创作者
+* 子律师法庭 / 反对发电机
+* 子战场的Meme生成器
+* ,我在这个地方做了什么?
+* 简介: 简介:
+* 保护的 - 未来的美容生成器
+* 没有任何其他方法,但我们可以在此找到一个方法.
+* 没有什么可怕的东西.
+* 现在,我们在这个世界里,
+* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,
+* 车的子
+* 没有任何问题.
+
+***
+
+##  保护
+
+***
+
+#  设计资源/想法
+
+*  **[Evernote.Design](https://www.evernote.design/)** - 设计资源
+*  **[The People's Design Library](https://rentry.co/FMHYB64#design-resources)** - 设计资源
+* ⭐ **[archives.design](https://archives.design/)** - 图形设计档案
+* ⭐ **[awwwards](https://www.awwwards.com/websites)** - 网站设计想法
+* 保护_289__ - 单页网站设计想法
+* 保护_290__ - 海报设计
+* 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签: 标签
+* 通过向量编辑器学习布尔式操作
+
+***
+
+## ▷ 设计应用程序
+
+* ⭐ **[Figma](https://www.figma.com/)** - 设计协作应用程序 / 网页
+* 设计应用程序 / Windows,Mac,Web / 保护_295__
+* 设计应用程序 / Windows,Mac,Linux
+* 设计应用程序 / 网络
+* 设计应用程序和原型设计平台
+* 网站设计 / 网页
+* 网站的背景 / 模式设计 / 网页
+* 网站设计工具
+* 电子设计生成器
+
+
+***
+
+## ▷ 标志 / 幕
+
+* ️ **[SVG Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_svg_icons)** / **[SVG Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_svg_tools)**
+* ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - 鱼/鱼
+* ⭐ **[Picrew](https://picrew.me/en/)** - 亚凡达创造者
+* 标签: 标志子
+* 它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器,它们是自动化器的.
+* 保护人 - 全身化器创造者
+* 简单的幕创作者
+* 创建随机化器
+* 保护_316__,保护_317__或保护_318__ - 标志创作者
+* 基于预制图标的简单标志创建者
+* 基于项目名称和风格生成标志
+* 保护的子
+* 保护的子
+* 保护_324__ - 个人资料图片指数
+* 环形的化器创造者
+* 保护_326__ - 子发电机
+* 保护_327__ - 2D到 3D图标转换器
+
+***
+
+## ▷ 纹理/图案
+
+* 保护的_328__ - 纹理
+* 保护的 - 纹理
+* 保护的_330__ - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的 - 纹理
+* 保护的模式
+* 保护的模式
+* 保护_342__,保护_343__或保护_344__ - 纹理发电机
+* 系统的结构生成器
+* 程序性纹理创作者
+* 保护_352__,保护_353__,保护_354__,保护_355__或保护_356__ - 模式生成器
+* 保护_357__,保护_358__,保护_359__,保护_360__或保护_361__ - 背景/渐变发电机
+* 保护_362__或_保护_363__ - 艺术模式生成器
+* 保护_364__ - 3D纹理创建软件
+* 游戏的结构
+* 低聚合质质生成器
+
+***
+
+## ▷ 免费资产
+
+* 您的位置: 首页
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的380
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的385__
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的400
+* 保护的
+* 保护的
+* 照片的照片
+
+***
+
+#  下载图片
+
+*  **[2ndBrain](https://rentry.co/2ndBrain)**或 [designer](https://start.me/p/jj0JAp/designer) - 图像下载网站索引
+* ️ **[PNG Images / Clipart](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_png_images_.2F_clipart)**
+* ⭐ **[gallery-dl](https://github.com/mikf/gallery-dl)**, [RipMe](https://github.com/RipMeApp/ripme), [WFDownloader](https://www.wfdownloader.xyz/), [ImgDownloader](https://imgdownloader.com/), [SCrawler](https://github.com/AAndyProgram/SCrawler) / [Discord](https://discord.gg/uFNUXvFFmg)或 [Image Extractor](https://extract.pics/) - 图像下载工具
+* 视觉搜索引擎
+* 通过" 保护"的方法,
+* 保护的_417__或保护的_418__ - 爱情机
+* 保护_419__,保护_420__或保护_421__ - 下载/分享Pixel艺术
+* 保护_422__,保护_423__或保护_424__ - 媒体截图
+* 足球相关图片
+* 保护文件
+* 保护_427__ - 图片模板
+* 标签: 标签 设计 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标签 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标 标
+* 免费的子
+* 创建可打印海报
+
+***
+
+## ▷ 图像搜索引擎
+
+* ⭐ **[Yandex Images](https://yandex.com/images/)**或_PROTECTED_437__ - 图像搜索
+* ⭐ **[Search by Image](https://github.com/dessant/search-by-image)** - 浏览器扩展
+* ⭐ **[SauceNao](https://saucenao.com/)** - 逆转图像搜索 / [Extension](https://saucenao.com/tools/)
+* ⭐ **[SmartImage](https://github.com/Decimation/SmartImage)** - 逆向图像搜索应用
+* ⭐ **[Google Lens](https://www.google.com/?olud)** - 逆转图像搜索
+* ⭐ **[TinEye](https://tineye.com/)** - 逆向图像搜索 / [Extension](https://tineye.com/extensions)
+* 为了让我们可以找到一个好消息,
+* 保护_446__ - 逆转图像搜索
+* 保护_447__ - 逆转图像搜索
+* 保护_448__ - 逆转图像搜索
+* 为了实现这一目标,我们需要在线观看.
+* 查询图像的数据
+* 没有任何信息.
+* 保护_453__ - 档案 / 开放图书馆反向图像搜索
+* 根据颜色的图像搜索
+* 视频在线观看
+* 浏览器用户脚本
+
+***
+
+## ▷ 股票图片
+
+* ** 注:免费意味着免费的图像用于个人或商业用途,有某些使用限制 (参见网站的TOS). CC0代表Creative Commons Zero,意味着图像是公共领域.未标记的网站有不同的许可.
+
+***
+
+*  **[Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources#photography)** - 股票照片指数
+* ⭐ **[GetPaidStock](https://getpaidstock.com/)**, **[DownPic](https://downpic.cc)**或 **[Downloader.la](https://downloader.la/)** - 付费的股票照片下载器
+* ⭐ **[EveryPixel](https://www.everypixel.com/)**,[O-DAN](https://o-dan.net/en/)或[LibreStock](https://librestock.com/) - 库存照片搜索引擎
+* 没有任何费用
+* 保护的照片
+* 没有任何费用
+* 没有任何费用
+* 没有任何费用
+* 没有任何费用
+* 没有任何费用
+* 没有人脸照片 / 免费
+* 保护的照片
+* 保护的照片
+* 保护的照片
+* 食品照片 / CC0
+* 保护的自然照片
+* 保护的照片
+* 保护的479__ - 库存照片
+* 保护的照片
+* 专业的照片
+* 史密森大学高质量照片
+* 保护_483__ - 库存照片覆盖
+* 简体背景照片
+* 保护动物的照片
+* 动物图像
+* 非洲的照片
+* 保护的照片 / 公共领域
+* 保护_489__或保护_490__ - PNG照片 / 非商业许可证
+* 保护_491__ - 库存照片集
+* 免费Pik下载器
+* 保护的照片
+* 其他信息: 收藏器
+* 保护_498__,保护_499__,保护_500__,保护_501__或保护_502__ - 混杂的库存照片 / 矢量
+* 保护_503__,保护_504__,保护_505__,保护_506__或保护_507__ - 混合向量
+* 向量集合 / 创造性共同属性
+* 后台向量
+* 保护_510__,保护_511__或保护_512__ - 产品模拟
+
+***
+
+## ▷ 艺术/插图
+
+* ⭐ **[Kemono](https://kemono.cr/posts?tag=)** - 保护内容 / 一些NSFW / [Patreon Redirect](https://sleazyfork.org/en/scripts/483259), [2](https://greasyfork.org/en/scripts/553616) / 使用 [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
+* ⭐ **[DeviantArt](https://www.deviantart.com/)** - 用户制作的艺术品 / 迷人艺术品
+* ⭐ **[ArtStation](https://www.artstation.com/)** - 用户制作的艺术品 / 迷人艺术品 / [Downloader](https://github.com/findix/ArtStationDownloader)
+* ⭐ **[Pixiv](https://www.pixiv.net/)** - 日本风格
+* ⭐ **Pixiv工具** - 保护_521__, 保护_522__ / 保护_523__ / 保护_524__ / 保护_525__ / 保护_526__, 保护_527__ / 保护_528__
+* ⭐ **[Danbooru](https://safebooru.donmai.us/)**, [Sankaku Complex](https://chan.sankakucomplex.com/)或 [yande.re](https://yande.re/) - 动漫风格图片
+* ⭐ **[hydrus](https://hydrusnetwork.github.io/hydrus/)** - 布鲁风格媒体标记器 / [GitHub](https://github.com/hydrusnetwork/hydrus)
+* 保护_535__ - 用户制作的艺术品 / 迷你艺术品
+* 保护人 - 用户制作的艺术品 / 迷你艺术
+* 保护_537__ - 用户制作的艺术品 / 迷你艺术品
+* 您的网站:
+* 们在日本的爱情节中,
+* 视频游戏 PNGs / [Discord](https://discord.gg/Eg9QahqpXf)
+* 保护的_543__或保护的_544__ - 图像布鲁斯
+* 保护的545__,保护的546__,保护的547__s- 3D插图
+* 保护_548__,保护_549__,保护_550__或保护_551__ - 可定制插图
+* 标记图
+* 保护人 - - 人类的插图
+* 保护的图片
+* 保护的556__,保护的557__,保护的558__,保护的559__或保护的560__ - 错误插图
+* 保护的561 - 旧书中的插图
+* 如何使用果?
+* 子的照片下载器
+* 图像发现 / 结合
+* 保护_565__ - 分享您的图片
+
+***
+
+## ▷ 媒体封面 / 海报
+
+* ⭐ **[Ben Dodson](https://bendodson.com/projects/itunes-artwork-finder/)**, [2](https://bendodson.com/projects/apple-tv-movies-artwork-finder/) - 电影 /电视 / 音乐 / 漫画 / 书籍 / 动漫 / 漫画
+* 保护的游戏盒
+* 保护_569__ / 保护_570__ / 保护_571__, 保护_572__或 保护_573__ - 电影 /电视
+* 电影: 电影: 电影: 电影: 电影: 电影
+* 游戏: 游戏: 游戏: 游戏: 游戏: 游戏: 游戏:
+* 电影 / 游戏
+* 保护人群的安全
+* 电影海报下载
+
+***
+
+## ▷ 下载扩展
+
+* 保护的_586__ / 保护的_587__
+* 保护的588__
+* 保护的_589__
+* 保护的_590__
+* 保护的
+
+***
+
+##  保护
+
+***
+
+#  3D模型
+
+* ⭐ **[Thingiverse](https://www.thingiverse.com/)** - 分享/下载3D模型
+* ⭐ **[Printables](https://www.printables.com/)** - 找到可打印的实用3D模型
+* 保护_595__,保护_596__,保护_597__,保护_598__或保护_599__ - 错误的3D模型
+* 保护_600__,保护_601__ (临时邮件),保护_602__,保护_603__或保护_604__ - 错误的3D模型 / 需要注册
+* 保护_605__,保护_606__,保护_607__或保护_608__ - 可打印的3D模型 / 需要注册
+* 保护_609__ - 多站点搜索
+* 保护_610__ - 3D模型与SketchUp兼容 /注册要求
+* 车辆/人物3D模型
+* 保护的3D模型
+* 保护的手机模型
+* 专业技术技术技术
+* 保护的3D达资产
+* 保护_616__ - 家具 /配件 /车辆3D模型
+* 低标准的3D模型
+* 保护的3D模型
+* 美国宇航局的3D模型
+* 工业/工程3D模型
+* 子3D模型
+* 通过3D模型图书馆,
+* 保护系统
+* 视频/图形 3D 模型
+* 保护_625__,保护_626__或保护_627__ - 3D家具模型
+* 保护的3D图标
+* 光电器设计
+* 技术技术的3D环境
+* 保护_631__,保护_632__,保护_633__或保护_634__ - 姿势引用
+
+***
+
+## ▷ 3D建模应用程序
+
+* ⭐ **[Blender](https://www.blender.org/)** - FOSS 3D建模应用程序
+* ⭐ ** 混合工具** - 保护_636__, 保护_637__ / 保护_638__ / 保护_639__ / 保护_640__ / 保护_641__ / 保护_642__ / 保护_643__
+* ⭐ **[MCprep](https://theduckcow.com/dev/blender/mcprep/)** - 一个全合的Minecraft混凝土插件
+* ⭐ **[Shap-e](https://github.com/openai/shap-e)** - 基于文字/图像提示生成3D对象
+* ,我还没有看到.
+* 保护_649__ / 保护_650__, 保护_651__ (临时邮件) 或 保护_652__ / 保护_653__ / 保护_654__ - AI 3D模型生成器
+* 子子
+* 跨平台3D建模应用程序
+* 保护_657__ - 跨平台3D姿势参考工具
+* 保护人体模型器
+* 保护_662__,保护_663__或保护_664__ - 姿势工具
+* 保护_665,保护_666,保护_667,保护_667或保护_668 - 在线3D建模工具
+* 保护的3D面孔/阿凡达发电机
+* 保护的树木创造者
+* 保护_671__,保护_672__或保护_673__ - 3D模型观看器
+* 保护的3D绘画
+* 保护的3D雕塑
+* 您可以在此查看更多信息.
+
+***
+
+## ▷ 3D建模工具
+
+* 转换成3D模型的图像
+* 转换3D图像
+* 通过网络3D图像转换器
+* 保护性艺术的转变为3D
+* 子机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器, 机器
+* 保护_685__ - 3D重建 / 摄像头跟踪
+* 保护_686__ - 3D视角工具
+* 保护_687__ - 增强现实图像创作者
+* 保护_688__ - 3D网格处理
+* 游戏中提取3D模型
+
+***
+
+##  3D打印
+
+* 保护_693__ / 保护_694__或 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+* 爱好者3D打印机推
+* 搜索 / 进行3D打印的丝价格比较
+* 保护_702__, _ 保护_703__ / _ 保护_704__, _ 保护_705__或 _ 保护_706__ - 3D打印软件
+* 为了使用在假肢打印中,自愿使用3D打印机
+
+***
+
+##  CAD工程
+
+* 通过实时合作进行CAD建模
+* 保护_709__ - 教育CAD建模
+* 保护_710__ - 参数式CAD建模
+* 基于Web的CAD应用程序
+* 保护_714__或保护_715__ - 跨平台CSGCAD建模
+* 保护_716__或保护_717__ - 2D CAD 建模
+* 幕: 幕: 幕: 幕:
+* 保护_719__ - CAD项目社区中心
+
+***
 
 # 图像工具
 
-* ** [创造资源] (https://www.newgrounds.com/wiki/creator-resources/)** - 艺术/动画资源
-* ** [美丽的可拉布笔记本](https://github.com/amrzv/aweposo-colab-笔记本)** - 图像可拉布资源
-** ** [色彩计划工具] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_25B7_color_schemes)**
-* ** ** [ImgOps](https://imgops.com/)** - 图像操作元工具
-* ** ** [AntiDupl](https://github.com/ermig1979/AntiDupl)** 或[cbird](https://github.com/scrubbbs/cbird) - 复制图像移除器
-** **[穆兹利](https://search.muz.li/)** - 设计引引征搜索
-* ****[低poke Pics](https://slow.pics/)**,[ICAT](https://www.nvidia.com/en-us/geforce/technology/icat/)或[图像比较工具](https://jklgit.github.io/Image-Comparison-in-Browser/index.html)——图像比较
-* [odiff] (https://github.com/dmtrKovalenko/odiff) - 图像视觉差异工具
-* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) -- -- 将网页转换成图像集
-* 通用Sig Rotator(https://sig.grumpybumpers.com/) - 论坛签名旋转图像/站点旗
-* [Internet](https://github.com/Ahwxorg/Binternet)或[Pinvibe](https://www.pinvibe.com/)——兴趣前沿
-* [图像彩色抽胶器] (https://mk.bcgsc.ca/color-summaizer/) - 图像彩色抽胶器
-* [图片颜色](https://franciscocozo.github.io/image_colors/) -- -- 图像色彩散射
-* [图像像素剪 (http://birdhat.org/misc/sort-pixels/) - 图像排序像素
-* [阿多贝桥](https://adobe.com/products/bridge.html)——阿多贝资产经理
-* [后面](https://github.com/kubuzetto/后面) - 查看背景图像
-* [视觉中心](https://javier.xyz/ visual-center/) -- -- 寻找图像视觉中心
-* [水标记](https://watermarkly.com/),[批注水标记](https://batchwatermark.com/)或[水标记](https://watermarkup.com/watermark.html) -- -- 图像水标记
-* [水标记去除机](https://www.watermartremover.io/),[Unwatermart](https://unwatermark.ai/)或[De Watermart](https://dewatermark.ai/)——去除水标记
-* [Glaze](https://glaze.cs.uchicago.edu/index.html) 或[夜沙 (https://nightshade.cs.uchicago.edu/downloads.html) - 保护数字艺术不受AI复制。
-* [APNG Makerr](https://rukario.github.io/schande/ Unintering%20stff/APNG%20Maker.html) - 创建/优化APNG图像
-* [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Ransomware-加密图像恢复工具
-* [Camscanner](https://apps.appl.com/us/ap/camscanner-pdf-scanner-ap/id388627783)——扫描和数字化文档/iOS
-* [SPAPFace](https://swapface.org/)/[Discord](https://discord.com/invite/5yPew6Cy6a)、[纸质交换](https://faceswapper.ai/)、[faceSwapVideo](https://faceswapvisual.io/),[facy.ai](https://facy.ai/swap-face-ai/photo)、[AIfaceSwap](https://aifaceswap.io/)或[faceFusion](https://github.com/facemoc/facevoluction)——面对面交换——面面孔
-* [WiseTagger] (https://github.com/0xb8/WiseTagger) - 图像塔格
-* [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - 博鲁图像塔格
-* [Cluttr](https://gitlab.com/paojaws/cluttr),[Exif Storer](https://www.amok.am/en/freeware/amok_exif_sorter/)或[TagStudio](https://github.com/TagStudioDev/TagStudio)——图像文件组织者/管理人员
-* [ALLUSion](https://allusion-ap.github.io/) - 参考图像管理器
-* [要画的东西] (https://ohine-to-draw.com/) - 寻找要画的东西
+*  **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - 艺术/动画资源
+*  **[Awesome Colab Notebooks](https://github.com/amrzv/awesome-colab-notebooks)** - 图片协作资源
+* ️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)**
+* ⭐ **[ImgOps](https://imgops.com/)** - 图像操作的 Meta-工具
+* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)**或 [cbird](https://github.com/scrubbbbs/cbird) - 复制图像删除器
+* ⭐ **[Muzli](https://search.muz.li/)** - 设计灵感搜索
+* ⭐ **[Slowpoke Pics](https://slow.pics/)**, _PROTECTED_728__或 _PROTECTED_729__ - 图像比较
+* 保护_730__ - 图像视觉区别工具
+* 转换网页为图像画廊
+* 网站标志 / 论坛签名
+* 果版的用户可以使用
+* 图像颜色总结器
+* 图像色彩散布图片
+* 保护_737__ - 排序图像的像素
+* 您的位置: 首页
+* 保护_739__ - 查看背景图片
+* 查找图像的视觉中心
+* 保护_741__,保护_742__或保护_743__ - 图像水标
+* 保护_744__,保护_745__或保护_746__ - 水标清除
+* 保护数字艺术免受AI复印
+* 创建/优化APNG图像
+* 保护_750__ - 勒索软件加密图像恢复工具
+* 检查和数字化文件 / iOS
+* 保护_752__ / 保护_753__, 保护_754__, 保护_755__, 保护_756__, 保护_757__或 保护_758__ - 面部交换
+* 保护_759__ - 图像标签
+* 子的照片
+* 保护_761__,保护_762__或保护_763__ - 图像文件组织者/管理者
+* 查看更多信息
+* 保护_765__ - 找到画的东西
 
-*** ***
+***
 
-□  图像压缩器
+## ▷ 图像压缩机
 
-* ** **(https://saerasoft.com/caesium/)** - 压缩软件/[Web App](https://caesium.ap/)/[CLI](https://github.com/Lymphatus/caesium-clt)/[GitHub](https://github.com/Lymphatus/caesium-image-compressor)
-* ****[科欧 (https://sqoosh.ap/)** - 压缩机/转换机/[GitHub](https://github.com/GoogleChromeLabs/squosh)
-* * ** [创影 (https://www.seopix.io/)** - 批量压缩机/编辑
-* [优化.photos] (https://optimize.photos/) - 批量压缩机
-* [压缩图像](https://compressimage.io/) -批量压缩机
-* [粉 (https://crushimage.com/) - 批量压缩机
-* [Bulk 图像压缩机] (https://imagecompressr.com/) - 批量压缩机
-* [HiCompress] (https://hicompress.com/tools) - 批量压缩机
-* [微型](https://minipic.ap/) - 批量压缩机 / 转换器
-* [压缩 JPEG] (https://compressjpeg.com/) - 批量压缩机 / 无限上传
-* [TinyPNG](https://tinypng.com/)或[TinyJPG](https://tinyjpg.com/) - 批量压缩机/20MB上传/[GitHub](https://github.com/tinify)
-* [图像合成机](https://www.imageSmaller.com/) - 压缩机 / 50MB 上传
-* [压缩 Ordie] (https://compress-or-die.com/) - 多种工具
-* [PNGQuant](https://pngquant.org/) - PNG压缩软件/[GitHub](https://github.com/kornelski/pngquant)
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - 压缩软件 / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
+* ⭐ **[Squoosh](https://squoosh.app/)** - 压缩机/转换机/
+* ⭐ **[Seopix](https://www.seopix.io/)** - 批量压缩机/编辑器
+* 保护机
+* 保护机
+* 防护机
+* 保护机
+* 保护机
+* 保护_778__ - 批量压缩机/转换器
+* 电脑系统的运行量
+* 电脑的电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑,电脑等等
+* 电压机 / 50MB 上传
+* 保护的工具
+* 保护_786__ - PNG压缩软件
 
-*** ***
+***
 
-□  图像优化
+## ▷ 图像优化
 
-* ** **[图像Magick](https://imagemagick.org/index.php)** - 图像优化/[Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
-* [RIOT](https://riot-optimizer.com/) - 图像优化
-* [青年组 (https://yoga.flozz.org/) -- -- 图像优化
-* [图像Foo](https://imagefoo.com/) - 图像优化
-* [tiny.pictures] (https://tiny.pictures/) - 图像优化
-*[助 (https://ihancer.com) - 图像优化
-* [Waifu2x](https://www.waifu2x.net/) - 图像优化
-* [OxIPNG](https://github.com/shssoichiro/xipng) - PNG最佳化
-* [Crunch] (https://github.com/chrissimpkins/Crunch) - PNG 优化 / 自我主导 / 无签名
+* ⭐ **[ImageMagick](https://imagemagick.org/index.php)** - 图像优化 / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php)
+* 保护_789__ - 图像优化
+* 保护_790__ - 图像优化
+* 保护_791__ - 图像优化
+* 保护_792__ - 图像优化
+* 保护_793__ - 图像优化
+* 保护_794__ - 图像优化
+* 保护_795__ - PNG优化
+* 保护_796__ - PNG优化 / 自主托管 / 没有登录
 
-*** ***
+***
 
-□  图像转换器
+## ▷ 图像转换器
 
-* ****[易转换器](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_25B7_file_converders)** - 多格式转换器
-** **[迷你](https://minipic.app/)**
-* [红番茄酱](https://redketchup.io/)
-* [Knvrt](https://www.knvrt.one/)
-* [广告图像](https://convert-my-image.com/)
-* [图像转换](https://imageconvert.org/)
-* [引 (https://www.imverter.com/)
-* [Raw Pics](https://raw.pics.io/)
-* [联系 (https://converseen.fasterland.net/)
+* ️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - 多格式转换器
+* ⭐ **[minipic](https://minipic.app/)**
+* 保护的_799__
+* 保护的
+* 保护的_801__
+* 保护的_802__
+* 保护的_803__
+* 保护的_804__
+* 保护的_805__
 
-*** ***
+***
 
-□  图像调整大小
+## ▷ 图像改大小
 
-调整不同网站的图像大小
-* [恢复应用图标](https://resizeapapicon.com/) - 调整方形图像
-* [Pro 图像工具] (https://proimagetool.com/)
-* [简单的图像再 https://www.sproperimageresizer.com/]
-* [图像恢复 (https://imageresizer.com/)
-(https://picresize.com/)
-* [Birme](https://www.birme.net/)
-* [数字图像调整大小](https://bulkimageresize.com/)
-* [恢复现在](https://www.resifnow.com/en)
-* [BlockResizePhotos](https://bulkresisterphotos.com/)
+* 保护_806__ - 改大小的图像
+* 保护_807__ - 改造方形图像
+* 保护的_808__
+* 保护的_809__
+* 保护的_810__
+* 保护的
+* 保护的_812__
+* 保护的
+* 保护的
+* 保护的_815__
 
-*** ***
+***
 
-□  图像到文本/ OCR
+## ▷ 图像转换成文字/OCR
 
-* **注** - 牢记大多数[AI Chattbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_25B7_online_chatbots)内含文本图像,在许多情况下甚至比OCR工具更准确。
+* ** 注 - 记住大多数[AI Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_online_chatbots)有内置图像到文本,在许多情况下甚至比OCR工具更准确.
 
-*** ***
+***
 
-* ** ** [图片文本](https://www.imagetotext.info/)** - 在线
-* ****[Captre2Text](https://capture2text.sourceforge.net/)**,[tesseract](https://github.com/tesseract-ocr/teseract)或[gimageReader](https://github.com/maniansandro/gImageReader) - OCR桌面应用程序
-** ** [文本抓 (https://github.com/TheJoeFin/Text-Grab)** - 最小 OCR 视窗工具
-* [文本shot](https://github.com/ianzhao05/textshot) -- -- 跨平台光谱
-* [图像ScanOCR](https://github.com/ttop32/imageScanOCR) - Windows OCR 工具
-* [手写-OCR](https://github.com/Breta01/手写-OCR) -- -- 手写
-* [项目Naptha](https://projectnaptha.com/) - 浏览图像时自动 OCR
-* [i2ocr](https://www.i2ocr.com/) -- -- 在线
-* 欧大理事会(https://ocr.space/) -- -- 在线欧大理事会
-* [OCRTool](https://ocrtool.net/) - 在线OCR
-* [2OCR](https://2ocr.com/) - 在线OCR
-* [在线女 [在线女 [https://onlineocr.org/] -- -- 在线女
-* [世界童子军](https://www.newocr.com/) -- -- 在线童子军
-* [在线女 [在线女 [https://www.onlineocr.net/] -- -- 在线女
+* ⭐ **[ImageToText](https://www.imagetotext.info/)** - 在线OCR
+* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**,[tesseract](https://github.com/tesseract-ocr/tesseract)或 [gImageReader](https://github.com/manisandro/gImageReader) - OCR桌面应用程序
+* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - 最低的OCR窗口工具
+* 保护_822__ - 跨平台 OCR
+* 保护_823__ - Windows OCR工具
+* 保护_824__ - 手写 OCR
+* 浏览图片时自动 OCR
+* 保护性信息
+* 保护性信息
+* 保护性信息
+* 保护性信息
+* 保护_830__ - 网上 OCR
+* 保护_831__ - 网上 OCR
+* 保护_832__ - 网上 OCR
 
-*** ***
+***
 
-□  图像查看器
+## 查看图片
 
-** ** [IrfanView](https://www.irfanview.com/)**
-****[JPEGView](https://github.com/sylikc/jpegview)**
-* ** [快速通 (https://www.faststone.org/index.htm)**
-****[qView](https://interversehq.com/qview/)**
-** **[XnviewMP](https://www.xnview.com/en/xnviewmp/)**
-* ** [数字](https://www.digikam.org/)**
-** **[图像](https://github.com/d2phap/imageGlass)**
-* (http://www.nyam.pe.kr/dev/imagine/)
-* [名 (https://nomacs.org/) / [GitHub] (https://github.com/nomacs/nomacs)
-* [qimgv](https://github.com/siamodo/qimgv)
-* [宣 (https://github.com/woelper/ oculante)
-* [PhotoQt](https://github.com/luspi/photoqt)
-* [NeeView](https://neelabo.github.io/NeeView/en-us/)/[GitHub](https://github.com/neelabo/NeeView)
-* [PicView](https://picview.org/)
-(https://github.com/mihnea-radulescu/imagefanreload)
-* [图片眼](https://www.fmjsoft.com/imageyeye.html)
-* [快速图片查看](https://moduleart.github.io/quick-picture-viewer/)
-(https://en.bandisoft.com/honeyview/)
-* [picturama](https://picturama.github.io/)
-* [说明](https://narment.so/)
-* [G'MIC](https://gmic.eu/)
-* [BeeRef](https://beeref.org/)或[PureRef](https://www.pureref.com/) -- -- 参考图像查看器
-* [人发展望](https://github.com/wkjarosz/hdrview)或[tev](https://github.com/Tom94/tev)——人类发展报告/技术图像查看器
-* [翻页翻页](https://github.com/ifify/flipflip/) - 图像幻灯片
+* ⭐ **[IrfanView](https://www.irfanview.com/)**
+* ⭐ **[JPEGView](https://github.com/sylikc/jpegview)**
+* ⭐ **[FastStone](https://www.faststone.org/index.htm)**
+* ⭐ **[qView](https://interversehq.com/qview/)**
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
+* ⭐ **[Digikam](https://www.digikam.org/)**
+* ⭐ **[ImageGlass](https://github.com/d2phap/ImageGlass)**
+* 保护的
+* 保护的_841__ / 保护的_842__
+* 保护的
+* 保护的_844__
+* 保护的
+* 保护的_846__ / 保护的_847__
+* 保护的_848__
+* 保护的
+* 保护的_850__
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护_856__或_保护_857__ - 参考图像观看者
+* 视频显示器: 视频显示器
+* 照片显示
 
-*** ***
+***
 
-□ 离线竞技馆
+## ▷ 线下画廊
 
-** **[FOSS摄影图书馆](https://meichthys.github.io/foss_photo_libraries/)**
-* ** [机器人大 http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_25B7_image_galleries]**
-* [Immich](https://immich.ap/)/[存储服务器](https://pixelion.eu/)/[GitHub](https://github.com/immich-app/immich)
-* [自 (https://github.com/Webreaper/Damselfly)
-* [家庭格 (https://home-gallery.org/)
-* [利布雷Photos](https://github.com/LibrePhotos/librephotos)
-* [利切](https://lycheeorg.github.io/)
-(https://github.com/photoprism/photoprism)
-* [摄影影 (https://github.com/photoview/photoview)
-* [执行](https://help.ente.io/self-东道主/)
-* [Photonix](https://photonix.org/)
-* [照片](https://github.com/nextcloud/photos/)
-* [影 (https://github.com/gregordr/imagestore)
-* [回忆](https://memories.gallery/)
-* [皮维戈](https://piwigo.org/)
-* [皮伽列 (PiGallery 2] (https://bpatrik.github.io/pigallery2])
-* [PicoShare](https://github.com/mtlynch/pioshare)
-[更新1](https://github.com/Upload/Up1]
-(https://chevereto.com/)
-* [Photofield](https://github.com/SmilyOrg/photofield)
+*  **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
+* ️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
+* 保护的_863__ / 保护的_864__ / 保护的_865__
+* 保护的_866__
+* 保护的
+* 保护的_868__
+* 保护的_869__
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 保护的_878__
+* 保护的
+* 保护的_880__
+* 保护的_881__
+* 保护的_882__
 
-*** ***
+***
 
-□  在线画廊
+## ▷ 网上画廊
 
-** **[possimatiges](https://postimages.org/)** - 32MB /永远
-* [Rimgo](https://rimgo.codeberg.page/),[2](https://codeberg.org/rimgo/intances) - Imgur Frontend
-15GB 存储总计 / 永远 / 签名 / 需要
-* (https://lookimg.com/) - 20MB / 永远 / 签名要求
-* [Horizon] (https://horizon.pics/) - 75MB (500MB 存储) / 永远/ 签名要求
-* [imgchest](https://imgchest.com/) - 10MB(30MB带账号) /永远
-* [Imgur](https://imgur.com/) - 20MB 图像 / 200MB 动画 / 永远 / [上载限制] (https://help.imgur.com/hc/en-us/articles/265659579-What-files-can-I-upload-Is- there-a-size-lip-limit) / [Direct Link Grabber] (https://imgur.plen.io/)
-* [谷歌照片] (https://photos.google.com/) - 200MB / 15GB云 / 永远
-* [执行](https://ente.io/) - 无限 / 10GB云
-* [Piczel] (https://piczel.tv/) - 10MB / 永远 / 签名/ 需要
-20MB /永远(https://www.turboimagehost.com/) - 20MB
-* [谷歌照片工具包](https://github.com/xob0t/Google-Photos-Toolkit) -- -- 管理/删除谷歌照片
-* [谷歌外 (https://gookout.google.com/) - 出口谷歌照片/[Script] (https://github.com/Xentraxx/GooglePhotosTakeTakeHelper)
-* [谷歌图片 EXIF] (https://github.com/mattwilson1024/google-photos-exif) - 在谷歌照片中传播缺失的 EXIF 元数据
-* [GPhotos指南](https://github.com/g8row/gphotos-guide) - Windows 无限谷歌照片存储指南
+* ⭐ **[Postimages](https://postimages.org/)** - 32MB / 永远
+* 们在们面前,
+* 保护_886__ - 15GB 存储总量 / 永久 / 需要注册
+* 您需要注册.
+* 保护_888__ - 75MB (500MB存储) /永久 /注册要求
+* 保护_889__ - 10MB (30MB与账户) /永远
+* 保护的_891__ - 20MB图像 / 200MB动画 / 永远 / [Upload Limits](https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit) / [Direct Link Grabber](https://imgur.plen.io/)
+* 保护_893__ - 200MB / 15GB云 / 永远
+* 无限 / 10GB 云
+* 您需要注册.
+* 保护的 - 20MB / 永远
+* 管理/删除谷歌照片
+* 根据"中国"的规定,
+* 搜索在Google照片中丢失的EXIF元数据
+* 保护_901__ - 在Windows上无限 Google照片存储指南
 
-*** ***
+***
 
-□  图像主机
+## ▷ 图片主持人
 
-* * * ** [PixVid] (https://pixvid.org/)** - 32MB / 永远/ 某些NSFW
-* * ** ** [ImgBB](https://imgbb.com/)** - 32MB /永远
-* ****[专箱](https://catbox.moe/)** - 200MB/永远/[Proxy](https://fatbox.moe/)/[ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
-* [像素支 (https://pixelfed.org/) -- -- 分散化的图像共享社会网络/签名-Up要求/[工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_25B7_pixelfed_tools)/[Android](https://gitlab.shinice.net/pixeldroid/PixelDroid)/[GitHub](https://github.com/pixelfed/pixelfed)
-* [sxcu.net] (https://sxcu.net/) - 自由共享X上传服务 / 95MB / N/A
-* [Freeimage.Host] (https://freeimage.host/) - 64MB (128MB W/conccount) / 永远
-10MB /永远
-* (https://tikolu.net/i/) - 8MB /永远
-* [IMGPile](https://imgpile.com/) - 100MB /永远
-[你的图像共享](https://yourimageshare.com/) - 100MB /永远
-* [pic.maxiol](https://pic.maxiol.com/) - 100MB /永远
-* [GIFYU](https://gififyu.com/) - 500MB(100MB w/conccount) /永远
-* [ThumbSnap] (https://thumbsnap.com/) - 48MB /永远
-* [Kepkuldes](https://kepkuldes.com/) - 40MB /永远
-* [Pikkkk](https://pikkkkky.net/) - 20MB /永远
-* [图像成 (https://www.imagebam.com/) - 20MB /永远
-* [图像发 (https://www.imagevenue.com/) - 20MB /永远
-* [快速](https://fastpic.org/) - 25MB/永远
+* ⭐ **[PixVid](https://pixvid.org/)** - 32MB / 永远 / 一些NSFW
+* ⭐ **[ImgBB](https://imgbb.com/)** - 32MB / 永远
+* ⭐ **[Catbox](https://catbox.moe/)** - 200MB / 永远 / [Proxy](https://fatbox.moe/) / [ShareX Config](https://files.catbox.moe/w4ztcf.sxcu)
+* 保护_907__ - 分享分散的图像社交网络 / 需要注册 / 保护_908__ / 保护_909__ / 保护_910__
+* 免费的 ShareX 上传服务 / 95MB / N/A
+* 保护_912__ - 64MB (128MB W/ 账户) / 永久
+* 保护的_913__ - 10MB / 永远
+* 保护的_914__ - 8MB / 永远
+* 保护的_915__ - 100MB / 永远
+* 保护的_916__ - 100MB / 永远
+* 保护的_917__ - 100MB / 永远
+* 保护_918__ - 50MB (100MB w/ 账户) / 永久
+* 保护的919__ - 48MB / 永远
+* 保护的920__ - 40MB / 永远
+* 保护的_921__ - 20MB / 永远
+* 保护的_922__ - 20MB / 永远
+* 保护的_923__ - 20MB / 永远
+* 保护的_924__ - 25MB / 永远
 
-*** ***
+***
 
-### 屏幕截图工具
+## ▷ 截图工具
 
-* ****[ShareX](https://getsharex.com/)** - 截图和屏幕录音工具/[图像主机](https://www.reddit.com/r/FREEMEMEDIAHECKYEAH/wiki/image-tools/#wiki_25B7_image_hosts)/[信息主管](https://xbackbone.ap/)/[Discord](https://discord.com/invite/ShareX)/[GitHub](https://github.com/Sharex/ShareX)
-* ****[火焰](https://flamshot.org/)** [GitHub](https://github.com/flamshot-org/flamshot)
-* ****[西普线](https://zipline.diced.sh/)**——自住式ShareX服务器/[GitHub](https://github.com/diced/zipline)
-* [绿光](https://getgreshot.org/)/[GitHub](https://github.com/gregshot/greshot)
-* [KSnip](https://github.com/ksnip/ksnip)
-(https://nimbusweb.me/screenshot.php)
-* [ixpinApp](https://pixpin.cn/)
-* [screenshotX](https://screshotx.com/)
-视频框架捕捉工具
-* [VideoToJPG](https://viatojpg.com/) -- -- 视频框架提取/[Discord](https://discord.com/invite/PjJUPzrkRM)
-* [FRAMED](https://framedsc.com/index.htm) -- -- 插图
-* [鼠标](https://moocup.jaidip.me/) - 截图编辑 /Mockups / [GitHub] (https://github.com/jellydeck/moocup/)
-* [screenshot Guru](https://screenshot.guru/),[Site-Shot](https://www.site-shot.com/)或[Pikwy](https://pikwy.com/) -- -- 截取网站的截图
-(https://screshot.rocks/)/[GitHub](https://github.com/daveearley/screshot.rocks) - 创建网站的屏幕shot模型
-* [贴纸.photos](https://www.paste.photos/) - 粘贴图像下载
-* [如何截图] (https://scrapshot.help/) - 多平台截图
+* ⭐ **[ShareX](https://getsharex.com/)** - 截图和屏幕录制工具 / [Image Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools/#wiki_.25B7_image_hosts) / [File Manager](https://xbackbone.app/) / [Discord](https://discord.com/invite/ShareX) / [GitHub](https://github.com/ShareX/ShareX)
+* ⭐ **[Flameshot](https://flameshot.org/)** / [GitHub](https://github.com/flameshot-org/flameshot)
+* ⭐ **[Zipline](https://zipline.diced.sh/)** - 自主托管的ShareX服务器 / [GitHub](https://github.com/diced/zipline)
+* 保护的_934__ / [GitHub](https://github.com/greenshot/greenshot)
+* 保护的
+* 保护的
+* 保护的
+* 保护的
+* 视频框架捕获工具
+* 视频框架提取 / 保护_942__
+* 游戏中的屏幕截图技巧
+* 保护_945__ - 截图编辑器 / 模拟版 /
+* 保护_946__,保护_947__或保护_948__ - 拍摄网站的屏幕截图
+* 创建网站的屏幕图模拟
+* 文件的文件是:
+* 保护_952__ - 多平台截图教程
 
-*** ***
+***
 
-## 调调器发电机
+## ▷ 片发电机
 
-* ****[色彩设计师]**,[色彩设计师.io/tools]**,[色彩调色板 Pro](https://colapalette.pro/)/[指南](https://colapalette.pro/manual),[好彩色](https://thegoodcolors.com/),[超彩色调子](https://supercololette.com/)或[coolors](https://coolors.co/)——彩色调子发电机
-* [Clariss](https://www.clariss.xyz/),[Color Palette 生成器](https://www.degraeve.com/color-palette),[Palitra](https://palitra.ap/)或[Color Picker](https://image colorpicker.com/) - 图像生成彩色调
-* [色彩空间](https://mycolor.space/) - 生成渐变彩色调色板
-* [彩色墙 (https://colorswal.com/) 或[ColorKit] (https://colorkit.co/color-palette-generator/) - 生成随机调色板
-* [彩色 Kit] (https://colokit.io/) - 以混合 2 颜色生成彩色调色板
-* [插件](https://pigment.shapefactory.co/),[Eva设计系统](https://colors.eva.design/),[规模](https://hihayk.github.io/scale/)或[Huey](https://huey.design/) - 简单彩色调色生成器
-(https://colorbox.io/),[hue.tools](https://hue.tools/),[Randoma11y](https://randoma11y.com/),[可访问的palette](https://arebitpalette.com/)或[彩色](https://colorcolor.in/) -- 高级调色器生成器
-* [好调子](https://goodpalette.io/),[Huemint](https://huemint.com/),[AI 彩色](https://aicolors.co/)或[PaletteMaker](https://palettemaker.com/) - 生成UI彩色调子
-* [Couleur.io](https://couleur.io/) - CSS 彩色调色器发电机
-* [UI 颜色](https://uicolors.ap/cape) 或[Tints](https://www.tints.dev/) - 斜风 CSS 颜色生成器
-* [poolors](https://poolors.com/) - 生成最常用/最常用的彩色调色板
+* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/)或 [Coolors](https://coolors.co/) - 颜色色调色生成器
+* 通过图像生成颜色 palettes
+* 产生的颜色色
+* 发行随机色彩
+* 通过混合两个颜色来生成颜色.
+* 保护_967__,保护_968__,保护_969__或保护_970__ - 简单的颜色色调子生成器
+* 保护_971__,保护_972__,保护_973__,保护_974__或保护_975__ - 高级色彩调色器
+* 保护_976__,保护_977__,保护_978__或保护_979__ - 生成用户界面颜色
+* 保护_980__ - CSS 颜色片生成器
+* 它们是通过电子设备来实现的.
+* 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品: 产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品:产品
 
-*** ***
+***
 
-□  颜色摘取器
+## ▷ 颜色选用器
 
-** ** [重新颜色] (https://casesandberg.github.io/react-color/)** - 颜色选取指数
-****[布朗色 (https://brandcolors.net/)** - 品牌调色板索引
-(https://macialui.co/colors/),[OKLCH](https://oklch.com/),[Color Deck](https://color.obscuredetour.com/),[Pical](https://picole.co/)或[ColorKit的彩色摘 ,(https://colokit.co/color-picker/) - 彩色摘摘手
-(https://colorparker.fr/),[单纯的色选 (https://annystudio.com/ software/colorparker/)或[epick](https://github.com/vv9k/epick) - 色选桌面应用程序
-* [色彩标 (https://www.colorscales.com/en/start) - 寻找色彩空间中的颜色
-* [色彩法典](https://www.toptal.com/ designers/colourcode/) 或[coordot] (https://color.hailpixel.com/) - 通过移动鼠标查找颜色
-* [Geenes] (https://geenes.ap/welcome) 或[Leonardo] (https://leonardocolor.io/) - 找到 UI 彩色调色板
-* [分类的 CSS 颜色] (https://enes.in/sorded-colors/) - 寻找相似的 CSS 颜色
-(https://colorhunt.co/),[COLOURlovers](https://www.colourlovers.com/),[SchemeColor](https://www.schemecolor.com/),[Culrs](https://culrs.com/)或[Colorffy](https://coloffy.com/) -- -- 寻找色调
-* [阿多贝彩色] (https://color.adobe.com/) - 寻找带有彩轮的彩色调色板
-* [色彩丽萨](https://colollisa.com/) - 寻找艺术彩色调色板
-* [彩跃](https://cololleap.ap/) - 寻找历史色彩调色板
-* [COLORWISE] (https://colorwise.io/) - 寻找产品狩猎产品的彩色调色板
+*  **[React Color](https://casesandberg.github.io/react-color/)** - 颜色采集者指数
+*  **[BrandColors](https://brandcolors.net/)** - 品牌颜色格指数
+* 保护_986__,保护_987__,保护_988__,保护_989__或保护_990__ - 颜色采集器
+* 保护_991__,保护_992__或保护_993__ - 颜色挑选机桌面应用程序
+* 保护_994__ - 在颜色空间中找到颜色
+* 通过移动鼠标找到颜色
+* 查找用户界面颜色
+* 查找类似的CSS颜色
+* 保护_1001__,保护_1002__,保护_1003__或保护_1004__ - 找到色彩
+* 通过彩色轮来找到颜色片
+* 根据艺术的颜色,找到
+* 查找历史色彩
+* 保护_1008__ - 在产品猎物产品中找到颜色片
 
-*** ***
+***
 
-摄影/摄影机
+#  摄影/摄像头
 
-* ****[机器人相机](http://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_25BA_android_camera)** - 机器人相机资源/工具
-* [r/摄影指南](https://www.reddit.com/r/photgraph/wiki/introduction)或[Cambridge in Color](https://www.cambridgeincolour.com/)——摄影/摄影指南
-* [相机决 (https://cameraDecision.com/) 或[数字成像机] (https://digicamfinder.com/) - 比较相机
-* [相机维基](http://camera-wiki.org/) -- -- 摄像机模型维基
-获得照片反馈
-* [darktable](https://www.darktable.org/)/[GitHub](https://gitub.com/darktable-org/darktable)、[RAwTherape](https://www.rawtherape.com/GitHub)/[GitHub](https://gitub.com/RawTherape/RawTherapeee/RawTherapee)或[<亮区](https://github.com/ktgw0316/LightZone)-RAW 照片编辑/Windows、Mac、Linux
-* [HDRMERGE](https://jcelaya.github.io/hdrmerge/) -- -- RAW摄影《人类发展报告》合并工具/[GitHub](https://github.com/jcelaya/hdrmerge)
-* [像素Pieper] (https://pixelpeeper.com/) - 解压缩灯室编辑 /设置
-摄影太阳光计算仪
-* [MagicLantern](https://www.magiclantern.fm/) - 海关加农 EOS 硬软件/[无支持] (https://magiclanter.fandom.com/wiki/ others_dslr) /[Subreddit] (https://www.reddit.com/r/MagicLantern/) /[Discord] (https://discord.gg/uaY8akC)
-* [CHDK] (https://chdk.fandom.com/wiki/CHDK) -- -- 定制Canon PowerShot硬件
-* [fSpy] (https://fspy.io/) - 静止图像相机匹配
-* [DPReview](https://www.dpreview.com/reviews/image-comparison/fullscreen) -- -- 相机图像质量比较
-* [卡农摄影博物馆](https://global.canon/en/c-museum/camera-series.html)——卡农摄影机的历史
+* ️ **[Android Camera](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_camera)** - Android 摄像头资源 / 工具
+* 保护_1010__或保护_1011__ - 摄影 /摄像头指南
+* 保护_1012__或保护_1013__ - 相机的比较
+* 保护_1014__ - 摄像机模型维基
+* 获取照片反
+* 保护_1016__ / 保护_1017__, 保护_1018__ / 保护_1019__或 保护_1020__ - RAW 照片编辑器 / Windows,Mac,Linux
+* 保护_1021__ - 摄影 HDR 融合工具
+* 导读: 导读: 导读: 导读:
+* 照片的日光计算器
+* 保护_1025__ - 定制的佳能EOS固件 / [Unsupported](https://magiclantern.fandom.com/wiki/Other_dslr) / [Subreddit](https://www.reddit.com/r/MagicLantern/) / [Discord](https://discord.gg/uaY8akC)
+* 保护_1029__ - 定制的佳能PowerShot固件
+* 保护_1030__ - 静态图像相机匹配
+* 保护_1031__ - 摄像头图像质量比较
+* 幕的历史
 
-*** ***
+***
 
-□ 摄影法证/元数据
+## 照片 / 检查 / 转载
 
-* ** [图片OSINT] (https://start.me/p/0PgzqO/photo-osint)** - 图像OSINT资源
-* ** ** [信息信息/元数据] (https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_25B7_file_info_2F_metadata)**
-* ** [法 http://sandlab.cs.uchicago.edu/fawkes/]** - 服装服装
-* ****[论坛](https://www.fotoforerencecs.com/)**,[Sherloq](https://gitub.com/GuidoBartoli/sherloq)或[论坛](https://29a.ch/photo-forerencecs/)——摄影法证工具
-* [ViewEXIF](https://www.imgonline.com.ua/eng/exif-info.php),[Jimpl](https://jimpl.com/),[ExifData](https://exifdata.com/),[OnlineEXIFViewer](https://onlineexifviewer.com/),[ExifLooter](https://github.com/aydinnyunus/exifLooter)或[CameraSumary](https://camerascummary.com/) -EXIF/元数据查看器
-* [exiftool.org/],[exiftool](https://exiftool.org/),[2](https://gitub.com/FrankBijnen/ExifToolGui/),[EXIFRemove](https://www.exifremove.com/crambled-exif],(https://gitlab.com/juanitobanas/scrambled-exif),[MetaEditor](https://metaeditor.picvario.com/),[Metatadata-Remover](https://github.com/Anish-M-code/Metadatadata-Remover),[adas](https://www.adarsus.com/en/remove-metaddatad-on-do-image-visa/],或[VerExif](http://www.verexif.com/-remetad/EX数据。
-* [Pic2地图](https://www.pic2map.com/) - 带有全球定位系统支持的图像 EXIF数据查看器
-* [Exifer](https://www.thexifer.net/),[Photiini](https://github.com/jim-asterbrook/Photini)或[ColorPilot](https://www.colorpilot.com/exif.html)——图像 EXIF数据编辑
-* [Picarta](https://picarta.ai/)/[discord](https://discord.gg/g5BAd2UFbs),[GeoSpy](https://geospy.net/)
-或[性别估计](https://labs.tib.eu/geoestimation) - 图像地理定位/位置估计
-* [图像识别项目](https://www.imagepicitify.com/) - 图像识别工具
-* [STegOnline]、[https://georgeom.net/stegOnline/upload]、[OpenStego](https://www.openstego.com/)、[OpenPuff](https://emeddedsw.net/OpenPuff_Stegangraphy_Home.html)、[Stegraphic-PNG](https://pedroaugusto.github.io/stegangraph-png/)/[GitHub](https://all-tools.github.io/hide-text-in-image/) 、[IMStegmaxims/stigsmas/sgplyz/smagsts/
-* [远解 (https://aperisolve.fr/) / [2] (https://www.aperisolve.com/) 或[stegatract] (https://github.com/evyatarmeged/stegextract) - 摄影分析工具
-* [红色](https://redacted.ap/) - 图像的模糊、像片列 或黑脱部分
-* [图像灌 (https://everestpipkin.github.io/image-scrubber/) - 模糊图像 / Scrub元数据
-* [奇索ware] (https://sourceforge.net/projects/schizoware/) - 图像名称 / 散装调试器
-* [Base64 图像](https://www.base64-image.de/) - 编码 / 解码图像
+*  **[Photo OSINT](https://start.me/p/0PgzqO/photo-osint)** - 图片 OSINT资源
+* ️ **[File Info / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_info_.2F_metadata)**
+* ⭐ **[Fawkes](http://sandlab.cs.uchicago.edu/fawkes/)** - 面部遮蔽
+* ⭐ **[FotoForensics](https://www.fotoforensics.com/)**,[Sherloq](https://github.com/GuidoBartoli/sherloq)或 [Forensically](https://29a.ch/photo-forensics/) - 照片法医工具
+* 保护_1039__,保护_1040__,保护_1041__,保护_1042__,保护_1043__或保护_1044__ - EXIF / 转载数据观众
+* 保护_1045__,保护_1046__,保护_1047__,保护_1048__,保护_1049__,保护_1050__,保护_1051__或保护_1052__ - 删除 Meta / EXIF 数据
+* 视频显示器,可通过 GPS 系统查看.
+* 保护_1054__,保护_1055__或保护_1056__ - 图像 EXIF 数据编辑器
+* 保护的_1057__ / 保护的_1058__,
+或 [GeoEstimation](https://labs.tib.eu/geoestimation) - 图像地理位置 / 位置估计
+* 保护_1061__ - 图像识别工具
+* 保护的_1062__,保护的_1063__,保护的_1064__,保护的_1065__ / 保护的_1066__,保护的_1067__,保护的_1068__,保护的_1069__或保护的_1070__ - 图像Steganography工具
+* 保护_1071__ / 保护_1072__或 保护_1073__ - 石家庄分析工具
+* 保护_1074__ - 模糊,像素或黑色部分的图像
+* 其他信息:
+* 保护_1076__ - 图像名称 / 哈希随机定制器
+* 保护_1077__ - 编码 / 解码图像

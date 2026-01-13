@@ -6,4 +6,4 @@ prev: false
 ---
 
 
-< ! - - @ 包括: . /. /. github/ computing. md - >
+<!-- @include: ../../.github/CONTRIBUTING.md -->

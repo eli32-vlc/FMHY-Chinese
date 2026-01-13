@@ -10,10 +10,10 @@ footer: true
 ---
 
 
-< 后发作者 = “ 编目 ” / >
+<Post authors="nbats" />
 
-網絡档案今天被黑, 共有3,100万个账户的详情都被泄露。 如果您有一个账户, 它的** 高亮* 被推荐更改网站上的密码, 以及使用相同登录细节的任何地方 。
+#### 现在,互联网档案馆被黑客攻击了,所有3100万个帐户都泄露了他们的详细信息.
 
-* https://www.bleeping com/news/security/internet-archive-hacked-data-reach-impacts-3100万用户/ https://www.bleeping com/news/security/internet-archive-hacked-data-reach-impacts-3100万用户/
+* 保护的
 
-* https://haveibeenpwned.com/
+* 保护的
