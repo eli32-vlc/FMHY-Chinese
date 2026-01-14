@@ -1,6 +1,6 @@
 ***
 ***
-保护的
+     
 ***
 ***
 
@@ -10,186 +10,186 @@
 
 ***
 
-*  **[Awesome Windows 11](https://github.com/awesome-windows11/windows11)** - Windows 11资源
-*  **[PC-Optimization-Hub](https://github.com/BoringBoredom/PC-Optimization-Hub)** - 系统优化资源
-* ️ **[Gaming Optimization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_optimization_tools)**
-* ⭐ **[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)** - 系统工具 / [Search](https://github.com/lin-ycv/EverythingPowerToys) / [Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins) / [GitHub](https://github.com/microsoft/PowerToys/)
-* ⭐ **[Sysinternals](https://learn.microsoft.com/en-us/sysinternals/)** - 高级系统工具
-* ⭐ **[CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)**, [winfetch](https://github.com/lptstr/winfetch), [CPU Fetch](https://github.com/Dr-Noob/cpufetch), [Glow](https://github.com/turkaysoftware/glow)或 [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - 系统信息工具
-* ⭐ **[SuperF4](https://stefansundin.github.io/superf4/)**或 [FKill](https://github.com/sindresorhus/fkill-cli) - 过程杀手
-* ⭐ **[Bulk Crap Uninstaller](https://www.bcuninstaller.com/)**, [Revo Uninstaller](https://www.revouninstaller.com/products/revo-uninstaller-free/)或 [GeekUninstaller](https://geekuninstaller.com/) - 大量卸载工具
-* 系统管理工具
-* 保护系统存储系统
-* 保护_21__ - 地方组政策编辑
-* 保护_22__或保护_23__ - 删除不存在的设备
-* 保护_24__ - 程序删除指南
-* 保护_25__或保护_26__ - 过程监测器
-* 保护_27__ - 过程追踪/调试
-* 电脑处理器监控器
-* 保护_29__,保护_30__,保护_31__或保护_32__ - 登记器探险器/扫描仪
-* 保护_33__ - Windows系统文件 / 双元
-* 保护_34__,保护_35__,保护_36__ - 启用Windows内存程序,不需要账户
-* 保护的声音助理
-* 保护_38__或保护_39__ - 存储器搜索应用程序 /系统记录器
-* 检查系统时钟的准确性
-* 机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器人机器
-* 保护_42__ - 替换ASUS笔记本电脑的装备箱
+*  **KEEP1/KEEP** - Windows 11资源
+*  **KEEP2/KEEP** - 系统优化资源
+* ️ **KEEP3/KEEP**
+* ⭐ **KEEP4/KEEP** - 系统工具 / KEEP5/KEEP / KEEP6/KEEP / KEEP7/KEEP
+* ⭐ **KEEP8/KEEP** - 高级系统工具
+* ⭐ **KEEP9/KEEP**, KEEP10/KEEP, KEEP11/KEEP, KEEP12/KEEP或 KEEP13/KEEP - 系统信息工具
+* ⭐ **KEEP14/KEEP**或 KEEP15/KEEP - 过程杀手
+* ⭐ **KEEP16/KEEP**, KEEP17/KEEP或 KEEP18/KEEP - 大量卸载工具
+* KEEP19/KEEP - 系统管理工具
+* KEEP20/KEEP - 清洁系统存储
+* KEEP21/KEEP - 地方团体政策编辑
+* KEEP22/KEEP或 KEEP23/KEEP - 删除不存在的设备
+* KEEP24/KEEP - 程序删除指南
+* KEEP25/KEEP或 KEEP26/KEEP - 过程监测器
+* KEEP27/KEEP - 过程追踪/调试
+* KEEP28/KEEP - 笔记本电脑CPU监控器/优化器
+* KEEP29/KEEP, KEEP30/KEEP, KEEP31/KEEP或 KEEP32/KEEP - 登记器探险器/扫描仪
+* KEEP33/KEEP - Windows系统文件 /二进制
+* KEEP34/KEEP, KEEP35/KEEP, KEEP36/KEEP - 无需账户启用Windows Insider
+* KEEP37/KEEP - 语音助理
+* KEEP38/KEEP或 KEEP39/KEEP - 存储器搜索应用程序/系统记录器
+* KEEP40/KEEP - 检查系统钟的精确性
+* KEEP41/KEEP - 联想优势+热钥匙替代联想军团笔记本电脑
+* KEEP42/KEEP - 替换ASUS笔记本电脑的装备箱
 
 ***
 
 ## ▷ 系统调整
 
-* ⭐ **[Windhawk](https://windhawk.net/)**, __ PROTECTED_44__或 __ PROTECTED_45__ / __ PROTECTED_46__ - 系统调整工具 / **__ PROTECTED_47__**
-* ⭐ **[StartAllBack](https://www.startallback.com/)** - 调整了启动菜单和任务 / Windows 11 / [Fix](https://rentry.co/FMHYB64#startxback)
-* ⭐ **[EverythingToolbar](https://github.com/srwi/EverythingToolbar)** - 在任务中搜索所有内容
-* ⭐ **[Open Shell](https://open-shell.github.io/Open-Shell-Menu/)** / [Customizable Skin](https://github.com/bonzibudd/Fluent-Metro)或 [StartIsBack](https://startisback.com/) / [Fix](https://rentry.co/FMHYB64#startxback) - 经典的启动菜单
-* ⭐ **[EarTrumpet](https://eartrumpet.app/)**, [Volumey](https://github.com/G-Stas/Volumey)或 [Volume2](https://github.com/irzyxa/Volume2) - 调整式音量混合器
-* ⭐ **[AltSnap](https://github.com/RamonUnch/AltSnap)** - 修改的窗户拖动
-* ⭐ **[Edge-Uninstall](https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6)** - 微软边缘删除脚本
-* 系统脚本
-* 系统应用程序调整
-* 保护_65__,保护_66__,保护_67__,保护_68__,保护_69__ /保护_70__ - 键盘按 /应用程序发射器
-* 应用程序启动器 / 饼菜单 / 保护_72__ / 保护_73__
-* 系统导航调整
-* 保护_75__ - 调整系统菜单
-* 保护_76__ / 保护_77__或 _ 保护_78__ - 调整 / 定制文本菜单
-* 保护_79__ - 改进/调整文件探险器
-* 文件管理器
-* 保护_81__ - 经典的开始菜单
-* 修改任务
-* 工作子高级功能 / Win 10
-* [⁠AppGroup](https://github.com/iandiv/AppGroup) - 创建任务应用组 /文件
-* 保护_85__ - 尽量减少任何应用程序到托盘
-* 简单地隐藏/显示任务
-* 快速查找Windows / [Scan Note](https://github.com/QL-Win/QuickLook/issues/1576#issuecomment-2816980688)
-* 转向微软边缘
-* 移动Windows通知
+* ⭐ **KEEP43/KEEP**, KEEP44/KEEP或 KEEP45/KEEP / KEEP46/KEEP - 系统调整工具 / **KEEP47/KEEP**
+* ⭐ ** KEEP48/KEEP** - 修改了启动菜单和任务 / Windows 11 / KEEP49/KEEP
+* ⭐ **KEEP50/KEEP** - 在任务中搜索所有内容
+* ⭐ **KEEP51/KEEP** / KEEP52/KEEP或 KEEP53/KEEP / KEEP54/KEEP - 经典的开始菜单
+* ⭐ **KEEP55/KEEP**, KEEP56/KEEP或 KEEP57/KEEP - 调整式音量混合机
+* ⭐ ** KEEP58/KEEP** - 修改的窗户拖动
+* ⭐ ** KEEP59/KEEP** - 微软边缘删除脚本
+* KEEP60/KEEP / KEEP61/KEEP / KEEP62/KEEP或 KEEP63/KEEP - 系统脚本
+* KEEP64/KEEP - 系统应用程序调整
+* KEEP65/KEEP, KEEP66/KEEP, KEEP67/KEEP, KEEP68/KEEP, KEEP69/KEEP / KEEP70/KEEP - 键盘按 /应用程序启动器
+* KEEP71/KEEP - 应用程序启动器 / 饼菜单 / KEEP72/KEEP / KEEP73/KEEP
+* KEEP74/KEEP - 调整系统导航
+* KEEP75/KEEP - 调整系统菜单
+* KEEP76/KEEP / KEEP77/KEEP或 KEEP78/KEEP - 调整 / 定制文本菜单
+* KEEP79/KEEP - 改进/改进的文件探险器
+* KEEP80/KEEP - 文件管理器
+* KEEP81/KEEP - 经典的开始菜单
+* KEEP82/KEEP - 调整任务
+* KEEP83/KEEP - 任务高级功能 / Win 10
+* KEEP84/KEEP - 创建任务应用程序组/文件
+* KEEP85/KEEP - 尽量减少任何应用程序在托盘上
+* KEEP86/KEEP - 轻松隐藏/显示任务
+* KEEP87/KEEP - macOS快速搜索Windows / KEEP88/KEEP
+* KEEP89/KEEP - 转向微软边缘
+* KEEP90/KEEP - 移动Windows通知
 
 ***
 
 ## ▷ 包装管理员
 
-* ⭐ **[WinGet](https://learn.microsoft.com/en-us/windows/package-manager/winget)** - CLI 包装管理员 / [Browse](https://winstall.app/) / [Auto Update](https://github.com/Romanitho/Winget-AutoUpdate) / [GitHub](https://github.com/microsoft/winget-cli)
-* ⭐ **[UniGetUI](https://www.marticliment.com/unigetui/)** - 热门包管理器的GUI / [GitHub](https://github.com/marticliment/UniGetUI)
-* ⭐ **[Scoop](https://scoop.sh/)** - 可携带包装管理器
-* ⭐ **[sfsu](https://github.com/winpax/sfsu/)**或 [hok](https://github.com/chawyehsu/hok) - 快速车公用事项
-* 包装管理器 / 保护_101__ / 保护_102__
-* 包装管理员
-* 包装管理器 / 基于Web的 / 保护_105__
-* 保护_106__ - CLI 包装管理员
-* 建立多程序安装器
-* 保护_108__ - 分散的跨平台包管理器
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 保护_110__ - 最小化包管理者
-* 导航服务器: 导航服务器:
+* ⭐ **KEEP91/KEEP** - CLI 包装经理 / KEEP92/KEEP / KEEP93/KEEP / KEEP94/KEEP
+* ⭐ **KEEP95/KEEP** - 热门包管理人员的GUI / KEEP96/KEEP
+* ⭐ **KEEP97/KEEP** - 可携带包装管理器
+* ⭐ **KEEP98/KEEP**或 KEEP99/KEEP - 快速车公用品
+* KEEP100/KEEP - 包装经理 / KEEP101/KEEP / KEEP102/KEEP
+* KEEP103/KEEP - 包装管理员
+* KEEP104/KEEP - 包管理器 / 基于Web的 / KEEP105/KEEP
+* KEEP106/KEEP - CLI 包装管理员
+* KEEP107/KEEP - 构建多程序安装器
+* KEEP108/KEEP - 分级跨平台包管理器
+* KEEP109/KEEP - 便携式应用程序包管理器
+* KEEP110/KEEP - 最小化包管理者
+* KEEP111/KEEP - 尼尔软件公用事业的便携式包管理器
 
 ***
 
 ## ▷ 任务自动化
 
-* ⭐ **[AutoHotkey](https://www.autohotkey.com/)** / [Resources](https://github.com/ahkscript/awesome-AutoHotkey) / [Discord](https://discord.com/invite/Aat7KHmG7v)
-* 系统任务安排器
-* 保护的_117__ / 保护的_118__
-* 保护的_119__
-* 保护的
-* 保护的
-* 保护的
-* 保护_123__ - 自动文件管理器 / [GitHub](https://github.com/tfeldmann/organize)
+* ⭐ **KEEP112/KEEP** / KEEP113/KEEP / KEEP114/KEEP
+* KEEP115/KEEP或 KEEP116/KEEP - 系统任务安排器
+* KEEP117/KEEP / KEEP118/KEEP
+* KEEP119/KEEP
+* KEEP120/KEEP
+* KEEP121/KEEP
+* KEEP122/KEEP
+* KEEP123/KEEP - 自动文件管理器
 
 ***
 
 ## ▷ 终端 / CLI
 
-*  **[The Terminal Directory](https://termui.sh/)**或 [⁠Awesome Terminals](https://github.com/cdleon/awesome-terminals) - 终端模拟器列表
-*  **[terminals-are-sexy](https://terminalsare.sexy/)** - 终端资源
-*  **[Awesome CLI Apps](https://github.com/agarrharr/awesome-cli-apps)**或 [Command Line Tools](https://github.com/learn-anything/command-line-tools) - 命令线资源
-* ⭐ **[ss64](https://ss64.com/)** - 命令行参考指数
-* 保护_131__ / 保护_132__, 保护_133__, 保护_134__, 保护_135__或 保护_136__ - Windows终端模拟器
-* 您可以使用 Microsoft PowerShell / Windows, Mac, Linux
-* 保护_138__ - 维生素的Unix命令
-* 编辑命令行
-* 保护的
-* 关心终端仪表板
-* 导航: 导航: 导航:
-* 机号模拟器
-* 命令行笔记本
-* 保护_145__ - 发动机片段 / 谨慎使用
-* 保护_146__,保护_147__或保护_148__ - 体脚本
+*  **KEEP125/KEEP**或 KEEP126/KEEP - 终端模拟器列表
+*  **KEEP127/KEEP** - 终端资源
+*  **KEEP128/KEEP**或 KEEP129/KEEP - 命令线资源
+* ⭐ **KEEP130/KEEP** - 命令行参考指数
+* KEEP131/KEEP / KEEP132/KEEP, KEEP133/KEEP, KEEP134/KEEP, KEEP135/KEEP或 KEEP136/KEEP - Windows终端模拟器
+* KEEP137/KEEP - 微软PowerShell / Windows,Mac,Linux
+* KEEP138/KEEP - 维生素的Unix命令
+* KEEP139/KEEP - 命令行编辑
+* KEEP140/KEEP - 另一个
+* KEEP141/KEEP - 关心终端仪表板
+* KEEP142/KEEP - 命令线学习
+* KEEP143/KEEP - 赛格温终端模拟器
+* KEEP144/KEEP - 命令行笔记本
+* KEEP145/KEEP - 电力片段 / 谨慎使用
+* KEEP146/KEEP, KEEP147/KEEP或 KEEP148/KEEP - 贝脚本
 
 ***
 
 ## ▷ 远程桌面
 
-* ⭐ **[Parsec](https://parsec.app/)** - 桌面客户端 / [X](https://x.com/parsecteam) / [Discord](https://discord.com/invite/cQjEGFy)
-* ⭐ **[RustDesk](https://rustdesk.com/)** - 桌面客户端 / [Subreddit](https://www.reddit.com/r/rustdesk/) / [Discord](https://discord.com/invite/nDceKgxnkV) / [GitHub](https://github.com/rustdesk/rustdesk)
-* ⭐ **[Aspia](https://aspia.org/)** - 桌面客户端 / [Telegram](https://t.me/aspia_talks) / [GitHub](https://github.com/dchapyshev/aspia)
-* ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)**或 [Apollo](https://github.com/ClassicOldSong/Apollo) - 月光远程服务器 / [Mobile](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
-* 游戏远程桌面客户端
-* 保护_167__ - 集装箱流媒体平台 / 资源密集型
-* 电脑系统的安全性
-* 电脑系统的安全性
-* 电脑系统的安全性
-* 电脑系统的安全性
-* 电脑系统的安全性
-* 网站上使用
-* 保护_179__ - 多计算机客户端
-* 电子设备的使用者
-* 导航服务器
-* 网站上使用的信息
-* 网站上使用的信息
-* 网站上使用的信息
-* 保护_188__ - 维尼克客户端 / 保护_189__
-* 保护_190__ - 维尼克客户端
-* 查看更多关于"鱼"的文章
+* ⭐ **KEEP149/KEEP** - 桌面客户端 / KEEP150/KEEP / KEEP151/KEEP
+* ⭐ **KEEP152/KEEP** - 桌面客户端 / KEEP153/KEEP / KEEP154/KEEP / KEEP155/KEEP
+* ⭐ **KEEP156/KEEP** - 桌面客户端 / KEEP157/KEEP / KEEP158/KEEP
+* ⭐ **KEEP159/KEEP**或 KEEP160/KEEP - 远程服务器为月光 / KEEP161/KEEP / KEEP162/KEEP / KEEP163/KEEP
+* KEEP164/KEEP - 游戏远程桌面客户端 / KEEP165/KEEP / KEEP166/KEEP
+* KEEP167/KEEP - 集装箱流媒体平台/资源密集型 / KEEP168/KEEP / KEEP169/KEEP
+* KEEP170/KEEP - 桌面客户端
+* KEEP171/KEEP - 桌面客户端
+* KEEP173/KEEP - 桌面客户端
+* KEEP174/KEEP - 桌面客户端
+* KEEP175/KEEP - 桌面客户端 / KEEP176/KEEP / KEEP177/KEEP
+* KEEP178/KEEP - 基于网络
+* KEEP179/KEEP - 多台计算机客户端
+* KEEP180/KEEP - 多台计算机客户端
+* KEEP181/KEEP - 可移动客户端
+* KEEP182/KEEP - 基于网络的
+* KEEP184/KEEP - 基于网络的
+* KEEP186/KEEP - 基于网络的
+* KEEP188/KEEP - 维尼克客户端
+* KEEP190/KEEP - VNC客户端
+* KEEP191/KEEP - JavaScript VNC 客户端 / KEEP192/KEEP
 
 ***
 
 ## ▷ 剪辑板管理员
 
-* ⭐ **[Ditto](https://ditto-cp.sourceforge.io/)** - 剪辑板管理员 / [GitHub](https://sabrogden.github.io/Ditto/)
-* 幕管理员 / 幕管理员
-* 保护_197__ - 剪辑板管理员 / [GitHub](https://github.com/crosspaste/crosspaste-desktop)
-* 幕管理员
-* 幕管理器
-* 保护_201__ / [GitHub](https://github.com/hluk/CopyQ)或 [XClipper](https://kaustubhpatange.github.io/XClipper/) / [GitHub](https://github.com/KaustubhPatange/XClipper) - 剪辑和脚本功能的剪辑板管理器
-* 保护_205__ - 扩展剪辑板10个内存槽
+* ⭐ **KEEP193/KEEP** - 剪辑板管理员 / KEEP194/KEEP
+* KEEP195/KEEP - 剪辑板管理员
+* KEEP197/KEEP - 剪辑板管理员
+* KEEP199/KEEP - 剪辑板管理员
+* KEEP200/KEEP - 剪辑板管理员
+* KEEP201/KEEP / KEEP202/KEEP或 KEEP203/KEEP / KEEP204/KEEP - 剪辑和脚本功能的剪辑板管理员
+* KEEP205/KEEP - 扩展剪辑板10个内存槽
 
 ***
 
 ## ▷ 窗口管理器
 
-* ⭐ **[GlazeWM](https://github.com/glzr-io/glazewm)** - 窗管理器
-* ⭐ **[Komorebi](https://github.com/LGUG2Z/komorebi)** - 窗管理器
-* ⭐ **[WorkSpacer](https://workspacer.org/)** / [GitHub](https://github.com/workspacer/workspacer) - 窗管理器
-* 窗管理器 / 窗管理器
-* 置式动态窗口管理器
-* 保护_213__ - X11 dwm的端口到Windows
+* ⭐ **KEEP206/KEEP** - 窗管理器
+* ⭐ **KEEP207/KEEP** - 窗管理器
+* ⭐ **KEEP208/KEEP** / KEEP209/KEEP - 窗管理器
+* KEEP210/KEEP - 窗户管理员
+* KEEP212/KEEP - 可插动窗口管理器
+* KEEP213/KEEP - X11 dwm的端口到Windows
 
 ***
 
 ## 虚拟机
 
-*  **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)**或 [Simone's Computer](https://simone.computer/#/webdesktops) - 操作系统模拟器/VM
-* ️ **[Emulators on Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
-* ⭐ **[VMware Workstation](https://www.majorgeeks.com/files/details/vmware_workstation_for_windows.html)** - 虚拟机 / [macOS VM](https://rentry.co/FMHYB64#vmware-workstation)
-* ⭐ **[QEMU](https://www.qemu.org/)** - 虚拟机/使用 w/ Virt-Manager或 Vagrantup / [Docker Container](https://github.com/qemus/qemu) / [GitLab](https://gitlab.com/qemu-project/qemu)
-* ⭐ **[VirtualBox](https://www.virtualbox.org/)** - 虚拟机 / [Portable](https://www.vbox.me/)
-* ⭐ **[Virt-Manager](https://virt-manager.org/)** / [GitHub](https://github.com/virt-manager/virt-manager)或 [Vagrantup](https://www.vagrantup.com/) / [GitHub](https://github.com/hashicorp/vagrant) - 虚拟机管理员
-* 基于内核的虚拟机,用于VGA PCI通过
-* 保护_230__ - 虚拟机
-* 保护机器
-* 预装虚拟机
-* 网络Linux虚拟机
-* 保护_234__或 _ PROTECTED_235__ - 虚拟机创建者
-* 运行Linux在Windows上 / 保护_237__ / 保护_238__ / 保护_239__ / 保护_240__
-* 运行Windows/macOS在Docker容器中
-* 系统模拟器
-* 电子模拟器
-* 果操作系统模拟器
-* 系统的16位Windows
-* 系统的系统
-* 其他技术支持:
-* 转换网站为桌面应用
+*  **KEEP214/KEEP**或 KEEP215/KEEP - 操作系统模拟器/虚拟机
+* ️ **KEEP216/KEEP**
+* ⭐ **KEEP217/KEEP** - 虚拟机 / KEEP218/KEEP
+* ⭐ **KEEP219/KEEP** - 虚拟机/使用 w/ Virt-Manager或 Vagrantup / KEEP220/KEEP / KEEP221/KEEP
+* ⭐ **KEEP222/KEEP** - 虚拟机 / KEEP223/KEEP
+* ⭐ **KEEP224/KEEP** / KEEP225/KEEP或 KEEP226/KEEP / KEEP227/KEEP - 虚拟机管理员
+* KEEP228/KEEP - 基于内核的虚拟机,用于VGA PCI通过 / KEEP229/KEEP
+* KEEP230/KEEP - 虚拟机
+* KEEP231/KEEP - 虚拟机
+* KEEP232/KEEP - 预装虚拟机
+* KEEP233/KEEP - 网络Linux虚拟机
+* KEEP234/KEEP或 KEEP235/KEEP - 虚拟机创作者
+* KEEP236/KEEP - 在Windows上运行Linux / KEEP237/KEEP / KEEP238/KEEP / KEEP239/KEEP / KEEP240/KEEP
+* KEEP241/KEEP - 在Docker容器中运行Windows/macOS
+* KEEP242/KEEP - x86兼容的操作系统模拟器
+* KEEP243/KEEP - 经典计算机模拟器
+* KEEP244/KEEP - 果操作系统模拟器
+* KEEP245/KEEP - 在64位系统上使用16位的Windows
+* KEEP246/KEEP - 对于Windows的Linux模拟器
+* KEEP247/KEEP - 达克应用程序
+* KEEP248/KEEP - 将网站转化为桌面应用程序
 
 ***
 
@@ -199,287 +199,287 @@
 
 ***
 
-* ⭐ **[Hackintosh](https://hackintosh.com/) / [Subreddit](https://www.reddit.com/r/hackintosh/) / [Discord](https://discord.gg/u8V7N5C)** - 哈金托什建筑指南
-* ⭐ **[Dortania](https://dortania.github.io/OpenCore-Install-Guide/)** - 黑金托什安装指南
-* 没有支持的硬件
-* 系统的安全性
-* 保护系统的环境
-* 保护的
+* ⭐ **KEEP249/KEEP / KEEP250/KEEP / KEEP251/KEEP** - 哈金托什建筑指南
+* ⭐ **KEEP252/KEEP** - 黑金托什安装指南
+* KEEP253/KEEP - 在不支持硬件上的 macOS
+* KEEP254/KEEP -  macOS VM 与 QEMU
+* KEEP255/KEEP - 虚拟macOS环境
+* KEEP256/KEEP
 
 ***
 
 #  硬件工具
 
-* ️ **[PC Building / Shopping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_electronics)**
-* ⭐ **[PSU Calculator](https://www.newegg.com/tools/power-supply-calculator/)** - 找到兼容的电源
-* 检测机器的数量
-* 保护_262__,保护_261__,保护_262__,保护_263__或保护_264__ - CPU优化器
-* 系统基准测量
-* 保护_268__ - 记忆基准测量
-* 记忆诊断工具
-* 保护_272__,保护_271__,保护_272__或保护_273__ - 更新/安装失踪驱动程序 / 保护_274__
-* 电子设备的使用
+* ️ **KEEP257/KEEP**
+* ⭐ **KEEP258/KEEP** - 找到兼容的电源
+* KEEP259/KEEP - 多个设备测试
+* KEEP260/KEEP, KEEP261/KEEP, KEEP262/KEEP, KEEP263/KEEP或 KEEP264/KEEP - CPU优化器
+* KEEP265/KEEP, KEEP266/KEEP或 KEEP267/KEEP - 系统基准测量
+* KEEP268/KEEP - 记忆基准测量
+* KEEP269/KEEP - 记忆诊断工具
+* KEEP270/KEEP, KEEP271/KEEP, KEEP272/KEEP或 KEEP273/KEEP - 更新/安装失踪驱动程序 / KEEP274/KEEP
+* KEEP275/KEEP - 复古计算机硬件论坛
 
 ***
 
 ## ▷ 硬件监控器
 
-* ⭐ **[HWiNFO](https://www.hwinfo.com/)** - 系统信息和监测
-* 网络和硬件监控 / 使用Lite版本
-* 防护设备监控器
-* 系统托盘电池百分比 / 管理人员 / 保护_283__
-* 保护_284__ - 硬件监控器
-* 系统信息和监测
-* 任务管理员 Alt
-* 保护_287__ - 任务管理员 Alt
-* 更新了开放硬件监控器的叉子
-* 保护_289__ / [GitHub](https://github.com/Rem0o/FanControl.Releases)或 [FanCtrl](https://github.com/lich426/FanCtrl) - 电脑风扇控制器
-* 保护_292__或[Glances](https://nicolargo.github.io/glances/) / [GitHub](https://github.com/nicolargo/glances) - 终端硬件监测器
+* ⭐ **KEEP277/KEEP** - 系统信息和监测
+* KEEP278/KEEP - 网络和硬件监控器/使用Lite版本
+* KEEP279/KEEP - 制冷设备监视器 / KEEP280/KEEP / KEEP281/KEEP
+* KEEP282/KEEP - 系统托盘电池百分比 / 管理人员 / KEEP283/KEEP
+* KEEP284/KEEP - 硬件监控器
+* KEEP285/KEEP - 系统信息和监测
+* KEEP286/KEEP - 任务管理员 Alt
+* KEEP287/KEEP - 任务管理员 Alt
+* KEEP288/KEEP - 开放硬件监控器的更新叉
+* KEEP289/KEEP / KEEP290/KEEP或 KEEP291/KEEP - 电脑风扇控制器
+* KEEP292/KEEP或 KEEP293/KEEP / KEEP294/KEEP - 终端硬件监测器
 
 ***
 
 ## ▷ 图像图像工具
 
-* ⭐ **[NVTOP](https://github.com/Syllo/nvtop)** -  GPU / 加速度器过程监测器
-* ⭐ **[GreenWithEnvy](https://gitlab.com/leinardi/gwe)** - 管理/控制NVIDIA卡
-* ⭐ **[NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)**或 [NVSlimmer](https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility-continued.457504/) - NVIDIA 驱动程序包
-* 显示驱动器移除工具 / 保护_301__
-* 保护_302__ - NVIDIA GPU 更新检查器
-* 修改 / 查看隐藏NVIDIA设置 / 修改 / 查看NVIDIA隐藏设置 /
-* 系统的驱动器
-* 系统的安全性
-* 保护_309__ - GPU 测量
-* 电脑的GPU控制器
-* 讯电脑的GPU控制器
+* ⭐ **KEEP295/KEEP** -  GPU / 加速度器过程监测器
+* ⭐ ** KEEP296/KEEP** - 管理/控制NVIDIA卡
+* ⭐ ** KEEP297/KEEP**或 KEEP298/KEEP - NVIDIA 驾驶员包
+* KEEP299/KEEP, KEEP300/KEEP - 显示驱动器移除工具 / KEEP301/KEEP
+* KEEP302/KEEP - NVIDIA GPU更新检查器
+* KEEP303/KEEP或 KEEP304/KEEP - 修改/查看隐藏NVIDIA设置 / KEEP305/KEEP
+* KEEP306/KEEP - 卸载AMD驱动器
+* KEEP307/KEEP - AMD第三方驱动程序
+* KEEP309/KEEP - GPU 基准测量
+* KEEP310/KEEP - 笔记本电脑GPU控制器
+* KEEP312/KEEP - 瑞森笔记本电脑GPU控制器
 
 ***
 
 ## ▷ 磁盘工具
 
-*  **[Awesome Storage](https://github.com/okhosting/awesome-storage)** - 文件存储资源
-*  **[Awesome DataHoarding](https://github.com/simon987/awesome-datahoarding)** - 数据储存资源
-* ⭐ **[WizTree](https://www.diskanalyzer.com/)**, [TreeSize](https://www.jam-software.com/treesize)或 [WinDirStat](https://windirstat.net/) / [GitHub](https://github.com/windirstat/windirstat/) - 磁盘使用分析仪
-* ⭐ **[CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/)**或 [CCISOBench](https://ccsiobench.com/) - 磁盘基准工具
-* ⭐ **[GParted](https://gparted.org/)** / [GitLab](https://gitlab.gnome.org/GNOME/gparted/), [MiniTool Partition Wizard](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (搜索) 或 [AOMEI Partition Assistant](https://www.diskpart.com/) / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (搜索) - 分区管理器
-* ⭐ **[Validrive](https://www.grc.com/validrive.htm)** - 检查USB设备的真实存储尺寸
-* 保护系统
-* 保护_328__ - 目录统计
-* 保护_332__ / 保护_333__ / 保护_330__, 保护_331__, 保护_332__ / 保护_333__或 保护_334__ - 驱动诊断
-* 保护_335__ - 磁盘使用分析器
-* 保护_336__ - 磁盘使用分析器
-* 处理器: 磁盘使用分析器
-* 保护_339__ - 跨平台磁盘使用分析器
-* 保护_340__ - 磁盘管理器 / 清理
-* 作为本地磁盘驱动器
-* 作为本地磁盘的SFTP服务器
+*  **KEEP313/KEEP** - 文件存储资源
+*  **KEEP314/KEEP** - 数据储存资源
+* ⭐ **KEEP315/KEEP**, KEEP316/KEEP或 KEEP317/KEEP / KEEP318/KEEP - 磁盘使用分析仪
+* ⭐ **KEEP319/KEEP**或 KEEP320/KEEP - 磁盘基准工具
+* ⭐ **KEEP321/KEEP** / KEEP322/KEEP, KEEP323/KEEP (搜索) 或 KEEP324/KEEP / KEEP325/KEEP (搜索) - 分区管理器
+* ⭐ **KEEP326/KEEP** - 检查USB设备的真实存储尺寸
+* KEEP327/KEEP - 存储系统
+* KEEP328/KEEP - 统计目录
+* KEEP329/KEEP / KEEP330/KEEP, KEEP331/KEEP, KEEP332/KEEP / KEEP333/KEEP或 KEEP334/KEEP - 驱动诊断
+* KEEP335/KEEP - 磁盘使用分析器
+* KEEP336/KEEP - 磁盘使用分析器
+* KEEP337/KEEP或 KEEP338/KEEP - 具有并行处理的磁盘使用分析器
+* KEEP339/KEEP - 跨平台磁盘使用分析器
+* KEEP340/KEEP - 磁盘管理器 / 清理
+* KEEP341/KEEP - 作为本地磁盘驱动的山云
+* KEEP342/KEEP - 作为本地磁盘的山上SFTP服务器
 
 ***
 
 ## ▷ 监控工具
 
-* ⭐ **[DisplayFusion](https://www.displayfusion.com/)**或 [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - 双重监控工具
-* ⭐ **[f.lux](https://justgetflux.com/)**, [LightBulb](https://github.com/Tyrrrz/LightBulb)或 [ScreenTemperature](https://github.com/massaiTHEdog1/ScreenTemperature) - 自动调节显示器颜色/温度
-* ⭐ **[Monitorian](https://github.com/emoacht/Monitorian)**, **[Twinkle Tray](https://twinkletray.com/)** / [GitHub](https://github.com/xanderfrangos/twinkle-tray)或 [Dimmer](https://www.nelsonpires.com/software/dimmer) - 调整监视器亮度
-* 监测性能测试
-* 监控器的率测试
-* 保护_356__ - 检测数据
-* 保护_357__ - 自动 DPI 缩放 / [YouTube](https://youtu.be/f_3XWlmyat4)
-* 保护_359__,保护_360__ - ICC 个人资料和监测校准
-* 显示距离 / 尺寸计算器
-* 双监视器设置计划/测试
-* 保护_363__ - 颜色兼容性测试
-* 限制NVIDIA GPU到sRGB / 防止过度和
-* 保护_365__ - 死亡像素测试
-* 修复的像素
-* 查找监视器中心
-* 显示桌面只为一个显示器
-* 电子设备的使用率
-* 保护_371__或_保护_372__ - 使用移动设备作为监视器
-* 保护_373__ - 定制屏幕遮光器
-* 保护性光过器
-* 视觉盲人阅读器
+* ⭐ **KEEP343/KEEP**或 KEEP344/KEEP - 双监控工具
+* ⭐ **KEEP345/KEEP**, KEEP346/KEEP或 KEEP347/KEEP - 自动调节显示屏颜色/温度
+* ⭐ ** KEEP348/KEEP**, ** KEEP349/KEEP** / KEEP350/KEEP或 KEEP351/KEEP - 调整监视亮度
+* KEEP352/KEEP, KEEP353/KEEP或 KEEP354/KEEP - 监测性能测试
+* KEEP355/KEEP - 监测格测试
+* KEEP356/KEEP - DPI测试
+* KEEP357/KEEP - 自动DPI缩放 / KEEP358/KEEP
+* KEEP359/KEEP, KEEP360/KEEP - ICC 个人资料和监测校准
+* KEEP361/KEEP - 显示距离/维度计算器
+* KEEP362/KEEP - 双监视器设置计划 /测试
+* KEEP363/KEEP - 颜色兼容性测试
+* KEEP364/KEEP - 限制NVIDIA GPU到sRGB / 防止过度和
+* KEEP365/KEEP - 死像素测试
+* KEEP366/KEEP - 修复脚像素
+* KEEP367/KEEP - 查找监视中心
+* KEEP368/KEEP - 显示桌面只为一个显示器
+* KEEP369/KEEP - 虚拟显示驱动器
+* KEEP370/KEEP / KEEP371/KEEP或 KEEP372/KEEP - 使用移动设备作为监视器
+* KEEP373/KEEP - 定制屏幕遮光器
+* KEEP374/KEEP或 KEEP375/KEEP - 颜色盲度过器
+* KEEP376/KEEP - 盲人屏幕阅读器
 
 ***
 
 ## ▷ 鼠标/键盘
 
-* ⭐ **[r/MechanicalKeyboards Wiki](https://www.reddit.com/r/MechanicalKeyboards/wiki/index)** - 机械键盘资源
-* ⭐ **[Hotkey Cheatsheet](https://hotkeycheatsheet.com/)**, 守_380__或 守_381__ - 热钥匙骗局
-* ⭐ **[VIA](https://usevia.app/)** / [GitHub](https://github.com/the-via/app), [SharpKeys](https://github.com/randyrants/sharpkeys/), [Kanata](https://github.com/jtroo/kanata), [keymapper](https://github.com/houmain/keymapper), [Ergogen](https://ergogen.xyz/), [Mahou](https://gitea.com/BladeMight/Mahou) - 定制键盘布局 /重新映射
-* ⭐ **[geekhack](https://geekhack.org/)**或 [KeebTalk](https://www.keebtalk.com/) - 键盘论坛
-* 保护_391__或保护_392__ - 热键重复
-* 保护_393__ - 重新地图鼠标按 /滚动轮
-* 模拟用户活动
-* 保护_396__ - 鼠标加速工具
-* 保护的 - 鼠标的姿势
-* 输入简单方式
-* 维权_400__ - 维权风格键键链
-* 专用键盘配置工具
-* 按键击可视化器
-* 鼠标/键盘使用分析器
-* 您的位置: 首页
-* 快速将计算机之间设备切换
-* 专用键盘指南
-* 您的位置: 首页 首页 首页 首页 首页 首页
-* 机械键盘建筑指南
-* 创建自定义键盘
-* 设计和测试虚拟键盘
-* 电脑设备的使用量
+* ⭐ **KEEP378/KEEP** - 机械键盘资源
+* ⭐ **KEEP379/KEEP**, KEEP380/KEEP或 KEEP381/KEEP - 热门密钥
+* ⭐ **KEEP382/KEEP** / KEEP383/KEEP, KEEP384/KEEP, KEEP385/KEEP, KEEP386/KEEP, KEEP387/KEEP, KEEP388/KEEP - 定制键盘布局 /重新绘制
+* ⭐ **KEEP389/KEEP**或 KEEP390/KEEP - 键盘论坛
+* KEEP391/KEEP或 KEEP392/KEEP - 热键重复
+* KEEP393/KEEP - 重新地图鼠标按 /滚动轮
+* KEEP394/KEEP或 KEEP395/KEEP - 模拟用户活动
+* KEEP396/KEEP - 鼠标加速工具
+* KEEP397/KEEP - 鼠标的姿势
+* KEEP398/KEEP - 键入快捷方式
+* KEEP400/KEEP - 维姆风格键键链用于Windows
+* KEEP401/KEEP - 定制键盘配置工具
+* KEEP402/KEEP - 键盘按可视化器
+* KEEP403/KEEP - 鼠标/键盘使用分析器
+* KEEP404/KEEP - 键盘管理器
+* KEEP405/KEEP - 快速将计算机之间设备切换
+* KEEP406/KEEP - 定制键盘指南
+* KEEP407/KEEP - 键盘技巧和资源
+* KEEP408/KEEP - 机械键盘建筑指南
+* KEEP409/KEEP - 创建定制键盘
+* KEEP410/KEEP - 设计和测试虚拟键盘
+* KEEP411/KEEP - 键盘测试器
 
 ***
 
 ## 系统音频
 
-* ⭐ **[Equalizer APO](https://sourceforge.net/projects/equalizerapo/)**, [2](https://equalizerapo.com/) / [GUI](https://sourceforge.net/projects/peace-equalizer-apo-extension/), **[AutoEq](https://autoeq.app/)**, [Dolby Access](https://apps.microsoft.com/detail/9n0866fs04w8) / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#dolby-access--atmos-note)或 [FXSound](https://www.fxsound.com/) - 音频均衡器
-* 保护_419__ - 音频混合器 / 多设备播放器 / 保护_420__
-* 防噪软件
-* 换音器用热键 / 换音器
-* 果电脑的使用量
-* 保护_426__ - 音频测试
-* 减少音频延迟
-* 无损音频声音系统测试
-* 检测仪器
-* 保护_431__或保护_432__ - 测量周围的声音水平
-* 电脑设备的维修目录
+* ⭐ **KEEP412/KEEP**, KEEP413/KEEP / KEEP414/KEEP, **KEEP415/KEEP**, KEEP416/KEEP / KEEP417/KEEP或 KEEP418/KEEP - 音频等级器
+* KEEP419/KEEP - 音频混音器 / 多设备播放器 / KEEP420/KEEP
+* KEEP421/KEEP或 KEEP422/KEEP - 噪音取消软件
+* KEEP423/KEEP - 换音器用热键
+* KEEP425/KEEP - 索尼耳机克隆
+* KEEP426/KEEP - 音频测试
+* KEEP427/KEEP - 减少音频延迟
+* KEEP428/KEEP - 无损音频声音系统测试
+* KEEP429/KEEP或 KEEP430/KEEP - 微测试
+* KEEP431/KEEP或 KEEP432/KEEP - 测量周围的声音水平
+* KEEP433/KEEP - 机器人修理目录
 
 ***
 
 #  窗户的ISO
 
-* ⭐ **[Genuine Installation Media](https://massgrave.dev/genuine-installation-media)** - 窗户ISO / [Clean Install Guide](https://massgrave.dev/clean_install_windows)
-* ⭐ **[Windows Install / Debloat Guide](https://wispydocs.pages.dev/windows/)**
-* 检查ISO合法性
-* 保护_439__ - 窗户的ISO
-* 保护_440__ - Windows 标签 /论坛
-* 官方网站
-* 保护的_442__,保护的_443__,保护的_444__或保护的_445__ - 老学ISO
-* 保护_446__ - ISO Powershell脚本
-* 保护_447__ - 启动iPXE网络
-* 保护_448__,保护_449__或保护_450__ - 在Chromebook上安装Windows/Linux
+* ⭐ **KEEP434/KEEP** - Windows ISO / KEEP435/KEEP
+* ⭐ ** KEEP436/KEEP**
+* KEEP437/KEEP或 KEEP438/KEEP - 验证ISO合法性
+* KEEP439/KEEP - 窗户ISO
+* KEEP440/KEEP - Windows ISO/论坛
+* KEEP441/KEEP - Windows ISO / 官方网站
+* KEEP442/KEEP, KEEP443/KEEP, KEEP444/KEEP或 KEEP445/KEEP - 老学ISO
+* KEEP446/KEEP - ISO Powershell脚本
+* KEEP447/KEEP - iPXE网络启动
+* KEEP448/KEEP, KEEP449/KEEP或 KEEP450/KEEP - 在Chromebook上安装Windows/Linux
 
 ***
 
 ## ▷ USB/启动器
 
-* ⭐ **[Rufus](https://rufus.ie/)** - 创建可启动的USB驱动器 / [GitHub](https://github.com/pbatard/rufus)
-* 创建可启动的USB驱动器
-* 系统的安全性
-* 保护_455__ - USB设备树观看器
-* 车载机 / 车载机
+* ⭐ ** KEEP451/KEEP** - 创建可启动的USB驱动器
+* KEEP453/KEEP - 创建可启动的USB驱动器
+* KEEP454/KEEP - Windows部署自动化
+* KEEP455/KEEP - USB设备树观看器
+* KEEP456/KEEP - 靴装机
 
 ***
 
 ## 窗户激活
 
-* ⭐ **[MAS](https://rentry.co/FMHYB64#mas)** - Windows和Office激活 / [Discord](https://discord.gg/gjJEfq7ux8)
-* 官方网站:
+* ⭐ **KEEP458/KEEP** - Windows和Office激活 / KEEP459/KEEP
+* KEEP460/KEEP - 办公室激活 / 离线
 
 ***
 
 ## ▷ 窗户更新
 
-* ⭐ **[Windows 10 After EOL](https://massgrave.dev/windows10_eol)** - 在 Win10 终端使用后收到Windows更新
-* ⭐ **[ChangeWindows](https://www.changewindows.org/timeline)** - 最新Windows更新信息
-* 为了实现这些目标,我们需要在线观看.
-* [LegacyUpdate](https://legacyupdate.net/) - 修复 Windows 更新版本
-* 保护_467__ - 重新设置Windows更新组件
-* 您可以在此下载Windows更新.
-* 检查您的PC为什么不准备 Windows 11
-* 接收主板更新通知
+* ⭐ ** KEEP461/KEEP** - 在 Win10 终端使用后收到Windows更新
+* ⭐ ** KEEP462/KEEP** - 最新Windows更新信息
+* KEEP463/KEEP, KEEP464/KEEP, KEEP465/KEEP - AIO 重新包装为微软视觉C++编辑器
+* KEEP466/KEEP - 修复旧版本的Windows更新
+* KEEP467/KEEP - 重新设置Windows更新组件
+* KEEP468/KEEP或 KEEP469/KEEP - 下载以前的Windows更新
+* KEEP470/KEEP或 KEEP471/KEEP - 确定为什么你的PC没有为Windows 11准备好
+* KEEP472/KEEP - 接收主板更新通知
 
 ***
 
 ## ▷ 维修窗户
 
-* 保护_473__,保护_474__或保护_475__ - Windows调试工具
-* 保护_476__ / 保护_477__, 保护_478__, 保护_479__或 保护_480__ - 维恩PE / 恢复工具包
-* 技术支持 支持者:
-* 技术支持论坛
+* KEEP473/KEEP, KEEP474/KEEP或 KEEP475/KEEP - Windows 调试工具
+* KEEP476/KEEP / KEEP477/KEEP, KEEP478/KEEP, KEEP479/KEEP或 KEEP480/KEEP - 温PE/恢复工具包
+* KEEP481/KEEP / KEEP482/KEEP - 技术支持子网
+* KEEP484/KEEP, KEEP485/KEEP, KEEP486/KEEP或 KEEP487/KEEP - 技术支持论坛
 
 ***
 
 #  定制
 
-*  **[Windows-Ricing](https://github.com/winthemers/wiki)**,[Frutiger Aero Archive](https://frutigeraeroarchive.org/)或 [Heliohost Guide](https://ninjasr.varesia.com/w/lb/windows) - Windows 化资源
-* ⭐ **[Rainmeter](https://www.rainmeter.net/)** / [Discord](https://discord.com/invite/rainmeter)或 [⁠Seelen UI](https://github.com/eythaann/Seelen-UI) / [Discord](https://discord.gg/ABfASx5ZAJ) - 桌面定制环境
-* ⭐ **[OpenRGB](https://openrgb.org/)** / [Beta](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#openrgb-beta), **[WLED](https://kno.wled.ge/)**, [Aurora](https://www.project-aurora.com/), [LiquidCTL](https://github.com/liquidctl/liquidctl), [Artemis](https://artemis-rgb.com/), [SignalRGB](https://www.signalrgb.com/)或 [FireLight](https://github.com/nicolasdeory/firelight) - RGB照明控制
-* ⭐ **[VSThemes](https://vsthemes.org/en/)**,[WindowsCustomization](https://windowscustomization.com/)或 [7Themes](https://7themes.su/) - 主题指数
-* 风格主题 - 保护_506__ / 保护_507__ / 保护_508__ / 保护_509__, 保护_510__
-* 保护_511__,保护_512__或保护_513__ - 定制社区
-* 专用化展示
-* 为了实现Win 11的风格定制应用程序
-* 保护_516__或保护_517__ - UX 补丁器
-* 键盘音效
-* 屏幕保护器
-* 保护_522__,保护_523__或保护_524__ - 定制文件图标
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 视觉风格编辑器
-* 您可以在此访问您的位置.
-* 保护_531__ - 定制动画可咒 / 扩展不需要
-* 专注的颜色
-* 搜索定制
-* 保护时间
-* 保护_535__ - 启动标志更换器
-* 您的位置: 首页 > 列表 > 列表
-* 文件探测器效果
-* 保护_539__ - 增强Windows文件探险器
-* 浏览器文件的全球设置
-* 标题条效果
-* 保护_542__ / 保护_543__ (使用 github) 或 保护_544__ - 现代化的飞行菜单
-* 其他窗户
-* 果电视屏幕保护器
-* 修复在主题Windows上Excel
-* 通过Windows的Mac字体,使用Mac字体.
+*  **KEEP488/KEEP**, KEEP489/KEEP或 KEEP490/KEEP - 窗户孔资源
+* ⭐ ** KEEP491/KEEP** / KEEP492/KEEP或 KEEP493/KEEP / KEEP494/KEEP - 桌面定制环境
+* ⭐ **KEEP495/KEEP** / KEEP496/KEEP, **KEEP497/KEEP**, KEEP498/KEEP, KEEP499/KEEP, KEEP500/KEEP, KEEP501/KEEP或 KEEP502/KEEP - RGB照明控制
+* ⭐ **KEEP503/KEEP**, KEEP504/KEEP或 KEEP505/KEEP - 主题指数
+* 风格主题 - KEEP506/KEEP / KEEP507/KEEP / KEEP508/KEEP / KEEP509/KEEP, KEEP510/KEEP
+* KEEP511/KEEP, KEEP512/KEEP或 KEEP513/KEEP - 定制社区
+* KEEP514/KEEP - 定制展示
+* KEEP515/KEEP - Win 10 风格定制应用程序
+* KEEP516/KEEP或 KEEP517/KEEP - UX 补丁器
+* KEEP518/KEEP或 KEEP519/KEEP - 键盘音效
+* KEEP520/KEEP或 KEEP521/KEEP - 屏幕保护器
+* KEEP522/KEEP, KEEP523/KEEP或 KEEP524/KEEP - 定制文件图标
+* KEEP525/KEEP - 定制回收箱图标
+* KEEP526/KEEP - 视觉风格编辑器
+* KEEP527/KEEP, KEEP528/KEEP, KEEP529/KEEP - 任务定制 / KEEP530/KEEP
+* KEEP531/KEEP - 定制动画诅咒器/不需要延长
+* KEEP532/KEEP - 音色定制
+* KEEP533/KEEP - 搜索定制
+* KEEP534/KEEP - 时钟定制
+* KEEP535/KEEP -  Boot 标志变更器
+* KEEP536/KEEP或 KEEP537/KEEP - 自动更换壁纸
+* KEEP538/KEEP - 文件探讨器效果
+* KEEP539/KEEP - 增强Windows文件探险器
+* KEEP540/KEEP - 全球设置 Explorer文件查看
+* KEEP541/KEEP - 标题条效应
+* KEEP542/KEEP / KEEP543/KEEP (使用 github) 或 KEEP544/KEEP - 现代化的飞行菜单
+* KEEP545/KEEP - 其他窗口
+* KEEP546/KEEP - 果电视屏幕保护器
+* KEEP547/KEEP - 在Windows主题上修复Excel
+* KEEP548/KEEP - 在Windows上使用Mac字体
 
 ***
 
 ## ▷ 应用程序主题
 
-* ⭐ **[Dracula](https://draculatheme.com/)** / [Discord](https://discord.com/invite/yDcFsrYuq9)或 **[Catppuccin](https://catppuccin.com/)** / [Discord](https://discord.gg/r6Mdz5dpFc) - 定制应用程序主题
-* 保护_554__ / 保护_555__, 保护_556__或 保护_557__ - 定制应用程序主题
-* 旧学校应用程序主题
-* 果终端主题
-* 系统监测主题
-* 保护_561__,保护_562__,保护_563__或保护_564__ - 终端主题
+* ⭐ **KEEP550/KEEP** / KEEP551/KEEP或 **KEEP552/KEEP** / KEEP553/KEEP - 定制应用程序主题
+* KEEP554/KEEP / KEEP555/KEEP, KEEP556/KEEP或 KEEP557/KEEP - 定制应用程序主题
+* KEEP558/KEEP - 老学校应用程序主题
+* KEEP559/KEEP - 波克门终端主题
+* KEEP560/KEEP - 系统监测主题
+* KEEP561/KEEP, KEEP562/KEEP, KEEP563/KEEP或 KEEP564/KEEP - 终端主题
 
 ***
 
 ## ▷ 壁纸
 
-*  **[WallSync](https://roigoatzzz.github.io/Wallsync/)**, [2](https://wallsync.pages.dev/) - 壁纸网站指数 / [GitHub](https://github.com/leroiduflow/Wallsync)
-* ⭐ **[wallhaven.cc](https://wallhaven.cc/)** - 搜索壁纸 / [Downloader](https://github.com/eramdam/WallbaseDirectDownloader)
-* ⭐ **[Wallpaper Abyss](https://wall.alphacoders.com/)** - 搜索壁纸
-* ⭐ **[Rev Wallpaper](https://we-img-search.ordinall.me/)**或_PROTECTED_572__ - 逆壁纸搜索
-* ⭐ **[Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772)** - 工作室吉布利壁纸
-* ⭐ **[LWP](https://github.com/jszczerbinsky/lwp)**, [DesktopHut](https://www.desktophut.com/) / [Discord](https://discord.com/invite/QzgnQtJdfs), [r/LivingBackgrounds](https://reddit.com/r/LivingBackgrounds), [WALLegend](https://wallegend.net/en/)或 [MoeWalls](https://moewalls.com/) - 视频壁纸
-* 为了保护自己,
-* 为了保护自己,
-* 为了保护自己,
-* 为了保护自己,
-* 为了保护自己,
-* 保护的_585__ - 壁纸社区
-* 保护_586__ / 保护_587__, 保护_588__, 保护_589__或 保护_590__ - 最低级壁纸
-* 风格壁纸
-* 爱情的壁纸
-* 双监视墙纸
-* 保护_594__ - 可定制的壁纸
-* ,我不想让你.
-* 其他地方的照片
-* 视频在线观看 - 动漫壁纸
-* 保护_601__,保护_602__或保护_603__ - 错误壁纸
-* 电报壁纸道
-* 保护_605__ - 壁纸机壁纸
+*  **KEEP565/KEEP**, KEEP566/KEEP - 壁纸网站指数 / KEEP567/KEEP
+* ⭐ **KEEP568/KEEP** - 搜索壁纸 / KEEP569/KEEP
+* ⭐ ** KEEP570/KEEP** - 搜索壁纸
+* ⭐ ** KEEP571/KEEP**或 KEEP572/KEEP - 倒挂壁纸搜索
+* ⭐ ** KEEP573/KEEP** - 工作室吉布利壁纸
+* ⭐ **KEEP574/KEEP**, KEEP575/KEEP / KEEP576/KEEP, KEEP577/KEEP, KEEP578/KEEP或 KEEP579/KEEP - 视频壁纸
+* KEEP580/KEEP - 搜索壁纸
+* KEEP581/KEEP - 搜索壁纸
+* KEEP582/KEEP - 搜索壁纸
+* KEEP583/KEEP - 搜索壁纸
+* KEEP584/KEEP - 搜索壁纸
+* KEEP585/KEEP - 壁纸社区
+* KEEP586/KEEP / KEEP587/KEEP, KEEP588/KEEP, KEEP589/KEEP或 KEEP590/KEEP - 极限壁纸
+* KEEP591/KEEP - 2000年代风格壁纸
+* KEEP592/KEEP - 可爱的壁纸
+* KEEP593/KEEP - 双监视壁纸
+* KEEP594/KEEP - 可定制的壁纸
+* KEEP595/KEEP - 审美壁纸
+* KEEP596/KEEP - 克斯壁纸
+* KEEP597/KEEP, KEEP598/KEEP或 KEEP599/KEEP - 动漫壁纸
+* KEEP600/KEEP, KEEP601/KEEP, KEEP602/KEEP或 KEEP603/KEEP - 混壁纸
+* KEEP604/KEEP - 电报壁纸道
+* KEEP605/KEEP - 壁纸机壁纸
 
 ***
 
 ## ▷ 壁纸工具
 
-* ⭐ **[Wallpaper Engine](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25BA_download_games)** / [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/) (搜索) - 壁纸 / 现场壁纸管理器
-* ⭐ **墙纸机床单** - 保护_608__ / 保护_609__, 保护_610__ / 保护_611__
-* ⭐ **[Lively](https://www.rocksdanister.com/lively/)**或 [ScreenPlay](https://screen-play.app/) - 现场壁纸管理器
-* 保护_614__ - 壁纸管理员
-* 保护_615__ - 华尔haven壁纸经理
-* 保护_616__ - 跨平台多监视壁纸管理器
-* 其他类型的壁纸
-* 转换视频/GIF成现场壁纸
-* 显示系统信息在壁纸上
+* ⭐ **KEEP606/KEEP** / KEEP607/KEEP (搜索) - 壁纸 / 现场壁纸管理器
+* ⭐ **墙纸机床工具** - KEEP608/KEEP / KEEP609/KEEP, KEEP610/KEEP / KEEP611/KEEP
+* ⭐ **KEEP612/KEEP**或 KEEP613/KEEP - 现场壁纸管理员
+* KEEP614/KEEP - 壁纸管理员
+* KEEP615/KEEP - 华尔haven壁纸管理员
+* KEEP616/KEEP - 跨平台多监视壁纸管理器
+* KEEP617/KEEP - 多主机壁纸切换器
+* KEEP618/KEEP - 将视频/GIF转换为现场壁纸
+* KEEP619/KEEP - 在壁纸上显示系统信息

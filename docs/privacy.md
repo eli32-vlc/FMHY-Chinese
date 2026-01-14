@@ -1,28 +1,28 @@
 ***
 ***
-保护的
+     
 ***
 ***
 
 #  广告阻
 
-* ** 注释** - 许多网站包含广告,弹出窗口或转向,因此我们使用广告拦截器的 [highly recommend](https://fmhy.net/beginners-guide#adblocking).不要同时运行多个一般广告拦截器 (例如 uBlock Origin 和 AdGuard) 到 [avoid breakage](https://x.com/gorhill/status/1033706103782170625).将一般广告拦截器与 SponsorBlock 等工具结合起来是很好的. 
+* ** 注:许多网站包含广告,弹出窗口或转向,因此我们使用广告拦截器.不要同时运行多个广告拦截器 (例如Block Origin和AdGuard) 进入 KEEP2/KEEP.将一般广告拦截器与SponsorBlock等工具结合起来是很好的. 
 
 ***
 
-* ️ **[Spotify Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25BA_spotify_tools)**
-* ️ **[Twitch Adblockers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/social-media#wiki_.25B7_twitch_adblockers)**
-* ️ **[Bypass URL Redirects](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)**
-* ️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[uBlock Origin](https://github.com/gorhill/uBlock)**, [uBO Lite](https://github.com/uBlockOrigin/uBOL-home) (mv3) 或 [AdGuard](https://github.com/AdguardTeam/AdguardBrowserExtension) - 广告阻者 / [Redundant Extensions](https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother)
-* ⭐ **报告问题** - 保护_11__ / 保护_12__ / 保护_13__ / 保护_14__
-* ⭐ **[SponsorBlock](https://sponsor.ajay.app/)** - 跳过赞助的YouTube广告 / [X](https://x.com/SponsorBlock) / [Discord](https://discord.gg/SponsorBlock) / [GitHub](https://github.com/ajayyy/SponsorBlock)
-* ⭐ **赞助商Block工具** - [Bookmarklet](https://github.com/mchangrh/sb.js) / [Script](https://greasyfork.org/en/scripts/453320) / [Database](https://sb.ltn.fi/) / [Chromecast](https://github.com/gabe565/CastSponsorSkip)
-* 隐藏分歧尼特罗 / 增强广告
-* 保护_25__,保护_26__或保护_27__ - 弹出阻塞器 / 保护_28__
-* 隐藏网站覆盖
-* 通过Spotify播客广告,
-* 通过"Bilibili"的广告,
+* ️ **KEEP3/KEEP**
+* ️ **KEEP4/KEEP**
+* ️ **KEEP5/KEEP**
+* ️ **KEEP6/KEEP**
+* ⭐ **KEEP7/KEEP**, KEEP8/KEEP (mv3) 或 KEEP9/KEEP - 广告阻者 / KEEP10/KEEP
+* ⭐ **报告问题** - KEEP11/KEEP / KEEP12/KEEP / KEEP13/KEEP / KEEP14/KEEP
+* ⭐ **KEEP15/KEEP** - 跳过赞助的YouTube广告 / KEEP16/KEEP / KEEP17/KEEP / KEEP18/KEEP
+* ⭐ **赞助商区块工具** - KEEP19/KEEP / KEEP20/KEEP / KEEP21/KEEP / KEEP22/KEEP
+* KEEP23/KEEP或 KEEP24/KEEP - 隐藏分歧尼特罗 / 增强广告
+* KEEP25/KEEP, KEEP26/KEEP或 KEEP27/KEEP - 弹出阻塞器 / KEEP28/KEEP
+* KEEP29/KEEP - 隐藏网站覆盖
+* KEEP30/KEEP - 跳过赞助的Spotify播客广告
+* KEEP31/KEEP - 跳过赞助的Bilibili广告
 
 ***
 
@@ -32,11 +32,11 @@
 
 ***
 
-* ⭐ **[LegitimateURLShortener](https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt)** - 查询参数清洁规则
-* 保护_33__ - 封锁列表收集
-* 导读: 导读: 导读:
-* 保护_35__ - 过不安全的网站
-* 搜索引擎中的AI图像
+* ⭐ **KEEP32/KEEP** - 查询参数清洁规则
+* KEEP33/KEEP - 封锁列表收集
+* KEEP34/KEEP - 过器/主机列表目录
+* KEEP35/KEEP - 过不安全的网站
+* KEEP36/KEEP - 从搜索引擎中删除AI图像
 
 ***
 
@@ -46,429 +46,429 @@
 
 ***
 
-*  **[DNS Providers](https://adguard-dns.io/kb/general/dns-providers/)** - DNS提供商指数
-* ️ **[DNS Filters / Blocklists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dns_filters)**
-* ️ **[Free DNS Resolvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_dns_resolvers)**
-* ⭐ **[Pi-Hole](https://pi-hole.net/)** - 自主托管的DNS广告封锁 / [X](https://x.com/The_Pi_Hole) / [Subreddit](https://reddit.com/r/pihole/) / [GitHub](https://github.com/pi-hole)
-* ⭐ **皮孔工具** - 保护_44__ / 保护_45__ / 保护_46__ (根)
-* ⭐ **[AdGuard Home](https://adguard.com/en/adguard-home/overview.html)** - 自主托管的DNS广告封锁 / [Balena-AdGuard](https://github.com/klutchell/balena-adguard) / [X](https://x.com/adguard) / [Subreddit](https://reddit.com/r/Adguard) / [Telegram](https://t.me/adguarden) / [GitHub](https://github.com/AdguardTeam/AdGuardHome)
-* ⭐ **[Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)** - DNS 广告封锁 / 过 / [Extension](https://mullvad.net/en/download/browser/extension) / [GitHub](https://github.com/mullvad)
-* 保护_56__ / 保护_57__,保护_58__或保护_59__ - DNS速度测试
-* 保护_60__ - 定制Windows的DNS客户端
-* 保护_61__ - 可定制的DNS广告封锁服务
-* 保护_64__ -  DNS 广告封锁
-* 保护_65__ -  DNS 广告封锁 / 保护_66__
-* 保护_67__ -  DNS 广告封锁
-* 保护_68__ -  DNS 广告封锁 / 保护_69__
-* 保护_70__ -  DNS 广告封锁 / [GitHub](https://github.com/0xERR0R/blocky)
-* 保护_72__ - 可定制的DNS广告封锁服务
-* 保护_76__ - 可定制的DNS广告封锁服务
-* 保护_80__ - 自主托管可定制的DNS广告封锁 / [Subreddit](https://reddit.com/r/nxfilter)
-* 保护_82__ - 阻断DNS广告客户端 / [Source Code](https://codeberg.org/tblock/tblock)
-* 据悉,该公司的公司已在3月9日发布了该文件.
-* 保护_85__ - DNS 鱼阻塞列表 / [X](https://x.com/PhishingArmy)
-* 保护_87__ - 自主托管的DNS服务器 / [Subreddit](https://reddit.com/r/technitium/) / [GitHub](https://github.com/TechnitiumSoftware/DnsServer)
+*  **KEEP37/KEEP** - DNS提供商指数
+* ️ **KEEP38/KEEP**
+* ️ **KEEP39/KEEP**
+* ⭐ **KEEP40/KEEP** - 自主托管的DNS广告封锁 / KEEP41/KEEP / KEEP42/KEEP / KEEP43/KEEP
+* ⭐ **皮孔工具** - KEEP44/KEEP / KEEP45/KEEP / KEEP46/KEEP (根)
+* ⭐ **KEEP47/KEEP** - 自主托管的DNS广告封锁 / KEEP48/KEEP / KEEP49/KEEP / KEEP50/KEEP / KEEP51/KEEP / KEEP52/KEEP
+* ⭐ **KEEP53/KEEP** - DNS广告封锁 / 过 / KEEP54/KEEP / KEEP55/KEEP
+* KEEP56/KEEP / KEEP57/KEEP, KEEP58/KEEP或 KEEP59/KEEP - DNS速度测试
+* KEEP60/KEEP - 针对Windows的自定义DNS客户端
+* KEEP61/KEEP - 可定制的DNS广告封锁服务
+* KEEP63/KEEP - DNS广告封锁 / KEEP64/KEEP
+* KEEP65/KEEP - DNS广告封锁 / KEEP66/KEEP
+* KEEP67/KEEP - DNS广告封锁
+* KEEP68/KEEP - DNS广告封锁 / KEEP69/KEEP
+* KEEP70/KEEP - DNS广告封锁 / KEEP71/KEEP
+* KEEP72/KEEP - 可定制的DNS广告封锁服务 / KEEP73/KEEP / KEEP74/KEEP / KEEP75/KEEP
+* KEEP76/KEEP - 可定制的DNS广告封锁服务 / KEEP77/KEEP / KEEP78/KEEP / KEEP79/KEEP
+* KEEP80/KEEP - 自主托管可定制的DNS广告封锁 / KEEP81/KEEP
+* KEEP82/KEEP - DNS 广告封锁客户端
+* KEEP84/KEEP - Asuswrt-Merlin路由器广告区块管理器
+* KEEP85/KEEP - DNS 鱼阻列表
+* KEEP87/KEEP - 自主托管的DNS服务器
 
 ***
 
-##  保护
+##         
 
 ***
 
-##  保护
+##          
 
 ***
 
-##  保护
+##            
 
 ***
 
-##  保护
+##            
 
 ***
 
 #  抗病毒 / 防恶意软件
 
-* ** 注释** - 最好保持Windows Defenders实时保护.您可以选择允许设备用于盗版软件检测,如补丁,或在需要时,在Exclusions中使用File排除错误正值.
+* ** 注释** - 最好保持Windows Defenders实时保护.您可以选择允许设备用于盗版软件检测,如补丁,或在需要时,通过File在Exclusions中排除假阳性 + KEEP94/KEEP.
 ***
 
-*  **[r/Antivirus Index](https://www.reddit.com/r/antivirus/wiki/index/)** - 抗病毒工具指数
-* ️ **[Virtual Machines](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/system-tools#wiki_.25B7_virtual_machines)**
-* ⭐ **[Malwarebytes](https://www.malwarebytes.com/)**或 [ESET](https://rentry.co/FMHYB64#eset) - 抗病毒 / [X](https://x.com/malwarebytes) 
-* ⭐ **[AdwCleaner](https://www.malwarebytes.com/adwcleaner/)** - 防恶意软件 / [X](https://x.com/malwarebytes)
-* ⭐ **[Triage](https://tria.ge/)**或 [Cuckoo](https://cuckoo.cert.ee/) - 网上沙盒
-* ⭐ **[Security / Antivirus Multireddit](https://www.reddit.com/user/goretsky/m/security/)** - 网易社区
-* ⭐ **[FMHY SafeGuard](https://fmhy.github.io/FMHY-SafeGuard/)** - 检测当前网站是否可信 / 不可信 / [GitHub](https://github.com/fmhy/FMHY-SafeGuard)
-* [FMHY LinkSafe Guard](https://greasyfork.org/en/scripts/528660-fmhy-safelink-guard) - 显示网站是否可靠/不可靠在网页结果上
-* 保护_108__,保护_109__或保护_110__ - 恶意软件删除论坛 / 保护_111__
-* 保护的环境
-* 保护_116__ - 完整的虚拟机沙箱环境
-* 保护_117__ - 将恶意PDF转换为安全文件
-* 保护_119__ - 勒索软件解密工具
-* 保护_120__ - 勒索软件识别工具
-* [ConfigureDefender](https://github.com/AndyFul/ConfigureDefender) - 配置Windows 防卫器设置
+*  **KEEP95/KEEP** - 抗病毒工具指数
+* ️ **KEEP96/KEEP**
+* ⭐ ** KEEP97/KEEP**或 KEEP98/KEEP - 抗病毒 / KEEP99/KEEP 
+* ⭐ **KEEP100/KEEP** - 防软件 / KEEP101/KEEP
+* ⭐ **KEEP102/KEEP**或 KEEP103/KEEP - 网上沙盒
+* ⭐ ** KEEP104/KEEP** - 网易社区
+* ⭐ **KEEP105/KEEP** - 检测当前网站是否可信 / 不可信 / KEEP106/KEEP
+* KEEP107/KEEP - 显示网站是否可靠/不可靠在网页结果上
+* KEEP108/KEEP, KEEP109/KEEP或 KEEP110/KEEP - 恶意软件删除论坛 / KEEP111/KEEP
+* KEEP112/KEEP - 沙箱环境 / KEEP113/KEEP, KEEP114/KEEP / KEEP115/KEEP
+* KEEP116/KEEP - 完整的虚拟机沙箱环境
+* KEEP117/KEEP - 将恶意PDF转换为安全文件
+* KEEP119/KEEP - 勒索软件解密工具
+* KEEP120/KEEP - 勒索软件识别工具
+* KEEP121/KEEP - 配置Windows防卫器设置
 
 ***
 
 ## ▷ 文件扫描仪
 
-*  **[The Second Opinion](https://jijirae.github.io/thesecondopinion/index.html)**, [2](https://rentry.co/thesecondopinion) - 可移植的恶意软件扫描仪 / 删除工具 / [GitHub](https://github.com/jijirae/thesecondopinion/)
-* ⭐ **[VirusTotal](https://www.virustotal.com/)** / [Scan Results Guide](https://claraiscute.neocities.org/Guides/vtguide/), [2](https://claraiscute.pages.dev/Guides/vtguide/)或 **[Hybrid Analysis](https://hybrid-analysis.com/)** - 网上文件扫描仪
-* ⭐ **病毒总工具** - 保护_129__ / 保护_130__ / 保护_131__
-* 根据要求进行AV扫描
-* 保护文件扫描仪
-* 保护_135__ - 恶意软件识别工具
-* 保护_137__ - 恶意软件评估
-* 保护任何东西
-* 保护_140__ - 容器图像脆弱性扫描仪
-* 保护_141__ - 网上文件扫描仪
-* 保护_142__或_保护_143__ - 网上文件扫描仪 / __保护_144__ / __保护_145__
-* 保护_146__ - 局部文件扫描仪
+*  **KEEP122/KEEP**, KEEP123/KEEP - 可移植的恶意软件扫描仪 / 删除工具 / KEEP124/KEEP
+* ⭐ **KEEP125/KEEP** / KEEP126/KEEP, KEEP127/KEEP或 **KEEP128/KEEP** - 网上文件扫描仪
+* ⭐ **病毒总工具** - KEEP129/KEEP / KEEP130/KEEP / KEEP131/KEEP
+* KEEP132/KEEP - 按需AV扫描仪
+* KEEP133/KEEP - PE文件扫描仪
+* KEEP135/KEEP - 恶意软件识别工具
+* KEEP137/KEEP - EXE恶意软件评估
+* KEEP138/KEEP - 识别任何东西
+* KEEP140/KEEP - 容器图像脆弱性扫描仪
+* KEEP141/KEEP - 在线文件扫描仪
+* KEEP142/KEEP或 KEEP143/KEEP - 在线文件扫描仪 / KEEP144/KEEP / KEEP145/KEEP
+* KEEP146/KEEP - 局部文件扫描仪
 
 ***
 
 ## ▷ 网站合法性检查
 
-* ⭐ **[URL Void](https://www.urlvoid.com/)**
-* ⭐ **[URLScan](https://urlscan.io/)**
-* ⭐ **[Trend Micro](https://global.sitesafety.trendmicro.com/)**
-* 保护的151
-* 保护的152
-* 保护的153
-* 保护的
+* ⭐ ** KEEP148/KEEP**
+* ⭐ ** KEEP149/KEEP**
+* ⭐ ** KEEP150/KEEP**
+* KEEP151/KEEP
+* KEEP152/KEEP
+* KEEP153/KEEP
+* KEEP154/KEEP
 
 ***
 
 #  隐私
 
-* ️ **[SMS Verification Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_sms_verification_sites)**
-* ️ **[File Encryption](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_encryption)**
-* ️ **[Drive Formatting / File Deletion](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_formatting_.2F_deletion)**
-* ️ **[Photo Forensics / Metadata](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_photo_forensics_.2F_metadata)**
-* ⭐ **[Tails](https://tails.net/)** / [Telegram](https://t.me/torproject) / [GitHub](https://github.com/torproject), [Whonix](https://www.whonix.org/) / [Telegram](https://t.me/s/Whonix) / [GitHub](https://github.com/Whonix)或 [Qubes](https://www.qubes-os.org/) / [GitHub](https://github.com/QubesOS) - 基于隐私的操作系统
-* 保护_167__,保护_168__或保护_169__ - 隐私讨论/论坛
-* 保护个人信息和数据保护工具
-* 关闭Windows 10/11电测
-* 保护_172__ / 保护_173__, 保护_174__ / 保护_175__, 保护_176__或 保护_177__ / 保护_178__ / 保护_179__ - 安全摄像头系统
-* 保护_180__ - 安全软件
-* 保护_181__ - 让组织删除您的个人数据
-* 信息交易平台的数据中介平台
-* 保护_183__ - GDPR请求生成器 /工具 
-* 保护_184__ - 多平台用户数据出口商
-* 保护人身份盗窃检查
-* 保护_188__ - 数据 / 通信加密工具 / 保护_189__
-* 保护_190__,保护_191__ / 保护_192__,保护_193__,保护_194__,保护_195__,保护_196__或保护_197__ / 保护_198__ - 发送自毁信息
-* 保护_199__或_保护_200__ - 发送加密文本
-* 保护_201__ - 数字法学讨论论坛
-* 监督公司连接
-* 专业技术技术: 技术技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术: 技术
-* 监督管理局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局局
-* 保护_207__ - 应由代理人联系的最佳实践
+* ️ **KEEP155/KEEP**
+* ️ **KEEP156/KEEP**
+* ️ **KEEP157/KEEP**
+* ️ **KEEP158/KEEP**
+* ⭐ **KEEP159/KEEP** / KEEP160/KEEP / KEEP161/KEEP, KEEP162/KEEP / KEEP163/KEEP / KEEP164/KEEP或 KEEP165/KEEP / KEEP166/KEEP - 基于隐私的操作系统
+* KEEP167/KEEP, KEEP168/KEEP或 KEEP169/KEEP - 隐私讨论/论坛
+* KEEP170/KEEP - 隐私和数据保护工具
+* KEEP171/KEEP - 禁用Windows 10/11电测
+* KEEP172/KEEP / KEEP173/KEEP, KEEP174/KEEP / KEEP175/KEEP, KEEP176/KEEP或 KEEP177/KEEP / KEEP178/KEEP / KEEP179/KEEP - 安全摄像头系统
+* KEEP180/KEEP - 安全软件
+* KEEP181/KEEP - 让组织删除您的个人数据
+* KEEP182/KEEP - 数据经纪人选择退出资源列表
+* KEEP183/KEEP - GDPR请求生成器/工具 
+* KEEP184/KEEP - 多平台用户数据出口商
+* KEEP186/KEEP - 身份盗窃检查
+* KEEP188/KEEP - 数据 / 通信加密工具
+* KEEP190/KEEP, KEEP191/KEEP / KEEP192/KEEP, KEEP193/KEEP, KEEP194/KEEP, KEEP195/KEEP, KEEP196/KEEP或 KEEP197/KEEP / KEEP198/KEEP - 发送自毁信息
+* KEEP199/KEEP或 KEEP200/KEEP - 发送加密文本
+* KEEP201/KEEP - 数字法学讨论论坛
+* KEEP202/KEEP - 监控公司连接
+* KEEP203/KEEP - 人工智能自动授权盘子阅读摄像头 / ALPR地图 / KEEP204/KEEP / KEEP205/KEEP
+* KEEP206/KEEP - 追踪地方政府监督技术会议
+* KEEP207/KEEP - 代理人联系时最好的做法
 
 ***
 
 ## ▷ 隐私指数
 
-* ⭐ **[Privacy Guides](https://www.privacyguides.org/)** - 教育指南 / [Matrix](https://matrix.to/#/#privacyguides:matrix.org) / [GitHub](https://github.com/privacyguides/privacyguides.org)
-* ⭐ **[Surveillance Self-Defense](https://ssd.eff.org/)** - 教育指南
-* ⭐ **[The New Oil](https://thenewoil.org/)** - 教育指南 / [GitHub](https://github.com/tnonate/thenewoil)
-* ⭐ **[No Trace](https://www.notrace.how/)** - 教育指南 / [.onion](http://i4pd4zpyhrojnyx5l3d2siauy4almteocqow4bp2lqxyocrfy6prycad.onion/)
-* ⭐ **[The Hitchhiker’s Guide](https://anonymousplanet.org/)** - 关于在线匿名的详细指南
-* ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - 影响消费者权利的文件实践
-* 保护_222__ / 保护_220__, 保护_221__或 保护_222__ / 保护_223__ - 隐私应用程序 / 服务列表
-* 保护教育指南
-* 保护_225__ - 教育指南
-* 保护的教育指南
-* 保护个人隐私和安全的个人检查清单
-* 保护人群的教育
-* 保护_232__ - 隐私工具
-* 保护_234__ - 隐私设置指南
-* 产品隐私评级
-* 保护_236__ - 加密服务/应用程序列表
-* 车辆安全资源
+* ⭐ **KEEP208/KEEP** - 教育指南 / KEEP209/KEEP / KEEP210/KEEP
+* ⭐ **KEEP211/KEEP** - 教育指南
+* ⭐ **KEEP212/KEEP** - 教育指南 / KEEP213/KEEP
+* ⭐ **KEEP214/KEEP** - 教育指南 / KEEP215/KEEP
+* ⭐ **KEEP216/KEEP** - 网络匿名性的详细指南
+* ⭐ **KEEP218/KEEP** - 影响消费者权利的文件实践
+* KEEP219/KEEP / KEEP220/KEEP, KEEP221/KEEP或 KEEP222/KEEP / KEEP223/KEEP - 隐私应用程序/服务列表
+* KEEP224/KEEP - 教育指南
+* KEEP225/KEEP - 教育指南
+* KEEP226/KEEP - 教育指南
+* KEEP228/KEEP - 隐私与安全的个人检查清单
+* KEEP230/KEEP - 教育博客 / KEEP231/KEEP
+* KEEP232/KEEP - 隐私工具
+* KEEP234/KEEP - 隐私设置指南
+* KEEP235/KEEP - 产品隐私评级
+* KEEP236/KEEP - 加密服务/应用程序列表
+* KEEP237/KEEP - 车辆安全资源
 
 ***
 
 ## ▷ 网络安全
 
-* 保护_238__ - 密码化私人网络层
-* 保护_240__ - 防火墙
-* 保护_241__ - 防火墙
-* 保护_242__ - 防火墙
+* KEEP238/KEEP - 加密私人网络层
+* KEEP240/KEEP - 防火墙
+* KEEP241/KEEP - 防火墙
+* KEEP242/KEEP - 防火墙
 
 ***
 
-##  保护
+##                  
 
 ***
 
-##  保护
+##                  
 
 ***
 
-##  保护的
+##                  
 
 ***
 
-##  保护的
+##                 
 
 ***
 
 #  网络隐私
 
-*  **[Google Alt List](https://www.techspot.com/article/2752-all-google-alternatives/)**,[r/degoogle](https://www.reddit.com/r/degoogle)或 [No More Google](https://nomoregoogle.com/) - 谷歌应用程序替代品
-* ️ **[Encode / Decode URLs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_encode_.2F_decode)**
-* ⭐ **[PrivacySpy](https://privacyspy.org/)** / [GitHub](https://github.com/politiwatch/privacyspy) or [ToS;DR](https://tosdr.org/) / [Discord](https://discord.gg/tosdr) / [GitHub](https://github.com/tosdr) - 网站隐私政策
-* ⭐ **[JustDeleteMe](https://justdeleteme.xyz/)** - 找到/终止旧账户 / [GitHub](https://github.com/jdm-contrib/jdm)
-* 保护_261__, 保护_262__ / 保护_263__ / 保护_264__或 _ 保护_265__ - 报告鱼网站
-* 保护系统的系统
-* 保护视频服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务服务
-* 删除X.com帖子
-* 删除X.com喜欢 / 喜欢
-* 现在,我们在网上看到的东西.
-* 浏览 / 发布自由网网站 / 保护_274__
+*  **KEEP247/KEEP**, KEEP248/KEEP或 KEEP249/KEEP - Google应用程序替代品
+* ️ **KEEP250/KEEP**
+* ⭐ **KEEP251/KEEP** / KEEP252/KEEP或 KEEP253/KEEP / KEEP254/KEEP / KEEP255/KEEP - 网站隐私政策
+* ⭐ **KEEP256/KEEP** - 找到/终止旧账户 / KEEP257/KEEP
+* KEEP258/KEEP, KEEP259/KEEP, KEEP260/KEEP, KEEP261/KEEP, KEEP262/KEEP / KEEP263/KEEP / KEEP264/KEEP或 KEEP265/KEEP - 报告鱼网站
+* KEEP266/KEEP - DNS 交换器
+* KEEP267/KEEP - 分级视频托管 / KEEP268/KEEP / KEEP269/KEEP
+* KEEP270/KEEP - 删除X.com帖子
+* KEEP271/KEEP - 删除X.com喜欢 / 喜欢
+* KEEP272/KEEP - 雷迪特自动发布删除
+* KEEP273/KEEP - 浏览 / 发布自由网网站 / KEEP274/KEEP
 
 ***
 
 ## ▷ 浏览器隐私
 
-*  **[Browser Privacy Guides](https://www.privacyguides.org/en/desktop-browsers)** - 浏览器隐私 / 设置指南
-* ️ **[Browser Comparisons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25BA_browser_tools)**
-* ️ **[Android Privacy Browsers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_browsers)**
-* ⭐ **[Tor Browser](https://www.torproject.org/)**, [2](https://tor.eff.org/) - 洋路由浏览器 / [TG Downloads / Bridges](https://t.me/torproject) / [.onion](http://2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion/) / [GitLab](https://gitlab.torproject.org/tpo/applications/tor-browser)
-* ⭐ **[Mullvad Browser](https://mullvad.net/en/browser)** - 托尔浏览器叉 (没有托尔网络) / [GitHub](https://github.com/mullvad)
-* ⭐ **[arkenfox](https://github.com/arkenfox/user.js)** -  Firefox 隐私调整 / [Video](https://youtu.be/F7-bW2y6lcI) / [GUI](https://arkenfox.github.io/gui/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#general-tweak-warning)
-* 保护_289__ -  Firefox 隐私调整 / 保护_290__ / 保护_291__
-* 保护_292__ - 专注于隐私的自定义Firefox / [Auto-Updater](https://github.com/ltguillaume/librewolf-winupdater) / [Source Code](https://codeberg.org/librewolf) / [Subreddit](https://www.reddit.com/r/LibreWolf)
-* 保护保护的Chromium浏览器
-* 通过云端浏览器检查
+*  **KEEP275/KEEP** - 浏览器隐私 / 设置指南
+* ️ **KEEP276/KEEP**
+* ️ **KEEP277/KEEP**
+* ⭐ **KEEP278/KEEP**, KEEP279/KEEP - 洋路由浏览器 / KEEP280/KEEP / KEEP281/KEEP / KEEP282/KEEP
+* ⭐ **KEEP283/KEEP** - 托尔浏览器叉 (没有托尔网络) / KEEP284/KEEP
+* ⭐ **KEEP285/KEEP** - Firefox隐私调整 / KEEP286/KEEP / KEEP287/KEEP / KEEP288/KEEP
+* KEEP289/KEEP - Firefox隐私调整 / KEEP290/KEEP / KEEP291/KEEP
+* KEEP292/KEEP - 专注于隐私的自定义Firefox / KEEP293/KEEP / KEEP294/KEEP / KEEP295/KEEP
+* KEEP296/KEEP - 隐私 Chrome浏览器 / KEEP297/KEEP / KEEP298/KEEP
+* KEEP299/KEEP - 云浏览器检查
 
 ***
 
 ## ▷ 密码隐私 / 2FA
 
-*  **[2FA Directory](https://2fa.directory/)** - 支持2FA的网站列表
-* ️ **[Password Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_password_managers)**
-* ⭐ **[Ente Auth](https://ente.io/auth/)** - 2FA / 所有平台 / [Discord](https://discord.gg/z2YVKkycX3) / [GitHub](https://github.com/ente-io/ente)
-* ⭐ **[Aegis](https://getaegis.app/)** - 2FA / Android / [X](https://x.com/beemdevelopment) / [GitHub](https://github.com/beemdevelopment/Aegis)
-* ⭐ **[Stratum](https://stratumauth.com)** - 2FA / Android / [GitHub](https://github.com/stratumauth/app)
-* ⭐ **[Password Strength Chart](https://i.ibb.co/B2Vz3hSj/89x5g3t4xrxe1.png)**
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 您的位置: 首页
-* 您的位置: 首页
-* 保护_317__ - 2FA / 窗户,Mac,Linux / 保护_318__ / 保护_319__
-* 保护_320__ - 2FA / 窗户,Mac,Linux /
-* 支持用户的支持
-* 系统的安全性
-* 其他技术支持:
-* 其他技术支持
-* 其他国家/地区
-* 浏览器扩展 / 保护_330__
-* 网站 / 网站 / 网站 / 网站
-* 官方的Bitwarden服务器后台 / 自主托管
-* 取OTP代币
-* 发行 Steam 2FA 代码
+*  **KEEP300/KEEP** - 支持2FA的网站列表
+* ️ **KEEP302/KEEP**
+* ⭐ **KEEP303/KEEP** - 2FA / 所有平台 / KEEP304/KEEP / KEEP305/KEEP
+* ⭐ **KEEP306/KEEP** - 2FA / Android / KEEP307/KEEP / KEEP308/KEEP
+* ⭐ **KEEP309/KEEP** - 2FA / Android / KEEP310/KEEP
+* ⭐ ** KEEP311/KEEP**
+* KEEP312/KEEP - 2FA / Android, iOS / KEEP313/KEEP / KEEP314/KEEP
+* KEEP315/KEEP - 2FA / Android
+* KEEP316/KEEP - 2FA / Android
+* KEEP317/KEEP - 2FA / Windows,Mac,Linux / KEEP318/KEEP / KEEP319/KEEP
+* KEEP320/KEEP - 2FA / Windows,Mac,Linux / KEEP321/KEEP
+* KEEP322/KEEP - 2FA / 尤比基支持 / Windows,Android / KEEP323/KEEP
+* KEEP324/KEEP - 2FA / Linux
+* KEEP325/KEEP - 2FA / Mac,Android,iOS
+* KEEP326/KEEP - 2FA / iOS
+* KEEP327/KEEP - 2FA / iOS / KEEP328/KEEP
+* KEEP329/KEEP - 2FA浏览器扩展 / KEEP330/KEEP
+* KEEP331/KEEP - 自主托管 / 网页 / KEEP332/KEEP
+* KEEP333/KEEP - 非官方的Bitwarden服务器后端 /自主托管
+* KEEP334/KEEP - 提取OTP代币
+* KEEP335/KEEP - 生成蒸汽2FA代码
 
 ***
 
 ## ▷ 密码的使者
 
-*  **[Eylenburg Comparisons](https://eylenburg.github.io/im_comparison.htm)**, [SecuChart](https://bkil.gitlab.io/secuchart/), [Messenger-Matrix](https://www.messenger-matrix.de/messenger-matrix-en.html)或 [Secure Messaging Apps](https://www.securemessagingapps.com/) - 聊天应用程序索引/比较
-* ⭐ **[SimpleX](https://simplex.chat/)** - 所有平台 / [GitHub](https://github.com/simplex-chat)
-* ⭐ **[Signal](https://signal.org/)** - 所有平台/手机#需要 / [GitHub](https://github.com/signalapp)或 **[Molly](https://github.com/mollyim/mollyim-android)** / Android
-* ⭐ **[Briar](https://briarproject.org/)** / [Desktop](https://briarproject.org/download-briar-desktop/) / [GitLab](https://code.briarproject.org/briar/briar)
-* 保护的_351__, 保护的_352__, 保护的_353__, 保护的_354__, 保护的_355__, 保护的_356__,
-* 保护所有平台 / 电话#需要 / 保护所有平台
-* 保护所有平台
-* 保护所有平台
-* 保护所有平台
-* 保护_366__ / 保护_366__或 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-* 保护所有平台 - 无服务器所有平台
-* 保护所有平台
-* 您的位置: 首页 > 列表 > 列表
-* 保护系统的安全性
-* 保护系统的安全性
-* 电子邮件信息服务服务服务
-* 您的位置: 首页 > 列表 > 列表
-* 您可以在此查看.
-* 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站: 网站:                                                                                                                                                                  
-* 您可以在此访问.
+*  **KEEP336/KEEP**, KEEP337/KEEP, KEEP338/KEEP或 KEEP339/KEEP - 聊天应用程序指数/比较
+* ⭐ **KEEP340/KEEP** - 所有平台 / KEEP341/KEEP
+* ⭐ **KEEP342/KEEP** - 所有平台/手机#需要 / KEEP343/KEEP或 **KEEP344/KEEP** / Android
+* ⭐ **KEEP345/KEEP** / KEEP346/KEEP / KEEP347/KEEP
+* KEEP348/KEEP / KEEP349/KEEP / KEEP350/KEEP / KEEP351/KEEP, KEEP352/KEEP, KEEP353/KEEP, KEEP354/KEEP, KEEP355/KEEP, KEEP356/KEEP
+* KEEP357/KEEP - 所有平台/电话#需要 / KEEP358/KEEP
+* KEEP359/KEEP - 所有平台 / KEEP360/KEEP
+* KEEP361/KEEP - 所有平台
+* KEEP363/KEEP - 所有平台
+* KEEP365/KEEP / KEEP366/KEEP或 KEEP367/KEEP / KEEP368/KEEP - 所有平台
+* KEEP369/KEEP - P2P /无服务器所有平台 / / KEEP370/KEEP
+* KEEP371/KEEP - 所有平台
+* KEEP373/KEEP / Android,iOS / KEEP374/KEEP
+* KEEP375/KEEP / Windows,Mac,Linux / KEEP376/KEEP
+* KEEP377/KEEP / Windows,Mac,Linux,Android / KEEP378/KEEP
+* KEEP379/KEEP - 基于电子邮件的分散式传递器 / Windows,Mac,Linux,Android
+* KEEP380/KEEP / 安卓,iOS / KEEP381/KEEP
+* KEEP382/KEEP或 KEEP383/KEEP / iOS
+* KEEP384/KEEP - 自主托管 / Android, iOS,Web / KEEP385/KEEP
+* KEEP386/KEEP或 KEEP387/KEEP - SSH聊天
 
 ***
 
 ## ▷ 电子邮件隐私
 
-* ️ **[Temp Mail Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)** - 创建临时/抛弃电子邮件
-* ️ **[Email Aliasing](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_email_aliasing)** - 创建永久匿名电子邮件
-* ⭐ **[Proton Mail](https://proton.me/mail)** - 1GB免费 /加密电子邮件 / [.onion](https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/) / [Subreddit](https://www.reddit.com/r/ProtonMail/) / [GitHub](https://github.com/ProtonMail) / [Note](https://proton.me/support/more-free-storage-existing-users)
-* 电子邮件免费/加密
-* 电子邮件加密 / 保护_397__ / 保护_398__
-* 子的电子邮件
-* 电子邮件的密码
-* 电子邮件隐私测试
-* 保护_404__ - 安全邮件列表档案
+* ️ **KEEP388/KEEP** - 创建临时/抛弃电子邮件
+* ️ **KEEP389/KEEP** - 创建永久匿名电子邮件
+* ⭐ **KEEP390/KEEP** - 1GB免费 /加密电子邮件 / KEEP391/KEEP / KEEP392/KEEP / KEEP393/KEEP / KEEP394/KEEP
+* KEEP395/KEEP - 1GB免费/加密电子邮件
+* KEEP396/KEEP - 密码电子邮件 / KEEP397/KEEP / KEEP398/KEEP
+* KEEP399/KEEP - 基于洋的电子邮件
+* KEEP400/KEEP - 发送电子邮件PGP加密
+* KEEP402/KEEP - 电子邮件隐私测试
+* KEEP404/KEEP - 安全邮件列表档案
 
 ***
 
 ## ▷ 数据泄露监测
 
-* ⭐ **[Have I Been Pwned?](https://haveibeenpwned.com/)** - 监控电子邮件泄露 / [GitHub](https://github.com/HaveIBeenPwned)
-* ⭐ **[Have I Been Pwned Passwords](https://haveibeenpwned.com/Passwords)** - 密码违规检查
-* 保护_408__ - 数据泄露检查 / 登记要求
-* 保护_410__,保护_411__,保护_412__,保护_413__ / 保护_414__ / 保护_415__或保护_416__ / 保护_417__ - 数据泄露搜索引擎
-* 保护_418__ - 密码漏洞检查
-* 密码漏洞检查
-* 密码漏洞检查
+* ⭐ **KEEP405/KEEP** - 监测电子邮件泄露 / KEEP406/KEEP
+* ⭐ **KEEP407/KEEP** - 密码违规检查
+* KEEP408/KEEP - 数据泄露检查/注册要求
+* KEEP410/KEEP, KEEP411/KEEP, KEEP412/KEEP, KEEP413/KEEP / KEEP414/KEEP / KEEP415/KEEP或 KEEP416/KEEP / KEEP417/KEEP - 数据泄露搜索引擎
+* KEEP418/KEEP - 密码违规检查
+* KEEP420/KEEP - 密码违规检查
+* KEEP421/KEEP - 密码违规检查
 
 ***
 
 ## ▷ 指纹 / 追踪
 
-* ⭐ **[CreepJS](https://abrahamjuliot.github.io/creepjs)**, [webkay](https://webkay.robinlinus.com/), [browserrecon](https://www.computec.ch/projekte/browserrecon/?s=scan), [TZP](https://arkenfox.github.io/TZP/tzp.html), [Cover Your Tracks](https://coveryourtracks.eff.org/)或 [PersonalData](https://personaldata.info/) - 追踪/指纹测试
-* 删除查询元素 / 破解网站 / 保护_429__ / 保护_430__
-* 网站跟踪信息
-* 删除在线数据
-* 屏蔽游戏在桌面/移动游戏中
-* 保护_435__,保护_436__或保护_437__ - IP泄漏测试
-* 防护指纹 / 防护指纹 / 防护指纹
-* 保护_441__,保护_442__ - 改变语言标识符 / 保护_443__
-* 保护人 - 匿名链接
-* 删除了来自X.com的 t.co 追踪
+* ⭐ **KEEP422/KEEP**, KEEP423/KEEP, KEEP424/KEEP, KEEP425/KEEP, KEEP426/KEEP或 KEEP427/KEEP - 追踪/指纹测试
+* KEEP428/KEEP - 从URL中删除跟踪元素 / KEEP429/KEEP / KEEP430/KEEP
+* KEEP431/KEEP或 KEEP432/KEEP - 网站跟踪信息
+* KEEP433/KEEP - 删除在线数据
+* KEEP434/KEEP - 在桌面/移动游戏中阻止追踪器
+* KEEP435/KEEP, KEEP436/KEEP或 KEEP437/KEEP - IP泄漏测试
+* KEEP438/KEEP - 防止指纹 / KEEP439/KEEP / KEEP440/KEEP
+* KEEP441/KEEP, KEEP442/KEEP - 改变语言标识符
+* KEEP444/KEEP - 匿名链接
+* KEEP445/KEEP - 从X.com删除t.co跟踪
 
 ***
 
 ## ▷ 搜索引擎
 
-*  **[Search Engine Party](https://searchengine.party/)** - 隐私搜索引擎比较 / [GitLab](https://gitlab.com/nitrohorse/search-engines-compare)
-*  **[Instance Scores](https://searx.neocities.org/instancescores)**或 [Searx Index](https://www.startpage.com/sp/search?q=%22powered%20by%20Searx%22) - 搜索实例指数
-* ⭐ **[FMHY Searx](https://searx.fmhy.net/)**或 [searx.space](https://searx.space/) / [.onion](http://searxspbitokayvkhzhsnljde7rqmn7rvoga6e4waeub3h7ug3nghoad.onion/) - 搜索中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文 / 检测中文
-* ⭐ **[Brave Search](https://search.brave.com/)** - 独立
-* ⭐ **[DuckDuckGo](https://start.duckduckgo.com/)** - 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/ 基于Bing的/Bing的/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/Bing/
-* 保护的_461__,保护的_462__或保护的_463__ - 搜索实例 / 检测方法
-* 没有任何信息,
-* 查/查/查/查
-* 保护的_467__ - 独立 / 保护的_468__
-* 保护_469__ - 分级化 / P2P独立 / 保护_470__
-* 根据"Google"的数据,
-* 保护的_473__ - 自主主 / 测试 / 保护的_474__
+*  **KEEP446/KEEP** - 隐私搜索引擎比较 / KEEP447/KEEP
+*  **KEEP448/KEEP**或 KEEP449/KEEP - 搜索实例指数
+* ⭐ **KEEP450/KEEP**或 KEEP451/KEEP / KEEP452/KEEP - 搜索NG实例 / 测试 / KEEP453/KEEP / KEEP454/KEEP
+* ⭐ **KEEP455/KEEP** - 独立
+* ⭐ **KEEP456/KEEP** - 基于Bing的/ KEEP457/KEEP, KEEP458/KEEP / KEEP459/KEEP
+* KEEP460/KEEP, KEEP461/KEEP, KEEP462/KEEP或 KEEP463/KEEP - 搜索实例/转基因
+* KEEP464/KEEP - 无人机/转换搜索
+* KEEP465/KEEP - 测量研究
+* KEEP467/KEEP - 独立 / KEEP468/KEEP
+* KEEP469/KEEP - 分级化/P2P独立/KEEP470/KEEP
+* KEEP471/KEEP - 基于谷歌的
+* KEEP473/KEEP - 自主主办 / KEEP474/KEEP
 
 ***
 
 # VPN
 
-* ** 注释** - 在WARP之外,通常最好使用付费的VPN,特别是如果你考虑隐私或速度.免费VPN主要用于解锁网站等事情.记住将[bind](https://wispydocs.pages.dev/torrenting/) VPN送给客户端以避免ISP信件.
+* ** 注释** - 在WARP之外,通常最好使用付费的VPN,特别是如果你考虑隐私或速度.免费VPN主要用于解锁网站等事情.记住将VPN送给客户端以避免ISP信件.
 
 ***
 
-*  **[Techlore Chart](https://techlore.tech/vpn)** - VPN比较图表
-*  **[VPN Relationships](https://kumu.io/Windscribe/vpn-relationships)**, [2](https://windscribe.com/vpnmap) - VPN关系地图
-* ⭐ **[WARP](https://one.one.one.one/)** - 免费 / 无限 / [Wireguard](https://rentry.co/foss-warp) (杀死开关) / [Alt Client](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#alt-warp-clients) / [Config Generator](https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing), [2](https://f0rc3run.github.io/free-warp-endpoints/)
-* ⭐ **[Proton VPN](https://protonvpn.com)** - 无限 / [Torrent Guide](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#proton-torrenting) / [Wireguard](https://protonvpn.com/support/wireguard-configurations) / [Subreddit](https://www.reddit.com/r/ProtonVPN/) / [Telegram](https://t.me/proton_privacy) / [GitHub](https://github.com/ProtonVPN/)
-* ⭐ **[Windscribe](https://windscribe.com)** - 没有流 w/免费计划 / 10GB月 / [Subreddit](https://www.reddit.com/r/Windscribe/) / [GitHub](https://github.com/windscribe)
-* ⭐ **[RiseupVPN](https://riseup.net/en/vpn)** - 免费 / 无限 / [GitHub](https://github.com/riseupnet)
-* ⭐ **[AirVPN](https://airvpn.org/)** - 付款 / [.onion](https://airvpn3epnw2fnsbx5x2ppzjs6vxtdarldas7wjyqvhscj7x43fxylqd.onion/) / [GitHub](https://github.com/AirVPN) / [GitLab](https://gitlab.com/AirVPN)
-* 保护_501__ / 保护_502__ / 保护_503__
-* 保护_504__ - 付款 / 保护_505__ / 保护_506__ / 保护_507__ / 保护_508__
-* 保护_510__ / 保护_511__ / 保护_512__
-* 免费 / 10GB 月 / 无限账户通过 [Temp Mail](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_temp_mail)
-* 免费 / 无限
+*  **KEEP476/KEEP** - VPN比较图表
+*  **KEEP477/KEEP**, KEEP478/KEEP - VPN关系地图
+* ⭐ **KEEP479/KEEP** - 免费 / 无限 / KEEP480/KEEP (杀死开关) / KEEP481/KEEP / KEEP482/KEEP, KEEP483/KEEP
+* ⭐ **KEEP484/KEEP** - 无限 / KEEP485/KEEP / KEEP486/KEEP / KEEP487/KEEP / KEEP488/KEEP / KEEP489/KEEP
+* ⭐ **KEEP490/KEEP** - 没有流媒体 w/免费计划 / 10GB月 / KEEP491/KEEP / KEEP492/KEEP
+* ⭐ **KEEP493/KEEP** - 免费 / 无限 / KEEP494/KEEP
+* ⭐ **KEEP495/KEEP** - 付款 / KEEP496/KEEP / KEEP497/KEEP / KEEP498/KEEP
+* KEEP499/KEEP - 付款 / KEEP500/KEEP / KEEP501/KEEP / KEEP502/KEEP / KEEP503/KEEP
+* KEEP504/KEEP - 付款 / KEEP505/KEEP / KEEP506/KEEP / KEEP507/KEEP / KEEP508/KEEP
+* KEEP509/KEEP - 付款 / KEEP510/KEEP / KEEP511/KEEP / KEEP512/KEEP
+* KEEP513/KEEP - 免费 / 10GB 月 / 无限账户通过 KEEP514/KEEP
+* KEEP515/KEEP - 免费 /无限
 
 ***
 
 ## ▷ VPN服务器
 
-* ⭐ **[WireGuard](https://www.wireguard.com/)** - VPN道 / [Guide](https://www.wireguard.com/quickstart/) / [Web UI](https://github.com/wg-easy/wg-easy) / [Source Code](https://www.wireguard.com/repositories/)
-* ⭐ **[Tailscale](https://tailscale.com/)**或 [⁠NetBird](https://netbird.io/) - 线路保护网
-* 保护_522__,保护_523__ - VPN服务器 / 保护_524__ / 保护_525__ / 保护_526__
-* 保护_527__ - VPN服务器
-* 保护_528__ - 线路保护组 / 释WG / 保护_529__ / 保护_530__ / 保护_531__
-* 保护_532__ - 零信任通道
-* 保护_533__ - 自主托管的尾声尺度
-* 保护_534__或保护_535__ - 网格VPN服务器 
-* 保护_536__ - VPN服务器
-* 保护_537__ - 应用道 / VPN替代品 / 保护_538__
-* 通过使用Google云的WireGuard+Pi-hole VPN
-* 保护_540__ - VPN道 / 保护_541__ / 保护_542__
-* 保护_543__ - 线路保护 + 皮孔VPN / 保护_544__
-* 保护_545__ - SSL VPN / [GUI](https://openconnect.github.io/openconnect-gui/) 
-* 保护_547__ - VPN服务器 / 保护_548__
-* 云VPN / 保护_550__
-* 保护_551__ - SSH VPN服务器
-* 简单的VPN服务器
-* 保护_554__ - SSL VPN服务器
+* ⭐ **KEEP516/KEEP** - VPN道 / KEEP517/KEEP / KEEP518/KEEP / KEEP519/KEEP
+* ⭐ **KEEP520/KEEP**或 KEEP521/KEEP - 线路保护网
+* KEEP522/KEEP, KEEP523/KEEP - VPN服务器 / KEEP524/KEEP / KEEP525/KEEP / KEEP526/KEEP
+* KEEP527/KEEP - VPN服务器
+* KEEP528/KEEP - 电缆监控组 / AmneziaWG / KEEP529/KEEP / KEEP530/KEEP / KEEP531/KEEP
+* KEEP532/KEEP - 零信任通道
+* KEEP533/KEEP - 自主托管的尾声尺度
+* KEEP534/KEEP或 KEEP535/KEEP - 网格VPN服务器 
+* KEEP536/KEEP - VPN服务器
+* KEEP537/KEEP - 应用道 / VPN替代品 / KEEP538/KEEP
+* KEEP539/KEEP - 使用Google云的WireGuard+Pi-hole VPN
+* KEEP540/KEEP - VPN道 / KEEP541/KEEP / KEEP542/KEEP
+* KEEP543/KEEP - 线路保护 + 皮洞VPN / KEEP544/KEEP
+* KEEP545/KEEP - SSL VPN / KEEP546/KEEP 
+* KEEP547/KEEP - VPN服务器 / KEEP548/KEEP
+* KEEP549/KEEP - 云VPN / KEEP550/KEEP
+* KEEP551/KEEP - SSH VPN服务器 KEEP552/KEEP
+* KEEP553/KEEP - 简单的VPN服务器
+* KEEP554/KEEP - SSL VPN服务器
 
 ***
 
 ## ▷ VPN工具
 
-* ️ **[Free VPN Configs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_free_vpn_configs)**
-* ⭐ **[VPN Binding Guide](https://wispydocs.pages.dev/torrenting/)** - 绑定VPN与Torrent客户端以避免ISP信件
-* 保护_557__或_保护_558__ - 线路保护区分断道客户端
-* 您的位置: 首页 > 列表 > 列表 > 列表 > 列表
-* 通过热点/根基安卓共享VPN连接
-* 通过Docker使用VPN
+* ️ **KEEP555/KEEP**
+* ⭐ ** KEEP556/KEEP** - 绑定VPN与Torrent客户端以避免ISP信件
+* KEEP557/KEEP或 KEEP558/KEEP - 线路管理员分断道客户
+* KEEP559/KEEP - 电脑导航客户端 / AmneziaWG / Android / KEEP560/KEEP / KEEP561/KEEP
+* KEEP562/KEEP - 通过热点/根植的Android共享VPN连接
+* KEEP563/KEEP - 使用Docker的VPN
 
 ***
 
 # 代理
 
-* 保护_564__ - 混合代理VPN应用程序
-* 通过"PROTECTED_565__"来实现这一目标,
-* 果版的应用程序
-* 保护_569__ - 托尔代理浏览器扩展
-* 保护_570__ / 保护_571__ / 保护_572__, 保护_573__, 保护_574__或 保护_575__ - 代理扩展
-* 保护_576__ - 地方DNS代理
-* 保护_577__或_保护_578__ / 保护_579__ - 地方DNS加密代理
+* KEEP564/KEEP - 混合代理VPN应用程序
+* KEEP565/KEEP - 代理应用程序 / 慢过去 250MB / KEEP566/KEEP
+* KEEP567/KEEP - 影子应用程序
+* KEEP569/KEEP - 托尔代理浏览器扩展
+* KEEP570/KEEP / KEEP571/KEEP / KEEP572/KEEP, KEEP573/KEEP, KEEP574/KEEP或 KEEP575/KEEP - 代理扩展
+* KEEP576/KEEP - 地方DNS代理
+* KEEP577/KEEP或 KEEP578/KEEP / KEEP579/KEEP - 地方DNS加密代理
 
 ***
 
 ## ▷ 代理服务器
 
-* ⭐ **[Censordex](https://censordex.fr.to/)** - 服务器设置
-* ⭐ **[3X-UI](https://github.com/MHSanaei/3x-ui)** - 代理板 / [Telegram](https://t.me/XrayUI) / **[Guide](https://wispydocs.pages.dev/network-censorship-circumvention/)**
-* ⭐ **[Project X](https://github.com/XTLS/Xray-core)** - 射线代理核心 / [Telegram](https://t.me/projectXray), [2](https://t.me/projectVless)
-* 基代理
-* 保护_588__ - 速度专注的代理协议
-* 简单代理协议
-* 保护_593__ - 代理核心 / 保护_594__ / 保护_595__
-* 保护_596__,保护_597__ - 多协议服务器 / 保护_598__ / 保护_599__ / 保护_600__
-* 保护_601__ - 代理板 / 保护_602__ / 保护_603__
-* 保护_604__ / 保护_605__ / 保护_606__ / 保护_607__ - 影子服务器
-* 保护_608__ - 代理服务器
-* 保护_609__ / 保护_610__或 _ 保护_611__ - 网络代理服务器
-* 保护_612__ - 反转代理UI / [Subreddit](https://reddit.com/r/nginxproxymanager) / [GitHub](https://github.com/NginxProxyManager/nginx-proxy-manager)
+* ⭐ **KEEP580/KEEP** - 服务器设置
+* ⭐ **KEEP581/KEEP** - 代理板 / KEEP582/KEEP / **KEEP583/KEEP**
+* ⭐ **KEEP584/KEEP** - 射线代理核心 / KEEP585/KEEP, KEEP586/KEEP
+* KEEP587/KEEP - 基于的代理
+* KEEP588/KEEP - 速度专注代理协议 / KEEP589/KEEP / KEEP590/KEEP
+* KEEP591/KEEP - 简单的代理协议
+* KEEP593/KEEP - 代理核心 / KEEP594/KEEP / KEEP595/KEEP
+* KEEP596/KEEP, KEEP597/KEEP - 多协议服务器 / KEEP598/KEEP / KEEP599/KEEP / KEEP600/KEEP
+* KEEP601/KEEP - 代理板 / KEEP602/KEEP / KEEP603/KEEP
+* KEEP604/KEEP / KEEP605/KEEP / KEEP606/KEEP / KEEP607/KEEP - 影子服务器
+* KEEP608/KEEP - 代理服务器
+* KEEP609/KEEP / KEEP610/KEEP或 KEEP611/KEEP - 网络代理服务器
+* KEEP612/KEEP - 反代理UI / KEEP613/KEEP / KEEP614/KEEP
 
 
 ***
 
 ## ▷代理客户
 
-* ⭐ **[v2rayN](https://github.com/2dust/v2rayN)** - 代理客户端 / Windows,Mac,Linux
-* ⭐ **[NekoBox](https://matsuridayo.github.io/)** - 代理客户端 / 安卓 / [GitHub](https://github.com/MatsuriDayo/NekoBoxForAndroid/)
-* 通过电子设备,
-* 通过代理客户端 / 所有平台 / 保护_620__ / 保护_621__
-* 保护_622__,保护_623__ - 代理客户端 / 所有平台 / 保护_624__ / 保护_625__ / 保护_626__
-* 保护_627__ - 影子客户端 / 所有平台 / 保护_628__
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 保护_632__ - 代理客户端 / 唱盒GUI / Windows,Mac,Linux / 保护_633__
-* 您可以在此访问.
-* 保护_636__ - 代理客户端 / Windows,Mac,Linux /
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 系统的安全性
-* 通过"安卓"来实现
-* 添加代理功能到应用程序 / Windows,Mac,Android
-* 作为代理 / Windows,Mac,Linux的WireGuard
+* ⭐ **KEEP615/KEEP** - 代理客户端 / Windows,Mac,Linux
+* ⭐ **KEEP616/KEEP** - 代理客户端 / 安卓 / KEEP617/KEEP
+* KEEP618/KEEP - 代理客户端 / Android
+* KEEP619/KEEP - 代理客户端 / 所有平台 / KEEP620/KEEP / KEEP621/KEEP
+* KEEP622/KEEP, KEEP623/KEEP - 代理客户端 / 所有平台 / KEEP624/KEEP / KEEP625/KEEP / KEEP626/KEEP
+* KEEP627/KEEP - 影子客户端 / 所有平台 / KEEP628/KEEP
+* KEEP629/KEEP - 代理客户端 / Mac,Android / KEEP630/KEEP / KEEP631/KEEP
+* KEEP632/KEEP - 代理客户端 / 唱盒GUI / Windows,Mac,Linux / KEEP633/KEEP
+* KEEP634/KEEP / Android, KEEP635/KEEP / 代理客户端 / iOS
+* KEEP636/KEEP - 代理客户端 / Windows,Mac,Linux / KEEP637/KEEP
+* KEEP638/KEEP - 代理客户端 / Mac,iOS
+* KEEP639/KEEP / 窗户,Mac,Linux,Android
+* KEEP640/KEEP - 代理客户端 / Android
+* KEEP641/KEEP - 添加代理功能到应用程序 / Windows,Mac,Android
+* KEEP642/KEEP - 作为代理 / Windows,Mac,Linux的WireGuard
 
 ***
 
 ## ▷ 反审查
 
-* ️ **[Great Firewall Bypass](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/non-eng#wiki_.25B7_great_firewall)**
-* ⭐ **[ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid)**, - 网络包变换工具 / Android
-* ⭐ **[zapret](https://github.com/bol-van/zapret)**, **[SpoofDPI](https://github.com/xvzc/SpoofDPI)**或 **[GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI/)** - 网络包变换工具 
-* ⭐ **[DNSveil](https://msasanmh.github.io/DNSveil/)** - DNS 客户端 / [GitHub](https://github.com/msasanmh/DNSveil)
-* 保护_651__或保护_652__ - 网络包变换工具
-* 通过SNI Spoof / OpenWrt / Entware 路由器解锁YouTube
+* ️ **KEEP643/KEEP**
+* ⭐ **KEEP644/KEEP**, - 网络包变换工具 / Android
+* ⭐ **KEEP645/KEEP**, **KEEP646/KEEP**或 **KEEP647/KEEP** - 网络包变换工具 
+* ⭐ **KEEP648/KEEP** - DNS客户端 / KEEP649/KEEP
+* KEEP650/KEEP, KEEP651/KEEP或 KEEP652/KEEP - 网络包变换工具
+* KEEP653/KEEP - 使用SNI Spoof / OpenWrt / Entware路由器解锁YouTube
 
 ***
 
@@ -478,18 +478,18 @@
 
 ***
 
-* ️ **[Proxy Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_proxy_lists)**
-* 保护的_655__ / 保护的_656__
-* 保护_657__ - 多代理 / 保护_658__ / 保护_659__
-* 保护_661__ - 多站点+应用程序代理 / 广告拦截器
-* 保护的,保护的,保护的,保护的,保护的
-* 保护的
-* 保护的_666__ / 保护的_667__
-* 保护的_668__,保护的_669__或保护的_670__
-* 保护的_671__ / 保护的_672__
-* 保护的_673__ / 保护的_674__
-* 保护的
-* 保护的_676__ / 保护的_677__
-* 保护_678__,保护_679__或保护_680__ - 代理选器/检查器
-* 保护_681__ - SOCKS5代理检查器
-* 流网站代理
+* ️ **KEEP654/KEEP**
+* KEEP655/KEEP / KEEP656/KEEP
+* KEEP657/KEEP - 多代理 / KEEP658/KEEP / KEEP659/KEEP
+* KEEP660/KEEP - 多个网站+应用程序代理 /广告拦截器 / KEEP661/KEEP
+* KEEP662/KEEP, KEEP663/KEEP, KEEP664/KEEP
+* KEEP665/KEEP
+* KEEP666/KEEP / KEEP667/KEEP
+* KEEP668/KEEP, KEEP669/KEEP或 KEEP670/KEEP
+* KEEP671/KEEP / KEEP672/KEEP
+* KEEP673/KEEP / KEEP674/KEEP
+* KEEP675/KEEP
+* KEEP676/KEEP / KEEP677/KEEP
+* KEEP678/KEEP, KEEP679/KEEP或 KEEP680/KEEP - 代理选器/检查器
+* KEEP681/KEEP - SOCKS5代理检查器
+* KEEP682/KEEP - 流浪网站代理

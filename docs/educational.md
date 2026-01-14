@@ -1,34 +1,34 @@
 ***
 ***
-保护的
+     
 ***
 ***
 
 #  纪录片
 
-*  **[Official YT Documentary Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#Documentaries)** - YouTube纪录片频道
-* ⭐ **[IHaveNoTV](https://ihavenotv.com)**
-* ⭐ **[DocumentaryArea](https://www.documentaryarea.com/)** / [Remove Watermark](https://github.com/acridsoul/Clear-Mark) (或使用PIP)
-* ⭐ **[Documentary+](https://www.docplus.com/)**
-* ⭐ **[1337x Documentaries](https://1337x.to/top-100-documentaries)** / 流量
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的22
-* 保护的
-* 保护的24
+*  **KEEP1/KEEP** - YouTube纪录片频道
+* ⭐ ** KEEP2/KEEP**
+* ⭐ ** KEEP3/KEEP** / KEEP4/KEEP (或使用PIP)
+* ⭐ ** KEEP5/KEEP**
+* ⭐ ** KEEP6/KEEP** / 流量
+* KEEP7/KEEP
+* KEEP8/KEEP
+* KEEP9/KEEP
+* KEEP10/KEEP
+* KEEP11/KEEP
+* KEEP12/KEEP
+* KEEP13/KEEP
+* KEEP14/KEEP
+* KEEP15/KEEP
+* KEEP16/KEEP
+* KEEP17/KEEP
+* KEEP18/KEEP
+* KEEP19/KEEP
+* KEEP20/KEEP
+* KEEP21/KEEP
+* KEEP22/KEEP
+* KEEP23/KEEP
+* KEEP24/KEEP
 
 ***
 
@@ -36,353 +36,353 @@
 
 ## ▷ 流媒体
 
-*  **[Awesome Courses](https://github.com/prakhar1989/awesome-courses/)** - 课程
-*  **[Limnology](https://limnology.co/)** - 教育YouTube道
-* ️ **[Udemy Tools / Coupons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_udemy_coupons)**
-* ️ **[Chemistry Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chemistry_lessons)**
-* ⭐ **[edX](https://www.edx.org/)** - 课程 / [Downloader](https://github.com/rehmatworks/edx-downloader)
-* ⭐ **[MitOpenCourseWare](https://ocw.mit.edu/)** - 课程
-* ⭐ **[Khan Academy](https://www.khanacademy.org/)** - 课程 / [Downloader](https://github.com/rand-net/khan-dl) / [Solver](https://greasyfork.org/en/scripts/427964)
-* ⭐ **[Class Central](https://www.classcentral.com/)** - 寻找课程
-* 保护的课程
-* 保护 - 课程
-* 保护38__ - 课程
-* 保护 - 课程
-* 保护的课程
-* 保护 - 课程
-* 保护的课程
-* 保护 - 课程
-* 保护_44__ - 谷歌课程
-* 保护45__ - 课程
-* 保护的课程
-* 保护 - 纪录片 /课程
-* 保护48__ - 讲座
-* 保护_49__ - 讲座 / 保护_50__
-* 保护_51__ - 讲座 / 保护_52__
-* 专题: 机课程
+*  **KEEP25/KEEP** - 课程
+*  **KEEP26/KEEP** - 教育YouTube道
+* ️ **KEEP27/KEEP**
+* ️ **KEEP28/KEEP**
+* ⭐ **KEEP29/KEEP** - 课程 / KEEP30/KEEP
+* ⭐ **KEEP31/KEEP** - 课程
+* ⭐ **KEEP32/KEEP** - 课程 / KEEP33/KEEP / KEEP34/KEEP
+* ⭐ **KEEP35/KEEP** - 寻找课程
+* KEEP36/KEEP - 多个网站课程搜索
+* KEEP37/KEEP - 课程
+* KEEP38/KEEP - 课程
+* KEEP39/KEEP - 课程
+* KEEP40/KEEP - 课程
+* KEEP41/KEEP - 课程
+* KEEP42/KEEP - 课程
+* KEEP43/KEEP - 课程
+* KEEP44/KEEP - 谷歌课程
+* KEEP45/KEEP - 课程
+* KEEP46/KEEP - 课程
+* KEEP47/KEEP - 纪录片/课程
+* KEEP48/KEEP - 讲座
+* KEEP49/KEEP - 讲座 / KEEP50/KEEP
+* KEEP51/KEEP - 讲座 / KEEP52/KEEP
+* KEEP53/KEEP - 主题崩课程
 
 ***
 
 ## ▷ 下载
 
-* ** 注释** - 使用 **[redirect bypassers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_redirect_bypass)** 跳过令人烦的链接缩短器.
+* ** 注释** - 使用 **KEEP54/KEEP** 跳过令人烦的链接缩短器.
 
 ***
 
-*  **[Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone)** - 课程网站指数
-* ⭐ **[TutFlix](https://tutflix.org/)** - 课程/驾驶/注册开放周五
-* ⭐ **[HackNation](https://hacksnation.com/)** - 课程
-* ⭐ **[tut4dl](https://tut4it.com/)** - 课程 / [Request Guide](https://t.me/c/1603660516/91)
-* ⭐ **[Course Busters](https://www.cbusters.com/home)** - 课程缓冲者访问
-* 保护_61__,保护_62__或保护_63__ - 流网站 / 使用 __保护_64__
-* 保护性教育课程
-* 保护的课程
-* 保护性课程
-* 保护_68__ - 课程 / 需要学习
-* 讯网 - 网上课程
-* 保护_70__ -  IT 确定课程
+*  **KEEP55/KEEP** - 课程网站指数
+* ⭐ **KEEP56/KEEP** - 课程/驾驶 /注册开放周五
+* ⭐ **KEEP57/KEEP** - 课程
+* ⭐ **KEEP58/KEEP** - 课程 / KEEP59/KEEP
+* ⭐ **KEEP60/KEEP** - 课程客访问
+* KEEP61/KEEP, KEEP62/KEEP或 KEEP63/KEEP - 流媒体网站 / 使用 KEEP64/KEEP
+* KEEP65/KEEP - 课程
+* KEEP66/KEEP - 课程
+* KEEP67/KEEP - 课程
+* KEEP68/KEEP - 课程 / 需要学习
+* KEEP69/KEEP - 链接课程
+* KEEP70/KEEP - IT 确定课程
 
 ***
 
 # 学习网站
 
-*  **[Learn Anything](https://learn-anything.xyz/)** - 学习资源搜索 / [Free Method](https://rentry.co/FMHYB64#learn-anything) / [Discord](https://discord.gg/W7yDkEN67Y) / [GitHub](https://github.com/learn-anything/learn-anything)
-*  **[Wakelet](https://wakelet.com/explore)** - 学习资源
-*  **[OpenCulture](https://www.openculture.com/)** - 学习资源
-*  **[OSSU](https://github.com/ossu/)** - 学习资源 / [Discord](https://discord.gg/wuytwK5s9h)
-*  **[The Free Learning List](https://freelearninglist.org/)** - 学习资源
-*  **[Awesome Educational Games](https://github.com/yrgo/awesome-educational-games)** - 教育游戏指数
-* ️ **[Ebook Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25BA_educational_books)**
-* ️ **[Quotes / Poetry](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_quotes_.2F_poetry)**
-* ️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
-* ️ **[Science News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc/#wiki_.25B7science_news)**
-* ⭐ **[r/coolguides](https://reddit.com/r/coolguides/)**或 [coolguid.es](https://coolguid.es/) - 导游和教程
-* ⭐ **[r/educationalgifs](https://reddit.com/r/educationalgifs)** - 使用GIF学习
-* ⭐ **[r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/)** - 简单地解释任何事情
-* ⭐ **[The Punctuation Guide](https://www.thepunctuationguide.com/)** - 准时指南
-* 专业知识基础/主题学习
-* 保护_91__ - 教育演讲
-* 保护92__ - 鼓舞人心和教育性的对话
-* 保护_93__或保护_94__ - 问答社区
-* 国际科学奥运会 争端社区
-* 保护_96__或_保护_97__ - 谷歌的教育搜索AI
-* 保护_98__ - 学习地图
-* 动画图片
-* 保护_101__,保护_102__或保护_103__ - 记忆测试/训练
-* 保护_104__或_保护_105__ - 数据 / 信息 / 信息图片 / 视觉化
-* 保护_106__或保护_107__ - 了解事情如何运作
-* 论 - 常见误解指数
-*  保护_109__ - 师范课程 作为wikiHow文章
-* 保护的 - 文学指南
-* 保护性 - 可持续发展维基
-* 矿物质数据库
-* 保护_113__或_保护_114__ - 飞机指数 /图像
-* 保护_115__ - 船舶指数 / 图片
-* 鱼类 / 电报
-* 化论坛
-* 加入学习团体,使用免费课程
+*  **KEEP71/KEEP** - 学习资源搜索 / KEEP72/KEEP / KEEP73/KEEP / KEEP74/KEEP
+*  **KEEP75/KEEP** - 学习资源
+*  **KEEP76/KEEP** - 学习资源
+*  **KEEP77/KEEP** - 学习资源 / KEEP78/KEEP
+*  **KEEP79/KEEP** - 学习资源
+*  **KEEP80/KEEP** - 教育游戏指数
+* ️ **KEEP81/KEEP**
+* ️ **KEEP82/KEEP**
+* ️ **KEEP83/KEEP**
+* ️ **KEEP84/KEEP**
+* ⭐ **KEEP85/KEEP**或 KEEP86/KEEP - 导游和教程
+* ⭐ **KEEP87/KEEP** - 使用GIF学习
+* ⭐ ** KEEP88/KEEP** - 简单地解释任何事情
+* ⭐ **KEEP89/KEEP** - 准时指南
+* KEEP90/KEEP - 知识基础/主题学习
+* KEEP91/KEEP - 教育演讲
+* KEEP92/KEEP - 鼓舞人心和教育性的对话
+* KEEP93/KEEP或 KEEP94/KEEP - 问答社区
+* KEEP95/KEEP - 国际科学奥运会 离不开社区
+* KEEP96/KEEP或KEEP97/KEEP - - 谷歌的教育搜索AI
+* KEEP98/KEEP - 学习地图
+* KEEP100/KEEP - 动画信息图片
+* KEEP101/KEEP, KEEP102/KEEP或 KEEP103/KEEP - 记忆测试/培训
+* KEEP104/KEEP或 KEEP105/KEEP - 数据 /信息 / 信息图片 / 视图
+* KEEP106/KEEP或KEEP107/KEEP - 了解事情如何运作
+* KEEP108/KEEP - 常见误解指数
+* KEEP109/KEEP - 级课程 作为wikiHow文章重新出版
+* KEEP110/KEEP - 文学指南
+* KEEP111/KEEP - 可持续发展维基
+* KEEP112/KEEP - 矿物质数据库
+* KEEP113/KEEP或 KEEP114/KEEP - 飞机指数/图片
+* KEEP115/KEEP - 船舶指数 /图片
+* KEEP116/KEEP - 植物学 / 电报
+* KEEP117/KEEP - 炼金术论坛
+* KEEP118/KEEP - 加入学习团体,使用免费课程
 
 ***
 
 ## ▷ 技能/爱好
 
-* ️ **[Photography / Cameras](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_photography_.2F_cameras)**
-* ️ **[Typing Tests / Games](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_typing_lessons)**
-* 保护_121__ - 1000个自动制作项目
-* 保护_123__或保护_124__ - 学习绑
-* 保护_125__ - 学习绑鞋带
-* 保护_126__,保护_127__或保护_128__ - 学习/实践摩尔斯代码
-* 保护_129__ - 锁选论坛
-* 博技术数据库
-* 鱼类的鱼类
-* 如何计算黑客牌
-* 专业技术技术
-* 活动/活动指南
-* 保护的船模拟器
-* 如何使用电报?
-* 保护性信息
-* 保护性技术
-* 鱼的魔术论坛
+* ️ **KEEP119/KEEP**
+* ️ **KEEP120/KEEP**
+* KEEP121/KEEP - 1000个自制项目
+* KEEP123/KEEP或 KEEP124/KEEP - 学习结结
+* KEEP125/KEEP - 学习绑鞋带
+* KEEP126/KEEP, KEEP127/KEEP或 KEEP128/KEEP - 学习/练习摩尔斯代码
+* KEEP129/KEEP - 锁选论坛
+* KEEP130/KEEP - 徒步技技术数据库
+* KEEP131/KEEP - 自动化生物攻击
+* KEEP132/KEEP - 学习黑客牌计数
+* KEEP133/KEEP - 精英实践 / 指南
+* KEEP134/KEEP - 运动/活动指南
+* KEEP135/KEEP - 桥梁指挥舰模拟器
+* KEEP136/KEEP - 催眠 / 电报
+* KEEP137/KEEP - 精神活性信息
+* KEEP138/KEEP - 心理学维基
+* KEEP139/KEEP - 魔术论坛
 
 ***
 
 ## ▷ 互动学习
 
-* ⭐ **[PhET](https://phet.colorado.edu/)**, [Cognito](https://www.cognitoedu.org/), [Academo](https://academo.org/) - 互动课程
-* 保护的143__,保护的144__,保护的145__或保护的146__ - 测试 / 导游 / 游戏
-* 保护的147__,保护的148__或保护的149__ - 互动科学模拟
-* 关于""的故事
+* ⭐ ** KEEP140/KEEP**, KEEP141/KEEP, KEEP142/KEEP - 互动课程
+* KEEP143/KEEP, KEEP144/KEEP, KEEP145/KEEP或 KEEP146/KEEP - 测试 / 导游 / 游戏
+* KEEP147/KEEP, KEEP148/KEEP或 KEEP149/KEEP - 互动科学模拟
+* KEEP150/KEEP - 数学与科学动画
 
 ***
 
 ## 历史
 
-* ️ **[History Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_history_books)**
-* ️ **[Historical Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_historic_maps)** - 地图资源
-* ️ **[⁠WW2 Links](https://ww2links.ca/)** - 第二次世界大战教育资源
-* ⭐ **[Historic Films](https://www.historicfilms.com/)**或 [National Film Preservation Foundation](https://www.filmpreservation.org/) - 历史录像/电影
-* ⭐ **[Histography](https://histography.io/)** - 历史时间表
-* ⭐ **[MorbidKuriosity](https://morbidkuriosity.com/)** - 黑暗历史,阴谋,犯罪,神话等
-* 保护_158__或保护_159__ - 历史照片/文件
-* 历史战争录像
-* 保护的 - 博物馆搜索
-* 保护 - 了解古老建筑物
-* 历史照片
-* 历史目击者证词
-* 历史标记数据库
-* 保护的_166__ - 中世纪手稿图片
-* 非洲历史百科全书
-* 希腊历史百科全书
-* 希腊神话
-* 德国神话
-* 保护的171__ - 伊努特神话
-* 美国历史学习游戏
-* 保护173__或保护174__ - 具体的日子发生了什么?
-* 皇家家族的祖先视觉化
-* 历史发现 /技术时间表
-* 工程与技术历史维基
-* 保护的179__ - 古代武器博物馆
-* 核武历史
-* 保护11月11日实时
-* 食品历史时间表
-* 历史食谱网站索引
-* 保护的_184__ - 古代雕塑图像档案
-* 保护的艺术/文化物体历史
-* 香港历史图片档案
-* 设计美学历史
-* 保护188__ - 中国宣传海报历史
-* 历史时尚资源 / 历史
-* 历史技术悲观主义档案
-* 历史录像猜测
+* ️ **KEEP151/KEEP**
+* ️ **KEEP152/KEEP** - 地图资源
+* ️ **KEEP153/KEEP** - 第二次世界大战教育资源
+* ⭐ **KEEP154/KEEP**或 KEEP155/KEEP - 历史录像/电影
+* ⭐ **KEEP156/KEEP** - 历史时间表
+* ⭐ **KEEP157/KEEP** - 黑暗历史,阴谋,犯罪,神话等
+* KEEP158/KEEP或 KEEP159/KEEP - 历史照片/文件
+* KEEP160/KEEP - 历史战争录像
+* KEEP161/KEEP - 博物馆搜索
+* KEEP162/KEEP - 了解古代建筑物
+* KEEP163/KEEP - 历史照片
+* KEEP164/KEEP - 历史目击者见证
+* KEEP165/KEEP - 历史标记数据库
+* KEEP166/KEEP - 中世纪手稿图像
+* KEEP167/KEEP - 非洲历史百科全书
+* KEEP168/KEEP - 希腊历史百科全书
+* KEEP169/KEEP - 希腊神话
+* KEEP170/KEEP - 德国神话
+* KEEP171/KEEP - 伊努特神话
+* KEEP172/KEEP - 美国历史学习游戏
+* KEEP173/KEEP或KEEP174/KEEP - 具体的日子发生了什么
+* KEEP175/KEEP - 王室家族祖先视觉化
+* KEEP176/KEEP或KEEP177/KEEP - 历史发现/技术时间表
+* KEEP178/KEEP - 工程与技术历史维基
+* KEEP179/KEEP - 古代武器博物馆
+* KEEP180/KEEP - 核武历史
+* KEEP181/KEEP - 11月11日实时
+* KEEP182/KEEP - 食品历史时间表
+* KEEP183/KEEP - 历史食谱网站指数
+* KEEP184/KEEP - 古代雕塑图像档案
+* KEEP185/KEEP - 艺术/文化物体历史
+* KEEP186/KEEP - 香港历史照片档案
+* KEEP187/KEEP - 设计美学历史
+* KEEP188/KEEP - 中国宣传海报历史
+* KEEP189/KEEP - 历史时尚资源 / 历史
+* KEEP190/KEEP - 历史技术悲观主义档案
+* KEEP191/KEEP - 历史录像 猜测
 
 ***
 
 ## ▷ 神话 / 民俗
 
-* 保护192__,保护193__或保护194__ - 神话学百科全书
-* 保护的195__ - 宗教 / 神话历史
-* 关于"城市传奇"的故事
-* 保护的197__ - 神话 / 民俗 / 宗教
-* 保护的1989年 - 神话 / 宗教
-* 子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子
+* KEEP192/KEEP, KEEP193/KEEP或 KEEP194/KEEP - 神话学百科全书
+* KEEP195/KEEP - 宗教 /神话史
+* KEEP196/KEEP - 神话 / 城市传说
+* KEEP197/KEEP - 神话 / 民俗 / 宗教
+* KEEP198/KEEP - 神话 / 宗教
+* KEEP199/KEEP或KEEP200/KEEP - 日本神话 / 民俗
 
 ***
 
 ## 哲学
 
-* ⭐ **[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/index.html)**, [IEP](https://iep.utm.edu/)或 [nLab Philosophy](https://ncatlab.org/nlab/show/philosophy) - 哲学百科全书 / [Search](https://www.visualizingsep.com/)
-* 保护的205__,保护的206__,保护的207__或保护的208__ - 哲学资源 /学习
-* 关于"哲学"的视频
-* 关于哲学题材的1000字文章
-* 保护_211__ - 更好的思维工具
-* 保护_212__ - 学习有用的原则
-* 发展生活技能
-* 保护214__ - 生活课视觉
-* 保护_215__ - 解释图
-* 保护_216__,保护_217__,保护_218__或保护_219__ - 了解逻辑错误
-* 保护_220__ - 了解偏见
-* 保护的
-* 关于"保护"的议题
-* 保护_223__ - "已知未知" Wiki
-* 车问题
-* 保护_225__ - 社会工程指南
+* ⭐ **KEEP201/KEEP**, KEEP202/KEEP或 KEEP203/KEEP - 哲学百科全书 / KEEP204/KEEP
+* KEEP205/KEEP, KEEP206/KEEP, KEEP207/KEEP或 KEEP208/KEEP - 哲学资源/学习
+* KEEP209/KEEP - 哲学视频
+* KEEP210/KEEP - 1000字的哲学论文
+* KEEP211/KEEP - 更好的思维工具
+* KEEP212/KEEP - 学习有用的原则
+* KEEP213/KEEP - 培养生活技能
+* KEEP214/KEEP - 生活课程视觉化
+* KEEP215/KEEP - 解释图
+* KEEP216/KEEP, KEEP217/KEEP, KEEP218/KEEP或 KEEP219/KEEP - 了解逻辑错误
+* KEEP220/KEEP - 了解偏见
+* KEEP221/KEEP
+* KEEP222/KEEP - 辩论/讨论
+* KEEP223/KEEP - "已知未知" Wiki
+* KEEP224/KEEP - 卡车问题
+* KEEP225/KEEP - 社会工程指南
 
 ***
 
 ## 音乐
 
-*  **[Awesome Music Theory](https://github.com/vpavlenko/study-music)** - 音乐理论资源
-* ️ **[Sheet Music / Notation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio#wiki_.25B7_sheet_music_.2F_notation)**
-* ⭐ **[Muted](https://muted.io/)**, **[Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)** / [2](https://openmusictheory.github.io/), [Chromatone](https://chromatone.center/), [Teoria](https://www.teoria.com/index.php), [SimplifyingTheory](https://www.simplifyingtheory.com/), [LightNote](https://www.lightnote.co/)或 [Music Theory](https://www.musictheory.net/) - 音乐理论
-* 保护的课程
-* 保护_238__ / 保护_239__或 _ 保护_240__ - 音乐作曲工具
-* 保护_241__,保护_242__或保护_243__ - 计数仪,调音器和音调生成器
-* 保护器 - 仪器调器
-* 视觉化笔记,电线和键
-* 保护_246__,保护_247__或保护_248__ - 符号检测器 / 转录器
-* 保护_249__,保护_250__或保护_251__ - 弦进步发电机
-* 为了让我们能获得更多的支持,
-* 为了让我们可以在此处找到一个好消息.
-* 音乐雕刻项目
-* 保护的255__或保护的256__ - 音乐制作课程
-* 保护的257__ / 保护的258__, 保护的259__ / 保护的266__, 保护的261__, 保护的262__或 保护的263__ - 钢琴练习 / 学习
-* 您的位置: 首页
-* 保护的_265__,保护的_266__,保护的_267__或保护的_268__ - 吉他工具
-* 保护的271__,保护的272__,保护的273__或保护的274__ - 学习吉他 scale / 弦
-* 爱情节目,爱情节目,爱情节目,爱情节目,爱情节目,爱情节目
-* 创建/打印吉他尺度和合唱图表
-* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子子
-* 曲器标签
-* 声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声声
-* 保护_281__,保护_282__或保护_283__ - 虚拟的乐器板 /吉他课程
-* 子课程
-* 保护_286__或保护_287__ - 标签
-* ,我不想让你知道.
-* 保护器
-* 视力歌唱练习
-* 保护的 - UTAU教程
-* 保护的实践
-* 音乐教师搜索
-* 爱尔兰传统音乐论坛
-* 音乐仪器数据库
-* 保护的声音来源
+*  **KEEP226/KEEP** - 音乐理论资源
+* ️ **KEEP227/KEEP**
+* ⭐ **KEEP228/KEEP**, **KEEP229/KEEP** / KEEP230/KEEP, KEEP231/KEEP, KEEP232/KEEP, KEEP233/KEEP, KEEP234/KEEP或 KEEP235/KEEP - 音乐理论
+* KEEP236/KEEP - 音频课程
+* KEEP238/KEEP / KEEP239/KEEP或 KEEP240/KEEP - 音乐作曲工具
+* KEEP241/KEEP, KEEP242/KEEP或 KEEP243/KEEP - 计量仪,调音器和音调生成器
+* KEEP244/KEEP - 仪器调音器
+* KEEP245/KEEP - 设想笔记,电缆和键
+* KEEP246/KEEP, KEEP247/KEEP或 KEEP248/KEEP - 音符检测/转录器
+* KEEP249/KEEP, KEEP250/KEEP或 KEEP251/KEEP - 弦进步发电机
+* KEEP252/KEEP - 弦曲进步图书馆
+* KEEP253/KEEP - 钢琴转录器
+* KEEP254/KEEP - 音乐雕刻项目
+* KEEP255/KEEP或 KEEP256/KEEP - 音乐制作课程
+* KEEP257/KEEP / KEEP258/KEEP, KEEP259/KEEP / KEEP260/KEEP, KEEP261/KEEP, KEEP262/KEEP或 KEEP263/KEEP - 钢琴练习/学习
+* KEEP264/KEEP - 键盘教学应用程序
+* KEEP265/KEEP, KEEP266/KEEP, KEEP267/KEEP或 KEEP268/KEEP - 吉他工具
+* KEEP269/KEEP, KEEP270/KEEP, KEEP271/KEEP, KEEP272/KEEP, KEEP273/KEEP或 KEEP274/KEEP - 学习吉他/弦
+* KEEP275/KEEP - 斯波提夫音符排行榜
+* KEEP276/KEEP - 创建/打印吉他尺度和合奏图表
+* KEEP277/KEEP或KEEP278/KEEP - 吉他课程
+* KEEP279/KEEP - 吉他卡
+* KEEP280/KEEP - 吉他弦乐器
+* KEEP281/KEEP, KEEP282/KEEP或 KEEP283/KEEP - 虚拟的盘/吉他课程
+* KEEP284/KEEP或KEEP285/KEEP - 鼓教学
+* KEEP286/KEEP或 KEEP287/KEEP - 标签
+* KEEP288/KEEP - 改进爵士乐
+* KEEP289/KEEP - 合成器
+* KEEP290/KEEP - 视觉歌唱练习
+* KEEP291/KEEP - UTAU教程
+* KEEP292/KEEP - 声识别实践
+* KEEP293/KEEP - 音乐教师搜索
+* KEEP294/KEEP - 爱尔兰传统音乐论坛
+* KEEP295/KEEP - 音乐仪器数据库
+* KEEP296/KEEP - VGM声音来源 / KEEP297/KEEP
 
 ***
 
 ## ▷ 艺术/编辑
 
-*  **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - 艺术和动画资源指数
-*  **[AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch)** - 动漫机器学习
-* ️ **[Digital Art Collections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_digital_art_collections)**
-* ⭐ **[Art Study Guide](https://drive.google.com/file/d/1cK9q7oeFRE58MVaSgUql662iGqCXC8Ah/)** - 艺术研究指南/提示
-* ⭐ **[Drawabox](https://drawabox.com/)**, _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-* ⭐ **[Proko](https://www.youtube.com/user/ProkoTV/videos)** - 绘图课程
-* ⭐ **[PaintingTube](https://painting.tube)**, [MarcoBucci](https://www.youtube.com/@marcobucci), [Alphonso Dunn](https://www.youtube.com/c/ALPHONSODUNN/videos?view=0&sort=p&flow=grid), [Feng Zhu FZD](https://www.youtube.com/user/FZDSCHOOL/videos), [⁠Ctrl+Paint](https://www.ctrlpaint.com/), [Art Fundamentals](https://www.youtube.com/playlist?list=PLVgLT-e3jXPDgeED0pD0BPq8kY1VAZAGa)或 [Circle Line Art](https://www.youtube.com/user/circlelinemedia/videos) - 艺术视频教程
-* 保护的艺术品
-* 艺术/设计课程
-* 保护性课程
-* 专业艺术家课程
-* 保护艺术 - - 每日艺术挑战
-* 标签: 标签: 标签: 标签: 标签:
-* 保护_320__,保护_321__或保护_322__ - 故事板指南
-* 视频: 视频: 视频:
-* 果产品有限公司
-* 们在们的家里,
-* 们在们的家里,
-* 设计教程
-* 照片的照片
-* 如何使用果?
-* 您可以在此查看更多关于
-* 笔工具实践
-* 保护人 - 创造教程
-* 电子艺术教程
-* 像像素艺术教程
-* 艺术学习书籍
-* 保护的3D计算机图形指南
-* 如何学习绘画
-* 保护的 - 旧画书
-* 保护_342__,保护_343__,保护_344__或保护_345__ - 图形绘图工具/课程
-* 关于人体解剖图纸的教程
-* 艺术家的照片参考
-* 保护人 - 人类照片参考搜索
-* 动物照片参考搜索
-* 保护的指南
-* 标签: 标签: 标签: 标签: 标签:
-* 保护_352__ - 绘画中的颜色指南
-* 如何学习油漆
-* 保护的 - 绘画示范
-* 保护的_355__或保护的_356__ - CG教程
-* 故事编辑技巧 / 迪士尼故事主任的学习
-* 动物学习社区 / 教程 / 保护
-* 动画音乐视频制作指南
+*  **KEEP298/KEEP** - 艺术和动画资源指数
+*  **KEEP299/KEEP** - 动漫机器学习
+* ️ **KEEP300/KEEP**
+* ⭐ **KEEP301/KEEP** - 艺术学习指南/提示
+* ⭐ **KEEP302/KEEP**, KEEP303/KEEP, KEEP304/KEEP或 KEEP305/KEEP - 绘画课程
+* ⭐ **KEEP306/KEEP** - 绘图课程
+* ⭐ ** KEEP307/KEEP**, KEEP308/KEEP, KEEP309/KEEP, KEEP310/KEEP, KEEP311/KEEP, KEEP312/KEEP或 KEEP313/KEEP - 艺术视频教程
+* KEEP314/KEEP - 革命的文物
+* KEEP315/KEEP - 艺术/设计课程
+* KEEP316/KEEP - 创意课程
+* KEEP317/KEEP - 自学艺术家课程
+* KEEP318/KEEP - 日常艺术挑战
+* KEEP319/KEEP - 角色设计视觉图书馆
+* KEEP320/KEEP, KEEP321/KEEP或 KEEP322/KEEP - 故事板指南
+* KEEP323/KEEP - 动漫制作材料
+* KEEP324/KEEP - 动漫制作社区
+* KEEP325/KEEP - 动漫风格背景教程
+* KEEP326/KEEP - 动漫/漫画绘画教程
+* KEEP327/KEEP - 设计教程
+* KEEP328/KEEP - 照片教程
+* KEEP329/KEEP - 插图师教程
+* KEEP330/KEEP, KEEP331/KEEP或 KEEP332/KEEP - 图片YouTube教程
+* KEEP333/KEEP - 笔工具实践
+* KEEP334/KEEP - 制作教程
+* KEEP335/KEEP - 数字艺术教程
+* KEEP336/KEEP或 KEEP337/KEEP - 像素艺术教程
+* KEEP338/KEEP - 艺术学习书籍
+* KEEP339/KEEP - 3D计算机图形指南
+* KEEP340/KEEP - 学习绘画
+* KEEP341/KEEP - 旧的绘图书
+* KEEP342/KEEP, KEEP343/KEEP, KEEP344/KEEP或 KEEP345/KEEP - 图形图纸工具/课程
+* KEEP346/KEEP - 人体解剖绘画教程
+* KEEP347/KEEP - 艺术家的照片参考
+* KEEP348/KEEP - 人类照片参考搜索
+* KEEP349/KEEP - 动物照片参考搜索
+* KEEP350/KEEP - 视角指南
+* KEEP351/KEEP - 对象维度参考
+* KEEP352/KEEP - 绘画中的颜色指南
+* KEEP353/KEEP - 学习油漆
+* KEEP354/KEEP - 绘画示范
+* KEEP355/KEEP或 KEEP356/KEEP - CG教程
+* KEEP357/KEEP - 故事板技巧 / 迪士尼故事主任的学习
+* KEEP358/KEEP - 动画学习社区 / 教程 / KEEP359/KEEP
+* KEEP360/KEEP - 动画音乐视频制作指南
 
 ***
 
 ## ▷ 地理学/社会学
 
-*  **[Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)** - 公众数据集
-*  **[Country Infographics](https://rentry.org/o4gq6cq5)** - 国家信息图片
-* ️ **[Historical / Modern Maps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_maps)** - 地图资源
-* ⭐ **[Worldometer](https://www.worldometers.info/)**, [TheScaleOfLife](https://www.thescaleoflife.com/), [WorldBank](https://databank.worldbank.org/), [US Census](https://data.census.gov/), [DataUSA](https://datausa.io/), [Data.gov](https://data.gov/)或 [UN Data](https://data.un.org/) - 世界数据和统计
-* ⭐ **[Our World in Data](https://ourworldindata.org/)** - 世界问题数据库
-* ⭐ **[The Atlas of Economic Complexity](https://atlas.hks.harvard.edu/)** - 全球经济增长数据
-* ⭐ **[Soar](https://soar.earth/)** - 数字亚特拉斯
-* 保护_374__ - 有趣 / 教育地图
-* 保护的377__,保护的378__,保护的379__,保护的3880__,保护的381__或保护的382__ - 地理猜测 / 问卷
-* 发现抗生素
-* 保护_384__或保护_385__ - 比较国家大小
-* 保护_386__ - 位置/人口数据
-* 美国城市数据
-* 保护_388__或_保护_389__ - 数据可视化
-* 保护世界意识数据
-* 保护_391__,保护_392__或保护_393__ - 国家数据比较
-* 保护世界贫困数据
-* 财富不平等视觉化 / 事实 / 保护
-* 根据国家/收入的比例,家庭的比例
-* 保护世界 - 世界上不平等的场景
-* 视觉化数据
-* 保护_400__或保护_401__ - 全球贸易数据
-* 保护的市场统计
-* 保护互联网关闭对经济的影响
-* 保护国家和政府首脑数据库
-* 保护世界出生/死亡率
-* 保护性犯罪统计
-* 保护性暴力 - 枪支暴力统计
-* 监狱视觉 / 事实
-* 保护生活成本计算器
-* 保护_410__或保护_411__ - 气候变化数据
-* 保护_412__ - 极端天气数据 / 追踪
-* 气候解决方案模拟器
-* 保护火山信息数据库
-* 保护的山脉视觉和信息
-* 美国法律学习游戏
-* 保护证指数
-* 标志数据库
-* 标签: 标签: 标签: 标签: 标签:
-* 标志数据库
-* 标志设计的细节
-* 保护_424__ - 仇恨符号数据库
+*  **KEEP361/KEEP** - 公众数据集
+*  **KEEP362/KEEP** - 国家信息图片图片
+* ️ **KEEP363/KEEP** - 地图资源
+* ⭐ **KEEP364/KEEP**, KEEP365/KEEP, KEEP366/KEEP, KEEP367/KEEP, KEEP368/KEEP, KEEP369/KEEP或 KEEP370/KEEP - 世界数据和统计
+* ⭐ **KEEP371/KEEP** - 世界问题数据库
+* ⭐ **KEEP372/KEEP** - 全球经济增长数据
+* ⭐ **KEEP373/KEEP** - 数字 Atlas
+* KEEP374/KEEP - 有趣的 / 教育地图
+* KEEP375/KEEP / KEEP376/KEEP / KEEP377/KEEP, KEEP378/KEEP, KEEP379/KEEP, KEEP380/KEEP, KEEP381/KEEP或 KEEP382/KEEP - 地理猜测 / 问卷
+* KEEP383/KEEP - 找到抗生素
+* KEEP384/KEEP或 KEEP385/KEEP - 比较国家大小
+* KEEP386/KEEP - 位置/人口数据
+* KEEP387/KEEP - 美国城市数据
+* KEEP388/KEEP或 KEEP389/KEEP - 数据可视化
+* KEEP390/KEEP - 实时全球意识数据
+* KEEP391/KEEP, KEEP392/KEEP或 KEEP393/KEEP - 国家数据比较
+* KEEP394/KEEP - 世界贫困数据
+* KEEP395/KEEP - 财富不平等的视觉化 / 事实 / KEEP396/KEEP
+* KEEP397/KEEP - 根据国家/收入进行家庭比较
+* KEEP398/KEEP - 世界上不平等的场景
+* KEEP399/KEEP - 每秒可视化数据
+* KEEP400/KEEP或 KEEP401/KEEP - 全球贸易数据
+* KEEP402/KEEP - 市场统计
+* KEEP403/KEEP - 发现互联网关闭对经济的影响
+* KEEP404/KEEP - 世界各国领导人数据库
+* KEEP405/KEEP - 世界出生/死亡率视觉化
+* KEEP406/KEEP - 毒品/犯罪统计
+* KEEP407/KEEP - 枪支暴力统计
+* KEEP408/KEEP - 监狱视觉 / 事实
+* KEEP409/KEEP - 生活成本计算器
+* KEEP410/KEEP或 KEEP411/KEEP - 气候变化数据
+* KEEP412/KEEP - 极端天气数据 / 追踪
+* KEEP413/KEEP - 气候解决方案模拟器
+* KEEP414/KEEP - 火山信息数据库
+* KEEP415/KEEP - 山脉视觉化和信息
+* KEEP416/KEEP - 美国法律学习游戏
+* KEEP417/KEEP - 世界许可证板指数
+* KEEP418/KEEP - 符号数据库
+* KEEP419/KEEP或 KEEP420/KEEP - 标志测试
+* KEEP421/KEEP或 KEEP422/KEEP - 旗数据库
+* KEEP423/KEEP - 旗设计的细节
+* KEEP424/KEEP - 仇恨符号数据库
 
 ***
 
 ## ▷ 虚拟游览
 
-*  **[Virtual Museum Resources](https://mcn.edu/a-guide-to-virtual-museum-resources/)** - 网上博物馆
-* ⭐ **[CityHop](https://www.cityhop.cafe/)**, [Travel Remotely](https://travel-remotely.netlify.app/), [Portal Generator](https://flavourmachine.com/portal-generator/), [Walk with Feel](https://walkwithfeel.vercel.app/), [Outside Simulator](https://outsidesimulator.com/), [Japan Walkaround](https://thatguyedd.github.io/), [CityWalks](https://citywalks.live/), [Citywalki](https://www.citywalki.com/)或 [Virtual Vacations](https://virtualvacation.us/) - 旅行模拟器
-* 保护_435__ - 虚拟旅游地图
-* 保护人 - 虚拟游览
-* 保护的自然历史博物馆
-* 为了让我们能看到一个人,
-* 探索波斯波利斯的娱乐场
-* 保护的阿姆斯特丹
-* 保护的博物馆 - 第二次世界大战博物馆虚拟巡回
-* 火号IX驾驶互动全景
-* 爱尔兰虚拟游览
-* 通过数字化方式探索真实地方
-* 圣彼得教堂巡回演出
-* 保护_446__,保护_447__或保护_448__ - 360 图片 / 视频
-* 史密森大学三维数字化博物馆
-* 保护_450__ - 贝奥斯壁纸3D数字化
+*  **KEEP425/KEEP** - 网上博物馆
+* ⭐ **KEEP426/KEEP**, KEEP427/KEEP, KEEP428/KEEP, KEEP429/KEEP, KEEP430/KEEP, KEEP431/KEEP, KEEP432/KEEP, KEEP433/KEEP或 KEEP434/KEEP - 旅行模拟器
+* KEEP435/KEEP - 虚拟旅游地图
+* KEEP436/KEEP - 虚拟游览
+* KEEP437/KEEP - 自然史博物馆虚拟巡回演出
+* KEEP438/KEEP - 大金字塔虚拟游览
+* KEEP439/KEEP - 探索波斯波利斯的娱乐场所
+* KEEP440/KEEP - 阿姆斯特丹的考古学物体DB
+* KEEP441/KEEP - 第二次世界大战博物馆虚拟巡回演出
+* KEEP442/KEEP - 斯皮特飞艇马克 IX驾驶互动风景
+* KEEP443/KEEP - 爱尔兰虚拟游览
+* KEEP444/KEEP - 通过数字方式探索现实地方
+* KEEP445/KEEP - 圣彼得教堂巡回演出
+* KEEP446/KEEP, KEEP447/KEEP或 KEEP448/KEEP - 360 图片 /视频
+* KEEP449/KEEP - 史密森三维数字化博物馆
+* KEEP450/KEEP - 贝奥斯壁纸3D数字化
 
 ***
 
@@ -390,326 +390,326 @@
 
 ## 物理
 
-*  **[Physics Aviary](https://thephysicsaviary.com/Physics/Programs/Tools/find.php)**或[Falstad](https://www.falstad.com/) - 物理工具
-* ⭐ **[The Feynman Lectures](https://www.feynmanlectures.caltech.edu/)** - 物理讲座
-* ⭐ **[Bartosz Ciechanowski](https://ciechanow.ski/)**, [Isaac Physics](https://isaacphysics.org/), [PhysicsClassroom](https://www.physicsclassroom.com/), [HyperPhysics](http://hyperphysics.phy-astr.gsu.edu/hbase/), [MotionMountain](https://www.motionmountain.net/index.html)或 [Splung](https://www.splung.com/) - 物理课程/学习
-* ⭐ **[Physics Simulations](https://www.csun.edu/science/software/simulations/physics.html)**, [Mujoco](https://github.com/google-deepmind/mujoco), [Physics Animations](https://www.animations.physics.unsw.edu.au/), [oPhysics](https://ophysics.com/index.html)或 [MyPhysicsLab](https://www.myphysicslab.com/index-en.html) - 物理模拟/动画
-* 保护人 - 科学视频
-* 物理解释
-* 物理百科全书
-* 互动物理工具
-* 了解量子基本术语
-* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子
-* 保护的 - 物理/科学论坛
-* 论论文 - 国际物理分歧社区
-* 电磁辐射频谱图
-* 保护的 - 科学 / 技术 / 数学 / 物理
-* 互动量子计算课程
-* 互动第四维度
-* 保护_477__ - 光反射/反射模拟器
-* 轮模拟器
-* 保护的481__,保护的482__,保护的483__或保护的484__ - 流体动态模拟器
-* 保护_485__或保护_486__ - 流体动态和热传输
-* 球物理模拟器
-* 保护水的模拟
-* 子动力学 (MD) 代码
-* 保护_491__,保护_492__或保护_493__ - 分子观众/编辑
-* 热模拟器
+*  **KEEP451/KEEP**或 KEEP452/KEEP - 物理工具
+* ⭐ **KEEP453/KEEP** - 物理讲座
+* ⭐ **KEEP454/KEEP**, KEEP455/KEEP, KEEP456/KEEP, KEEP457/KEEP, KEEP458/KEEP或 KEEP459/KEEP - 物理课程/学习
+* ⭐ **KEEP460/KEEP**, KEEP461/KEEP, KEEP462/KEEP, KEEP463/KEEP或 KEEP464/KEEP - 物理模拟/动画
+* KEEP465/KEEP - 科学视频
+* KEEP466/KEEP - 物理解释
+* KEEP467/KEEP - 物理百科全书
+* KEEP468/KEEP - 互动物理工具
+* KEEP469/KEEP - 学习量子基本术语
+* KEEP470/KEEP - 量子物理学习应用程序
+* KEEP471/KEEP - 物理/科学论坛
+* KEEP472/KEEP - ISODN物理分歧社区
+* KEEP473/KEEP - 电磁辐射频谱图
+* KEEP474/KEEP - 科技/数学/物理
+* KEEP475/KEEP - 互动量子计算课程
+* KEEP476/KEEP - 互动第四维度
+* KEEP477/KEEP - 光反射/反射模拟器
+* KEEP478/KEEP或 KEEP479/KEEP - 旋模拟器
+* KEEP48/KEEP, KEEP481/KEEP, KEEP482/KEEP, KEEP483/KEEP或 KEEP484/KEEP - 流体动态模拟器
+* KEEP485/KEEP或KEEP486/KEEP - 流体动态和热量转移
+* KEEP487/KEEP或 KEEP488/KEEP - 球物理模拟器
+* KEEP489/KEEP - 水模拟
+* KEEP490/KEEP - 分子动力学 (MD) 代码
+* KEEP491/KEEP, KEEP492/KEEP或 KEEP493/KEEP - 分子观众/编辑
+* KEEP494/KEEP - 热量模拟器
 
 ***
 
 ## 关于数学
 
-*  **[Awesome Math](https://github.com/rossant/awesome-math)**或[Math Resources](https://docs.google.com/document/d/1rtokzhpvkUPnymudl_ZVmfAA7H33VIyLQUpujNGwrTo/) - 数学资源
-* ️ **[Calculators / Problem Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_calculators)**
-* ️ **[LaTeX Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_latex_tools)**
-* ⭐ **[Number Academy](https://number.academy/)** - 数字百科全书
-* ⭐ **[Wumbo](https://wumbo.net/)** - 数学参考网站
-* ⭐ **[Open Source Society University](https://github.com/ossu/math)** / [PT-BR](https://github.com/ossu/math-br) - 数学路线图 / [Discord](https://discord.gg/wuytwK5s9h)
-* ⭐ **[AoPS Alcumus](https://artofproblemsolving.com/alcumus)**或 [MathDash](https://mathdash.com/) - 适应性解决问题
-* ⭐ **[BetterExplained](https://betterexplained.com/)** - 数学指南/课程
-* ⭐ **[Manim](https://www.manim.community/)**, [2](https://github.com/3b1b/manim) - 生成解释数学视频 / [Videos](https://github.com/3b1b/videos) / [Difference Between Versions](https://docs.manim.community/en/stable/faq/installation.html#different-versions)
-* ⭐ **[WolframAlpha](https://www.wolframalpha.com/)** - 可搜索的知识库 / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (搜索)
-* 保护的513__,保护的514__或保护的515__ - 数学百科全书
-* 互动数学网站
-* 通过电子技术来编辑数学,
-* 保护_521__ - 序列机器
-* 专题: 专题: 专题: 专题: 专题: 专题: 专题:
-* 论系统
-* 论论论 - 学习代数规则
-* 如何计算?
-* 计算教科书
-* 专业数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:数学类型:
-* 保护_529__,保护_530__,保护_531__,保护_532__或保护_533__ - 单位转换器/计算器
-* 查看下载的内容
-* 保护_535__ - 科学数据图表
-*                                                                                                                                                                                                                    
-* 专业课程: 专业课程
-* 们可以看到,
-* 保护的542__,保护的543__,保护的544__,保护的545__,保护的546__,保护的547__,保护的548__或保护的549__ - 数学课程 / 实践
-* 们在数学上玩了
-* 问题/数学方程
-* 专业数学/考试
-* 专业数学/指南
-* 专业数学实践
-* 专业的数学指南
-* 论论文 - 论文
-* 互动利转换指南
-* 关于数学研究的研究
-* 关于数学逻辑的教材
-* 关于数学教程 / 题 / 游戏
-* 关于""的难题
-* 问题: 问题:
-* 现代统计学介绍
-* 保护_565__或保护_566__ - 统计和概率教程
+*  **KEEP495/KEEP**或 KEEP496/KEEP - 数学资源
+* ️ **KEEP497/KEEP**
+* ️ **KEEP498/KEEP**
+* ⭐ **KEEP499/KEEP** - 数字百科全书
+* ⭐ ** KEEP500/KEEP** - 数学参考网站
+* ⭐ **KEEP501/KEEP** / KEEP502/KEEP - 数学路线图 / KEEP503/KEEP
+* ⭐ **KEEP504/KEEP**或 KEEP505/KEEP - 适应性解决问题
+* ⭐ **KEEP506/KEEP** - 数学指南/课程
+* ⭐ **KEEP507/KEEP**, KEEP508/KEEP - 生成解释数学视频 / KEEP509/KEEP / KEEP510/KEEP
+* ⭐ **KEEP511/KEEP** - 可搜索的知识库 / KEEP512/KEEP (搜索)
+* KEEP513/KEEP, KEEP514/KEEP或 KEEP515/KEEP - 数学百科全书
+* KEEP516/KEEP或KEEP517/KEEP - 互动数学网站
+* KEEP518/KEEP, KEEP519/KEEP或 KEEP520/KEEP - 网上数学编辑
+* KEEP521/KEEP - 序列机器
+* KEEP522/KEEP - 整数序列百科全书
+* KEEP523/KEEP - 代数系统
+* KEEP524/KEEP - 学习代数规则
+* KEEP525/KEEP - 学习计算
+* KEEP526/KEEP - 计算教科书
+* KEEP527/KEEP或 KEEP528/KEEP - 数学书的推
+* KEEP529/KEEP, KEEP530/KEEP, KEEP531/KEEP, KEEP532/KEEP或 KEEP533/KEEP - 单位转换器/计算器
+* KEEP534/KEEP - JavaScript 数学显示器
+* KEEP535/KEEP - 科学数据图表
+* KEEP536/KEEP - 数学公式搜索
+* KEEP537/KEEP或 KEEP538/KEEP - 数学 /课程
+* KEEP539/KEEP, KEEP540/KEEP或 KEEP541/KEEP - YouTube 数学课程
+* KEEP542/KEEP, KEEP543/KEEP, KEEP544/KEEP, KEEP545/KEEP, KEEP546/KEEP, KEEP547/KEEP, KEEP548/KEEP或 KEEP549/KEEP - 数学课程/实践
+* KEEP550/KEEP - 数学游戏
+* KEEP551/KEEP - 数学方程 / 问题
+* KEEP552/KEEP - 数学实践 / 试题
+* KEEP553/KEEP - 数学实践 / 导游
+* KEEP554/KEEP - 美国高中数学实践
+* KEEP555/KEEP或 KEEP556/KEEP - 数学指南
+* KEEP557/KEEP - ISODN数学分歧社区
+* KEEP558/KEEP - 互动利转换指南
+* KEEP559/KEEP - 数学研究
+* KEEP560/KEEP - 数学逻辑教学材料
+* KEEP561/KEEP - 数学教程 / 拼图 / 游戏
+* KEEP562/KEEP - 量子采访中的题
+* KEEP563/KEEP - 数学 /编程问题
+* KEEP564/KEEP - 现代统计学介绍
+* KEEP565/KEEP或 KEEP566/KEEP - 统计与概率教程
 
 ***
 
 ## ▷ 工程
 
-*  **[The Engineering Toolbox](https://www.engineeringtoolbox.com/)**或 [EngineersEdge](https://www.engineersedge.com/) - 工程资源
-*  **[r/EngineeringStudents Resources](https://www.reddit.com/r/EngineeringStudents/wiki/resources)** - 工程学生资源
-*  **[Awesome Mecheng](https://github.com/m2n037/awesome-mecheng)** - 机械工程资源
-*  **[Awesome Electronics](https://github.com/kitspace/awesome-electronics)** - 电子工程资源
-*  **[Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)** - 工程博客
-* ️ **[Comp Sci Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
-* ️ **[3D Modeling](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_3d_models) / [CAD Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25B7_cad_engineering)**
-* ⭐ **[r/AskEngineers](https://www.reddit.com/r/AskEngineers/)** / [Wiki](https://www.reddit.com/r/AskEngineers/wiki/), **[r/engineering](https://www.reddit.com/r/engineering/)**或 [r/AutomotiveEngineering](https://www.reddit.com/r/AutomotiveEngineering/) - 工程副产品
-* ⭐ **[NPTEL](https://nptel.ac.in/courses)**或[Sabin](https://www.youtube.com/@SabinCivil) - 工程课程
-* ⭐ **[KiCad](https://www.kicad.org/)** / [Libraries](https://kicad.github.io/)或 [Horizon EDA](https://horizon-eda.org/) - 图案编辑器 / PCB 创建器 / SPICE 集成
-* 技术方法/工具
-* 工程问题和答案
-* 技术软件
-* 机器人论坛
-* 保护_589__ / 保护_590__或 保护_591__ - 机器人学习
-* 机器人课程指数
-* 保护_593__ - 3D硬件模拟器
-* 电子设备:
-* 保护_595__ - 学习电路设计
-* 保护_596__,保护_597__ / 保护_598__,保护_599__,保护_600__或保护_601__ - 电子电路设计工具
-* 果功能参考指南
-* 电路分析工具
-* 保护电池的使用方法
-* 电子指南
-* 保护_607__ - 逆控制台维修指南 + 信息 / [Discord](https://discord.gg/D4Envqc5jr)
-* 工程 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术 技术  技术   技术    技术    技术    技术     技术     技术      技术       技术         技术                                                                                                                                                                                                                                                                                                                         
-* 根据要求,在线制造商
+*  **KEEP567/KEEP**或 KEEP568/KEEP - 工程资源
+*  **KEEP569/KEEP** - 工程学生资源
+*  **KEEP570/KEEP** - 机械工程资源
+*  **KEEP571/KEEP** - 电子工程资源
+*  **KEEP572/KEEP** - 工程博客
+* ️ **KEEP573/KEEP**
+* ️ **KEEP574/KEEP / KEEP575/KEEP**
+* ⭐ **KEEP576/KEEP** / KEEP577/KEEP, **KEEP578/KEEP**或 KEEP579/KEEP - 工程子报
+* ⭐ **KEEP580/KEEP**或 KEEP581/KEEP - 工程课程
+* ⭐ **KEEP582/KEEP** / KEEP583/KEEP或 KEEP584/KEEP - 图案编辑 / PCB 创作者 / SPICE 集成
+* KEEP585/KEEP - 工程公式/工具
+* KEEP586/KEEP - 工程问题及答案
+* KEEP587/KEEP - 工程软件
+* KEEP588/KEEP - 机器人论坛
+* KEEP589/KEEP / KEEP590/KEEP或 KEEP591/KEEP - 机器人学习
+* KEEP592/KEEP - 机器人课程指数
+* KEEP593/KEEP - 3D硬件模拟器
+* KEEP594/KEEP - 亚迪诺/ESP32板模拟器
+* KEEP595/KEEP - 学习电路设计
+* KEEP596/KEEP, KEEP597/KEEP / KEEP598/KEEP, KEEP599/KEEP, KEEP600/KEEP或 KEEP601/KEEP - 电子电路设计工具
+* KEEP602/KEEP - 开关函数参考指南
+* KEEP603/KEEP - 电路分析工具
+* KEEP604/KEEP - 了解电池
+* KEEP605/KEEP或 KEEP606/KEEP - 电子指南
+* KEEP607/KEEP - 逆转机控制台维修指南 + 信息 / KEEP608/KEEP
+* KEEP609/KEEP - 工程多网
+* KEEP610/KEEP - 按需在线制造商
 
 ***
 
 ## 化学
 
-*  **[Wolfram Alpha Chemistry](https://wolframalpha.com/examples/science-and-technology/chemistry)** - 化学计算器 / 工具
-* ️ **[Chemistry Lessons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_chemistry_lessons)**
-* ️ **[Periodic Tables](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_periodic_tables)**
-* ⭐ **[Lab Safety Guide / Intro](https://labmode.co.uk/)**
-* ⭐ **[LibreTexts Chemistry](https://chem.libretexts.org)** - 化学文本
-* ⭐ **[Internet Chemistry](https://www.internetchemistry.com/search.php)** - 化学搜索指数
-* 保护性质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质质
-* 化学计算器/元素表
-* 化学计算器
-* 保护_622__,保护_623__,保护_624__或保护_625__ - 化学维基
-* 保护的_626__,保护的_627__或保护的_628__ - 化学实践 / 指南
-* 保护_629__ / 保护_630__ / 保护_631__, 保护_632__或 保护_633__ - 学习指南
-* 化学反应闪卡
-* 化学信息图
-* 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识: 专业知识:
-* 定期表 / 化学项目和问题
-* 生物反应
-* 常见反应/常见反应剂
-* 保护_642__ - 名称反应列表
-* 互动的3D化学动画
-* 保护性质的化学结构
-* 股指数 - 网上股指数
-* 生物化学数据
-* 生物化学的说明词典
-* 化学动画
-* 化学论坛
-*                                                                                                                                                                                                                                                  
-* 保护日志
-* 化学方程平衡计算器
-* 化学品目录
-* 化学准备指南
+*  **KEEP611/KEEP** - 化学计算器/工具
+* ️ **KEEP612/KEEP**
+* ️ **KEEP613/KEEP**
+* ⭐ **KEEP614/KEEP**
+* ⭐ **KEEP615/KEEP** - 化学文本
+* ⭐ **KEEP616/KEEP** - 化学搜索指数
+* KEEP617/KEEP - 一般,有机和生物化学的基础
+* KEEP618/KEEP, KEEP619/KEEP或 KEEP620/KEEP - 化学计算器/元素表
+* KEEP621/KEEP - 化学计算器
+* KEEP622/KEEP, KEEP623/KEEP, KEEP624/KEEP或 KEEP625/KEEP - 化学维基
+* KEEP626/KEEP, KEEP627/KEEP或 KEEP628/KEEP - 化学实践/指南
+* KEEP629/KEEP / KEEP630/KEEP / KEEP631/KEEP, KEEP632/KEEP或 KEEP633/KEEP - 学习指南
+* KEEP634/KEEP / KEEP635/KEEP - 化学反应闪卡
+* KEEP636/KEEP - 化学信息图
+* KEEP637/KEEP - 教程 / 实验 / 元素 / 参考文献
+* KEEP638/KEEP - 周期表 / 化学项目和问题
+* KEEP639/KEEP或 KEEP640/KEEP - 有机反应
+* KEEP641/KEEP - 常见反应/常见反应剂
+* KEEP642/KEEP - 名称反应列表
+* KEEP643/KEEP - 互动3D化学动画
+* KEEP644/KEEP - 化学结构
+* KEEP645/KEEP - 在线美尔克指数
+* KEEP646/KEEP - 有机化学数据
+* KEEP647/KEEP - 有机化学的插图词典
+* KEEP648/KEEP - 化学动画
+* KEEP649/KEEP - 化学论坛
+* KEEP650/KEEP - ISODN化学分歧社区
+* KEEP651/KEEP - 期刊
+* KEEP652/KEEP - 化学方程平衡计算器
+* KEEP653/KEEP - 化学目录
+* KEEP654/KEEP - 化学准备指南
 
 ***
 
 ## ▷ 周期表
 
-* ⭐ **[Ptable](https://ptable.com/)** - 互动表
-* ⭐ **[Images-of-elements](https://images-of-elements.com/)** - 元素图像
-* ⭐ **[periodic-table.org](https://www.periodic-table.org/)**或 **[Material Properties](https://material-properties.org/)** - 材料/元素学习资源
-* 保护的_661__或保护的_662__ - 3D图像原子
-* 果版: 果版
-* 保护_664__ - 互动表
-* 保护性表
-* 保护的_666__ - 互动表
-* 保护_667__ - 互动表
-* 基于图像的周期表 w/ 物理示例
+* ⭐ **KEEP655/KEEP** - 互动表
+* ⭐ ** KEEP656/KEEP** - 元素图像
+* ⭐ **KEEP657/KEEP**或 **KEEP658/KEEP** - 材料/元素学习资源
+* KEEP659/KEEP / KEEP660/KEEP, KEEP661/KEEP或 KEEP662/KEEP - 3D图像原子
+* KEEP663/KEEP - 定期表移动应用程序
+* KEEP664/KEEP - 互动表
+* KEEP665/KEEP - 互动表
+* KEEP666/KEEP - 互动表
+* KEEP667/KEEP - 互动表
+* KEEP668/KEEP - 基于图像的周期表 w/ 物理示例
 
 ***
 
 ## 生物学
 
-* ⭐ **[Wikispecies](https://species.wikimedia.org/)**或 [The Catalogue of Life](https://www.catalogueoflife.org/) - 物种数据库
-* ⭐ **[Animalia](https://animalia.bio/)**或_PROTECTED_672__ - 动物百科全书
-* ⭐ **[OneZoom](https://www.onezoom.org/)** - 生命树探险家
-* ⭐ **[Lost and Found Nature](https://www.lostandfoundnature.com/)** - 重新发现的动物/植物数据库
-* 生物学文章
-* 生物研究指南
-* 生物多样性研究
-* 保护生命的模拟器
-* 保护性游戏
-* 生物/古生物学3D扫描
-* 保护_683__ - 最近灭绝的物种数据库
-* 蛋白质数据库
-* 保护性_685__ - 生物体的识别
-* 海洋生物的轨道
-* 保护海洋生物 - 互动深海生命指南
-* 听鱼歌曲
-* 保护_689__,保护_690__或保护_691__ - 鸟类数据库/身份证
-* 保护_692__ - 欧洲鸟类分布地图
-* 千千万鸟的声音被视觉化
-* 保护_694__或保护_695__ - 鸟类图片/声音识别
-* 保护_696__ - 鸟羽数据库
-* 保护性_697__ - 昆虫识别社区
-* 保护的类数据库
-* 保护的_699__ - 淡水宏观脊椎动物图书
-* 保护的虫
-* 保护动物问题和答案网站
-* 保护养论坛
-* 恐龙信息 / 图片
-* 鱼类数据库
-* 植物数据库
-* 热带植物数据库
-* 生物分歧社区
+* ⭐ **KEEP669/KEEP**或 KEEP670/KEEP - 物种数据库
+* ⭐ **KEEP671/KEEP**或 KEEP672/KEEP - 动物百科全书
+* ⭐ ** KEEP673/KEEP** - 生命树探险家
+* ⭐ **KEEP674/KEEP** - 重新发现的动物/植物数据库
+* KEEP675/KEEP - 生物学文章
+* KEEP676/KEEP - 生物研究指南
+* KEEP677/KEEP - 生物多样性研究
+* KEEP678/KEEP - 人工生命模拟器 / KEEP679/KEEP / KEEP680/KEEP
+* KEEP681/KEEP - 物种连接游戏
+* KEEP682/KEEP - 生物/古生物学3D扫描
+* KEEP683/KEEP - 最近灭绝物种数据库
+* KEEP684/KEEP - 蛋白质数据库
+* KEEP685/KEEP - 生物体识别
+* KEEP686/KEEP - 海洋生物轨道
+* KEEP687/KEEP - 互动深海生命指南
+* KEEP688/KEEP - 听鱼歌曲
+* KEEP689/KEEP, KEEP690/KEEP或 KEEP691/KEEP - 鸟类数据库/身份证
+* KEEP692/KEEP - 欧洲鸟类分布地图
+* KEEP693/KEEP - 观看了数千只鸟类的声音
+* KEEP694/KEEP或 KEEP695/KEEP - 鸟类图片/声音识别
+* KEEP696/KEEP - 鸟羽数据库
+* KEEP697/KEEP - 昆虫识别共同体
+* KEEP698/KEEP - 类数据库
+* KEEP699/KEEP - 淡水宏观脊椎动物章
+* KEEP700/KEEP - 查看南极微生物
+* KEEP701/KEEP - 物质问答网站
+* KEEP702/KEEP - 养殖论坛
+* KEEP703/KEEP - 恐龙信息 / 图片
+* KEEP704/KEEP - 类动物数据库
+* KEEP705/KEEP - 植物数据库
+* KEEP706/KEEP - 热带植物数据库
+* KEEP707/KEEP - ISODN生物分歧社区
 
 ***
 
 ## ▷ 医学院
 
-*  **[r/MedicalSchool Wiki](https://www.reddit.com/r/medicalschool/wiki/resources)** - 医学院资源
-* ️ **[Health Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_health)**
-* ⭐ **[Khan Academy](https://www.khanacademy.org/science/health-and-medicine)** - 物理/病理综合
-* ⭐ **[Afratafreeh](https://afratafreeh.com/category/brands/)** - 医学视频课程和书籍
-* ⭐ **[Radiopaedia](https://radiopaedia.org/)**,[Radiology Assistant](https://radiologyassistant.nl/)或[Radiology Education](https://www.radiologyeducation.com/) - 放射能资源
-* ⭐ **[⁠Stop the Bleed](https://www.stopthebleed.org/)** - 免费的第一救援视频课程/资源 
-* 医疗参考网站/工具
-* 保护_719__,保护_720__或保护_721__ - 临床指南
-* 医疗诊断的培训AI
-* 护_723__或护_724__ - 解剖指南
-* 保护_725__,保护_726__或保护_727__ - 3D人类解剖模型
-* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子
-* 生物医学科学3D模型
-* 保护_730__ - 跨部门教育MRI/CT扫描
-* 保护_731__或保护_732__ - 历史指南
-* 药物学信息和测试
-* 抗生素总结图片
-* 保护_735__,保护_736__或保护_737__ - ECG信息
-* 电脑电图视频课程
-* 保护性电脑系统的实践
-* 马西大学心脏动画
-* 保护的情况
-* 紧急医疗信息
-* 护_743__ (注册) 或护_744__ - 战斗医学视频
-* 紧急医疗视频
-* 疾病病理学/表现流程图
-* 保护人体疾病数据库
-* 保护_748__ - 疫情数据
-* 医疗保健服务中心
-* 病理学指南
-* 专业的专业技术
-* 检测病原体进化
-* 血液 / 瘤学参考网站
-* 皮病学参考网站
-* 眼睛百科全书
-* 保护_756__ - UCAT实践问题
-* 保护_757__ - UCAT 评分转换器
-* 保护_758__ - 医疗卡的社区
-* 医疗卡片
+*  **KEEP708/KEEP** - 医学学校资源
+* ️ **KEEP709/KEEP**
+* ⭐ **KEEP710/KEEP** - 物理/病理综述
+* ⭐ **KEEP711/KEEP** - 医学视频课程和书籍
+* ⭐ **KEEP712/KEEP**, KEEP713/KEEP或 KEEP714/KEEP - 放射资源
+* ⭐ **KEEP715/KEEP** - 免费的第一救援视频课程/资源 
+* KEEP716/KEEP, KEEP717/KEEP或 KEEP718/KEEP - 医疗参考网站/工具
+* KEEP719/KEEP, KEEP720/KEEP或 KEEP721/KEEP - 临床指南
+* KEEP722/KEEP - 医疗诊断人工智能培训
+* KEEP723/KEEP或 KEEP724/KEEP - 解剖指南
+* KEEP725/KEEP, KEEP726/KEEP或 KEEP727/KEEP - 3D人类解剖模型
+* KEEP728/KEEP - 解剖图文 (2D&3D)
+* KEEP729/KEEP - 生物医学科学3D模型
+* KEEP730/KEEP - 跨部门教育MRI/CT扫描
+* KEEP731/KEEP或 KEEP732/KEEP - 史学指南
+* KEEP733/KEEP - 药学信息和测试
+* KEEP734/KEEP - 抗生素总结图片
+* KEEP735/KEEP, KEEP736/KEEP或 KEEP737/KEEP - ECG信息
+* KEEP738/KEEP - 电脑电图视频课程
+* KEEP739/KEEP - 电脑系统实践
+* KEEP740/KEEP - 马西大学心脏动画
+* KEEP741/KEEP - 电气事件指数
+* KEEP742/KEEP - 紧急医疗信息
+* KEEP743/KEEP (注册) 或 KEEP744/KEEP - 战斗医学视频
+* KEEP745/KEEP - 紧急医疗视频
+* KEEP746/KEEP - 疾病病理学/表现流程图
+* KEEP747/KEEP - 人类疾病数据库
+* KEEP748/KEEP - 疫情数据
+* KEEP749/KEEP - 病理信息
+* KEEP750/KEEP - 病理指南
+* KEEP751/KEEP - 病理学图书软件
+* KEEP752/KEEP - 病原体进化跟踪
+* KEEP753/KEEP - 血液学/瘤学参考网站
+* KEEP754/KEEP - 皮肤学参考网站
+* KEEP755/KEEP - 眼睛百科全书
+* KEEP756/KEEP - UCAT实践问题
+* KEEP757/KEEP - UCAT 评分转换器
+* KEEP758/KEEP - 医疗卡的共同体
+* KEEP759/KEEP - 医疗闪存卡
 
 ***
 
 # 空间
 
-* ⭐ **[r/Space](https://reddit.com/r/Space)** - 空间分类网
-* ⭐ **[Space Dashboard](https://spacedashboard.com/)** - 太空直播仪表板
-* ⭐ **[NASA](https://www.nasa.gov/)** - 国家航空航天局网站 / [Images](https://images.nasa.gov/) / [Audio](https://www.nasa.gov/audio-and-ringtones/) / [Documents](https://ntrs.nasa.gov/search) / [APIs](https://api.nasa.gov/) / [History](https://www.nasa.gov/history/)
-* ⭐ **[March to the Moon](https://tothemoon.ser.asu.edu/)**, 守_769__或 守_770__ / 守_771__ - 月球登陆图片
-* 卫772__或卫773__ - 实时卫
-* 保护的 - 火星维基
-* 欧洲太空局网站
-* 据悉,在此次测试中,
-* 保护空间局的网站
-* 印度太空研究组织
-* 太空新闻
-* 太空百科全书
-* 美国宇航局的新闻
-* 保护的784__,保护的785__,保护的786__,保护的787__或保护的788__ /保护的789__ - 互动宇宙尺度
-* 保护_791__ - 3D空间视图 / [Solar System](https://eyes.nasa.gov/apps/solar-system/#/home)
-* 互动外星视觉
-* 它们是地球的.
-* 航空摄影社区 / 新闻 / 保护_796__
-* 保护的3D宇宙微波背景模型
-* 地科学分歧社区
+* ⭐ ** KEEP760/KEEP** - 太空子网
+* ⭐ ** KEEP761/KEEP** - 太空直播仪表板
+* ⭐ **KEEP762/KEEP** - 美国航空航天局网站 / KEEP763/KEEP / KEEP764/KEEP / KEEP765/KEEP / KEEP766/KEEP / KEEP767/KEEP
+* ⭐ ** KEEP768/KEEP**, KEEP769/KEEP或 KEEP770/KEEP / KEEP771/KEEP - 月球登陆图片
+* KEEP772/KEEP或KEEP773/KEEP - 实时阿波罗
+* KEEP774/KEEP - 火星维基
+* KEEP775/KEEP - 欧洲航天局网站
+* KEEP776/KEEP - 日本航天局网站 / KEEP777/KEEP
+* KEEP778/KEEP - 加拿大太空局网站
+* KEEP779/KEEP - 印度太空研究组织
+* KEEP780/KEEP - 太空新闻
+* KEEP781/KEEP - 太空百科全书
+* KEEP782/KEEP或KEEP783/KEEP - 美国宇航局书籍
+* KEEP784/KEEP, KEEP785/KEEP, KEEP786/KEEP, KEEP787/KEEP或 KEEP788/KEEP / KEEP789/KEEP - 互动宇宙尺度
+* KEEP790/KEEP或KEEP791/KEEP - 3D空间视图 / KEEP792/KEEP
+* KEEP793/KEEP - 互动外行星视觉化
+* KEEP794/KEEP - 异行星数据库
+* KEEP795/KEEP - 航空摄影社区 / 新闻 / KEEP796/KEEP
+* KEEP797/KEEP - 3D宇宙微波背景模型
+* KEEP798/KEEP - ISODN地球科学分歧社区
 
 ***
 
 ##  太空学
 
-*  **[Astronomy Resources](https://er-cryptid.tumblr.com/post/176809097526/free-astronomy-resources)** - 占星资源
-* ⭐ **[JPL Photojournal](https://photojournal.jpl.nasa.gov/)**或_PROTECTED_801__ - JPL星球图像档案
-* ⭐ **[In The Sky](https://in-the-sky.org/)** - 天文新闻 / 互动指南
-* 国际天文学与天体物理学协会
-* 空间视频和数字互动
-* 保护世界
-* 星系日历
-* 天文学事件日历
-* 保护_808__或_保护_809__ - 空间天气更新 / __保护_810__
-* 保护_811__,保护_812__或保护_813__ - 太阳/月球位置
-* 保护的_814__ - 地球/月球宽度和长度观测器
-* 保护的日光
-* 保护的星球视觉
-* 保护_819__ - 地球轨道可视化
-* 保护_820__或保护_821__ - 太阳系模拟器 / 信息
-* 保护_822__ - 比较天体的大小
-* 保护_823__,保护_824__或保护_825__ - 太阳系规模模型
-* 保护地球地图
-* 您的位置: 首页
-*  卫星图片 观看器 / 保护
-* 光电器, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑, 电脑
-* 公共天文数据
-* 保护_832__或保护_833__ - 虚拟星空
-* 互动望远镜数据
-* 卫_837__,卫_838__或卫_839__ - 哈勃望远镜图像
-* 它们是"卫星"或"卫星"
-* 通过网络/哈勃图像
-* 美国宇航局每日的天文图像
-* 卫_844__,卫_845__或卫_846__ - 天文学图片
-* 光照摄影 - 星光摄影
-* 风雨视觉化
-* 星直播电台回声
-* 星际视觉天气预测
-* 保护的_852__,保护的_853__或保护的_854__ - 星球视觉站点定位器
+*  **KEEP799/KEEP** - 占星资源
+* ⭐ ** KEEP800/KEEP**或 KEEP801/KEEP - JPL星球图像档案
+* ⭐ ** KEEP802/KEEP** - 天文新闻 / 互动指南
+* KEEP803/KEEP - ISODN天文学与天体物理学分歧社区
+* KEEP804/KEEP - 空间视频和数字互动
+* KEEP805/KEEP - 虚拟球
+* KEEP806/KEEP - 天文日历
+* KEEP807/KEEP - 天文事件日历
+* KEEP808/KEEP或KEEP809/KEEP - 太空天气更新 / KEEP810/KEEP
+* KEEP811/KEEP, KEEP812/KEEP或 KEEP813/KEEP - 太阳/月球位置
+* KEEP814/KEEP - 地球/月球宽度和长度观看器
+* KEEP815/KEEP - 活阳光
+* KEEP816/KEEP, KEEP817/KEEP或 KEEP818/KEEP - 互动星星视图
+* KEEP819/KEEP - 地球轨道可视化
+* KEEP820/KEEP或 KEEP821/KEEP - 太阳系模拟器 /信息
+* KEEP822/KEEP - 比较天体的大小
+* KEEP823/KEEP, KEEP824/KEEP或 KEEP825/KEEP - 太阳系规模模型
+* KEEP826/KEEP - 行星地图
+* KEEP827/KEEP - Android星球图
+* KEEP828/KEEP - 天文图像查看器 / KEEP829/KEEP
+* KEEP830/KEEP - 天文图像处理器
+* KEEP831/KEEP - 公众天文数据
+* KEEP832/KEEP或 KEEP833/KEEP - 虚拟星空馆
+* KEEP834/KEEP - 互动望远镜数据 / KEEP835/KEEP / KEEP836/KEEP
+* KEEP837/KEEP, KEEP838/KEEP或 KEEP839/KEEP - 哈勃望远镜图像
+* KEEP840/KEEP或KEEP841/KEEP - 韦伯太空望远镜网站
+* KEEP842/KEEP - 网页 / 哈勃图像
+* KEEP843/KEEP - 日常NASA天文图像
+* KEEP844/KEEP, KEEP845/KEEP或 KEEP846/KEEP - 天文图像
+* KEEP847/KEEP或 KEEP848/KEEP - 星光摄影子
+* KEEP849/KEEP - 3D 风雨视觉化
+* KEEP850/KEEP - 现场风广播回声
+* KEEP851/KEEP - 星际观察天气预测
+* KEEP852/KEEP, KEEP853/KEEP或 KEEP854/KEEP - 星球观测站点定位器
 
 ***
 
 ## ▷ 航天器
 
-* ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - 每天卫星复制
-* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, _PROTECTED_857__, _PROTECTED_858__或 _PROTECTED_859__ - 卫星图像
-* 为了让我们能够获得更多的支持,
-* 保护_863__ / 保护_864__ / 保护_865__, 保护_866__或 保护_867__ - 火箭发射 / 太空飞行追踪器
-* 导弹发射历史 / 视觉化 / 统计数据
-* 导弹信息 / 导弹信息 / 导弹信息
-* 保护的号码 - 星际飞船图表 / 文章 / 社区 / 保护的号码
-* 保护_875__ - 国际空间站直播播 + 视频档案 /
-* 历史ISS任务重播 / 数据库
-* 导航: 导航: 导航:
-* 保护_882__或 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
-* 保护_884__,保护_885__,保护_886__,保护_887__,保护_888__,保护_889__,保护_890__或保护_891__ - 卫星轨道地图/跟踪器
-* 保护地球轨道模拟器
-* 太空飞行模拟器 / 太空飞行模拟器 / 太空飞行模拟器
-* 导弹图
+* ⭐ **KEEP855/KEEP** - 每日卫星复制
+* ⭐ **KEEP856/KEEP**, KEEP857/KEEP, KEEP858/KEEP或 KEEP859/KEEP - 卫星图像
+* KEEP860/KEEP - 启动直播 / 新闻 / KEEP861/KEEP / KEEP862/KEEP
+* KEEP863/KEEP / KEEP864/KEEP / KEEP865/KEEP, KEEP866/KEEP或 KEEP867/KEEP - 发射火箭/航天飞行追踪仪
+* KEEP868/KEEP - 导弹发射历史 / 视觉化 / 统计数据 / KEEP869/KEEP
+* KEEP870/KEEP - 航天器 / 火箭信息图 / KEEP871/KEEP
+* KEEP872/KEEP - 星际飞船图表 / 文章 / 社区 / KEEP873/KEEP / KEEP874/KEEP
+* KEEP875/KEEP - 国际空间站直播 + 视频档案 / KEEP876/KEEP / KEEP877/KEEP
+* KEEP878/KEEP - 历史ISS任务复制 / 数据库
+* KEEP879/KEEP - 国际空间站停靠模拟器
+* KEEP880/KEEP, KEEP881/KEEP, KEEP882/KEEP或 KEEP883/KEEP - 国际航站运输跟踪
+* KEEP884/KEEP, KEEP885/KEEP / KEEP886/KEEP, KEEP887/KEEP / KEEP888/KEEP, KEEP889/KEEP, KEEP890/KEEP或 KEEP891/KEEP -卫星轨道地图/跟踪仪
+* KEEP892/KEEP - 低地球轨道模拟器
+* KEEP893/KEEP - 太空飞行模拟器 / KEEP894/KEEP / KEEP895/KEEP
+* KEEP896/KEEP - 导弹图
 
 ***
 
@@ -717,217 +717,217 @@
 
 ## ▷ 多语言
 
-*  **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**,[/int/ Guide](https://4chanint.miraheze.org/)或 [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - 语言学习资源
-*  **[Speechling](https://speechling.com/tools)** - 语言学习工具
-*  **[LexiLogos](https://www.lexilogos.com/english/index.htm)** - 多语言词典指数
-* ️ **[Translation Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_translators)**
-* ⭐ **[Language Transfer](https://www.languagetransfer.org/)** - 语言学习讲座
-* ⭐ **[Language Reactor](https://www.languagereactor.com/)**, [LLPlayer](https://github.com/umlx5h/LLPlayer), [Trancy](https://www.trancy.org/)或 [Easysubs](https://easysubs.cc/) - 通过视频学习语言
-* ⭐ **[Readlang](https://readlang.com/)** - 通过网页浏览学习语言
-* 保护_909__ - 语言学习论坛/社区
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* 们在们的家里,
-* 保护_915__或保护_916__ - 用它们的含义搜索单词
-* 通过可理解输入学习语言
-* 鱼类的语言学习
-* 保护_919__ - 语言学习路线图
-* 保护_920__,保护_921__ (搜索) 或保护_922__ (搜索) /保护_923__ - 语言学习课程
-* 选语言学习应用程序
-* 保护_927__ - 语言学习课程
-* 语言学习测试
-* 语学习游戏
-* 视觉语言学习
-* 基于文本的语言学习
-* 通过音乐学习语言
-* 通过游戏学习语言
-* 保护_937__ - 外国语媒体难度指南
-* 语言学习闪卡
-* 保护_939__,保护_940__,保护_941__或保护_942__ - 语法/词汇语言学习
-* 保护语文教练
-* 语: 语: 语:
-* 任何语言中最常用的词
-*                                                                                                                                                                                                                                                               
-* 编写系统和语言百科全书
-* 检测语言识别测试
-* 国际音符字母阅读器
-* 保护_952__ - 学习音符字母符号
-* 听着口音
-* 护机 / 护机 / 护机
-* 保护_958__ - 学习希伯来语
-* 保护的 - 哈维词典
-* 语学习网站 / 最小语言 / 语学习网站
-* 语学习展 / 语学习展
-* 亚洲字体区别指南
+*  **KEEP897/KEEP**, KEEP898/KEEP或 KEEP899/KEEP - 语言学习资源
+*  **KEEP900/KEEP** - 语言学习工具
+*  **KEEP901/KEEP** - 多语言词典指数
+* ️ **KEEP902/KEEP**
+* ⭐ **KEEP903/KEEP** - 语言学习讲座
+* ⭐ **KEEP904/KEEP**, KEEP905/KEEP, KEEP906/KEEP或 KEEP907/KEEP - 通过视频学习语言
+* ⭐ **KEEP908/KEEP** - 通过网页浏览学习语言
+* KEEP909/KEEP - 语言学习论坛/社区
+* KEEP910/KEEP, KEEP911/KEEP或 KEEP912/KEEP - 翻译词典
+* KEEP913/KEEP - 弹出词典 / KEEP914/KEEP
+* KEEP915/KEEP或 KEEP916/KEEP - 用它们的含义搜索单词
+* KEEP917/KEEP - 通过可理解输入学习语言
+* KEEP918/KEEP - 语言学习流程
+* KEEP919/KEEP - 语言学习路线图
+* KEEP920/KEEP, KEEP921/KEEP (搜索) 或 KEEP922/KEEP (搜索) / KEEP923/KEEP - 语言学习课程
+* KEEP924/KEEP / KEEP925/KEEP (搜索) 或 KEEP926/KEEP - 具有主题词汇的语言学习应用程序
+* KEEP927/KEEP - 语言学习课程
+* KEEP928/KEEP - 语言学习测试
+* KEEP929/KEEP - 语言学习游戏
+* KEEP930/KEEP - 视觉语言学习
+* KEEP931/KEEP - 基于文本的语言学习
+* KEEP932/KEEP, KEEP933/KEEP或 KEEP934/KEEP - 通过音乐学习语言
+* KEEP935/KEEP或KEEP936/KEEP - 通过游戏学习语言
+* KEEP937/KEEP - 外国语媒体难题指南
+* KEEP938/KEEP - 语言学习闪卡
+* KEEP939/KEEP, KEEP940/KEEP, KEEP941/KEEP或 KEEP942/KEEP - 语法/词汇语言学习
+* KEEP943/KEEP或KEEP944/KEEP - 词汇教练
+* KEEP945/KEEP - 动词结合器
+* KEEP946/KEEP - 在任何语言中最常用的词
+* KEEP947/KEEP - 多种语言字母
+* KEEP948/KEEP - 写作系统和语言百科全书
+* KEEP949/KEEP或 KEEP950/KEEP - 语言识别测试
+* KEEP951/KEEP - 国际音形字母阅读器
+* KEEP952/KEEP - 学习音符字母符号
+* KEEP953/KEEP或 KEEP954/KEEP - 听着口音
+* KEEP955/KEEP - 刻图机 / KEEP956/KEEP / KEEP957/KEEP 
+* KEEP958/KEEP - 学习希伯来语
+* KEEP959/KEEP - 哈维语词典
+* KEEP960/KEEP - 东京波纳学习网站 / 最小语言 / KEEP961/KEEP
+* KEEP962/KEEP - 毛利语言学习节目
+* KEEP964/KEEP - 亚洲脚本区别指南
 
 ***
 
 ## ▷ 语言交流
 
-*  **[The Language Exchange Network](https://redd.it/5m5426)**, [2](https://docs.google.com/document/d/14is9MfGfKC-ptDhXGWLQFYSAaWTJSnUxj6zK0RGqNIk/) - 语言交流社区 / [Discord](https://discord.gg/jxcVmHJ)
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的_974__ / 保护的_975__
-* 保护的
-* 国际语言学分歧社区
+*  **KEEP965/KEEP**, KEEP966/KEEP - 语言交流社区 / KEEP967/KEEP
+* KEEP968/KEEP
+* KEEP969/KEEP
+* KEEP970/KEEP
+* KEEP971/KEEP
+* KEEP972/KEEP
+* KEEP973/KEEP
+* KEEP974/KEEP / KEEP975/KEEP
+* KEEP976/KEEP
+* KEEP977/KEEP - ISODN语言分歧共同体
 
 ***
 
 ## ▷ 英语
 
-*  **[Many Things](https://www.manythings.org/)** - 欧洲语言资源
-*  **[ESOL](https://www.esolcourses.com/)** - 英语学习资源
-* 声的声音,声的声音,声的声音,声的声音,声的声音.
-* 的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,的,,的,的,,的,,,的,,,的,,,,的,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* 保护人群的教育资源
-* 保护_985__ - 英语能力测试
-* ,我不想说.
-* 保护_987__,保护_988__,保护_989__,保护_990__,保护_991__或保护_992__ - 英语课程
-* 保护人,保护人,保护人,保护人
-* 保护_996__或保护_997__ - 英语学习书籍
-* 保护_998__或保护_999__ - 英语听力课程/实践
-* 保护_1000__或保护_1001__ - 改善英语语言
-* 保护_1002__ - 改善英语写作
-* 修习英语对话
-* 如何使用文字学习网站
-* 如何学习英语?
-* 语学/语文库语言学习
-*                                                                                                                                                                                                                                                               
-* 保护_1010__ - 学习英语工作表
-* 保护_1011__ - 学习英语社区
+*  **KEEP978/KEEP** - 欧洲语言资源
+*  **KEEP979/KEEP** - 英语学习资源
+* KEEP980/KEEP或 KEEP981/KEEP - YouTube Word发音
+* KEEP982/KEEP或 KEEP983/KEEP - 发音词典
+* KEEP984/KEEP - 对于EFL和ESL教师的资源
+* KEEP985/KEEP - 英语能力测试
+* KEEP986/KEEP - 英语拼音游戏
+* KEEP987/KEEP, KEEP988/KEEP, KEEP989/KEEP, KEEP990/KEEP, KEEP991/KEEP或 KEEP992/KEEP - 英语课程
+* KEEP993/KEEP, KEEP994/KEEP或 KEEP995/KEEP - 英语视频课程
+* KEEP996/KEEP或 KEEP997/KEEP - 英语学习书籍
+* KEEP998/KEEP或KEEP999/KEEP - 英语听力课/实践
+* KEEP1000/KEEP或 KEEP1001/KEEP - 提高英语水平
+* KEEP1002/KEEP - 改善英语写作
+* KEEP1003/KEEP - 练习英语对话
+* KEEP1004/KEEP或 KEEP1005/KEEP - 字面学习网站
+* KEEP1006/KEEP - 英语学习播客
+* KEEP1007/KEEP或 KEEP1008/KEEP - 语法/词汇语言学习
+* KEEP1009/KEEP - 英语口音视频 /地图
+* KEEP1010/KEEP - 学习英语工作表
+* KEEP1011/KEEP - 学习英语社区
 
 ***
 
 ## ▷ 日本人
 
-*  **[yame dame](https://yameda.me/)**, [Tatsumoto](https://tatsumoto-ren.github.io/), [GaijinRyman](https://github.com/GaijinRyman/LearningJapaneseResources), [Nihongo](https://nihongo-e-na.com/eng/), [Japanese Resources](https://forum.wordreference.com/threads/japanese-resources-%E2%80%94-constantly-updated.787986/)或 [AnimeCards](https://animecards.site/) - 学习资源
-*  **[Japanese Pitch Accent Resources](https://github.com/olety/japanese-pitch-accent-resources)** - 日本口音资源
-* ️ **[Japanese Learning Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_japanese_learning_sites)** / [YouTube Channels](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_channels)
-* ️ **[Dictionaries / Translation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dictionaries_.2F_translation)**
-* ️ **[Kanji Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_kanji_learning)**
-* 通过动漫/漫画学习日语
-* 果版: 果版:
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* 保护日语课程
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* 通过媒体学习日本语
-* 通过书籍学习日本语
-* 如何学习日本语法?
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* 填写错失的日本词
-* 保护_1037__或保护_1038__ - 试题 / 保护_1039__
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+*  **KEEP1012/KEEP**, KEEP1013/KEEP, KEEP1014/KEEP, KEEP1015/KEEP, KEEP1016/KEEP或 KEEP1017/KEEP - 学习资源
+*  **KEEP1018/KEEP** - 日本口音资源
+* ️ **KEEP1019/KEEP** / KEEP1020/KEEP
+* ️ **KEEP1021/KEEP**
+* ️ **KEEP1022/KEEP**
+* KEEP1023/KEEP或KEEP1024/KEEP - 通过动漫/漫画学习日语
+* KEEP1025/KEEP - 日本初学者播客
+* KEEP1026/KEEP - 延长日本学习
+* KEEP1027/KEEP - 日本课程
+* KEEP1028/KEEP - 日本学习视频播放器
+* KEEP1029/KEEP或KEEP1030/KEEP - 通过媒体学习日语
+* KEEP1031/KEEP或KEEP1032/KEEP - 通过书籍学习日语
+* KEEP1033/KEEP或KEEP1034/KEEP - 学习日本语法
+* KEEP1035/KEEP - 日本口音词典
+* KEEP1036/KEEP - 填写缺失的日本词
+* KEEP1037/KEEP或KEEP1038/KEEP - Jlpt考试问题 / KEEP1039/KEEP
+* KEEP1040/KEEP, KEEP1041/KEEP或 KEEP1042/KEEP - 学习加纳
 
 ***
 
 ## ▷ 韩国
 
-* ⭐ **[Learn Korean](https://discord.gg/e3H9Pde)** - 韩国学习不一致
-* 保护1044__ - 学习韩国字符
-* 韩国学习词典
-* 韩国课程/实践
-* 韩国课程
-* 韩国学习课程
-* 韩国学习课程
-* 韩语词汇分类
-* 韩语词典 / 表达实践
-* 轮学习
-* 子检测测仪
-* 韩语语法/语音课程
-* 韩国字体编写实践
-* 韩国数字和日期实践
-* 韩国字体编写实践
+* ⭐ **KEEP1043/KEEP** - 韩国学习不一致
+* KEEP1044/KEEP - 学习韩国字符
+* KEEP1045/KEEP - 韩国学习词典
+* KEEP1046/KEEP - 韩国课程/实践
+* KEEP1047/KEEP - 韩国课程
+* KEEP1048/KEEP - 韩国学习课程
+* KEEP1049/KEEP或KEEP1050/KEEP - 韩国学习课程
+* KEEP1051/KEEP - 韩语词汇分类
+* KEEP1052/KEEP - 韩国词典 / 表达实践
+* KEEP1053/KEEP - 汉古学习
+* KEEP1054/KEEP - 格尔识别测试
+* KEEP1055/KEEP - 韩语语法/语音课程
+* KEEP1056/KEEP - 韩国类型练习
+* KEEP1057/KEEP - 韩国数字和日期实践
+* KEEP1058/KEEP - 韩国字体打法
 
 ***
 
 ## ▷ 华人
 
-*  **[YellowBridge](https://www.yellowbridge.com/)**或 [DigMandarin](https://www.digmandarin.com/) - 中国学习工具
-*  **[Cantonese sheik](https://www.cantonese.sheik.co.uk/)**或 [SinoSplice](https://www.sinosplice.com/) - 中国学习资源
-* ⭐ **[r/ChineseLanguage](https://www.reddit.com/r/ChineseLanguage/)** - 中国学习社区 / [Discord](https://discord.gg/PAjBET7)
-* ⭐ **[Zhongwen](https://zhongwen.com/gudian.htm)** - 通过经典中国文学学习
-* 讯网 讯网 讯网 讯网 讯网 讯网
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-* 如何学习中文中风器
-* 保护_1075__ - 中国学习文章
-* ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-*                                                                                                                                                                                                                                                               
-* 音的中国实践
-* 阅读习惯 / 新闻文章
-*                                                                                                                                                                                                                                                               
-* 保护_1083__ - 中国闪卡
-* 语翻译 / 分类
+*  **KEEP1059/KEEP**或 KEEP1060/KEEP - 中国学习工具
+*  **KEEP1061/KEEP**或 KEEP1062/KEEP - 中国学习资源
+* ⭐ **KEEP1063/KEEP** - 中国学习社区 / KEEP1064/KEEP
+* ⭐ **KEEP1065/KEEP** - 通过经典中国文学学习
+* KEEP1066/KEEP, KEEP1067/KEEP或 KEEP1068/KEEP - 中国学习应用程序
+* KEEP1069/KEEP, KEEP1070/KEEP或 KEEP1071/KEEP - 中国课程
+* KEEP1072/KEEP或KEEP1073/KEEP - 中文写作课
+* KEEP1074/KEEP - 学习中国中风命令
+* KEEP1075/KEEP - 中国学习文章
+* KEEP1076/KEEP, KEEP1077/KEEP或 KEEP1078/KEEP - 中国语词典
+* KEEP1079/KEEP - 中国字典
+* KEEP1080/KEEP - 中国音调实践
+* KEEP1081/KEEP - 中国阅读实践 /新闻文章
+* KEEP1082/KEEP - 中文闪卡 / 字典
+* KEEP1083/KEEP - 中国闪卡
+* KEEP1084/KEEP - 汉语翻译 / 分类
 
 ***
 
 ## ▷ 欧洲
 
-* ⭐ **[StudySpanish](https://studyspanish.com/)**或 [LibreLingo](https://librelingo.app/) - 学习西班牙语
-*                   
-* ,我不想说.
-* 通过故事学习西班牙语
-* 保护_1090__ - 学习西班牙语的视频
-* 保护_1091__ - 学习法语教程
-* 保护_1092__ - 学习法语视频
-* 保护_1093__ - 现场法国课
-* 芬兰语学习
-*                                                                                                                                                                                                                                                  
+* ⭐ **KEEP1085/KEEP**或 KEEP1086/KEEP - 学习西班牙语
+* KEEP1087/KEEP - 西班牙语翻译词典
+* KEEP1088/KEEP - 检查西班牙语语法
+* KEEP1089/KEEP - 通过故事学习西班牙语
+* KEEP1090/KEEP - 学习西班牙语的视频
+* KEEP1091/KEEP - 法语学习教程
+* KEEP1092/KEEP - 学习法语的视频
+* KEEP1093/KEEP - 现场法国课程
+* KEEP1094/KEEP - 芬兰语学习
+* KEEP1095/KEEP - 瑞典翻译词典
 
 ***
 
 ## ▷ 德国人
 
-*  **[German Resources](https://docs.google.com/document/d/1J5PJK0qStw2DHQHdRHuKIfq_bJrZkFarQVT7fkz13tg/edit#heading=h.biavq1413l4t)** - 德语资源
-* ⭐ **[German Discord](https://discord.gg/german)** - 德国学习社区
-* ⭐ **[DW German Course](https://learngerman.dw.com/en/learn-german/s-9528)** - 德国学习课程
-* ⭐ **[VHS Lernportal](https://www.vhs-lernportal.de/)** - 德国学习课程 / [Mobile](https://play.google.com/store/apps/developer?id=Deutscher+Volkshochschul-Verband)
-* 保护_1101__ - 德国学习应用程序
-* 保护_1102__ / 保护_1103__或 保护_1104__ - 德语翻译词典
-* 创建一个德国词Anki闪卡
+*  **KEEP1096/KEEP** - 德语资源
+* ⭐ **KEEP1097/KEEP** - 德国学习社区
+* ⭐ **KEEP1098/KEEP** - 德国学习课程
+* ⭐ **KEEP1099/KEEP** - 德国学习课程 / KEEP1100/KEEP
+* KEEP1101/KEEP - 德国学习应用程序
+* KEEP1102/KEEP / KEEP1103/KEEP或 KEEP1104/KEEP - 德语翻译词典
+* KEEP1105/KEEP - 创建德国动词Anki闪卡
 
 ***
 
 ## ▷ 亚洲南部
 
-*  **[Urdu Resources](https://docs.google.com/document/d/1GRTK_E0YGybMNYZjFToM40sOHNkR1NJXc_dL8HW2Q_0/)**或 [UrduNotes](https://urdunotes.com/) - 乌尔都学习资源
-*  **[Mga Nagmamarunong's Masterlist](https://docs.google.com/spreadsheets/d/1R9P2nt0sQbL8GqEO_hcPjwIZcM-4s0BbJifm-1AJ0Bc/)** - 泰加罗文学习资源
-*  **[Learn Sanskrit](https://www.learnsanskrit.org/)**或 **[Sanskrit Studio](https://sanskritstudio.wordpress.com/)** - 语教学和工具
-* 保护1111__ - 南亚语言学习
-* 乌尔都语法概述
-*                   
-* 教学课程
-* 印度的文化文化和文化文化
-* 保护的_1118__ - 语词典 / 文本
+*  **KEEP1106/KEEP**或 KEEP1107/KEEP - 乌尔都学习资源
+*  **KEEP1108/KEEP** - 泰加罗文学习资源
+*  **KEEP1109/KEEP**或 **KEEP1110/KEEP** - 语教学和工具
+* KEEP1111/KEEP - 南亚语言学习
+* KEEP1112/KEEP - 乌尔都语法概述
+* KEEP1114/KEEP - 乌尔都语词典
+* KEEP1115/KEEP - UBC 汉语课程
+* KEEP1116/KEEP / KEEP1117/KEEP - 语资源 / 讨论
+* KEEP1118/KEEP - 语词典 / 文本
 
 ***
 
 ## ▷ 语音
 
-* ⭐ **[SpreadTheSign](https://spreadthesign.com/)**或 [SL Dictionary](https://www.sldictionary.org/) - 多语言词典
-* 美国手语词典
-* 转换文字为ASL或BSL的指纹拼写
-*                                                                                                                                                                                                                                                               
-* 保护的_1128__,保护的_1129__,保护的_1130__或保护的_1131__ - 英国手语词典
-* 澳大利亚手语词典
-* 保护_1133__ - 新西兰手语词典
-* 专业学术术词典
-* 保护的英语关键字标志
-* 保护_1136__ - 国际手语
-* 保护_1137__或保护_1138__ - STEM标志词典 / 搜索
-* 专业的ASL字典
-* 保护_1140__ - 语音学习视频
-* 如何学习语言?
-* 创建自定义手语词典
-* 保护_1143__ - 亚斯拉语学习网站
-* 保护_1144__ - NZSL学习网站
-* 如何学习/练习BSL
-* 浏览互联网 / 时学习ASL或BSL
-* 保护_1147__ - 语言学习AI
-* 保护的_1148__
+* ⭐ **KEEP1119/KEEP**或 KEEP1120/KEEP - 多语言词典
+* KEEP1121/KEEP, KEEP1122/KEEP, KEEP1123/KEEP, KEEP1124/KEEP或 KEEP1125/KEEP - 美国手语词典
+* KEEP1126/KEEP - 将文字转换为ASL或BSL的指纹拼音
+* KEEP1127/KEEP - 亚斯拉 / 亚斯拉 / 单击词典
+* KEEP1128/KEEP, KEEP1129/KEEP, KEEP1130/KEEP或 KEEP1131/KEEP - 英国手语词典
+* KEEP1132/KEEP - 澳大利亚手语词典
+* KEEP1133/KEEP - 新西兰手语词典
+* KEEP1134/KEEP - BSL学术术语词典
+* KEEP1135/KEEP - 英国关键字标志
+* KEEP1136/KEEP - 国际手语
+* KEEP1137/KEEP或 KEEP1138/KEEP - STEM标志词典 /搜索
+* KEEP1139/KEEP - 专业化ASL字典
+* KEEP1140/KEEP - 语音学习视频
+* KEEP1141/KEEP - 语言学习/词典
+* KEEP1142/KEEP - 创建自定义的手语词典
+* KEEP1143/KEEP - 亚斯拉语学习网站
+* KEEP1144/KEEP - NZSL学习网站
+* KEEP1145/KEEP - 学习/练习BSL
+* KEEP1146/KEEP - 在浏览互联网/克罗米时学习ASL或BSL
+* KEEP1147/KEEP - 语言学习AI
+* KEEP1148/KEEP
 
 ***
 
@@ -935,587 +935,587 @@
 
 ## 子立方
 
-*  **[Cubing.net](https://www.cubing.net/)** - 缩工具
-* ️ **[Cube Simulators / Solvers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games/#wiki_.25B7_rubiks_cube)**
-* ⭐ **[J Perm](https://jperm.net/)**, [CubeSkills](https://www.cubeskills.com/), [RubiksTrainer](https://rubikstrainer.com/)或 [Easiest Solve](https://easiestsolve.com/) - 教程 /实践资源
-* ⭐ **[CubeDesk](https://cubedesk.io/)**或 **[csTimer](https://cstimer.net/)** - 功能丰富的立方计时器
-* ⭐ **[SpeedCubeDB](https://speedcubedb.com/)** - 算法数据库
-* 保护的路比克立方
-* 护者 - 跨界训练师 /边缘导向训练师
-* 子3×3 鲁比克速度跑方法
-* 保护的_1161__ / 保护的_1162__或_保护的_1163__ - 博维基 / 社区论坛
-* 球比赛和记录
-* 追踪您在 WCA 活动中的表现
-* 保护_1166__,保护_1167__,或保护_1168__ - 算法动画器/可视化器
-* 专业培训人员
-* 鱼类的鱼类
-* 电脑系统的使用方式
-* 保护时间
-* 子时间表
+*  **KEEP1149/KEEP** - 缩工具
+* ️ **KEEP1150/KEEP**
+* ⭐ **KEEP1151/KEEP**, KEEP1152/KEEP, KEEP1153/KEEP或 KEEP1154/KEEP - 教程/实践资源
+* ⭐ **KEEP1155/KEEP**或 **KEEP1156/KEEP** - 功能丰富的立体计时器
+* ⭐ **KEEP1157/KEEP** - 算法数据库
+* KEEP1158/KEEP - 路比克立方体的指南
+* KEEP1159/KEEP - CFOP 跨界训练师/边缘导向训练师
+* KEEP1160/KEEP - 学习/练习ZZ 3x3鲁比克速度跑方法
+* KEEP1161/KEEP / KEEP1162/KEEP或 KEEP1163/KEEP - 博维基 / 社区论坛
+* KEEP1164/KEEP - 曲比赛和记录
+* KEEP1165/KEEP - 追踪您在WCA活动中表现
+* KEEP1166/KEEP, KEEP1167/KEEP,或 KEEP1168/KEEP - 算法动画器/可视化器
+* KEEP1169/KEEP - 算法特定培训人员
+* KEEP1170/KEEP - 超级曲 Wiki
+* KEEP1171/KEEP - 缩时间器 (移动友好的)
+* KEEP1172/KEEP - 立体计时器
+* KEEP1173/KEEP - 立体计时器
 
 ***
 
 ## ▷ 象棋
 
-*  **[Awesome Chess](https://github.com/hkirat/awesome-chess)**, PROTECTED_1175__或 PROTECTED_1176__ - 象棋资源
-*  **[/m/Chess](https://www.reddit.com/user/korfor/m/chess/)**或 [r/Chess](https://reddit.com/r/chess) - 象棋的转让
-*  **[r/Chess Books](https://reddit.com/r/chess/wiki/books)** - 推的棋牌书籍
-* ⭐ **[Scid vs. PC](https://scidvspc.sourceforge.net/)** - 学习/练习棋牌
-* 保护_1181__ - 象棋数据库 / 社区
-* 为了让我们能获得更多的机会,
-* 们在们的里,
-* 保护的棋牌课程
-* 们可以学习/练习棋牌.
-* 保护_1187__ - 学习/练习棋牌
-* 们在球中,
-* 们在球中,
-* 们在球中,
-* 博平台的平台
-* 们在们的们里,
-* 们在们的们里,
-* 们在们的们里,
-* 们在们的里,
-* 们在们的们里,
-* 博游戏 / 运动分析
-* 球分析 / 运动分析
-* 为了让我们可以看到一个新的世界,
-* 击的结果
-* 博游戏平台 - 博游戏平台
-* 博游戏的历史 / 课程
-* 球选项: 球选项:
+*  **KEEP1174/KEEP**, KEEP1175/KEEP或 KEEP1176/KEEP - 象棋资源
+*  **KEEP1177/KEEP**或 KEEP1178/KEEP - 象棋的附加值
+*  **KEEP1179/KEEP** - 推的象棋书籍
+* ⭐ **KEEP1180/KEEP** - 学习/练习棋牌
+* KEEP1181/KEEP - 象棋数据库 / 社区
+* KEEP1182/KEEP - 棋牌课程
+* KEEP1184/KEEP - 棋牌课程
+* KEEP1185/KEEP - 棋牌课程
+* KEEP1186/KEEP - 学习/练习棋牌
+* KEEP1187/KEEP - 学习/练习棋牌
+* KEEP1188/KEEP - 克实践
+* KEEP1189/KEEP - 棋牌练习
+* KEEP1190/KEEP - 棋牌教练应用程序
+* KEEP1191/KEEP - 多站点数字棋牌分析
+* KEEP1192/KEEP, KEEP1193/KEEP - 象棋游戏/运动分析
+* KEEP1194/KEEP - 象棋游戏 / 运动分析 / KEEP1195/KEEP
+* KEEP1196/KEEP - 象棋游戏 / 运动分析 / KEEP1197/KEEP
+* KEEP1198/KEEP - 象棋游戏/运动分析
+* KEEP1199/KEEP - 象棋游戏 / 运动分析 / KEEP1200/KEEP
+* KEEP1201/KEEP - 象棋游戏/运动分析
+* KEEP1202/KEEP - 象棋游戏/运动分析
+* KEEP1203/KEEP - 下载/可视化棋牌游戏
+* KEEP1204/KEEP - 追踪棋牌分析
+* KEEP1205/KEEP - 现场象棋手评级
+* KEEP1206/KEEP - 象棋历史 / 课程
+* KEEP1207/KEEP - 1000多种象棋变体+指南
 
 ***
 
 ## 藏和龙
 
-* ️ **[D&D Building Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools/#wiki_.25B7_rpg_worldbuilding)** - 地图编辑,活动管理者,世界建设等
-* ⭐ **[D&D Compendium](https://www.dnd-compendium.com/)**或 [RPGBOT](https://rpgbot.net/) - 研发工具和学习资源
-* ⭐ **[5etools](https://5e.tools/)**, [⁠DM Screen](https://www.linepup.com/dm-screen/)或 [The Acaeum](https://www.acaeum.com/) - 规则和内容参考
-* ⭐ **[D&D Beyond](https://www.dndbeyond.com/)** - 5E官方工具集
-* ⭐ **[Kobold+ Fight Club](https://koboldplus.club/)** - 遇见建设者和平衡者
-* 电子设备的自动化
-* 保护_1217__或保护_1218__ / 使用 __保护_1219__ - 文献
-* 保护_1220__ - 研发世界建筑检查清单
-* 保护_1221__ - 怪物数据区块生成器
-* 保护_1222__ - 5E 家庭编辑文件
-* 保护的_1223__ - 开发的家庭 Wiki
+* ️ **KEEP1208/KEEP** - 地图编辑,活动管理者,世界建设等
+* ⭐ **KEEP1209/KEEP**或 KEEP1210/KEEP - 研发工具和学习资源
+* ⭐ **KEEP1211/KEEP**, KEEP1212/KEEP或 KEEP1213/KEEP - 规则和内容参考
+* ⭐ **KEEP1214/KEEP** - 5E官方工具集
+* ⭐ **KEEP1215/KEEP** - 遇见构建者和平衡者
+* KEEP1216/KEEP - 研发自动化分歧机器人
+* KEEP1217/KEEP或 KEEP1218/KEEP / 使用 KEEP1219/KEEP - 研发 4E/5E书籍
+* KEEP1220/KEEP - 研发世界建筑检查清单
+* KEEP1221/KEEP - 怪物状态块生成器
+* KEEP1222/KEEP - 5E家庭编辑文件
+* KEEP1223/KEEP - 研发家庭 Wiki
 
 ***
 
 # 开发者学习
 
-*  **[Awesome Certificates](https://panx.io/awesome-certificates/)** - 发展课程指数
-*  **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - YouTube开发道指数
-*  **[ProgrammingLearningResources](https://rentry.co/ProgrammingLearningResources)**, [r/LearnProgramming Wiki](https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_getting_started), [Programming Learning Index](https://github.com/bobeff/programming-math-science), [⁠awesome-opensource-documents](https://github.com/44bits/awesome-opensource-documents)或 [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) - 编程学习资源
-*  **[Python Discord](https://pythondiscord.com/resources/)** - 字符串学习资源
-*  **[Roadmap](https://roadmap.sh/)** - 开发人员路线图 / [GitHub](https://github.com/kamranahmedse/developer-roadmap)
-*  **[Path to Senior Engineer](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)**或 [Professional Programming](https://github.com/charlax/professional-programming) - 软件工程师资源
-* ️ **[Programming Books](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_programming_books)** - 阅读 / 下载编程书
-* ⭐ **[freeCodeCamp](https://www.freecodecamp.org/)** - 编程 / 课程 / 互动
-* ⭐ **[git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet)**, [Git Commands](https://gabrieldejesus.github.io/git-commands/)或 [Git Cheatsheet](https://www.ndpsoftware.com/git-cheatsheet.html#loc=index;) - Git命令列表
-* ⭐ **[OpenVim](https://openvim.com/)**或_PROTECTED_1242__ - 互动视频教程
-* ⭐ **[StarSQL](https://selectstarsql.com/)**, [⁠SQL Practice](https://www.sql-practice.online/)或 [Learn SQL](https://sqlbolt.com/) - SQL 课程/实践
-* 关于新手捐款的指南
-* 您可以在此访问:
-* 关键字: 关键字: 关键字:
-* 互动的 Git 教程
-* 互动Git分支指南
-* 子学习游戏
-* 开发者建议
-* 保护的游戏
-* 互动编程学习
-* 编程课程
-* 项目计划课程
-* 保护_1260__ - 编程课程
-* 保护的课程
-* 编程教程
-* 保护_1264__ / 保护_1265__ / 保护_1266__ / 保护_1267__, 保护_1268__或 保护_1269__ - 初学者编程学习
-* 竞争性编程课程
-* 保护_1271__或保护_1272__ - 编程指南
-* 编程游戏
-* 编程题
-* 项目基础教程的集合
-* 软件工程师学习指南
-* 系统设计指南
-* 保护_1279__ - 设计指南 / 保护_1280__
-* 云计算指南
-* 如何使用PROTECTED_1282__ - 学习 Swift UI / [Samples](https://developer.apple.com/tutorials/sample-apps)
-*  编辑器  文件
-* 保护的1285__ - 维姆提示
-* 们在们的家里,
-* 们在们的家里,
-* 软件开发指南
-* 如何实现SEO学习
-* 保护_1291__,保护_1292__,保护_1293__或保护_1294__ - SQL学习游戏
-* 您的位置: 首页
-* 您的位置: 首页
-* 如何使用OpenGL?
-* 保护_1298__ -  DevOps 演习
-* 如何学习 DevOps
-* 保护_1300__ - 图形QL课程
-* 系统学习
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 如何使用机器人?
+*  **KEEP1224/KEEP** - 发展课程指数
+*  **KEEP1225/KEEP** - YouTube开发道指数
+*  **KEEP1226/KEEP**, KEEP1227/KEEP, KEEP1228/KEEP, KEEP1229/KEEP或 KEEP1230/KEEP - 编程学习资源
+*  **KEEP1231/KEEP** - 字符串学习资源
+*  **KEEP1232/KEEP** - 开发者路线图
+*  **KEEP1234/KEEP**或 KEEP1235/KEEP - 软件工程师资源
+* ️ **KEEP1236/KEEP** - 阅读/下载编程书
+* ⭐ **KEEP1237/KEEP** - 编程 /课程 / 互动
+* ⭐ **KEEP1238/KEEP**, KEEP1239/KEEP或 KEEP1240/KEEP - Git命令列表
+* ⭐ **KEEP1241/KEEP**或 KEEP1242/KEEP - 互动Vim教程
+* ⭐ **KEEP1243/KEEP**, KEEP1244/KEEP或 KEEP1245/KEEP - SQL课程/实践
+* KEEP1246/KEEP - 初学者捐款指南
+* KEEP1247/KEEP或 KEEP1248/KEEP - 导航指南/提示
+* KEEP1249/KEEP或 KEEP1250/KEEP - 吉特学习游戏
+* KEEP1251/KEEP - 互动的吉特教程
+* KEEP1252/KEEP - 互动Git分支指南
+* KEEP1253/KEEP - 吉特学习游戏
+* KEEP1254/KEEP - 开发人员的建议
+* KEEP1255/KEEP - 编码学习游戏
+* KEEP1256/KEEP或 KEEP1257/KEEP - 互动编程学习
+* KEEP1258/KEEP - 编程课程
+* KEEP1259/KEEP - 编程课程
+* KEEP1260/KEEP - 编程课程
+* KEEP1261/KEEP - 编程课程
+* KEEP1263/KEEP - 编程教程
+* KEEP1264/KEEP / KEEP1265/KEEP / KEEP1266/KEEP / KEEP1267/KEEP, KEEP1268/KEEP或 KEEP1269/KEEP - 初学者编程学习
+* KEEP1270/KEEP - 竞争性编程课程
+* KEEP1271/KEEP或 KEEP1272/KEEP - 编程指南
+* KEEP1273/KEEP - 练习编码/编程的游戏
+* KEEP1274/KEEP - 编程题
+* KEEP1275/KEEP - 基于项目的教程集
+* KEEP1276/KEEP - 软件工程师学习指南
+* KEEP1277/KEEP或 KEEP1278/KEEP - 系统设计指南
+* KEEP1279/KEEP - CLI设计指南
+* KEEP1281/KEEP - 云计算指南
+* KEEP1282/KEEP - 学习快速用户界面
+* KEEP1284/KEEP - 维姆编辑器骗局表
+* KEEP1285/KEEP - 维姆提示
+* KEEP1286/KEEP - 维姆编辑提示
+* KEEP1287/KEEP - 姆学习游戏
+* KEEP1288/KEEP - 软件开发指南
+* KEEP1289/KEEP或 KEEP1290/KEEP - SEO学习
+* KEEP1291/KEEP, KEEP1292/KEEP, KEEP1293/KEEP或 KEEP1294/KEEP - SQL学习游戏
+* KEEP1295/KEEP - 后greSQL教程
+* KEEP1296/KEEP - MySQL教程
+* KEEP1297/KEEP - 学习OpenGL
+* KEEP1298/KEEP -  DevOps 演习
+* KEEP1299/KEEP - 学习 DevOps
+* KEEP1300/KEEP - 图形QL课程
+* KEEP1301/KEEP -系统d学习
+* KEEP1302/KEEP - Linux内核开发指南
+* KEEP1304/KEEP - 学习/实验与Gnome / KEEP1305/KEEP
 
 ***
 
 ## 编码教程
 
-*  **[Project Based Learning](https://github.com/practical-tutorials/project-based-learning)** - 基于项目的学习资源
-* ⭐ **[Build your own X](https://codecrafters.io)** - 高级编码教程 / [Discord](https://discord.gg/DeqUD2P) / [GitHub](https://github.com/codecrafters-io/build-your-own-x)
-* 保护_1310__,保护_1311__,保护_1312__,保护_131313__,保护_1314__或保护_1315__ /保护_1316__ - 一般编码教程
-* 软件 / 网络开发
-* 项目基础教程
-* 如何发展SHA-256
-* 保护的视频教程
-* 编程说明 /电子书
-* 编程电子书
+*  **KEEP1306/KEEP** - 基于项目的学习资源
+* ⭐ **KEEP1307/KEEP** - 高级编码教程 / KEEP1308/KEEP / KEEP1309/KEEP
+* KEEP1310/KEEP, KEEP1311/KEEP, KEEP1312/KEEP, KEEP131313/KEEP, KEEP1314/KEEP或 KEEP1315/KEEP / KEEP1316/KEEP - 编码教程
+* KEEP1317/KEEP - 软件 / 网络开发
+* KEEP1318/KEEP - 基于项目的教程
+* KEEP1319/KEEP - 学习发展SHA-256
+* KEEP1320/KEEP - 视频教程
+* KEEP1321/KEEP - 编程笔记 /电子书
+* KEEP1322/KEEP - 编程电子书
 
 ***
 
 ## ▷ 编程语言
 
-* ⭐ **[30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)** - 字符串编程挑战
-* 根据Python指南的规定,
-* 编程类型实践 / 报名
-* 鱼类的鱼类的鱼类的鱼类
-* 互动字符号指南
-* 互动字符号指南
-* 互动字符号指南
-* 鱼游戏场 / 鱼
-* 鱼类的鱼类
-* 鱼类的教学
-* 保护的教程
-* 保护_1336__ / 保护_1337__或保护_1338__ - C++ 提示
-* 护_1339__或护_1340__ - C++课程/教程
-* 保护_1341__ - 制作文件教程
-* 保护_1342__,保护_1343__或保护_1344__ - 爪 / 科特林指南
-* 其他类型的学习资源
-* 如何使用程序?
-* 保护性资源
-* 的是的,的是的.
-* ,你知道吗?
+* ⭐ ** KEEP1323/KEEP** - 字符串编程挑战
+* KEEP1324/KEEP - 字符串指南
+* KEEP1326/KEEP或 KEEP1327/KEEP - 编程类型实践 / 注册
+* KEEP1328/KEEP - 字符串指南
+* KEEP1329/KEEP - 互动字符串指南
+* KEEP1330/KEEP - 互动字符串指南
+* KEEP1331/KEEP - 互动字符串指南
+* KEEP1332/KEEP - 字符串游戏场 / 奇特
+* KEEP1333/KEEP - 字符串课程
+* KEEP1334/KEEP - 字符串学习书
+* KEEP1335/KEEP - C教程
+* KEEP1336/KEEP / KEEP1337/KEEP或 KEEP1338/KEEP - C++提示 
+* KEEP1339/KEEP或 KEEP1340/KEEP - C++课程/教程
+* KEEP1341/KEEP - 制作文件教程
+* KEEP1342/KEEP, KEEP1343/KEEP或 KEEP1344/KEEP - 雅瓦/科特林指南
+* KEEP1345/KEEP - 接下来.js学习资源
+* KEEP1346/KEEP, KEEP1347/KEEP或 KEEP1348/KEEP - 学习Go编程
+* KEEP1349/KEEP - 腐蚀学习资源
+* KEEP1350/KEEP或 KEEP1351/KEEP - 学习卢比
+* KEEP1352/KEEP - 学习珀尔
 
 ***
 
 ## ▷ 网络开发
 
-*  **[MDN](https://developer.mozilla.org/)**或 [Web Dev Resources](https://joshjoshuap-webdevresources.vercel.app/) - 网络开发学习资源
-* ⭐ **[Odin Project](https://www.theodinproject.com/)**, [2](https://www.freecodecamp.org/learn/the-odin-project/) - 编程 / 课程 / 互动 / [Discord](https://discord.com/invite/fbFCkYabZB)
-* ⭐ **[FullStackOpen](https://fullstackopen.com/en/)** - 完整的课程 / [Discord](https://study.cs.helsinki.fi/discord/join/fullstack)
-* ⭐ **[LandChad](https://landchad.net/)**, [32bit](https://32bit.cafe/)或 [learn.sadgrl.online](https://sadgrl.online/guides/) - 网站开发指南
-* ⭐ **[Learn to Code HTML & CSS](https://learn.shayhowe.com/)** - HTML/CSS课程
-* ⭐ **[PHP: The Right Way](https://phptherightway.com/)**, 守_1365__或守_1366__ - 学习PHP
-* ⭐ **[JavaScript.info](https://javascript.info/)**, [Patterns.dev](https://www.patterns.dev/)或 [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - JavaScript学习网站
-* 网络开发课程
-* 互动网络学习
-* 网络分析学习
-* 网站开发教程
-* 网络开发课程
-* 网站开发指南 - 网站开发指南
-* 网站开发视频课程
-* 网站应用程序作者指南
-* 关于DOM事件的了解
-* 保护的信息 - 网络安全指南
-* 后端编码指南
-* 保护_1388__ - 后退实践的挑战
-* ,我不想让你知道.
-* 保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的,保护的.
-* 首页 创建指南
-* 互动网页设计教程
-* 互动网络GL/GLSL教程
-* 标签: 标签: 标签: 标签: 标签: 标签:
-* 如何使用 CSS 动画教程
-* 保护_1400__或保护_1401__ - CSS 挑战
-* 保护的1402__,保护的1403__,保护的1404__,保护的1405__,保护的1406__或保护的1407__ - CSS学习游戏
-* 们在们的家里,
-* 保护_1409__,保护_1410__,保护_1411__或保护_1412__ - CSS 弹箱学习游戏
-* 保护的方法
-* 保护系统的安全性
-* 反应研究工具 / 闪卡
-* 选一个字符:
-* 选一个字符:
-* 保护_1421__ - 有用 JavaScript 概念
-* 查询方式事件指南
-* 果版的游戏
-* 您可以在此访问:
-* 测试像素维度定向
+*  **KEEP1353/KEEP**或 KEEP1354/KEEP - 网络开发学习资源
+* ⭐ **KEEP1355/KEEP**, KEEP1356/KEEP - 编程 /课程 / 互动 / KEEP1357/KEEP
+* ⭐ **KEEP1358/KEEP** - 完整的课程 / KEEP1359/KEEP
+* ⭐ **KEEP1360/KEEP**, KEEP1361/KEEP或 KEEP1362/KEEP - 网站开发指南
+* ⭐ **KEEP1363/KEEP** - HTML/CSS课程
+* ⭐ ** KEEP1364/KEEP**, KEEP1365/KEEP或 KEEP1366/KEEP - 学习PHP
+* ⭐ **KEEP1367/KEEP**, KEEP1368/KEEP或 KEEP1369/KEEP - JavaScript学习网站
+* KEEP1370/KEEP - 网络开发课程
+* KEEP1371/KEEP - 互动网络学习
+* KEEP1372/KEEP - 网络分析学习
+* KEEP1373/KEEP或 KEEP1374/KEEP - 网络开发教程
+* KEEP1375/KEEP - 网络开发课程
+* KEEP1376/KEEP, KEEP1377/KEEP / KEEP1378/KEEP, KEEP1379/KEEP或 KEEP1380/KEEP - 网络开发指南
+* KEEP1381/KEEP - 网络开发视频课程
+* KEEP1382/KEEP - 网页应用程序作者指南
+* KEEP1383/KEEP - 了解多姆事件
+* KEEP1384/KEEP - 网络贸易委员会指南
+* KEEP1386/KEEP或 KEEP1387/KEEP - 后端编码指南
+* KEEP1388/KEEP - 实践的后果挑战
+* KEEP1389/KEEP - 后台 石 / 导航
+* KEEP1390/KEEP - KEEP1391/KEEP
+* KEEP1392/KEEP - 首页创建指南
+* KEEP1394/KEEP或 KEEP1395/KEEP - 互动网页设计教程
+* KEEP1396/KEEP - 互动WebGL/GLSL教程
+* KEEP1397/KEEP - HTML头元素指南
+* KEEP1398/KEEP - CSS动画教程
+* KEEP1399/KEEP, KEEP1400/KEEP或 KEEP1401/KEEP - CSS挑战
+* KEEP1402/KEEP, KEEP1403/KEEP, KEEP1404/KEEP, KEEP1405/KEEP, KEEP1406/KEEP或 KEEP1407/KEEP - CSS学习游戏
+* KEEP1408/KEEP - CSS猜测游戏
+* KEEP1409/KEEP, KEEP1410/KEEP, KEEP1411/KEEP或 KEEP1412/KEEP - CSS Flexbox学习游戏
+* KEEP1413/KEEP - CSS提示
+* KEEP1414/KEEP或 KEEP1415/KEEP - CSS 网格指南
+* KEEP1416/KEEP - 反应研究工具/闪卡
+* KEEP1417/KEEP或 KEEP1418/KEEP - JavaScript学习书籍
+* KEEP1419/KEEP或 KEEP1420/KEEP - JavaScript 练习问题
+* KEEP1421/KEEP - 有用 JavaScript 概念
+* KEEP1422/KEEP - JavaScript查询风格事件指南
+* KEEP1423/KEEP - JavaScript学习游戏
+* KEEP1424/KEEP - HTML/CSS和JavaScript教程
+* KEEP1425/KEEP - 测试像素维度定向
 
 ***
 
 ## ▷ 计算机科学
 
-*  **[CompSciLib](https://www.compscilib.com/)** - 计算机科学工具
-* ⭐ **[TeachYourselfComputerScience](https://teachyourselfcs.com/)** - 计算机科学书籍推
-* ⭐ **[Open Source Society University](https://github.com/ossu/computer-science)** / [PT-BR](https://github.com/ossu/computer-science-br) / [CN](https://github.com/ossu/computer-science-cn) - 计算机科学路线图 / [Discord](https://discord.gg/wuytwK5s9h)
-* ⭐ **[CS50](https://cs50.harvard.edu/x/)** - 哈佛计算机科学课程 / [Subreddit](https://www.reddit.com/r/cs50/) / [Telegram](https://t.me/cs50x) / [Discord](https://discord.com/invite/cs50) / [GitHub](https://github.com/cs50)
-* ⭐ **[NandGame](https://nandgame.com/)** - 计算机建筑题
-* ⭐ **[CraftingInterpreters](https://www.craftinginterpreters.com/)** - 脚本语言实施书 / [GitHub](https://github.com/munificent/craftinginterpreters)
-* 计算机科学学院的出版活动 - 根据主题
-* 专业信息技术
-* 电脑科学 谷歌课程
-* 计算机科学复杂性 骗局
-* 保护的1444__,保护的1445__,保护的1446__或保护的1447__ - 计算机科学学习指南
-* 保护_1448__ - 信息技术课程
-* 计算机科学课程
-* 计算机科学课程
-* 计算机科学课程
-* 计算机科学课程
-* 互动指南
-* 电脑科学YouTube频道
-* 计算机科学书籍
-* 计算机科学研究论文
-* 互动计算机科学课程
-* 电脑建设课程
-* 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术: 专业技术
-* 浏览器工程的知识
-* 操作系统开发 Wiki
-* 网络安全安全的发展
-* 保护_1465__ - 当你运行程序时发生什么
-* 保护的1466__
-* 软件与硬件比较 + 历史
+*  **KEEP1426/KEEP** - 计算机科学工具
+* ⭐ **KEEP1427/KEEP** - 计算机科学书籍推
+* ⭐ **KEEP1428/KEEP** / KEEP1429/KEEP / KEEP1430/KEEP - 计算机科学路线图 / KEEP1431/KEEP
+* ⭐ **KEEP1432/KEEP** - 哈佛计算机科学课程 / KEEP1433/KEEP / KEEP1434/KEEP / KEEP1435/KEEP / KEEP1436/KEEP
+* ⭐ ** KEEP1437/KEEP** - 计算机建筑题
+* ⭐ **KEEP1438/KEEP** - 脚本语言实施书 / KEEP1439/KEEP
+* KEEP1440/KEEP - 计算机科学学院按主题的出版活动
+* KEEP1441/KEEP - 计算机科学/软件工程
+* KEEP1442/KEEP - 计算机科学谷歌课程
+* KEEP1443/KEEP - 计算机科学复杂性
+* KEEP1444/KEEP, KEEP1445/KEEP, KEEP1446/KEEP或 KEEP1447/KEEP - 计算机科学学习指南
+* KEEP1448/KEEP - IT课程
+* KEEP1449/KEEP - 计算机科学课程
+* KEEP1450/KEEP - 计算机科学课程
+* KEEP1451/KEEP - 计算机科学课程
+* KEEP1452/KEEP - 计算机科学课程
+* KEEP1453/KEEP - 互动指南
+* KEEP1454/KEEP或 KEEP1455/KEEP - 计算机科学YouTube道
+* KEEP1456/KEEP - 计算机科学书籍
+* KEEP1457/KEEP - 计算机科学研究论文
+* KEEP1458/KEEP - 互动计算机科学课程
+* KEEP1459/KEEP - 计算机建设课程
+* KEEP1460/KEEP - 深入分析控制台架构
+* KEEP1462/KEEP - 了解浏览器工程
+* KEEP1463/KEEP - 操作系统开发 Wiki
+* KEEP1464/KEEP - 无线网络教育指南
+* KEEP1465/KEEP - 当你运行程序时会发生什么
+* KEEP1466/KEEP
+* KEEP1467/KEEP - 硬件/软件比较+历史
 
 ***
 
 ## ▷ 数据科学
 
-*  **[Awesome DataScience](https://github.com/academic/awesome-datascience)** - 数据科学资源
-*  **[Data Engineer Handbook](https://github.com/DataExpert-io/data-engineer-handbook)** - 数据工程师资源
-* ️ **[Machine / Deep Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_machine_learning)**
-* ⭐ **[Open Source Society University](https://github.com/ossu/data-science)** - 数据科学路线图 / [Discord](https://discord.gg/wuytwK5s9h)
-* 保护数据科学管道
-* 信息科学笔记本
-* 保护_1475__ - 了解数据可视化
-* 保护数据科学课程
-* 保护的_1477__ - R 指南 / __ 保护的_1478__
-* 保护_1479__ - R 包装指南
-* 保护数据科学指南
-* 保护的学习指南
-* 保护的方法
-* 保护_1483__,保护_1484__或保护_1485__ /保护_1486__ - 学习数据科学
-* 信息技术课程
-* 信息技术技术
-* 保护的
-* 保护数据科学 IDE
+*  **KEEP1468/KEEP** - 数据科学资源
+*  **KEEP1469/KEEP** - 数据工程师资源
+* ️ **KEEP1470/KEEP**
+* ⭐ **KEEP1471/KEEP** - 数据科学路线图
+* KEEP1473/KEEP - 数据科学管道
+* KEEP1474/KEEP - 数据科学笔记本
+* KEEP1475/KEEP - 了解数据可视化
+* KEEP1476/KEEP - 数据科学课程
+* KEEP1477/KEEP - R指南 / KEEP1478/KEEP
+* KEEP1479/KEEP - R包裹指南
+* KEEP1480/KEEP - R数据科学指南
+* KEEP1481/KEEP - 尼克斯学习指南
+* KEEP1482/KEEP - ggplot2指南
+* KEEP1483/KEEP, KEEP1484/KEEP或 KEEP1485/KEEP / KEEP1486/KEEP - 学习数据科学
+* KEEP1487/KEEP - 数据工程课程
+* KEEP1488/KEEP - 数据工程实践
+* KEEP1489/KEEP
+* KEEP1490/KEEP - 数据科学IDE
 
 ***
 
 ## ▷ 数据结构
 
-* ⭐ **[Leetcode](https://leetcode.com/)** - 编码实践
-* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/) / [Company Questions](https://github.com/MysteryVaibhav/leetcode_company_wise_questions), [2](https://docs.google.com/document/d/1icaNSRq6XcWO3EOycEP9F9P8SLerBanpY3Ni_ZzCfFA/), [3](https://seanprashad.com/leetcode-patterns/) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
-* 编码面试实践
-* 保护_1504__ - 编码实践
-* 保护_1505__ - 编码实践
-* 保护_1506__ - 编码实践
-* 保护_1507__或保护_1508__ - 编码实践
-* 保护_1509__或保护_1510__ - 编码面试问题
-* 保护_1511__,保护_1512__,保护_1513__,保护_1514__,保护_1515__或保护_1516__ - 黑客赛 /挑战社区
-* 保护_1517__,保护_1518__,保护_1519__或保护_1520__ - 编码问题/解决方案
-* 保护_1521__,保护_1522__或保护_1523__ - 编程课程
-* 保护数据结构和算法课程
-* 保护_1525__ - 代码算法欺骗表
-* 保护_1526__ - 代码算法和数据结构教程
-* 关_1527__ - 算法和数据结构在JavaScript中
-* 保护_1528__ - 数据结构和算法动画
-* 保护_1529__,保护_1530__或保护_1531__ /保护_1532__ - 视觉化代码算法
-* 专业的项目:
-* 了解字节如何表示变量
+* ⭐ **KEEP1491/KEEP** - 编码实践
+* ⭐ **Leetcode Tools** - KEEP1492/KEEP, KEEP1493/KEEP, KEEP1494/KEEP / KEEP1495/KEEP, KEEP1496/KEEP, KEEP1497/KEEP / KEEP1498/KEEP / KEEP1499/KEEP / KEEP1500/KEEP / KEEP1501/KEEP / KEEP1502/KEEP
+* KEEP1503/KEEP - 编码面试实践
+* KEEP1504/KEEP - 编码实践
+* KEEP1505/KEEP - 编码实践
+* KEEP1506/KEEP - 编码实践
+* KEEP1507/KEEP或 KEEP1508/KEEP - 编码实践
+* KEEP1509/KEEP或 KEEP1510/KEEP - 编码面试问题
+* KEEP1511/KEEP, KEEP1512/KEEP, KEEP1513/KEEP, KEEP1514/KEEP, KEEP1515/KEEP或 KEEP1516/KEEP - 黑客赛/挑战社区
+* KEEP1517/KEEP, KEEP1518/KEEP, KEEP1519/KEEP或 KEEP1520/KEEP - 编码问题/解决方案
+* KEEP1521/KEEP, KEEP1522/KEEP或 KEEP1523/KEEP - 编程课程
+* KEEP1524/KEEP - 数据结构和算法课程
+* KEEP1525/KEEP - 代码算法欺骗表
+* KEEP1526/KEEP - 代码算法和数据结构教程
+* KEEP1527/KEEP - JavaScript中的算法和数据结构
+* KEEP1528/KEEP - 数据结构和算法动画
+* KEEP1529/KEEP, KEEP1530/KEEP或 KEEP1531/KEEP / KEEP1532/KEEP - 视觉化代码算法
+* KEEP1533/KEEP - 算法编程问题集
+* KEEP1534/KEEP - 了解字节如何表示变量
 
 ***
 
 ## ▷ 用户界面/用户体验
 
-* 设计技巧
-* 网站设计课程
-* 保护_1539__ - 用户界面 / UX设计图书
-* 保护_1540__ - 界面设计测试
-* 如何使用UX设计
-* 保护_1543__ - 设计课程和书籍
-* 保护人体设计资源
-* 保护_1545__ - 界面设计师的最大目标/原则
-* 错误的用户体验例子
-* 保护_1547__ - 用户界面设计挑战生成器
-* 保护_1548__ - 前端教程 & 例子
-* 保护_1549__或保护_1550__ - 前端设计挑战
-* 保护的学习指数
-* 保护的1552__ - 前端研讨会
+* KEEP1535/KEEP或 KEEP1536/KEEP - 设计技巧
+* KEEP1537/KEEP或 KEEP1538/KEEP - 互联网用户界面/网站设计课程
+* KEEP1539/KEEP - 界面设计/UX设计书
+* KEEP1540/KEEP - 界面设计测试
+* KEEP1541/KEEP或 KEEP1542/KEEP - 学习UX设计
+* KEEP1543/KEEP - UX设计课程和书籍
+* KEEP1544/KEEP - 人类设计资源
+* KEEP1545/KEEP - 面向用户界面设计师的最大目标/原则
+* KEEP1546/KEEP - 欺骗性用户体验的例子
+* KEEP1547/KEEP - 界面设计挑战生成器
+* KEEP1548/KEEP - 前端教程和示例
+* KEEP1549/KEEP或 KEEP1550/KEEP - 前端设计挑战
+* KEEP1551/KEEP - 前端学习指数
+* KEEP1552/KEEP - 前端研讨会
 
 ***
 
 ## ▷ 网络安全
 
-*  **[Free Cyber Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)**, [BlueTeam Tools](https://github.com/A-poc/BlueTeam-Tools)或 [Applied Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content) - 网络安全学习资源
-*  **[Official Cybersecurity YouTube Channels](https://github.com/superlincoln953/Free-Official-Youtube-Content?tab=readme-ov-file#tech--security)**
-*  **[CTF Sites](https://ctfsites.github.io/)**, [echoCTF.RED](https://echoctf.red/), [CTF101](https://ctf101.org/), [picoCTF](https://picoctf.org/), [CTF Beginners Guide](https://jaimelightfoot.com/blog/so-you-want-to-ctf-a-beginners-guide/), [CTFtime](https://ctftime.org/)或 [CTFLearn](https://ctflearn.com/) - CTF资源/指南
-*  **[Awesome Sites to Test On](https://github.com/BMayhew/awesome-sites-to-test-on)** - 网络安全实践网站
-* ⭐ **[HackTricks](https://book.hacktricks.wiki/)** - 实际的透测试和安全审计技巧
-* ⭐ **[PortSwigger Academy](https://portswigger.net/web-security)** - 网络安全学习
-* ⭐ **[OWASP Cheatsheet](https://cheatsheetseries.owasp.org/)** - 应用安全指南
-* 网络安全挑战
-* 网络安全课程
-* 信息安全事件记录
-* 保护1574__,保护1575__或保护1576__ - 网络安全课程
-* 保护_1577__,保护_1578__或保护_1579__ - 了解网络安全
-* 网络安全实践
-* 网络安全学习游戏
-* 开发者安全课程
-* 保护_1583__ - 学习反向工程 / 网络安全
-* 保护_1584__或保护_1585__ - 逆向工程指南
-* 保护_1586__或保护_1587__ /保护_1588__ - 反向工程挑战
-* 互动反向工程课程
-* 保护_1590__ - 双边利用防御 /逆向工程课程
-* 网络安全 YouTube教程
-* 如何检测位?
-* 保护_1594__ - 学习 DNS
-* 如何保护安全?
-* 密码学学习 - 密码学学习
-* 互动密码学学习 / 题
-* 保护_1600__ - 学习HTTPS
+*  **KEEP1553/KEEP**, KEEP1554/KEEP或 KEEP1555/KEEP - 网络安全学习资源
+*  **KEEP1556/KEEP**
+*  **KEEP1557/KEEP**, KEEP1558/KEEP, KEEP1559/KEEP, KEEP1560/KEEP, KEEP1561/KEEP, KEEP1562/KEEP或 KEEP1563/KEEP - CTF资源/指南
+*  **KEEP1564/KEEP** - 网络安全实践网站
+* ⭐ **KEEP1565/KEEP** - 实际的透测试和安全审计技巧
+* ⭐ **KEEP1566/KEEP** - 网络安全学习
+* ⭐ **KEEP1567/KEEP** - 应用安全指南
+* KEEP1568/KEEP, KEEP1569/KEEP或 KEEP1570/KEEP - 网络安全挑战
+* KEEP1571/KEEP或 KEEP1572/KEEP - 网络安全课程
+* KEEP1573/KEEP - 信息安全事件记录
+* KEEP1574/KEEP, KEEP1575/KEEP或 KEEP1576/KEEP - 网络安全课程
+* KEEP1577/KEEP, KEEP1578/KEEP或 KEEP1579/KEEP - 了解网络安全
+* KEEP1580/KEEP - 网络安全实践
+* KEEP1581/KEEP - 网络安全学习游戏
+* KEEP1582/KEEP - 开发人员安全课程
+* KEEP1583/KEEP - 学习反向工程 / 网络安全
+* KEEP1584/KEEP或 KEEP1585/KEEP - 逆向工程指南
+* KEEP1586/KEEP或 KEEP1587/KEEP / KEEP1588/KEEP - 逆向工程挑战
+* KEEP1589/KEEP - 互动反向工程课程
+* KEEP1590/KEEP - 二进制利用防御/逆向工程课程
+* KEEP1591/KEEP - 网络安全YouTube教程
+* KEEP1592/KEEP或 KEEP1593/KEEP - 学习测试
+* KEEP1594/KEEP - 学习DNS
+* KEEP1595/KEEP - 学习DNSSEC
+* KEEP1596/KEEP或 KEEP1597/KEEP或 KEEP1598/KEEP - 密码学学习
+* KEEP1599/KEEP - 互动加密学学习 / 题
+* KEEP1600/KEEP - 学习HTTPS
 
 ***
 
 ## ▷ 游戏开发
 
-*  **[Awesome-Gamedev](https://github.com/FronkonGames/Awesome-Gamedev)**, _PROTECTED_1602__, _PROTECTED_1603__, _PROTECTED_1604__或 _PROTECTED_1605__ - 学习资源
-* ️ **[Game Dev Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools/#wiki_.25BA_game_dev_tools)**
-* ⭐ **[Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)** - 游戏开发教程
-* ⭐ **[r/gamedev](https://www.reddit.com/r/gamedev/)** - 网易博客社区
-* 开始者游戏开发挑战
-* 互动初学者游戏 开发学习
-* 游戏编程指南
-* 游戏编程书籍
-* 游戏开发的基本概念
-* 保护的游戏开发书
-* 游戏开发指南 / 保护
-* 游戏开发教程
-* 保护性设计指南 / 书
-* 游戏中的三角形学课
-* 保护_1621__ - 实时影像开发平台
-* 游戏开发者学习数学课程
-* 保护_1623__ - 学习计算机图形
-* 片遮光器指南
-* 电子模拟器开发信息
-* 果版的游戏
-* 游戏编程教程
-* 后游游戏编程教程
+*  **KEEP1601/KEEP**, KEEP1602/KEEP, KEEP1603/KEEP, KEEP1604/KEEP或 KEEP1605/KEEP - 学习资源
+* ️ **KEEP1606/KEEP**
+* ⭐ ** KEEP1607/KEEP** - 游戏开发教程
+* ⭐ ** KEEP1608/KEEP** - 雷迪特社区
+* KEEP1609/KEEP - 游戏开发挑战
+* KEEP1610/KEEP - 互动初学者游戏开发学习
+* KEEP1611/KEEP - 游戏编程指南
+* KEEP1612/KEEP - 游戏编程书籍
+* KEEP1613/KEEP - 基本游戏开发概念
+* KEEP1615/KEEP - 2D游戏开发书
+* KEEP1616/KEEP - 游戏开发指南
+* KEEP1618/KEEP - 游戏开发教程
+* KEEP1619/KEEP - 水平设计指南/书
+* KEEP1620/KEEP - 游戏的三角形学课
+* KEEP1621/KEEP - 实时影像开发平台
+* KEEP1622/KEEP - 游戏开发者数学课程
+* KEEP1623/KEEP - 学习计算机图形
+* KEEP1624/KEEP - 碎片遮光器指南
+* KEEP1625/KEEP - 模拟器开发信息 / KEEP1626/KEEP
+* KEEP1627/KEEP - NES 模拟器开发学习游戏
+* KEEP1628/KEEP - QB64游戏编程教程
+* KEEP1629/KEEP - 逆转游戏编程教程
 
 ***
 
 #  考试准备
 
-*  **[IBResources](https://ibresources.in/)** - 国际学士资源
-* 检查实践测试 - 检查实践测试
-* 保护性测试
-* 博士 / STEM职业学习指南
-* 检查 / 解决方案 / 帮助 / 保护
-* 检测检测说明和答案
-* 检查垃圾
-* 士: 士: 士: 士:
-* 博的公司
-* 检查下载工具
-* 保护_1647__ - 信息技术考试收集
-* 保护的_1648__ - 考试指南 / 社区 / 保护的_1649__
-* 护1650__ - 练习AP考试
-* 专业考试比较表
-* 检测试验
-* 保护性检查
-* 免费CLEP/DSST考试准备
-* 根据"新加坡"的法律规定,
-* 保护的1658__,保护的1659__,保护的1660__或保护的1661__ - IGCSE研究说明/资源
-* 保护_1662__,保护_1663__或保护_1664__ - 下载过去的GCSE / IGCSE文件
-* 电报频道
-* 经济学讲座笔记
-* 保护的1667__,保护的1668__或保护的1669__ - 射练习考试
+*  **KEEP1630/KEEP** - 国际学士资源
+* KEEP1631/KEEP, KEEP1632/KEEP, KEEP1633/KEEP, KEEP1634/KEEP, KEEP1635/KEEP, KEEP1636/KEEP或 KEEP1637/KEEP - 考试实践测试
+* KEEP1638/KEEP - 能力测试
+* KEEP1639/KEEP - 博士 / STEM职业学习指南
+* KEEP1640/KEEP - 考试 / 解决方案 / 帮助 / KEEP1641/KEEP
+* KEEP1642/KEEP - 测试复习注释及答案
+* KEEP1643/KEEP - 考试垃圾
+* KEEP1644/KEEP - 剑桥实践考试
+* KEEP1645/KEEP - 之前的剑桥测试答案
+* KEEP1646/KEEP - 考试下载工具
+* KEEP1647/KEEP - IT考试收藏
+* KEEP1648/KEEP - AP考试指南 / 社区 / KEEP1649/KEEP
+* KEEP1650/KEEP - 练习AP考试
+* KEEP1651/KEEP - AP考试比较表
+* KEEP1652/KEEP - 猫测试准备
+* KEEP1654/KEEP - 考试辅助
+* KEEP1655/KEEP或 KEEP1656/KEEP - 免费CLEP/DSST考试准备
+* KEEP1657/KEEP - 下载NZQA过去文件
+* KEEP1658/KEEP, KEEP1659/KEEP, KEEP1660/KEEP或 KEEP1661/KEEP - IGCSE研究备份/资源
+* KEEP1662/KEEP, KEEP1663/KEEP或 KEEP1664/KEEP - 下载过去的GCSE/IGCSE文件
+* KEEP1665/KEEP - 美国大学电讯通道
+* KEEP1666/KEEP - 经济学讲座笔记
+* KEEP1667/KEEP, KEEP1668/KEEP或 KEEP1669/KEEP - 姆无线电实习考试
 
 ***
 
 ## 测试
 
-*  **[Digital SAT Resources](https://redd.it/zzsgzl)** - SAT资源
-* ⭐ **[OnePrep](https://oneprep.xyz/)** - SAT实践考试/问题
-* 保护的1672__,保护的1673__ - SAT实践考试 / 问题
-* 专业考试 / 问题
-* 专业考试 / 问题 / 报名要求
-* 专业考试 / 问题 / 专业考试
-* 专业考试 / 问题
-* 预测测测试的时间
-* 建议的 SAT 阅读
-* 通过"保护"1681__ - SAT考试讨论
+*  **KEEP1670/KEEP** - SAT资源
+* ⭐ **KEEP1671/KEEP** - SAT实践考试/问题
+* KEEP1672/KEEP, KEEP1673/KEEP - SAT实践考试/问题
+* KEEP1674/KEEP - SAT实践考试 / 问题
+* KEEP1675/KEEP - SAT实践考试/问题/注册要求
+* KEEP1676/KEEP - SAT实践考试 / 问题 / KEEP1677/KEEP
+* KEEP1678/KEEP - SAT实践考试 / 问题
+* KEEP1679/KEEP - 前 SAT 测试档案
+* KEEP1680/KEEP - 建议的SAT阅读
+* KEEP1681/KEEP - SAT考试讨论
 
 ***
 
 ## ▷  / 
 
-*  **[r/JEENEETards Index](https://www.reddit.com/r/JEENEETards/wiki/index)** - 导游 / 学习材料
-* ⭐ **[PhysicsWallah](https://www.pw.live/)** - 简历课程 / [YouTube](https://www.youtube.com/c/PhysicsWallah/)
-* ⭐ **[PirateHive](https://phantomcodex9.github.io/piratehive/)** - 导游 /研究材料
-* ⭐ **[ExamSide](https://questions.examside.com/)** - PYQ解决方案 
-* 保护性质的标准
-* 保护的1688__,保护的1689__ / 保护的1690__或保护的1691__ - 杰伊书档案
-* 保护的1692__或保护的1693__ - 简历讲座
-* 保护_1694__,保护_1695__或保护_1696__ - 讲座长度 / 数据
-* 保护的_1697__ - 指南 / 研究材料 / 保护的_1698__
-* 保护_1700__ - 解决方案 / 帮助
+*  **KEEP1682/KEEP** - 导游 / 学习材料
+* ⭐ **KEEP1683/KEEP** - EE课程 / KEEP1684/KEEP
+* ⭐ **KEEP1685/KEEP** - 导游 /学习材料
+* ⭐ **KEEP1686/KEEP** - PYQ解决方案 
+* KEEP1687/KEEP - EE/NEET PYQ
+* KEEP1688/KEEP, KEEP1689/KEEP / KEEP1690/KEEP或 KEEP1691/KEEP - JEE书档案
+* KEEP1692/KEEP或KEEP1693/KEEP - EE讲座
+* KEEP1694/KEEP, KEEP1695/KEEP或 KEEP1696/KEEP - 讲座长度/数据
+* KEEP1697/KEEP - 导游 / 学习材料 / KEEP1698/KEEP
+* KEEP1699/KEEP - 解决方案/帮助
 
 ***
 
 #  教育工具
 
-*  **[nanoHUB](https://nanohub.org/)** - 纳米技术工具
-*  **[5th STAAR Resource Curation](https://docs.google.com/document/d/1vxxEKhZe_7dd1XIxl_sETsqP__Rf-yPAnBhtwf8huKU/edit?usp=drivesdk)** - 课堂工具
-* ️ **[Presentation/ Slideshare tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_presentation_tools)**
-* ️ **[Data Visualization](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_data_visualization_tools)**
-* ️ **[Grammar / Spell Check](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_grammar_check)**
-* ⭐ **[Excalidraw](https://excalidraw.com/)** / [Sharing](https://excalihub.dev/), **[OpenBoard](https://openboard.ch/index.en.html)**, [DGM](https://dgm.sh/), [NotebookCast](https://www.notebookcast.com/), [WebWhiteboard](https://webwhiteboard.com/), [Microsoft Whiteboard](https://apps.microsoft.com/detail/9MSPC6MP8FM4), [WBO](https://wbo.ophir.dev/), [OurBoard](https://www.ourboard.io/), [Whiteboard.fi](https://whiteboard.fi/)或 [Whiteboard Fox](https://r3.whiteboardfox.com/) - 白板
-* 免费的学生交易
-* 保护布扩展
-* 保护_1719__ - 改进的布工作列表
-* 保护_1720__ / 保护_1721__或保护_1722__ - 科学图像分析仪
-* 标签: 标签: 标签: 标签:
-* 电脑智能
-* 试卷样本
-* 保护_1726__ - 机构访问VPN
-* 保护人 - 士学位
-* 保护奖学金数据库
-* 保护的1729__ / 保护的1730__, 保护的1731__或 保护的1732__ - 课外搜索
-* 保护的1733__,保护的1734__,保护的1735__或保护的1736__ - 大学/学校比较
-* 计算机科学学院的出版活动
-* 校园的校园评价
-* 专家评级
-* 保护我们
-* 姆·乔姆斯基内容指数工具
-* 建立免费的线下学习热点
+*  **KEEP1701/KEEP** - 纳米技术工具
+*  **KEEP1702/KEEP** - 课堂工具
+* ️ **KEEP1703/KEEP**
+* ️ **KEEP1704/KEEP**
+* ️ **KEEP1705/KEEP**
+* ⭐ **KEEP1706/KEEP** / KEEP1707/KEEP, **KEEP1708/KEEP**, KEEP1709/KEEP, KEEP1710/KEEP, KEEP1711/KEEP, KEEP1712/KEEP, KEEP1713/KEEP, KEEP1714/KEEP, KEEP1715/KEEP或 KEEP1716/KEEP - 白板
+* KEEP1717/KEEP - 免费的学生交易
+* KEEP1718/KEEP - 布增强扩展
+* KEEP1719/KEEP - 改进了布工作列表
+* KEEP1720/KEEP / KEEP1721/KEEP或 KEEP1722/KEEP - 科学图像分析仪
+* KEEP1723/KEEP - 图形图像显示器
+* KEEP1724/KEEP - 计算智能
+* KEEP1725/KEEP - 论文样本
+* KEEP1726/KEEP - 机构访问VPN
+* KEEP1727/KEEP - 士学位 寻求
+* KEEP1728/KEEP - 奖学金数据库
+* KEEP1729/KEEP / KEEP1730/KEEP, KEEP1731/KEEP或 KEEP1732/KEEP - 课外搜索
+* KEEP1733/KEEP, KEEP1734/KEEP, KEEP1735/KEEP或 KEEP1736/KEEP - 大学/学校比较
+* KEEP1737/KEEP - 计算机科学学院按主题的出版活动
+* KEEP1738/KEEP或KEEP1739/KEEP - 大学宿舍评价
+* KEEP1740/KEEP - 教授评级
+* KEEP1741/KEEP - 教训创造者
+* KEEP1742/KEEP - 诺姆·乔姆斯基内容指数工具
+* KEEP1743/KEEP - 创建免费的线下学习热点
 
 ***
 
 ## ▷ 研究/研究
 
-*  **[Awesome Research](https://github.com/emptymalei/awesome-research)**, _PROTECTED_1746__, _PROTECTED_1747__, _PROTECTED_1748__, _PROTECTED_1749__, _PROTECTED_1750__或 _PROTECTED_1751__ - 研究工具
-* ️ **[Note-Taking Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_note-taking)**
-* ️ **[Documents / Articles](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_documents_.2F_articles)** / **[Academic Papers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_academic_papers)**
-* ️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)**或 [Wolfram Mobile](https://rentry.co/FMHYB64#wolfram-mobile) - 可搜索的知识库
-* ⭐ **[StudyLion](https://lionbot.org)** - 研究追踪器 / 生产力分歧机器人 / [GitHub](https://github.com/StudyLions/StudyLion)
-* ⭐ **[StudyKit](https://studykit.app/)**, [StuDoc](https://www.studocu.com/) / [Downloader](https://github.com/danieltyukov/studocuhack), [Knowt](https://knowt.com/), [Quizlet](https://quizlet.com/) / [Show Hidden](https://greasyfork.org/en/scripts/423872), [Shmoop](https://www.shmoop.com/), [Bitesize](https://www.bbc.co.uk/bitesize)或 [SparkNotes](https://www.sparknotes.com/) - 问卷 / 研究材料
-* ⭐ **[Anki](https://apps.ankiweb.net/)** / [Subreddit](https://www.reddit.com/r/Anki/) / [Discord](https://discord.gg/jUvBM2sEs4) / [GitHub](https://github.com/ankidroid/Anki-Android), [StudyLib](https://www.studylib.net/), [RemNote](https://www.remnote.com/), [Flippity](https://www.flippity.net/), [Flashcard Machine](https://www.flashcardmachine.com/), [Gizmo](https://gizmo.ai/), [MemoAnki](https://memoanki.com/), [revisiondojo](https://www.revisiondojo.com/), [Flashka](https://www.flashka.ai/)或 [NoteKnight](https://www.noteknight.com) - 闪卡工具
-* ⭐ **安基工具** - 保护_1782__ / 保护_1783__ / 保护_1784__, 保护_1785__
-* ⭐ **[Coursicle](https://www.coursicle.com/)** - 课程跟踪器 / Android,iOS
-* ⭐ **[OpenSyllabus](https://opensyllabus.org/)** - 课程搜索 / 信息
-* ⭐ **[Refseek](https://www.refseek.com/)**, _PROTECTED_1789__或 _PROTECTED_1790__ - 学术搜索引擎
-* 保护的_1791__ - 闪卡 / 标记笔记 / PDF读者 / 保护的_1792__
-* 保护的1793__,保护的1794__,保护的1795__或保护的1796__ /保护的1797__ - 研究聊天机器人
-* 专业论文追踪器
-* 保护_1799__或保护_1800__ - 产生科学文章
-* 保护的_1801__,保护的_1802__,保护的_1803__,保护的_1804__,保护的_1805__,保护的_1806__,保护的_1807__,保护的_1808__或保护的_1809__ - 引用生成器 / 保护的_1810__
-* 论文分析师
-* 通过引用找到相关文献
-* 保护性检查器
-* 保护_1816__ - 参考提取者/管理者
-* 转换LLM聊天到DOCX / [Discord](https://discord.gg/fPtQAQYmqq)
-* 保护_1819__ - 摘要 / 组织科学文件信息
-* 专业专家探求
-* 保护_1822__ - 研究标记和分析工具
-* 保护_1823__ - 数据清理
-* 信息分析文件标签
-* 保护的研究突出工具
-* 保护1827年 - 标题 转基因矿业项目
-* 保护_1828__ - 将数字内容添加到纸上
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 根据"公积金"的规定,
-* 计算GPA
-* 创建简单 / 试题
-* 搜索闪卡
-* 保护_1835__ - 家庭工作帮助机器人 / 社区 / 保护_1836__
-* 保护1837年 - 家庭作业辅助视频
-* 基于视觉记忆的解决方案
-* 保护_1839__,保护_1840__或保护_1841__ - 网上学习组
-* 美国的研究空间搜索
-* 保护1843年 - 教育骗局
+*  **KEEP1745/KEEP**, KEEP1746/KEEP, KEEP1747/KEEP, KEEP1748/KEEP, KEEP1749/KEEP, KEEP1750/KEEP或 KEEP1751/KEEP - 研究工具
+* ️ **KEEP1752/KEEP**
+* ️ **KEEP1753/KEEP** / **KEEP1754/KEEP**
+* ️ **KEEP1755/KEEP**
+* ⭐ **KEEP1756/KEEP**或 KEEP1757/KEEP - 可搜索的知识库
+* ⭐ **KEEP1758/KEEP** - 学习跟踪器 / 生产力分歧机器人 / KEEP1759/KEEP
+* ⭐ **KEEP1760/KEEP**, KEEP1761/KEEP / KEEP1762/KEEP, KEEP1763/KEEP, KEEP1764/KEEP / KEEP1765/KEEP, KEEP1766/KEEP, KEEP1767/KEEP或 KEEP1768/KEEP - 测试 /研究材料
+* ⭐ **KEEP1769/KEEP** / KEEP1770/KEEP / KEEP1771/KEEP / KEEP1772/KEEP, KEEP1773/KEEP, KEEP1774/KEEP, KEEP1775/KEEP, KEEP1776/KEEP, KEEP1777/KEEP, KEEP1778/KEEP, KEEP1779/KEEP, KEEP1780/KEEP或 KEEP1781/KEEP - 闪卡工具
+* ⭐ **安基工具** - KEEP1782/KEEP / KEEP1783/KEEP / KEEP1784/KEEP, KEEP1785/KEEP
+* ⭐ ** KEEP1786/KEEP** - 课程跟踪器 / Android, iOS
+* ⭐ **KEEP1787/KEEP** - 课程搜索 / 信息
+* ⭐ **KEEP1788/KEEP**, KEEP1789/KEEP或 KEEP1790/KEEP - 学术搜索引擎
+* KEEP1791/KEEP - 闪卡 / 标记笔记 / PDF读者 / KEEP1792/KEEP
+* KEEP1793/KEEP, KEEP1794/KEEP, KEEP1795/KEEP或 KEEP1796/KEEP / KEEP1797/KEEP - 研究聊天机器人
+* KEEP1798/KEEP - 学术纸质追踪器
+* KEEP1799/KEEP或 KEEP1800/KEEP - 产生科学文章
+* KEEP1801/KEEP, KEEP1802/KEEP, KEEP1803/KEEP, KEEP1804/KEEP, KEEP1805/KEEP, KEEP1806/KEEP, KEEP1807/KEEP, KEEP1808/KEEP或 KEEP1809/KEEP - 引用发电机 / KEEP1810/KEEP
+* KEEP1811/KEEP - 引用分析师
+* KEEP1812/KEEP - 通过引用找到相关文献
+* KEEP1813/KEEP, KEEP1814/KEEP或 KEEP1815/KEEP - 刺检查器
+* KEEP1816/KEEP - 参考提取者/管理者
+* KEEP1817/KEEP - 将LLM聊天转换为DOCX / KEEP1818/KEEP
+* KEEP1819/KEEP - 摘录 /组织科学文件信息
+* KEEP1820/KEEP或 KEEP1821/KEEP - 工业/学术专家搜索
+* KEEP1822/KEEP - 研究标记和分析工具
+* KEEP1823/KEEP - 数据清理
+* KEEP1824/KEEP - 数据分析文件标记
+* KEEP1825/KEEP - 研究突出工具
+* KEEP1827/KEEP - 文章元数据采矿项目
+* KEEP1828/KEEP - 将数字内容添加到纸上
+* KEEP1829/KEEP - 评级追踪器 / Android, iOS / KEEP1830/KEEP
+* KEEP1831/KEEP - 计算CGPA & GPA
+* KEEP1832/KEEP - 计算GPA
+* KEEP1833/KEEP - 创建简单 / 试题
+* KEEP1834/KEEP - 搜索闪卡
+* KEEP1835/KEEP - 家庭作业帮助机器人 / 社区 / KEEP1836/KEEP
+* KEEP1837/KEEP - 家庭作业辅助视频
+* KEEP1838/KEEP - 基于视觉记忆的解决方案
+* KEEP1839/KEEP, KEEP1840/KEEP或 KEEP1841/KEEP - 网上学习组
+* KEEP1842/KEEP - 英国研究空间搜索
+* KEEP1843/KEEP - 教育骗局
 
 ***
 
 ## 计算器
 
-* ⭐ **[Wolfram|Alpha](https://www.wolframalpha.com/examples/mathematics)** - 计算器
-* ⭐ **[Omni Calculator](https://www.omnicalculator.com/)** - 计算器
-* ⭐ **[OpenCalc](https://github.com/Darkempire78/OpenCalc)**, [yetCalc](https://github.com/Yet-Zio/yetCalc)或 [microMathematics](https://github.com/mkulesh/microMathematics) - Android计算器
-* ⭐ **[GeoGebra](https://www.geogebra.org/)**或 [Desmos](https://www.desmos.com/) - 图形计算器
-* 电脑计算器 - TI-84 电脑计算器
-* 电脑计算器
-* 电脑计算器
-* 电脑计算器
-* 子计算器
-* 电脑电脑计算器
-* 您的位置: 首页
-* 保护的_1862__或保护的_1863__ - 科学计算器
-* 电脑的数据表
-* 机的安全安全安全
-* 电脑系统的使用率
-* 保护_1868__,保护_1869__ (搜索), 保护_1870__, 保护_1871__, 保护_1872__, 保护_1873__或 保护_1874__ - 数学 / 数学问题解决方案
+* ⭐ **KEEP1844/KEEP** - 计算器
+* ⭐ **KEEP1845/KEEP** - 计算器
+* ⭐ **KEEP1846/KEEP**, KEEP1847/KEEP或 KEEP1848/KEEP - Android计算器
+* ⭐ **KEEP1849/KEEP**或 KEEP1850/KEEP - 图形计算器
+* KEEP1851/KEEP或 KEEP1852/KEEP / KEEP1853/KEEP / KEEP1854/KEEP / KEEP1855/KEEP - TI-84计算器
+* KEEP1856/KEEP - 计算器
+* KEEP1857/KEEP - 计算器
+* KEEP1858/KEEP - 计算器
+* KEEP1859/KEEP - 矩阵计算器
+* KEEP1860/KEEP - 桌面计算器
+* KEEP1861/KEEP - 笔记式式计算器
+* KEEP1862/KEEP或 KEEP1863/KEEP - 科学计算器
+* KEEP1864/KEEP - TI图形计算器文件
+* KEEP1865/KEEP - TI CE计算器 弹
+* KEEP1866/KEEP - 现场计算笔记本 / KEEP1867/KEEP
+* KEEP1868/KEEP, KEEP1869/KEEP (搜索), KEEP1870/KEEP, KEEP1871/KEEP, KEEP1872/KEEP, KEEP1873/KEEP或 KEEP1874/KEEP - 数学/代数问题解决方案
 
 ***
 
 ## ▷ 字典 / 论文
 
-* ⭐ **[OneLook](https://onelook.com/)** - 多字典 / 论文搜索
-* ⭐ **[Merriam-Webster](https://www.merriam-webster.com/)** - 词典 / 论文
-* ⭐ **[GoldenDict](https://xiaoyifang.github.io/goldendict-ng/)** / [2](https://sourceforge.net/projects/goldendict/) - 字典
-* ⭐ **[NGrams](https://books.google.com/ngrams/)**或 [Netspeak](https://netspeak.org/) - 词语使用追踪器
-* ⭐ **[The Piracy Glossary](https://rentry.org/The-Piracy-Glossary)** - 海盗词典
-* ⭐ **[UrbanDictionary](https://www.urbandictionary.com/)** / [Frontends](https://codeberg.org/zortazert/rural-dictionary/)或 [Slangit](https://slang.net/) - 语文词语 / 语句词典
-* 保护的词典
-* 们在们的家里,
-*               
-* 保护的词典
-* 论文
-* 历史论文
-* 保护的词典
-* 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母, 搜索字母
-* 保护的1894年 - 形象学
-* 专业语言学词典
-* 们在们的眼里,
-* 保护_1897__,保护_1898__或保护_1899__ - 文字连接 / 视觉化器
-* 没有翻译的字
-* 保护的1901__ - 附加
-*                
-* 情感同义图
-* 保护性爱者旗指数
-* 们在们的眼里,
-* 言指数
-* 转换字典文件
+* ⭐ **KEEP1875/KEEP** - 多字典 / 文本搜索
+* ⭐ **KEEP1876/KEEP** - 词典 / 论文
+* ⭐ **KEEP1877/KEEP** / KEEP1878/KEEP - 字典
+* ⭐ **KEEP1879/KEEP**或 KEEP1880/KEEP - 词语使用追踪器
+* ⭐ **KEEP1881/KEEP** - 海盗词典
+* ⭐ **KEEP1882/KEEP** / KEEP1883/KEEP或 KEEP1884/KEEP - 语词/句子词典
+* KEEP1885/KEEP - 词典
+* KEEP1886/KEEP - 词典 / KEEP1887/KEEP
+* KEEP1888/KEEP - 词典
+* KEEP1889/KEEP - 词典
+* KEEP1890/KEEP - 文本
+* KEEP1891/KEEP - 历史论文
+* KEEP1892/KEEP - 词典
+* KEEP1893/KEEP - 找到字母
+* KEEP1894/KEEP - 形象学
+* KEEP1895/KEEP - 高级语言学词典
+* KEEP1896/KEEP - 模糊的词典
+* KEEP1897/KEEP, KEEP1898/KEEP或 KEEP1899/KEEP - 字节连接/视图化器
+* KEEP1900/KEEP - 没有翻译的单词
+* KEEP1901/KEEP - 附录
+* KEEP1902/KEEP - 搜索句子
+* KEEP1903/KEEP - 情感同义图
+* KEEP1904/KEEP - 爱尔兰人群旗指数
+* KEEP1905/KEEP - 愤世嫉俗词典
+* KEEP1906/KEEP - 誓言词指数
+* KEEP1907/KEEP或 KEEP1908/KEEP - 转换字典文件
 
 ***
 
 ## ▷ 百科全书
 
-*  **[List of Encyclopedias](https://en.wikipedia.org/wiki/List_of_online_encyclopedias)** - 在线百科全书指数
-* ⭐ **[Wikipedia](https://www.wikipedia.org/)** - 百科全书 / [Content List](https://en.wikipedia.org/wiki/Wikipedia:Contents/Lists)
-* ⭐ **[EncycloSearch](https://encyclosearch.org/)**或_PROTECTED_1913__ - 百科全书搜索引擎
-* ⭐ **[Wolfram Alpha](https://www.wolframalpha.com/)** - 可搜索的知识库
-* 编写系统和语言百科全书
-* 简体中文版 756M / 简体中文版 756M /
-* 保护的1918年
-* 保护1919年
-* 保护1920年
-* 保护的1921年
-* 保护的1922年
-* 保护的1923年
-* 保护的1924年
-* 保护的1925年
-* 保护的1926年
+*  **KEEP1909/KEEP** - 在线百科全书指数
+* ⭐ **KEEP1910/KEEP** - 百科全书 / KEEP1911/KEEP
+* ⭐ **KEEP1912/KEEP**或 KEEP1913/KEEP - 百科全书搜索引擎
+* ⭐ **KEEP1914/KEEP** - 可搜索的知识库
+* KEEP1915/KEEP - 写作系统和语言百科全书
+* KEEP1916/KEEP - 简体维基百科 / KEEP1917/KEEP
+* KEEP1918/KEEP
+* KEEP1919/KEEP
+* KEEP1920/KEEP
+* KEEP1921/KEEP
+* KEEP1922/KEEP
+* KEEP1923/KEEP
+* KEEP1924/KEEP
+* KEEP1925/KEEP
+* KEEP1926/KEEP
 
 ***
 
 ## ▷ 维基百科工具
 
-*  **[Wiki Portals](https://rentry.co/wikiportals)** - 维基门户网站导航
-* 保护的1928年 - 最重要页面
-* 网站链接
-* 保护的1930年
-* 没有任何其他信息.
-* 除子
-* 简短URL
-* 保护1934年 - 位置搜索
-* 维基数据视觉化工具 / 维基数据视觉化工具
-* 根据 Wiki 文章创建时间表
+*  **KEEP1927/KEEP** - 维基门户网站导航
+* KEEP1928/KEEP - 最重要的页面
+* KEEP1929/KEEP - 页面链接
+* KEEP1930/KEEP - 维基图
+* KEEP1931/KEEP - 离线视频
+* KEEP1932/KEEP - 提取标记
+* KEEP1933/KEEP - 缩短URL
+* KEEP1934/KEEP - 位置搜索
+* KEEP1935/KEEP - 维基数据可视化工具
+* KEEP1937/KEEP - 从维基文章中创建时间表

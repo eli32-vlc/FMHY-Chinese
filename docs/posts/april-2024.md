@@ -15,48 +15,48 @@ footer: true
 信息
 如果您有兴趣,请请联系我们.
 看到所有小变化,你可以跟随我们的
-在 GitHub 或
-在"不一致"中.
+KEEP1/KEEP在GitHub或
+KEEP2/KEEP 在Discord中.
 其他:
 
 ### 维基更新
 
 - 分为以下部分:
-保护的
-保护的
-保护的
-保护的
-保护的
-保护的
-保护的
-保护的10__,
-保护性
-保护的.
+KEEP3/KEEP,
+KEEP4/KEEP,
+KEEP5/KEEP,
+KEEP6/KEEP,
+KEEP7/KEEP,
+KEEP8/KEEP,
+KEEP9/KEEP,
+KEEP10/KEEP,
+KEEP11/KEEP和
+KEEP12/KEEP
 
-- 加入了[Abandonware](https://fmhy.net/gaming#abandonware),
-保护的
-保护的15__,
-保护的
-保护的17__和
+- 加入了KEEP13/KEEP,
+KEEP14/KEEP,
+KEEP15/KEEP,
+KEEP16/KEEP,
+KEEP17/KEEP和
   [Controller Tool](https://fmhy.net/gaming#controller-tools)
 游戏部门.
 
-- 加入了[Toys / Figures](https://fmhy.net/misc#toys-figures)节
+- 加入了KEEP19/KEEP部分
 购物.
 
-- 加入了[Manga](https://fmhy.net/mobile#android-manga)部分
+- 加入了KEEP20/KEEP部分
 通过安卓阅读.
 
-- 添加了 [MPV Shaders](https://fmhy.net/storage#mpv-shaders) 部分到视频
+- 加入视频中 KEEP21/KEEP部分
 工具.
 
-- 加入了 [Email](https://fmhy.net/privacy#email-privacy) 部分
+- 加入了KEEP22/KEEP部分
 隐私.
 
-- 添加了_PROTECTED_23__部分到 Dev
+- 加入 Dev 的 KEEP23/KEEP 部分
 工具.
 
-- 我们的[FMHY Social](https://social.fmhy.net/@fmhy) (Fediverse实例 /
+- 我们的 KEEP24/KEEP (Fediverse instance /
 现在是现场.
 
 - 现在我们已经删除了Wiki.
@@ -66,44 +66,44 @@ footer: true
 
 ### 星星加入
 
-- 演出在直播中
+- 演出 KEEP25/KEEP在直播中
 运动,快速播放,没有广告.
 
-- 星星在线观看
+- 星星 KEEP26/KEEP在
 优酷的用户界面,下载支持,没有广告.
 
-- 演员在下载中
+- KEEP27/KEEP在下载中
 管理者,有些人更喜欢这个比Jdownloader/IDM.
 
-- 星星在线观看
+- 星星 KEEP28/KEEP在
 亚拿娜的档案应用程序.
 
-- 星星在线观看
+- 星星 KEEP29/KEEP在
 现在的YT-DLGUI.
 
-- 演出了"翻译"中的"保护人"
+- KEEP30/KEEP在翻译中.
 无限的深度.
 
-- 在线聊天机器人中演出了 [Claude](https://fmhy.net/ai#online-chatbots).
+- 在线聊天机器人中着KEEP31/KEEP.
 能比双胞胎更好.
 
-- 星星在线
+- 星星 KEEP32/KEEP
 软件网站,大图书馆,单击DDL.
 
-- 鱼中的星星
+- 星 33/KEEP在Jellyfin
 工具,现代的果客户端.
 
-- 标签: 标签: 标签:
+- 星级 KEEP34/KEEP 包装
 管理人员,温格特的用户界面很好.
 
-- 标题: 屏幕截图
+- KEEP35/KEEP在屏幕截图中
 工具,自主托管,功能丰富的ShareX服务器.
 
-- 星星在线
+- 星星 KEEP36/KEEP
 预先构建的WSA二进制器将继续使用
-保护的.
+KEEP37/KEEP
 
-- 星星在线观看
+- 星星 KEEP38/KEEP 在
 翻转图像搜索工具.
 
 ---
@@ -113,9 +113,9 @@ footer: true
 - 由于他们关闭了,他们删除了免费mp3下载.
 
 - 像他们一样,他们删除了圣Unblocker
-保护的.
+KEEP39/KEEP
 
-- 已删除WSA作为支持的[dropped](https://ibb.co/zxB565S).
+- 已取消WSA作为支持的KEEP40/KEEP.
 
 - 没有明星的FlixHQ在流媒体.这以前很好,但似乎是很多
 最近的速度更慢.

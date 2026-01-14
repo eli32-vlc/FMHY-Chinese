@@ -30,7 +30,8 @@ def protect_content(content):
     
     def make_placeholder(match):
         protected.append(match.group(0))
-        return f"__PROTECTED_{len(protected)-1}__"
+        # Use special Unicode brackets that won't be translated
+        return f"⟦KEEP⟧{len(protected)-1}⟦/KEEP⟧"
     
     patterns = [
         (r'```[\s\S]*?```', 'code_block'),
@@ -48,7 +49,7 @@ def protect_content(content):
 
 def restore_content(content, protected):
     for i, item in enumerate(protected):
-        content = content.replace(f"__PROTECTED_{i}__", item)
+        content = content.replace(f"⟦KEEP⟧{i}⟦/KEEP⟧", item)
     return content
 
 def extract_frontmatter(content):
@@ -75,7 +76,7 @@ def translate_markdown_file(file_path, model, tokenizer):
     for idx, line in enumerate(lines):
         stripped = line.strip()
         
-        if not stripped or re.match(r'^__PROTECTED_\d+__$', stripped) or re.match(r'^[\*\-]{3,}$', stripped):
+        if not stripped or re.match(r'^⟦KEEP⟧\d+⟦/KEEP⟧$', stripped) or re.match(r'^[\*\-]{3,}$', stripped):
             translated_lines.append(line)
             continue
         

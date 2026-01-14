@@ -1,6 +1,6 @@
 ***
 ***
-保护的
+        
 ***
 ***
 
@@ -10,31 +10,31 @@
 
 ***
 
-* ⭐ **[ArchWiki](https://wiki.archlinux.org/)** - Linux指南 / [Manuals](https://man.archlinux.org/) / [TUI](https://codeberg.org/theooo/mantra.py)
-* 保护的_6__ - 百度维基 / 导游
-* 关于" 维基百科 " 的相关信息
-* 互动Linux指南
-* 系统的安全性
-* 对于 Node.js 开发人员的 Linux 指南
-* 专用的 Linux 视频教程
-* 系统的安全性
-* 系统的安全性
-* 根据"精神违法者"的"Vim教程播放列表"
-* 系统的维修指南
+* ⭐ **KEEP3/KEEP** - Linux指南 / KEEP4/KEEP / KEEP5/KEEP
+* KEEP6/KEEP - 通维基 / 导游
+* KEEP7/KEEP - Debian Wiki / 导游
+* KEEP8/KEEP - 互动Linux指南
+* KEEP9/KEEP - Linux桌面指南
+* KEEP10/KEEP - 诺德.杰斯开发人员的Linux指南
+* KEEP11/KEEP - 基于弧度的Linux视频教程
+* KEEP12/KEEP - Linux指南
+* KEEP13/KEEP - Linux学习路线图
+* KEEP14/KEEP - 精神违法者视频教程播放列表
+* KEEP15/KEEP - Linux系统的组维修指南
 
 ***
 
 ##   报纸
 
-* ⭐ **[Linux Command Library](https://linuxcommandlibrary.com/)** / [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary) - 可搜索的Linux命令指数
-* 保护_18__ - 编制的单线CLI工具
-* 保护_19__ - 对于GUI任务的CLI变化
-* 保护 - 社区驱动的指挥片
-* 关键键字:
-* 击脚本指南
-* 保护_23__ - 字母命令引用
-* 鱼一线系列
-* 保护的工具
+* ⭐ **KEEP16/KEEP** / KEEP17/KEEP - 可搜索的Linux命令指数
+* KEEP18/KEEP - 策划的单线CLI工具
+* KEEP19/KEEP - 对于GUI任务的CLI变化
+* KEEP20/KEEP - 基于社区的指挥片段
+* KEEP21/KEEP - 终端指挥
+* KEEP22/KEEP - Bash脚本指南
+* KEEP23/KEEP - 字母命令引用
+* KEEP24/KEEP - 巴什一线系列
+* KEEP25/KEEP - 互动的鱼工具
 
 ***
 
@@ -44,277 +44,277 @@
 
 ***
 
-* ⭐ **[All Things Linux](https://discord.gg/linux)** - Linux 离不开服务器
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
-* 系统的安全性
+* ⭐ ** KEEP26/KEEP** - Linux 离散服务器
+* KEEP27/KEEP - Linux问题答案论坛
+* KEEP28/KEEP - Linux 离散服务器
+* KEEP29/KEEP - Linux 离散服务器
+* KEEP30/KEEP - Linux 离散服务器
+* KEEP31/KEEP - Linux 离散服务器
+* KEEP32/KEEP - Linux论坛
+* KEEP33/KEEP - Linux论坛
+* KEEP34/KEEP - Linux论坛
+* KEEP35/KEEP - Linux论坛
 
 ***
 
 #  Linux 发行器
 
-* ** 注 - 我们不自己编辑单个发行版,因为我们认为列出的索引足够好,以独立站立.请记住,安装指南通常可以在每个发行版 doc页面上找到.您可以在每个发行网站上找到 doc页面,或通过他们的 [DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)页面.
+* ** 注 - 我们不自己编制单个发行版,因为我们认为列出的索引足够好,以独立站立.请记住,安装指南通常可以在每个发行版文档页面上找到.您可以在每个发行版网站上找到文档页面,或通过它们的 KEEP36/KEEP页面.
 
 ***
 
-*  **[DistroWatch](https://distrowatch.com/dwres.php?resource=popularity)** - 区分榜 w/新闻+排名 / [Advanced Search](https://distrowatch.com/search.php#advanced)
-*  **[ATL ISO Archive](https://iso.atl.dev/)** - Linux / BSD ISO档案
-* ⭐ **[DistroChooser](https://distrochooser.de/)** - 基于测试的区选手 / [Discord](https://discord.com/invite/aDkCutfqak) / [GitHub](https://github.com/distrochooser/distrochooser)
-* 随机光器
-* 通过安装系统创建直播分发器
-* 提供了更多的服务.
-* 快速播放器下载
-* 鱼类的鱼类
-* 详细的Distro比较图表
-* 没有活动/开源操作系统项目
+*  **KEEP37/KEEP** - 新闻+排名
+*  **KEEP39/KEEP** -  लिनक्स / BSD ISO档案
+* ⭐ **KEEP40/KEEP** - 基于测试的酒馆选手
+* KEEP43/KEEP - 随机销器
+* KEEP44/KEEP - 从安装系统创建现场分发
+* KEEP45/KEEP - 开源发行
+* KEEP46/KEEP - 快速播放器下载
+* KEEP47/KEEP - 比特伦特分销商商店
+* KEEP48/KEEP - 详细的场比较图表
+* KEEP49/KEEP - 无效/开源操作系统项目
 
 ***
 
 #  Linux应用程序
 
-*  **[GNOME Shell Extensions](https://extensions.gnome.org/)**
-* ️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - 电子书阅读器指数
-* ⭐ **[Bottles](https://usebottles.com/)** - 管理葡萄酒容器 / [Discord](https://discord.com/invite/wF4JAdYrTR) / [GitHub](https://github.com/bottlesdevs)
-* ⭐ **[WineHQ](https://appdb.winehq.org/)** - 葡萄酒兼容性数据库
-* ⭐ **[Q4Wine](https://sourceforge.net/projects/q4wine/)** - 葡萄酒GUI
-* ⭐ **[AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher)**或 [GearLever](https://github.com/mijorus/gearlever) - 将应用图像集成到应用程序发射器中
-* ⭐ **[winetricks](https://github.com/Winetricks/winetricks)** - 葡萄酒固定
-* ⭐ **[rofi](https://davatorium.github.io/rofi/)** / [Emoji Selector](https://github.com/Mange/rofi-emoji), [vicinae](https://github.com/vicinaehq/vicinae), [Fuzzel](https://codeberg.org/dnkl/fuzzel), [Ulauncher](https://ulauncher.io/)或 [wofi](https://hg.sr.ht/~scoopta/wofi) - 应用程序发射器 /键盘发射器
-* ⭐ **[FreeRDP](https://www.freerdp.com/)** / [GitHub](https://github.com/FreeRDP/FreeRDP), [⁠Remmina](https://remmina.org/)或 [⁠Apache Guacamole](https://guacamole.apache.org/) - 远程桌面客户端 
-* ⭐ **[shell_gpt](https://github.com/TheR1D/shell_gpt)**或 [shellgpt](https://github.com/jiacai2050/my-works/tree/main/shellgpt) - AI终端聊天机器人 / GPT
-* 运行macOS应用程序在Linux上
-* 系统安装器 / 系统安装器
-* 转换网页为桌面应用
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 运行Winetricks命令在SteamPlay/Proton游戏中
-* 保护_81__ - 多触手势识别仪
-* 标记编辑:
-* 您可以在此查看下载的应用程序.
-* 保护_87__或保护_88__ - 文本编辑器
-* 保护_89__ - 源代码编辑器
-* 快速变化文本
-* 保护_91__ - 亚斯基编辑器
-* 控制器使用者
-* 调整屏幕温度
-* 保护_94__ - 使用移动设备作为跟踪器
-* 保护_95__ - 使用移动设备作为麦克风
-* 运行在Linux上LLM
-* 暂停应用程序 / 游戏
-* 技术设备管理器
-* 蓝牙管理器
-* 保护_100__ - 与iOS设备通信
-* 电玩具的使用
-* 旅行信息管理员
-* 保护_103__ - 维基百科应用程序
-* 果版的阅读者:
-* 保护_107__或_保护_108__ / __保护_109__ - 可定制的通知大emon
-* 语检查应用程序
-* 保护_112__,保护_113__或保护_114__ - 打字实践
+*  **KEEP50/KEEP**
+* ️ **KEEP51/KEEP** - 电子书阅读者指数
+* ⭐ **KEEP52/KEEP** - 管理葡萄酒容器 / KEEP53/KEEP / KEEP54/KEEP
+* ⭐ **KEEP55/KEEP** - 葡萄酒兼容性数据库
+* ⭐ **KEEP56/KEEP** - 葡萄酒GUI
+* ⭐ **KEEP57/KEEP**或 KEEP58/KEEP - 集成应用图像与应用程序发射者
+* ⭐ **KEEP59/KEEP** - 葡萄酒固定
+* ⭐ **KEEP60/KEEP** / KEEP61/KEEP, KEEP62/KEEP, KEEP63/KEEP, KEEP64/KEEP或 KEEP65/KEEP - 应用程序发射器/键盘发射器
+* ⭐ ** KEEP66/KEEP** / KEEP67/KEEP, KEEP68/KEEP或 KEEP69/KEEP - 远程桌面客户端 
+* ⭐ **KEEP70/KEEP**或 KEEP71/KEEP - AI终端聊天机器人/GPT
+* KEEP72/KEEP - 在Linux上运行macOS应用程序
+* KEEP75/KEEP - Windows安装器解包器 / KEEP76/KEEP
+* KEEP77/KEEP - 将网页变成桌面应用程序
+* KEEP78/KEEP - Linux自动化工具
+* KEEP80/KEEP - 运行SteamPlay/Proton游戏的Winetricks命令
+* KEEP81/KEEP - 多触手势识别仪
+* KEEP82/KEEP或 KEEP83/KEEP - 标记编辑
+* KEEP84/KEEP或 KEEP85/KEEP / KEEP86/KEEP - 备注应用
+* KEEP87/KEEP或 KEEP88/KEEP - 文字编辑器
+* KEEP89/KEEP - 源代码编辑器
+* KEEP90/KEEP - 快速转换文本
+* KEEP91/KEEP - ASCII编辑器
+* KEEP92/KEEP - 显示器管理器与控制台UI
+* KEEP93/KEEP - 调节屏幕温度
+* KEEP94/KEEP - 使用移动设备作为跟踪器
+* KEEP95/KEEP - 使用移动设备作为麦克风
+* KEEP96/KEEP - 在Linux上运行LLM
+* KEEP97/KEEP - 暂停应用程序/游戏
+* KEEP98/KEEP - 逻辑技术设备经理
+* KEEP99/KEEP - 蓝牙管理器
+* KEEP100/KEEP - 与iOS设备进行通信
+* KEEP101/KEEP - 对于Linux的PowerToys
+* KEEP102/KEEP - 旅行信息管理员
+* KEEP103/KEEP - 维基百科应用程序
+* KEEP104/KEEP, KEEP105/KEEP或 KEEP106/KEEP - 漫画读者
+* KEEP107/KEEP或 KEEP108/KEEP / KEEP109/KEEP - 可定制的通知大emon
+* KEEP110/KEEP或 KEEP111/KEEP - 语法检查应用程序
+* KEEP112/KEEP, KEEP113/KEEP或 KEEP114/KEEP - 打字实践
 
 ***
 
 ## ▷ 软件网站
 
-*  **[ArchWiki App Sites](https://wiki.archlinux.org/title/List_of_applications)**或 **[Ultimate Cheatsheet](https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176)** - Linux软件/网站指数
-*  **[Awesome Linux Software](https://luong-komorebi.github.io/Awesome-Linux-Software/)** - 福斯Linux软件
-*  **[Awesome KDE](https://github.com/francoism90/awesome-kde)** - FOSS KDE软件
-*  **[Awesome GNOME](https://github.com/Kazhnuz/awesome-gnome)** - FOSS GNOME 软件
-*  **[FOSS Software Packages](https://en.wikipedia.org/wiki/List_of_free_and_open-source_software_packages)** - 福斯软件包指数
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=5.0)** / 使用 [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)**
-* ⭐ **[Linux Software CSE](https://cse.google.com/cse?cx=81bd91729fe2a412b)** - 多站点软件搜索
-* 保护_125__ - 福斯软件
-* 保护软件的流动
-* 保护_127__ - 软件图表
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 如何使用 KDE 应用程序和主题
-* 保护_133__或_保护_134__ - 平板应用库
-* 保护_135__ - 截图库
-* 保护_136__,保护_137__ /保护_138__) 或保护_139__ - 包装管理人员
-* 应用程序图像管理器
-* 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器: 浏览器
-* 保护的145__ - 应用程序
-* 应用程序安装器 / 保护_147__
-* 保护的_148__ / 保护的_149__, 保护的_150__或 保护的_151__ - 下载图片
-* 保护_152__ - GNOME应用程序
-* 系统包同步
-* 保护_154__ - 勃图的AUR灵感包管理器
+*  **KEEP115/KEEP**或 **KEEP116/KEEP** - Linux软件/网站指数
+*  **KEEP117/KEEP** - 福斯Linux软件
+*  **KEEP118/KEEP** - FOSS KDE软件
+*  **KEEP119/KEEP** - FOSS GNOME 软件
+*  **KEEP120/KEEP** - FOSS软件包指数
+* ⭐ **KEEP121/KEEP** / 使用 KEEP122/KEEP
+* ⭐ ** KEEP123/KEEP**
+* ⭐ **KEEP124/KEEP** - 多站点软件搜索
+* KEEP125/KEEP - 福斯软件
+* KEEP126/KEEP - 软件流浪
+* KEEP127/KEEP - OSS软件图表
+* KEEP128/KEEP, KEEP129/KEEP - Linux软件/工具指数 / KEEP130/KEEP
+* KEEP131/KEEP或 KEEP132/KEEP - KDE应用程序和主题
+* KEEP133/KEEP或 KEEP134/KEEP - 平板电脑应用程序库
+* KEEP135/KEEP - 快速存储器
+* KEEP136/KEEP, KEEP137/KEEP / KEEP138/KEEP) 或 KEEP139/KEEP - 包装管理者
+* KEEP140/KEEP / KEEP141/KEEP或 KEEP142/KEEP - 应用图像管理器
+* KEEP143/KEEP - 可搜索的Linux包数据库
+* KEEP145/KEEP - 应用程序
+* KEEP146/KEEP - 大量应用程序安装器
+* KEEP148/KEEP / KEEP149/KEEP, KEEP150/KEEP或 KEEP151/KEEP - 下载图片
+* KEEP152/KEEP - GNOME应用程序
+* KEEP153/KEEP - 系统包同步
+* KEEP154/KEEP - 乌布局AUR-inspired包管理器
 
 ***
 
 ## ▷ Linux系统
 
-*  **[Hardware for Linux](https://linux-hardware.org/)** - Linux硬件兼容性数据库 / [Forum](https://forum.linux-hardware.org/) / [GitHub](https://github.com/linuxhw/)
-* ⭐ **[Btop](https://github.com/aristocratos/btop)**, **[fastfetch](https://github.com/fastfetch-cli/fastfetch)**, **[MangoHud](https://github.com/flightlessmango/MangoHud)**, [CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X), [Macchina](https://github.com/Macchina-CLI/macchina), [Archey4](https://github.com/HorlogeSkynet/archey4), [Hyfetch](https://github.com/hykilpikonna/hyfetch)或 [s-tui](https://github.com/amanusk/s-tui) - 系统信息 /资源监测器
-* ⭐ **[TimeShift](https://github.com/linuxmint/timeshift)** - 系统恢复/备份
-* 创建可启动的USB Linux驱动器
-* 保护_168__ / 保护_169__ - Linux浏览器模拟器
-* 监控/日志系统活动
-* 互动过程观看器
-* 保护_173__ - 弹幕截图信息工具
-* 处理器微分标记 / 保护_175__
-* 保护_176__ - 记忆扫描仪 / 调试器
-* 保护_177__ - 现场壁纸依赖图表 / 包装状态
-* 保护_178__或_保护_179__ - 键盘重组
-* 通过电子设备,我们可以使用
-* 控制系统:
-* 保护_182__ - 处理器速度和功率优化自动化
-* 保护机器
-* 运行Windows应用程序在Linux上
-* 系统的安全性
-* 保护_186__ - iPXE网络启动
-* 系统的启动器
-* 您的位置: 首页
-* 维护_190__ - 维护_190__ - 维护_190__的编译者实施的协议列表
-* 保护_191__ - 最小的核心Boot / [GitHub](https://github.com/linuxboot/heads)
-* 保护_193__或_保护_194__ - 取代专有BIOS/UEFI固件
-* 系统的分区管理器
-* 基于 Kodi的操作系统
-* 云虚拟机 / 允许浏览器
-* 电子设备的安全性
-* 浏览器虚拟机 / 保护_203__ / 保护_204__
-* 保护_205__,保护_206__或保护_207__ - macOS虚拟机
-* 核管理器和活动监测器
-* 互动Linux内核地图
-* 核开发人员指南
-* 系统安全工具包
-* 双启动蓝牙同步工具
-* 电子设备的使用方式
-* 保护_215__ - 系统的替代方案
-* 登录管理器 Daemon
+*  **KEEP155/KEEP** - Linux硬件兼容数据库 / KEEP156/KEEP / KEEP157/KEEP
+* ⭐ **KEEP158/KEEP**, **KEEP159/KEEP**, **KEEP160/KEEP**, KEEP161/KEEP, KEEP162/KEEP, KEEP163/KEEP, KEEP164/KEEP或 KEEP165/KEEP - 系统信息/资源监测器
+* ⭐ **KEEP166/KEEP** - 系统恢复/备份
+* KEEP167/KEEP - 创建可启动的USB Linux驱动器
+* KEEP168/KEEP / KEEP169/KEEP - Linux浏览器模拟器
+* KEEP170/KEEP - 监视/日志系统活动
+* KEEP171/KEEP或 KEEP172/KEEP - 互动过程观看者
+* KEEP173/KEEP - Bash 截图信息工具
+* KEEP174/KEEP - CPU 微分标记 / KEEP175/KEEP
+* KEEP176/KEEP - 记忆扫描仪/调试器
+* KEEP177/KEEP - 现场壁纸依赖图表 / 包装状态
+* KEEP178/KEEP或 KEEP179/KEEP - 键盘重组
+* KEEP180/KEEP - 鼠标和键盘共享
+* KEEP181/KEEP - 多台计算机控制
+* KEEP182/KEEP - 处理器速度和功率优化自动化
+* KEEP183/KEEP - 风扇控制器
+* KEEP184/KEEP - 在Linux上运行Windows应用程序
+* KEEP185/KEEP - Windows应用程序兼容性分析器
+* KEEP186/KEEP - iPXE网络启动
+* KEEP187/KEEP - Windows,Mac和Linux启动器
+* KEEP189/KEEP - ZFS启动器
+* KEEP190/KEEP - 威兰地区作曲家实施的议定书列表
+* KEEP191/KEEP - 最低的核心Boot
+* KEEP193/KEEP或 KEEP194/KEEP - 取代专有BIOS/UEFI固件
+* KEEP195/KEEP - 分区管理器
+* KEEP196/KEEP / KEEP197/KEEP或 KEEP198/KEEP / KEEP199/KEEP - 基于 Kodi的操作系统
+* KEEP200/KEEP - 云虚拟机 / 允许浏览器
+* KEEP201/KEEP - 虚拟化核心模块
+* KEEP202/KEEP - 浏览器虚拟机 / KEEP203/KEEP / KEEP204/KEEP
+* KEEP205/KEEP, KEEP206/KEEP或 KEEP207/KEEP - macOS虚拟机
+* KEEP208/KEEP - 核管理器和活动监测器
+* KEEP209/KEEP - 互动Linux内核地图
+* KEEP210/KEEP - 核开发人员指南
+* KEEP211/KEEP或 KEEP212/KEEP - 可启动系统救援工具包
+* KEEP213/KEEP - 双启动蓝牙同步工具
+* KEEP214/KEEP - NVIDIA Linux 开放GPU内核模块
+* KEEP215/KEEP - 系统的替代方案
+* KEEP216/KEEP - 登录管理器大emon
 
 ***
 
 ##  Linux视频
 
-* ⭐ **[mpv](https://mpv.io/)**或 [VLC](https://www.videolan.org/) - 视频播放器
-* ⭐ **[Haruna](https://apps.kde.org/haruna/)** / [GitHub](https://github.com/KDE/haruna)或 **[Celluloid](https://github.com/celluloid-player/celluloid)** - MPV前端
-* ⭐ **[Kdenlive](https://apps.kde.org/kdenlive/)** / [GitHub](https://github.com/KDE/kdenlive), [⁠davincibox](https://github.com/zelikos/davincibox)或 [Flowblade](https://jliljebl.github.io/flowblade/) / [GitHub](https://github.com/jliljebl/flowblade) - 视频编辑
-* 流观看党 / 使用流观看党
-* 造件,转换为 MPV
-* 屏幕记录器,影子播放器
-* 屏幕注释
-* 视频/音频编辑器
-* 视频扩展
-* 视频下载器
-* 假的网络摄像头背景
-* 视频播放app / 视频播放app / 视频播放app
-* 视频播放平台
-* 视频在线播放
-* 视频在线观看
-* 保护的字幕
+* ⭐ **KEEP217/KEEP**或 KEEP218/KEEP - 视频播放器
+* ⭐ **KEEP219/KEEP** / KEEP220/KEEP或 **KEEP221/KEEP** - MPV前线
+* ⭐ ** KEEP222/KEEP** / KEEP223/KEEP, KEEP224/KEEP或 KEEP225/KEEP / KEEP226/KEEP - 视频编辑
+* KEEP227/KEEP - 流量观看派对 / 使用 KEEP228/KEEP
+* KEEP229/KEEP - 造件到MPV
+* KEEP230/KEEP - 轻量级屏幕录制器 w/影子播放
+* KEEP231/KEEP - 屏幕注释
+* KEEP232/KEEP - 视频/音频编辑器
+* KEEP233/KEEP - 视频扩展
+* KEEP234/KEEP或 KEEP235/KEEP - 视频下载器
+* KEEP236/KEEP - 假摄像头背景
+* KEEP237/KEEP - 动漫流媒体应用程序 / KEEP238/KEEP / KEEP239/KEEP / KEEP240/KEEP
+* KEEP241/KEEP - 动漫流媒体应用程序
+* KEEP243/KEEP - 动漫流媒体终端
+* KEEP244/KEEP - 动漫追踪应用程序
+* KEEP245/KEEP - 实时标题
 
 ***
 
 ## 官方版
 
-*  **[Awesome Linux Audio](https://gitlab.com/nodiscc/awesome-linuxaudio)** - 现场音频资源
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)**或 [spotify-adblock](https://github.com/abba23/spotify-adblock) - Spotify广告屏蔽器
-* ⭐ **[Spicetify](https://spicetify.app/)** - 斯波提夫主题和插件 / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
-* ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** / [GitLab](https://gitlab.gnome.org/World/Shortwave)或 [QMPlay2](https://github.com/zaps166/QMPlay2) - 广播播器
-* ⭐ **[SongRec](https://github.com/marin-m/SongRec)**或[Mousai](https://github.com/SeaDve/Mousai) - 音乐标识符
-* 保护数据的组织者
-* 对于 Linux 的 Hi-Fi Tidal
-* 保护的音频播放器
-* 保护的声音播放器
-* 保护的音频播放器
-* 保护的音频播放器
-* 保护的音频播放器
-* 保护的音频播放器
-* 保护的音频播放器
-* 保护的音频播放器
-* 您可以在此访问您的网站.
-* 保护的音频播放器
-* 没有任何损失的音乐播放器
-* 保护_280__或保护_281__ - 迪泽客户
-* 电台播放器
-* 保护设备设置管理器
-* 保护_284__ - 改进了视频/音频处理
-* 通过 Linux 应用程序,使用 AirPod 功能
-* 保护_286__ - 管线音频效果
-* 防噪软件
-* 保护的音频编辑器
-* 保护_290__ - 音频制作插件
-* 音乐表演安排器
-* 电脑设备
-* 控制台音频视图器
-* 保护_294__ - 环境音响混合器用于Linux
+*  **KEEP246/KEEP** - 现场音频资源
+* ⭐ **KEEP247/KEEP**或 KEEP248/KEEP - Spotify广告拦截器
+* ⭐ **KEEP249/KEEP** - Spotify主题和插件 / KEEP250/KEEP / KEEP251/KEEP / KEEP252/KEEP
+* ⭐ **KEEP253/KEEP** / KEEP254/KEEP或 KEEP255/KEEP - 广播播放器
+* ⭐ **KEEP256/KEEP**或 KEEP257/KEEP - 曲目标识符
+* KEEP258/KEEP - 转基因数据组织者
+* KEEP260/KEEP - 对于Linux的高清风潮
+* KEEP261/KEEP - 音频播放器
+* KEEP262/KEEP - 音频播放器 / KEEP263/KEEP / KEEP264/KEEP
+* KEEP265/KEEP - 音频播放器
+* KEEP266/KEEP - 音频播放器 / KEEP267/KEEP
+* KEEP268/KEEP - 音频播放器
+* KEEP269/KEEP - 音频播放器 / KEEP270/KEEP
+* KEEP271/KEEP - 音频播放器
+* KEEP272/KEEP - 音频播放器
+* KEEP273/KEEP, KEEP274/KEEP或 KEEP275/KEEP - YouTube音频客户端
+* KEEP276/KEEP或 KEEP277/KEEP - TUI音频播放器
+* KEEP278/KEEP - 自主主办的P2P无损音乐播放器
+* KEEP280/KEEP或 KEEP281/KEEP - 迪泽客户
+* KEEP282/KEEP - 播客/广播播播放器
+* KEEP283/KEEP - 耳机设置管理器
+* KEEP284/KEEP - 改进了视频/音频处理
+* KEEP285/KEEP - 在Linux上使用AirPod功能
+* KEEP286/KEEP - 管线音频效果
+* KEEP287/KEEP或 KEEP288/KEEP - 噪音抑制软件
+* KEEP289/KEEP - 音频编辑器
+* KEEP290/KEEP - 音频制作插件
+* KEEP291/KEEP - 音乐表演安排
+* KEEP292/KEEP - 音频处理器
+* KEEP293/KEEP - 控制台音频视图器
+* KEEP294/KEEP - 林克斯的环境声音混合器
 
 ***
 
 ## 基于 Linux 图像
 
-* ⭐ **[Flameshot](https://flameshot.org/)**或 [Scrot](https://github.com/resurrecting-open-source-projects/scrot) - 截图工具
-* 创建虚拟摄像头
-*  图书馆
-* 保护_299__或_保护_300__ - 图像浏览器
-* 保护_301__ - 在终端查看图像
-* 保护_302__ - 图像升级器
-* 保护_303__或保护_304__ - 图像压缩机
-* 转换标记文件为海报
-* 快速Linux照片进口器
+* ⭐ **KEEP295/KEEP**或 KEEP296/KEEP - 截图工具
+* KEEP297/KEEP - 创建虚拟摄像头
+* KEEP298/KEEP - 绘图应用程序
+* KEEP299/KEEP或 KEEP300/KEEP - 图像观看器
+* KEEP301/KEEP - 在终端查看图片
+* KEEP302/KEEP - 图像升级器
+* KEEP303/KEEP或 KEEP304/KEEP - 图像压缩机
+* KEEP305/KEEP - 将标记文件转换为海报
+* KEEP306/KEEP - 快速Linux照片进口商
 
 ***
 
 ## ▷ 生产力 / 日历
 
-* 保护_307__或_保护_308__ - 工作应用程序
-* 产能管理人员
-* 保护_311__或保护_312__ - 历程
-* ,我不想让你忘记.
-* 活动追踪器
+* KEEP307/KEEP或 KEEP308/KEEP - 需要做的事情
+* KEEP309/KEEP或KEEP310/KEEP - 生产力管理者
+* KEEP311/KEEP或 KEEP312/KEEP - 日历
+* KEEP313/KEEP - 打破提醒
+* KEEP314/KEEP - 活动跟踪器
 
 ***
 
 ##  联想游戏
 
-*  **[Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)** - 防欺诈游戏数据库 / GNU/Linux & Wine/Proton兼容性
-* ⭐ **[Comprehensive Gaming Guide](https://linux-gaming.kwindu.eu/index.php?title=Main_Page)** / [3](https://web.archive.org/web/20221022121735/https://www.reddit.com/r/Piracy/comments/ndrtlf/comment/gyccwhk/?context=3) / [4](https://www.reddit.com/r/LinuxCrackSupport/wiki/index) - Linux游戏指南
-* ⭐ **[protondb](https://www.protondb.com/)** - 质子兼容性 / [Steam Extension](https://github.com/Trsnaqe/protondb-community-extension) / [Discord](https://discord.com/invite/uuwK9EV)
-* ⭐ **[Heroic Games Launcher](https://heroicgameslauncher.com/)** - 史诗 / GOG / 首发游戏发射器 / [Discord](https://discord.com/invite/rHJ2uqdquK) / [GitHub](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-* ⭐ **[Lutris](https://lutris.net/)** - 游戏经理 / [Discord](https://discord.com/invite/Pnt5CuY)
-* ⭐ **[proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom)** - 在Linux上玩Windows游戏
-* ⭐ **[ProtonPlus](https://github.com/Vysp3r/ProtonPlus)**, [ProtonUp-QT](https://davidotek.github.io/protonup-qt/) / [GitHub](https://github.com/DavidoTek/ProtonUp-Qt/)或 [Proton Sarek](https://github.com/pythonlover02/Proton-Sarek) (旧版) - Linux游戏发射器兼容管理器
-* ⭐ **[Kapital Sin](https://www.kapitalsin.com/forum/index.php?board=4.0)** - Linux游戏 / 使用 [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - Linux游戏 / 登录要求
-* ⭐ **[johncena141](https://1337x.to/user/johncena141/)**, [2](https://1337x.to/user/johncena141/) - Linux游戏 / [Search](https://games.melroy.org/) / [Support](https://gitlab.com/jc141x/portal)
-* 游戏库 / 发射器
-* 系统的使用方法
-* 现在,我们在线游戏
-* 通过 Linux 进行 Windows 游戏
-* 保护_346__ - 在存储设备上玩游戏
-* 玩DX9/DX11 / 伏尔坎游戏
-* 通过电子设备,我们可以使用电子设备.
-* 保护_350__ - 客户端模特 w/ DLC解锁器和模拟成绩
-* 保护_351__ - 蒸汽包装 w/ 定制发射机选项
-* 它们是""的.
-* 防护机械设备
-* 运行在Linux上的Steam游戏
-* 防护机: 防护机:
-* 保护机械设备有限公司
-* 风成就管理器
-* 通过"Steam Linux Beta Issue Tracker"来实现
-* 保护_360__ - GOG客户端
-* 游戏发行与在线修复补丁
-* 您的位置: 首页 > 列表 > 列表
-* 系统的系统管理器
-* 保护_366__或保护_366__ - GPU 超时工具
-* 基于火的直播3D,用于Linux/葡萄酒
-* 光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光光
-* 对于 Linux 进行无损扩展
-* 游戏后处理层
-* 系统的系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,系统,
-* 系统优化器
-* 系统的系统
-* 系统的运输方式:
-* 终端游戏游戏模拟器
-* 通过简化QEMU GPU
+*  **KEEP315/KEEP** - 防欺诈游戏数据库 / GNU/Linux & Wine/Proton兼容性
+* ⭐ **KEEP316/KEEP** / KEEP317/KEEP / KEEP318/KEEP - Linux游戏指南
+* ⭐ **KEEP319/KEEP** - 质子兼容性 / KEEP320/KEEP / KEEP321/KEEP
+* ⭐ **KEEP322/KEEP** - 史诗 / GOG / 首发游戏 / KEEP323/KEEP / KEEP324/KEEP
+* ⭐ **KEEP325/KEEP** - 游戏经理 / KEEP326/KEEP
+* ⭐ **KEEP327/KEEP** - 在Linux上玩Windows游戏 / KEEP328/KEEP
+* ⭐ **KEEP329/KEEP**, KEEP330/KEEP / KEEP331/KEEP或 KEEP332/KEEP (旧的Gpus) - Linux游戏发射器兼容管理器
+* ⭐ ** KEEP333/KEEP** - Linux游戏 / 使用 KEEP334/KEEP
+* ⭐ **KEEP335/KEEP** - Linux游戏 / 登录要求
+* ⭐ ** KEEP336/KEEP**, KEEP337/KEEP - Linux游戏 / KEEP338/KEEP / KEEP339/KEEP
+* KEEP340/KEEP - 游戏库/发射器
+* KEEP341/KEEP - Linux游戏 / 使用 KEEP342/KEEP / KEEP343/KEEP
+* KEEP344/KEEP - Linux游戏
+* KEEP345/KEEP - 在Linux上玩Windows游戏
+* KEEP346/KEEP - 在存储设备上玩游戏
+* KEEP347/KEEP - 玩DX9/DX11 / 伏尔坎游戏
+* KEEP348/KEEP - 蒸汽DLC解锁器 / KEEP349/KEEP
+* KEEP350/KEEP -  Steamclient Mod w/ DLC解锁器和模拟成绩
+* KEEP351/KEEP - 蒸汽包装器 w/ 定制发射机选项
+* KEEP352/KEEP - 蒸汽前端
+* KEEP353/KEEP - 蒸汽的结
+* KEEP354/KEEP或 KEEP355/KEEP - 在Linux上运行蒸汽游戏
+* KEEP356/KEEP - 蒸汽甲板模拟器
+* KEEP357/KEEP - 蒸汽甲板公用品
+* KEEP358/KEEP - 蒸汽成就管理员
+* KEEP359/KEEP - 蒸汽Linuxbeta版本追踪器
+* KEEP360/KEEP - GOG客户端
+* KEEP361/KEEP - 发行游戏与/在线修复补丁
+* KEEP362/KEEP - 罗伯洛克斯 Linux 端口
+* KEEP364/KEEP - 连接器的Nexus Mods管理器
+* KEEP365/KEEP或 KEEP366/KEEP - GPU 超时调控工具
+* KEEP367/KEEP - 基于火山的直播3D为Linux / 葡萄酒
+* KEEP368/KEEP - DXVK叉 w/ 无同步/基于火的直线3D / 声减轻
+* KEEP369/KEEP - 对于Linux而言无损扩展
+* KEEP370/KEEP - 游戏后处理层
+* KEEP371/KEEP, KEEP372/KEEP或 KEEP373/KEEP - Linux游戏核心
+* KEEP374/KEEP - Linux系统优化器
+* KEEP375/KEEP - Linux游戏包下载器
+* KEEP376/KEEP - 运输游戏到Linux手持设备
+* KEEP378/KEEP - 终端游戏男孩模拟器
+* KEEP379/KEEP - 简化QEMUGPU通过
 
 ***
 
@@ -322,385 +322,385 @@
 
 ## ▷ 广告封锁 / 隐私
 
-* ️ **[Linux 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html)或 [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux安全指南
-* ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs)或 [Tomb](https://dyne.org/software/tomb/) - 文件加密
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 保护_392__ - 硬化Linux服务器脚本
-* 系统安全检查工具
-* 屏幕柜 / 屏幕柜
-* 管理云安全应用程序
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 运行时间安全和法医
-* 网络监测器
-* 系统的安全性
-* 执行USB设备授权政策
-* 创建隐藏卷
-* 检查文件 Hashes
-* 保护个人隐私 /匿名工具
-* 通过 YubiKey 解锁一个 LUKS 分区
-* 防护机械设备
-* 关键词: 关键词:
+* ️ **KEEP380/KEEP**
+* ️ **KEEP381/KEEP**
+* ⭐ **KEEP382/KEEP**, KEEP383/KEEP / KEEP384/KEEP或 KEEP385/KEEP - Linux安全指南
+* ⭐ **KEEP386/KEEP**, KEEP387/KEEP / KEEP388/KEEP或 KEEP389/KEEP - 文件加密
+* KEEP390/KEEP或 KEEP391/KEEP - Linux磁盘擦拭指南
+* KEEP392/KEEP - 硬化Linux服务器脚本
+* KEEP393/KEEP - Linux安全审计工具
+* KEEP394/KEEP - 屏幕柜 / KEEP395/KEEP
+* KEEP396/KEEP - 管理云安全应用程序
+* KEEP397/KEEP或 KEEP398/KEEP - Linux防火墙
+* KEEP399/KEEP - 运行时间安全和法医
+* KEEP400/KEEP - 网络监测器
+* KEEP401/KEEP - Linux面部验证
+* KEEP402/KEEP - 实施USB设备授权政策
+* KEEP403/KEEP - 创建隐藏卷
+* KEEP404/KEEP - 检查文件 Hash
+* KEEP405/KEEP - 隐私/匿名工具
+* KEEP407/KEEP - 使用YubiKey来解锁一个LUKS分区
+* KEEP408/KEEP或 KEEP409/KEEP - 沙盒工具
+* KEEP410/KEEP - 谷歌跟踪通知
 
 ***
 
 ## ▷ Linux互联网
 
-* ️ **[Linux Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
-* ⭐ **[Nicotine+](https://nicotine-plus.org/)**或 [Soulseek](https://www.slsknet.org) - 文件共享应用程序
-* ⭐ **[Linux WiFi Hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)** - 创建WiFi热点
-* 关于"流文件系统"的评论
-* 简单的 Linux 浏览器
-* 基于文字的浏览器
-* 电子邮件客户
-* 保护_421__,保护_422__,保护_423__,保护_424__或保护_425__ - RSS读者
-* 您的位置: 首页
-* 保护_427__ - CLI密码管理器
-* 导航: 导航: 导航: 导航: 导航: 导航:
-* 您的位置: 首页
-* 保护_431__ - 谷歌驱动器
-* 您的位置: 首页
-* 快速下载
-* 保护的前端
-* 电子邮件服务器
-* 系统的安全性
-* 设置Linux为路由器
-* 网络工具
-* 保护_439__ - 终端带宽利用工具
-* 网络带宽测试
-* 保护_441__ - IP / 港口扫描仪
-* 根据"数据"的数据,
-* 流媒体服务代理
-* 保护_444__ - 合作平台
-* 密码聊天客户端
-* 保护_446__,保护_447__ / 保护_448__,保护_449__或保护_450__ - IRC客户
-* 保护_451__ - XMPP客户端
-* 信号客户端
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页
-* 您的网站可以访问此网站.
-* 保护的_458__ - YouTube,twitch,rumble等 / 避免播放商店 / 保护的_459__ / 保护的_460__, 保护的_461__, 保护的_462__ / 保护的_463__
-* ,我不想让你知道.
-* 其他版本管理器
+* ️ **KEEP411/KEEP**
+* ⭐ ** KEEP412/KEEP**或 KEEP413/KEEP - 文件共享应用
+* ⭐ ** KEEP414/KEEP** - 创建WiFi热点
+* KEEP415/KEEP - 位流文件系统
+* KEEP416/KEEP - 轻量级的Linux浏览器
+* KEEP417/KEEP - 基于文字的浏览器
+* KEEP418/KEEP, KEEP419/KEEP或 KEEP420/KEEP - 电子邮件客户
+* KEEP421/KEEP, KEEP422/KEEP, KEEP423/KEEP, KEEP424/KEEP或 KEEP425/KEEP - RSS读者
+* KEEP426/KEEP - GNOME密码管理器
+* KEEP427/KEEP - CLI密码管理器
+* KEEP428/KEEP或 KEEP429/KEEP - 下载管理者
+* KEEP430/KEEP - Google驱动器下载器
+* KEEP431/KEEP - 谷歌驱动器
+* KEEP432/KEEP - 布朗普客户端
+* KEEP433/KEEP - APT 下载加速器
+* KEEP434/KEEP - APT前端
+* KEEP435/KEEP - 类似eMule的P2P客户端
+* KEEP436/KEEP - Linux路由器固件
+* KEEP437/KEEP - 设置Linux为路由器
+* KEEP438/KEEP - 网络工具
+* KEEP439/KEEP - 终端带宽利用工具
+* KEEP440/KEEP - 网络带宽测试
+* KEEP441/KEEP - IP / 港口扫描仪
+* KEEP442/KEEP - 基64加密/解密 TUI
+* KEEP443/KEEP - 流媒体服务代理
+* KEEP444/KEEP - 合作平台
+* KEEP445/KEEP - 加密聊天客户端
+* KEEP446/KEEP, KEEP447/KEEP / KEEP448/KEEP, KEEP449/KEEP或 KEEP450/KEEP - IRC客户
+* KEEP451/KEEP - XMPP客户端
+* KEEP452/KEEP - 信号客户端
+* KEEP453/KEEP - 华盛顿客户端
+* KEEP455/KEEP, KEEP456/KEEP或 KEEP457/KEEP - YouTube客户
+* KEEP458/KEEP - YouTube,Twitch,Rumble等 / 避免播放商店 / KEEP459/KEEP / KEEP460/KEEP, KEEP461/KEEP, KEEP462/KEEP / KEEP463/KEEP
+* KEEP464/KEEP -  Discord 覆盖
+* KEEP465/KEEP - 离散版本管理器
 
 ***
 
 ## ▷ 服务器 / 自主托管
 
-*  **[Awesome Selfhosted](https://awesome-selfhosted.net/)** / [2](https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8)或 [Awesome Selfhosted UI](https://awesomeselfhosted.netlify.app/) - 自主托管软件指数 / [GitHub](https://github.com/awesome-selfhosted/awesome-selfhosted)
-*  **[Selfh.st](https://selfh.st/apps/)** - 自主托管软件指数
-*  **[Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide)** - 自主托管软件指数
-*  **[⁠RackRat](https://rackrat.net/)** - 伊贝货架服务器价格/比较
-* ⭐ **[Homepage](https://gethomepage.dev/)** / [GitHub](https://github.com/gethomepage/homepage), **[Dashy](https://dashy.to/)** / [GitHub](https://github.com/Lissy93/dashy), [Flame](https://github.com/pawelmalak/flame), [Homer](https://github.com/bastienwirtz/homer), [Lab Dash](https://github.com/AnthonyGress/lab-dash), [mafl](https://mafl.hywax.space/), [Homarr](https://homarr.dev/) / [GitHub](https://github.com/homarr-labs/homarr)或 [Organizr](https://github.com/causefx/Organizr) - 家庭服务器启动页
-* 鱼类的鱼类
-* 保护_486__,保护_487__
-* 网络服务器指南
-* 您的位置: 首页 > 列表 > 列表 > 列表 > 列表
-* 保护_492__, 保护_493__ / 保护_494__), 保护_495__, 保护_496__ / 保护_497__, 保护_498__, 保护_499__ / 保护_500__或 _ 保护_501__ / 保护_502__ - Linux服务器管理员 / 状态
-* 系统的安全性
-* 保护_504__ - 自主托管服务器工具 / 虚拟环境
-* 服务器性能脚本
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 保护的克容器
-* 基于Arch Linux的Torrent客户端和VPN的Docker
-* 果版: 果版:
-* 对于Ubuntu/Debian,Sedbox安装脚本
-* 保护_512__ - 同步你的种子箱
-* 保护_513__ / 保护_514__, 保护_515__或 保护_516__ - 自主托管云存储
-* 保护_517__,保护_518__,保护_519__或保护_520__ - 自主托管的电子邮件服务器
+*  **KEEP466/KEEP** / KEEP467/KEEP或 KEEP468/KEEP - 自主托管软件指数 / KEEP469/KEEP
+*  **KEEP470/KEEP** - 自主托管软件指数
+*  **KEEP471/KEEP** - 自主托管软件指数
+*  **KEEP472/KEEP** - 伊贝货架服务器价格/比较
+* ⭐ **KEEP473/KEEP** / KEEP474/KEEP, **KEEP475/KEEP** / KEEP476/KEEP, KEEP477/KEEP, KEEP478/KEEP, KEEP479/KEEP, KEEP480/KEEP, KEEP481/KEEP / KEEP482/KEEP或 KEEP483/KEEP - 家庭服务器起始页
+* KEEP484/KEEP - 料仪表板
+* KEEP485/KEEP - FOSS / 自主托管指南 / KEEP486/KEEP, KEEP487/KEEP
+* KEEP488/KEEP - 网络服务器指南
+* KEEP489/KEEP / KEEP490/KEEP或 KEEP491/KEEP - Linux服务器软件指南
+* KEEP492/KEEP, KEEP493/KEEP / KEEP494/KEEP), KEEP495/KEEP, KEEP496/KEEP / KEEP497/KEEP, KEEP498/KEEP, KEEP499/KEEP / KEEP500/KEEP或 KEEP501/KEEP / KEEP502/KEEP - Linux 服务器管理者状态 /
+* KEEP503/KEEP - Linux容器+虚拟机管理器
+* KEEP504/KEEP - 自主托管服务器工具 / 虚拟环境
+* KEEP505/KEEP - 服务器性能脚本
+* KEEP506/KEEP或 KEEP507/KEEP - 自动化Docker媒体服务器设置
+* KEEP508/KEEP - 托克克装箱
+* KEEP509/KEEP - 在Arch Linux基础上使用Torrent客户端和VPN的Docker
+* KEEP510/KEEP - 乌布图/迪拜的种子盒
+* KEEP511/KEEP - 布局/迪拜的种子盒安装脚本
+* KEEP512/KEEP - 同步你的种子箱
+* KEEP513/KEEP / KEEP514/KEEP, KEEP515/KEEP或 KEEP516/KEEP - 自主托管云存储
+* KEEP517/KEEP, KEEP518/KEEP, KEEP519/KEEP或 KEEP520/KEEP - 自主托管的电子邮件服务器
 
 ***
 
 ## ▷ 文件工具
 
-*  **[Linux File Backup](https://github.com/restic/others)** - 文件备份应用程序列表
-* ⭐ **[Warpinator](https://github.com/linuxmint/warpinator)**, [rQuickshare](https://github.com/Martichou/rquickshare), [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole), [syncthing](https://syncthing.net/) / [Tray Support](https://martchus.github.io/syncthingtray/), [portal](https://github.com/SpatiumPortae/portal), [Zrok](https://zrok.io/), [Celeste](https://flathub.org/apps/com.hunterwittenborn.Celeste) / [2](https://snapcraft.io/celeste) / [GitHub](https://github.com/hwittenborn/celeste), [Cattail](https://github.com/nerdyslacker/cattail)或 [Sharing](https://github.com/parvardegr/sharing) - 文件同步 / 转移
-* ⭐ **[lf](https://github.com/gokcehan/lf)**, **[ranger](https://ranger.fm)**, **[nnn](https://github.com/jarun/nnn)**, **[clifm](https://github.com/leo-arch/clifm)**, **[fm](https://github.com/mistakenelf/fm)**, **[superfile](https://github.com/yorukot/superfile)**, **[Joshuto](https://github.com/kamiyaa/joshuto)** - 终端文件管理器
-* ⭐ **[Baobab](https://gitlab.gnome.org/GNOME/baobab)**, **[Filelight](https://apps.kde.org/en-gb/filelight/)** - 磁盘使用分析器 / GUI
-* ⭐ **[dut](https://codeberg.org/201984/dut)**, **[gdu](https://github.com/dundee/gdu)**, **[NCDU](https://dev.yorhel.nl/ncdu)** - 磁盘使用分析器/CLI
-* 保护_546__,保护_547__,保护_548__ / 保护_549__ / 保护_550__,保护_551__,保护_552__ / 保护_553__或保护_554__ - 文件探险者 / 搜索
-* 系统文件表
-* 文件管理器
-* 保护_559__ / 保护_560__, 保护_561__或 保护_562__ - 文件档案档案 / 解密码
-* 文件拖放
-* 存文件的时间为50GB / 3天
-* 保护_565__ - 改进了CD命令
-* 记录文件查看器 /分析器 / 保护_567__ / 保护_568__
-* 保护_569__或保护_570__ - 备份文件 /恢复工具
-* 文件/目录
-* 修改文件协会
-* 文件/文件重命名
-* 保护_574__,保护_575__或保护_576__ - 复制文件搜索器
-* 没有任何文件的检查器
-* 管理点文件
-* 保护_579__ - 文件编辑器
-* 文件转换为PDF文件
+*  **KEEP521/KEEP** - 备份文件应用程序列表
+* ⭐ **KEEP522/KEEP**, KEEP523/KEEP, KEEP524/KEEP, KEEP525/KEEP / KEEP526/KEEP, KEEP527/KEEP, KEEP528/KEEP, KEEP529/KEEP / KEEP530/KEEP / KEEP531/KEEP, KEEP532/KEEP或 KEEP533/KEEP - 文件同步 /转移
+* ⭐ **KEEP534/KEEP**, **KEEP535/KEEP**, **KEEP536/KEEP**, **KEEP537/KEEP**, **KEEP538/KEEP**, **KEEP539/KEEP**, **KEEP540/KEEP** - 终端文件管理员
+* ⭐ **KEEP541/KEEP**, **KEEP542/KEEP** - 磁盘使用分析器 / GUI
+* ⭐ **KEEP543/KEEP**, **KEEP544/KEEP**, **KEEP545/KEEP** - 磁盘使用分析仪/CLI
+* KEEP546/KEEP, KEEP547/KEEP, KEEP548/KEEP / KEEP549/KEEP / KEEP550/KEEP, KEEP551/KEEP, KEEP552/KEEP / KEEP553/KEEP或 KEEP554/KEEP - 文件探险者 /搜索
+* KEEP555/KEEP - Linux文件系统图表
+* KEEP556/KEEP / KEEP557/KEEP或 KEEP558/KEEP - 文件管理器
+* KEEP559/KEEP / KEEP560/KEEP, KEEP561/KEEP或 KEEP562/KEEP - 文件档案存档/解锁器
+* KEEP563/KEEP - 文件拖放
+* KEEP564/KEEP - 巴斯文件上传50GB / 3天
+* KEEP565/KEEP - 改进的CD命令
+* KEEP566/KEEP - 日志文件查看器/分析仪 / KEEP567/KEEP / KEEP568/KEEP
+* KEEP569/KEEP或 KEEP570/KEEP - 备份文件 /恢复工具
+* KEEP571/KEEP - 包含文件/目录
+* KEEP572/KEEP - 改变文件协会
+* KEEP573/KEEP - 大量文件/文件重命名
+* KEEP574/KEEP, KEEP575/KEEP或 KEEP576/KEEP - 复制文件搜索器
+* KEEP577/KEEP - 无需文件搜索器
+* KEEP578/KEEP - 管理点文件
+* KEEP579/KEEP - 文件编辑器
+* KEEP580/KEEP - 将文件转化为PDF文件
 
 ***
 
 ## ▷ 基于Linux的Android
 
-* ⭐ **[Waydroid](https://waydro.id/)** - 在Linux上容器安卓 / [Scripts](https://github.com/casualsnek/waydroid_script) / [GitHub](https://github.com/waydroid)
-* 基于 Linux 的容器安卓
-* 您的位置: 首页
-* 系统的安全性
-* 基于Android的PC操作系统
-* 通过ADB,在Linux上安卓安装
+* ⭐ **KEEP581/KEEP** - 在Linux上使用的容器安卓 / KEEP582/KEEP / KEEP583/KEEP
+* KEEP584/KEEP或 KEEP585/KEEP - 容器化安卓在Linux上
+* KEEP586/KEEP - Android 模拟器
+* KEEP587/KEEP - 具有内置的Android模拟器的IDE
+* KEEP588/KEEP - 基于Android的PC操作系统
+* KEEP589/KEEP - 通过ADB在Linux上安卓登山
 
 ***
 
 ## ▷ 终端/
 
-*  **[Awesome Shell](https://github.com/alebcay/awesome-shell)**, PROTECTED_591__ / [GitHub](https://github.com/tldr-pages/tldr)或 [AltBox](https://altbox.dev/) - Linux资源
-*  **[Awesome TUIs](https://github.com/rothgar/awesome-tuis)**或[TerminalTrove](https://terminaltrove.com/) - TUI指数
-*  **[The Terminal Directory](https://termui.sh/)** - 终端模拟器指数
-*  **[⁠Awesome Terminal Recorder](https://github.com/orangekame3/awesome-terminal-recorder)** - 终端录音器指数
-* ⭐ **[zsh](https://www.zsh.org/)**, **[bash](https://www.gnu.org/software/bash/)**, [fish](https://fishshell.com/), [Elvish](https://elv.sh/), [Es](https://wryun.github.io/es-shell/), [PowerShell](https://github.com/powershell/powershell), [Ion](https://gitlab.redox-os.org/redox-os/ion), [Xonsh](https://xon.sh/)或 [Nushell](https://www.nushell.sh/) - 命令线炮
-* ⭐ **zsh工具** - 保护_607__ / 保护_608__ / 保护_609__ / 保护_610__ / 保护_611__
-* ⭐ **[Alacritty](https://alacritty.org)**, **[Kitty](https://sw.kovidgoyal.net/kitty/overview/)**, **[Wezterm](https://wezterm.org)** / [GitHub](https://github.com/wezterm/wezterm), [tabby](https://tabby.sh/), [foot](https://codeberg.org/dnkl/foot), [Simple Terminal](https://st.suckless.org/), [Wave](https://www.waveterm.dev/), [Ghostty](https://ghostty.org/), [yakuake](https://apps.kde.org/yakuake/)或 [emacs-eat](https://codeberg.org/akib/emacs-eat) - Linux终端模拟器
-* ⭐ **[LinuxCommand](https://www.linuxcommand.org/tlcl.php)**,[Command Line Guide](https://github.com/jlevy/the-art-of-command-line)或[ManKier](https://www.mankier.com/) - 命令行课程
-* 保护_626__或保护_627__ - Bash / Zsh 提示
-* 系统的安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性,安全性等
-* 子脚本创建器
-* 子脚本错误检查
-* 子脚本教程
-* 系统的系统,
-* 子加载动画
-* 保护_636__或保护_637__ - Bash Frameworks
-* 编写复杂脚本
-* 您可以在此访问.
-* 通过终端使用distros
-* 为了帮助文字,请与命令行参数匹配
-* 保护_644__ - 终端多器
-* 终端工作空间
-* 保护_647__ - 架历史管理
-* 保护树在终端
-* 终端的动画管道
+*  **KEEP590/KEEP**, KEEP591/KEEP / KEEP592/KEEP或 KEEP593/KEEP - Linux Shell资源
+*  **KEEP594/KEEP**或 KEEP595/KEEP - TUI指数
+*  **KEEP596/KEEP** - 终端模拟器指数
+*  **KEEP597/KEEP** - 终端录音器指数
+* ⭐ **KEEP598/KEEP**, **KEEP599/KEEP**, KEEP600/KEEP, KEEP601/KEEP, KEEP602/KEEP, KEEP603/KEEP, KEEP604/KEEP, KEEP605/KEEP或 KEEP606/KEEP - 命令线
+* ⭐ **zsh工具** - KEEP607/KEEP / KEEP608/KEEP / KEEP609/KEEP / KEEP610/KEEP / KEEP611/KEEP
+* ⭐ **KEEP612/KEEP**, **KEEP613/KEEP**, **KEEP614/KEEP** / KEEP615/KEEP, KEEP616/KEEP, KEEP617/KEEP, KEEP618/KEEP, KEEP619/KEEP, KEEP620/KEEP, KEEP621/KEEP或 KEEP622/KEEP - Linux终端模拟器
+* ⭐ **KEEP623/KEEP**, KEEP624/KEEP或 KEEP625/KEEP - 命令行课程
+* KEEP626/KEEP或 KEEP627/KEEP - Bash / Zsh 提示
+* KEEP628/KEEP或 KEEP629/KEEP - Linux Shell工具脚本
+* KEEP630/KEEP - 牌脚本创作者
+* KEEP631/KEEP - 牌脚本错误检查
+* KEEP632/KEEP或 KEEP633/KEEP - 牌脚本教程
+* KEEP634/KEEP - Linux命令学习游戏
+* KEEP635/KEEP - 弹装动画
+* KEEP636/KEEP或KEEP637/KEEP - Bash Frameworks
+* KEEP638/KEEP或KEEP639/KEEP - 写复杂的脚本
+* KEEP640/KEEP或 KEEP641/KEEP - Bash包管理器
+* KEEP642/KEEP - 通过终端使用分发器
+* KEEP643/KEEP - 匹配命令行参数来帮助文字
+* KEEP644/KEEP - 终端多器
+* KEEP646/KEEP - 终端工作空间
+* KEEP647/KEEP - 牌历史管理
+* KEEP649/KEEP - 在终端生成草树
+* KEEP650/KEEP或 KEEP651/KEEP - 终端动画管道
 
 ***
 
 ## ▷ 果
 
-*  **[Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)** - 草工具/资源
-* 果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果
-* 果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果
-* 通过Raspberry Pi安装WireGuard,
-* 果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果
-* 果果果 Pi Tx/Rx 6GHz SDR
-* 果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果果
-* 果子子GPIO子指南
+*  **KEEP652/KEEP** - 草工具/资源
+* KEEP653/KEEP - 拉斯贝瑞皮操作系统安装器
+* KEEP654/KEEP - 果皮VPN / KEEP655/KEEP
+* KEEP656/KEEP - 在拉斯贝利皮上安装WireGuard
+* KEEP657/KEEP - 拉斯贝瑞皮远程访问
+* KEEP658/KEEP - 果皮Tx/Rx 6GHz SDR
+* KEEP659/KEEP - 拉斯培里皮文字到语音
+* KEEP660/KEEP - 果皮GPIO指南
 
 ***
 
 #  /定制
 
-*  **[Awesome Ricing](https://github.com/fosslife/awesome-ricing)**, **[⁠Awesome Linux Ricing](https://github.com/avtzis/awesome-linux-ricing)**或 [Pling](https://www.pling.com/s/All-Linux/browse/) - Linux Ricing Resources
-* ⭐ **[Elkowar's Wacky Widgets](https://elkowar.github.io/eww)**, **[Aylur's GTK Shell](https://github.com/Aylur/ags)**或 [⁠Quickshell](https://quickshell.org/) - 工具系统
-* ⭐ **[unixporn](https://unixporn.github.io/)** - 鱼社区 / [Subreddit](https://reddit.com/r/unixporn)
-* 您的位置:
-* 文件管理器
+*  **KEEP661/KEEP**, **KEEP662/KEEP**或 KEEP663/KEEP - Linux Ricing Resources
+* ⭐ **KEEP664/KEEP**, **KEEP665/KEEP**或 KEEP66/KEEP - 编辑系统
+* ⭐ **KEEP667/KEEP** - 鱼类社区 / KEEP668/KEEP
+* KEEP669/KEEP - GitHub 索引文件
+* KEEP670/KEEP - 文件管理器
 
 ***
 
 ## ▷ 桌面环境
 
-*  **[Desktop Environment Comparison](https://eylenburg.github.io/de_comparison.htm)**
-* 保护_672__ - GNOME 扩展管理器
-* 保护_673__或保护_674__ - GNOME 架扩展
-* 保护_675__ - GNOME 的弹
-* 执行命令从可定制菜单 / GNOME 扩展
-* 保护_677__ - 硬码的托盘图标修复
+*  **KEEP671/KEEP**
+* KEEP672/KEEP - GNOME  Shell 扩展管理器
+* KEEP673/KEEP或 KEEP674/KEEP - GNOME 架扩展
+* KEEP675/KEEP - 对于GNOME的弹
+* KEEP676/KEEP - 从可定制菜单/GNOME扩展执行命令
+* KEEP677/KEEP - 硬码的托盘图标修正
 
 ***
 
 ## ▷ 窗口管理器
 
-*  **[⁠Awesome Wayland](https://github.com/rcalixte/awesome-wayland)** - 威兰资源
-*  **[Window Manager Index](https://wiki.archlinux.org/title/Window_manager)** - 窗口管理人员列表
-*  **[Wayland Compositor Index](https://wiki.archlinux.org/title/Wayland#Compositors)** - 威兰作曲家列表
-*  **[We Are Wayland Now](https://wearewaylandnow.com/)** - 韦兰生态系统组件 / [GitHub](https://github.com/gianklug/wearewaylandnow)
-* ⭐ **[i3wm](https://i3wm.org)** - 手动窗管理器 / [Reference Card](https://i3wm.org/docs/refcard.html)
-* ⭐ **[awesomewm](https://awesomewm.org)** / [GitHub](https://github.com/awesomeWM/awesome), **[xmonad](https://xmonad.org)**, [Qtile](https://qtile.org/)或 [dwm](https://dwm.suckless.org) - 动态窗管理器
-* ⭐ **[Hyprland](https://hyprland.org/)** / [Resources](https://github.com/hyprland-community/awesome-hyprland) / [Arch Wiki](https://wiki.archlinux.org/title/Hyprland) / [Simple Config](https://github.com/mylinuxforwork/dotfiles), [2](https://ii.clsty.link/en/)或 **[niri](https://github.com/YaLTeR/niri)** - 动态曲路径组合器
-* ⭐ **[Sway](https://github.com/swaywm/sway)** / [Arch Wiki](https://wiki.archlinux.org/title/Sway)或 [SwayFx](https://github.com/WillPower3309/swayfx) - i3兼容的Wayland编曲器
-* 混合式窗管理器
-* 保护_700__ - 手动窗管理器
-* 地曲家
-* 地曲家
-* 地曲家
-* 专用 X11 窗口管理器的编曲器
-* 保护_707__ / 保护_708__, 保护_709__ (威兰) 或 保护_710__ (威兰) - 可定制状态条
+*  **KEEP678/KEEP** - 威兰资源
+*  **KEEP679/KEEP** - 窗口管理人员名单
+*  **KEEP680/KEEP** - 威兰作曲家列表
+*  **KEEP681/KEEP** - 韦兰生态系统组件 / KEEP682/KEEP
+* ⭐ **KEEP683/KEEP** - 手动窗管理器 / KEEP684/KEEP
+* ⭐ **KEEP685/KEEP** / KEEP686/KEEP, **KEEP687/KEEP**, KEEP688/KEEP或 KEEP689/KEEP - 动态窗管理器
+* ⭐ **KEEP690/KEEP** / KEEP691/KEEP / KEEP692/KEEP / KEEP693/KEEP, KEEP694/KEEP或 **KEEP695/KEEP** - 动态斜路段组合器
+* ⭐ **KEEP696/KEEP** / KEEP697/KEEP或 KEEP698/KEEP - i3兼容的Wayland编曲器
+* KEEP699/KEEP 混合式窗管理器
+* KEEP700/KEEP - 手动窗管理器
+* KEEP701/KEEP - 威兰作曲家
+* KEEP702/KEEP - 威兰作曲家
+* KEEP703/KEEP - 威兰作曲家
+* KEEP704/KEEP - 独立X11窗口管理器的组件
+* KEEP707/KEEP / KEEP708/KEEP, KEEP709/KEEP (威兰) 或 KEEP710/KEEP (威兰) - 可定制的状态条
 
 
 ***
 
 ## 基于 Linux 的主题
 
-*  **[xfce-look](https://www.xfce-look.org/)** - XFCE Linux 主题
-*  **[Gnome-Look](https://www.gnome-look.org/)** - GNOME 主题
-* 保护_713__ - 颜色色调子发电机
-* 系统的使用方式
-* 专用版权所有
-* 您的位置: 首页
-* 透明的Linux主题
-* 保护_718__ - 轻微Linux主题
-* 保护_719__ - Linux屏幕保护器
-* 保护_720__或保护_721__ - 壁纸管理人员
-* 视频作为动画壁纸
-* 系统方案的壁纸颜色提取
-* 系统控制光线
-* 窗户关闭效果
-* 保护_729__,保护_730__ / 保护_731__或保护_732__ / 保护_733__ - 定制终端主题
+*  **KEEP711/KEEP** - XFCE Linux 主题
+*  **KEEP712/KEEP** - GNOME主题
+* KEEP713/KEEP - 色色彩色彩生成器
+* KEEP714/KEEP - Linux主题 / GUI
+* KEEP715/KEEP - Linux QT / KDE 主题引擎
+* KEEP716/KEEP - GTK3 设置编辑器
+* KEEP717/KEEP - 透明的Linux主题
+* KEEP718/KEEP - 轻微Linux主题
+* KEEP719/KEEP - Linux屏幕保护器
+* KEEP720/KEEP或KEEP721/KEEP - 壁纸管理人员
+* KEEP722/KEEP或 KEEP723/KEEP - 使用视频作为动画壁纸
+* KEEP724/KEEP - 系统方案中提取壁纸颜色
+* KEEP726/KEEP或KEEP727/KEEP - Linux系统光控制
+* KEEP728/KEEP - 窗户关闭效果
+* KEEP729/KEEP, KEEP730/KEEP / KEEP731/KEEP或 KEEP732/KEEP / KEEP733/KEEP - 定制终端主题
 
 ***
 
 #  Mac应用程序
 
-*  **[The Terminal Directory](https://termui.sh/)** - 终端模拟器列表
-* ️ **[Multi-Platform Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading/#wiki_.25B7_ebook_readers)** - 电子书阅读器指数
-* ⭐ **[gibMacOS](https://github.com/corpnewt/gibMacOS)**或 [Mist](https://github.com/ninxsoft/Mist) - 下载macOS
-* ⭐ **[NearDrop](https://github.com/grishka/NearDrop)**或 [maestral](https://maestral.app/) - 文件共享应用程序
-* ⭐ **[shottr](https://shottr.cc/)** - 截图工具
-* ⭐ **[Aptonic](https://aptonic.com/)** - 麦克生产力应用程序
-* 子子 子子 子子 子子
-* 蓝色客户端
-* 官方版_PROTECTED_745__ - 下载MacOS预发布版本
-* 系统的启动器
-* 系统的启动器
-* 保护机器管理器
-* 保护_752__或保护_753__ - 虚拟机 / 运行Linux / Windows在macOS上
-* 保护_754__ - 在果上实现macOS 12及后版本的虚拟化
-* 机器人机器在Docker中
-* 对于macOS来说,Windows 11桌面客户端
-* 保护的客户端
-* 保护的书籍追踪器
-* 系统的安全性
-* 运行Windows游戏/程序在Mac上
-* 您的位置: 首页 > 列表 > 列表 > 列表
-* 运行iOS应用程序在果电脑
-* 保护_766__ - 启动管理器
-* 保护的信息
-* 您可以在此访问.
-* 系统的安全性
-* 您的位置: 首页
-* 保护_772__,保护_773__或保护_774__ - AI聊天机器人
-* 保护的信息
-* 子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子
-* 翻译: 翻译:
-* 保护_781__,保护_782__,保护_783__,保护_784__,保护_785__,保护_786__,保护_787__或保护_788__ - 文本编辑器 / 注释
-* 您的位置: 首页 > 列表 > 列表
-* 保护_791__ - 工作应用程序
-* 保护的书籍管理员
-* 微软软办公室为macOS
-* 电脑系统的自动化
-* 保护系统的安全性
-* 机器的安全性
-* 恢复应用程序会议 / [GitHub](https://github.com/alyssaxuu/later)
-* 保护_800__,保护_801__或保护_802__ - 编辑代码
-* 保护_803__ - YouTube,Twitch,Rumble等 / 避免播放商店 / 保护_804__ / 保护_805__, 保护_806__, 保护_807__ / 保护_808__
-* 保护_809__,保护_810__或保护_811__ - 稳定传播应用程序
-* 保护_812__或保护_813__ - 颜色选手
-* 检查颜色对比率
-* 保护性视频:
-* 罗客户端
-* 专用地更新 MAL / Anilist / Kitsu 列表
-* 基于文本的用户界面
-* 保护_819__ - 图形化界面编辑器
-* 电脑系统的数据
-* 应用程序兼容性图
-* 网站封锁器
-* 专业技术
-* 网上娱乐平台
-* 网上评论导航
-* 保护的 - 灰度控制
-* 标签: 标签:
-* 系统安全_828__ - OS X 证书修复
-* 关键字 / 进程补丁
-* 关闭一个字符.
+*  **KEEP734/KEEP** - 终端模拟器列表
+* ️ **KEEP735/KEEP** - 电子书阅读者指数
+* ⭐ ** KEEP736/KEEP**或 KEEP737/KEEP - 下载macOS
+* ⭐ ** KEEP738/KEEP**或 KEEP739/KEEP - 文件共享应用程序
+* ⭐ **KEEP740/KEEP** - 截图工具
+* ⭐ ** KEEP741/KEEP** - 麦克生产力应用程序
+* KEEP742/KEEP - 马斯多顿客户 / KEEP743/KEEP
+* KEEP744/KEEP - 蓝色客户端
+* KEEP745/KEEP - 下载MacOS预发布版本
+* KEEP746/KEEP - Windows,Mac和Linux启动器
+* KEEP748/KEEP - Windows启动器 / KEEP749/KEEP
+* KEEP750/KEEP - 虚拟机管理员
+* KEEP752/KEEP或 KEEP753/KEEP - 虚拟机 / 运行Linux / Windows 在 macOS
+* KEEP754/KEEP - 在果电脑上实现macOS 12及后版本的虚拟化
+* KEEP755/KEEP - 在Docker中使用Mac VM
+* KEEP756/KEEP - 对于macOS的Windows 11桌面客户端
+* KEEP757/KEEP - 达克客户端
+* KEEP758/KEEP - 书籍追踪器
+* KEEP759/KEEP - Linux VM
+* KEEP760/KEEP或 KEEP761/KEEP - 在Mac上运行Windows游戏/程序
+* KEEP762/KEEP - Mac 启动器 / KEEP763/KEEP / KEEP764/KEEP
+* KEEP765/KEEP - 在果电脑 Mac 上运行iOS应用程序
+* KEEP766/KEEP - 启动管理器
+* KEEP767/KEEP - 欧盟信息局
+* KEEP768/KEEP或 KEEP769/KEEP - Adobe产品下载器
+* KEEP770/KEEP - macOS Bash命令
+* KEEP771/KEEP - iMessage客户端
+* KEEP772/KEEP, KEEP773/KEEP或 KEEP774/KEEP - AI聊天机器人
+* KEEP775/KEEP - RSS 源阅读器
+* KEEP776/KEEP / KEEP777/KEEP, KEEP778/KEEP, KEEP779/KEEP - 漫画阅读者
+* KEEP780/KEEP - 翻译
+* KEEP781/KEEP, KEEP782/KEEP, KEEP783/KEEP, KEEP784/KEEP, KEEP785/KEEP, KEEP786/KEEP, KEEP787/KEEP或 KEEP788/KEEP - 文字编辑 / 注释
+* KEEP789/KEEP - 麦克笔记组织者
+* KEEP791/KEEP - 需要做的事情
+* KEEP792/KEEP - 图书馆管理员
+* KEEP793/KEEP - 微软Office用于macOS
+* KEEP794/KEEP或 KEEP795/KEEP - 桌面自动化
+* KEEP796/KEEP - 自动化论坛
+* KEEP797/KEEP - Mac预启动执行器
+* KEEP798/KEEP - 恢复应用程序会议
+* KEEP800/KEEP, KEEP801/KEEP或 KEEP802/KEEP - 代码编辑器
+* KEEP803/KEEP - YouTube,Twitch,Rumble等 / 避免播放商店 / KEEP804/KEEP / KEEP805/KEEP, KEEP806/KEEP, KEEP807/KEEP / KEEP808/KEEP
+* KEEP809/KEEP, KEEP810/KEEP或 KEEP811/KEEP - 稳定传播应用
+* KEEP812/KEEP或KEEP813/KEEP - 颜色采集器
+* KEEP814/KEEP - 检查颜色对比率
+* KEEP815/KEEP - 颜色失明模拟器
+* KEEP816/KEEP - 博鲁客户端
+* KEEP817/KEEP - 自动更新 MAL / Anilist / Kitsu 列表
+* KEEP818/KEEP - Git基于文字的UI
+* KEEP819/KEEP - GUI 编辑器
+* KEEP820/KEEP - 计算图像神经
+* KEEP821/KEEP - M2 / M3应用程序兼容性图表
+* KEEP822/KEEP - 网站阻塞器
+* KEEP823/KEEP - 打字实践
+* KEEP824/KEEP - 雷迪特客户
+* KEEP825/KEEP - 改善了Reddit评论导航
+* KEEP826/KEEP - 灰度控制
+* KEEP827/KEEP - 标志
+* KEEP828/KEEP - OS X 证书修复
+* KEEP829/KEEP - 密钥 / 进程补丁器
+* KEEP830/KEEP - 删除子
 
 ***
 
 ## ▷ 软件网站
 
-*  **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**,[OpenSourceApple](https://opensource.apple.com/),[Awesome Mac](https://github.com/jaywcjlove/awesome-mac)或[Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - S应用程序索引
-*  **[Mac Menu Bar](https://macmenubar.com/)** - 菜单应用指数
-* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://corkmac.app/), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/)或 [Applite](https://aerolite.dev/applite) - 包装管理人员
-* 保护的
-* 保护的
-* 保护的
-* 保护的_844__
-* 保护的
-* 保护的
-* 保护的
-* 报名
-* 保护的软件
-* 保护_850__ - 旧学校软件
-* 免费版
-* 免费软件
-* 软件更新器
+*  **KEEP831/KEEP**, KEEP832/KEEP, KEEP833/KEEP或 KEEP834/KEEP - FOSS应用指数
+*  **KEEP835/KEEP** - 菜单应用指数
+* ⭐ **KEEP836/KEEP** / KEEP837/KEEP, KEEP838/KEEP, KEEP839/KEEP或 KEEP840/KEEP - 包裹管理人员
+* KEEP841/KEEP
+* KEEP842/KEEP
+* KEEP843/KEEP
+* KEEP844/KEEP
+* KEEP845/KEEP
+* KEEP846/KEEP
+* KEEP847/KEEP
+* KEEP848/KEEP - 报名
+* KEEP849/KEEP - 旧学校软件
+* KEEP850/KEEP - 旧学校软件
+* KEEP851/KEEP - 免费软件
+* KEEP852/KEEP - 免费软件
+* KEEP853/KEEP - 软件更新器
 
 ***
 
 ##  Mac 视频
 
-* 视频播放器
-* 视频播放平台
-* 视频播放app / 视频播放app / 视频播放app
-* 果版的用户
-* 视频扩展
-* 屏幕记录器: 屏幕记录器
+* KEEP854/KEEP - 视频播放器
+* KEEP855/KEEP - 动漫流媒体应用程序
+* KEEP857/KEEP - 动漫流媒体应用程序 / KEEP858/KEEP / KEEP859/KEEP / KEEP860/KEEP
+* KEEP861/KEEP - YouTube播放器
+* KEEP862/KEEP - 视频扩展
+* KEEP863/KEEP / KEEP864/KEEP, KEEP865/KEEP或 KEEP866/KEEP - 屏幕录制器
 
 ***
 
 ##  Mac 音频
 
-* ⭐ **[SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash)**或 [Mac_Spotify_Adblock](https://github.com/Devanshu-17/Mac_Spotify_Adblock) - Spotify广告屏蔽器
-* ⭐ **[Spicetify](https://spicetify.app/)** - 斯波伊特主题和插件 / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#spicetify-note) / [Discord](https://discord.gg/VnevqPp2Rr) / [GitHub](https://github.com/spicetify/cli)
-* 保护_873__或保护_874__ - 音频播放器
-* 保护的音频迷你播放器
-* 果版的用户
-* 没有任何损失的音乐播放器
-* 您可以在列表里查看Spotify.
-* 转换Notch为音频控制器 /日历 / 转换Notch为音频控制器 /
-* 您的位置: 首页
-* 保护_883__ - 音频编辑器
-* 保护的声音
-* 系统的系统:
-* 电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电子电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话,电话
-* 无损音频转录器
-* 通过音频传输到应用程序
-* 保护的无线电
-* 没有人能让你放弃.
-* 移动果音乐播放列表到Spotify
+* ⭐ ** KEEP867/KEEP**或 KEEP868/KEEP - Spotify广告拦截器
+* ⭐ **KEEP869/KEEP** - Spotify主题和插件 / KEEP870/KEEP / KEEP871/KEEP / KEEP872/KEEP
+* KEEP873/KEEP或 KEEP874/KEEP - 音频播放器
+* KEEP875/KEEP - 音频迷你播放器
+* KEEP876/KEEP - Spotify迷你播放器
+* KEEP877/KEEP - 自主主机的P2P无损音乐播放器
+* KEEP878/KEEP - 在菜单中播放Spotify
+* KEEP879/KEEP - 将Notch转换为音频控制器 /日历 / KEEP880/KEEP / KEEP881/KEEP
+* KEEP882/KEEP - 音云客户端
+* KEEP883/KEEP - 音频编辑器
+* KEEP884/KEEP - 音频等级器
+* KEEP885/KEEP - 自动调整音频水平
+* KEEP886/KEEP - 虚拟吉他放大器
+* KEEP888/KEEP - 无损音频转录器
+* KEEP889/KEEP - 将音频传输到应用程序
+* KEEP890/KEEP - 广播
+* KEEP891/KEEP - AI音乐广播
+* KEEP892/KEEP - 将果音乐播放列表转移到Spotify
 
 ***
 
 ## ▷ 麦克图像
 
-* 转换成GIF的图像
-* 保护_895__ - 图像 / 视频编辑器
-* 照片编辑器
-* 保护_897__ - 图像优化
-* 保护_898__ - 图像的正确视角
-* 保护_899__ - AI图像绘制工具
+* KEEP893/KEEP - 图像转换为GIF转换器
+* KEEP895/KEEP - 图像/视频编辑器
+* KEEP896/KEEP - 图像编辑
+* KEEP897/KEEP - 图像优化
+* KEEP898/KEEP - 图像的正确视角
+* KEEP899/KEEP - 人工智能图像绘制工具
 
 ***
 
 ## ▷ 麦克游戏
 
-* ⭐ **[Torrminatorr](https://forum.torrminatorr.com/)** - 麦克游戏
-* ⭐ **[AppleGamingWiki](https://applegamingwiki.com/)** / [Discord](https://discord.gg/28CAAr6SpB)或 [⁠Mac Gaming DB](https://macgamingdb.app/) - Mac游戏修复 /兼容性 
-* ⭐ **[Goldberg](https://github.com/inflation/goldberg_emulator)** - 蒸汽多人游戏客户端模拟器
-* 果游戏
-* 其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏,其他游戏等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等等
-* 果游戏
-* 们在们的家里玩.
-* 运行旧Mac游戏
-* 果游戏推出器
-* 们在们的家里,
-* 游戏果版 iso.dec 转换为ISO转换器
-* 据悉,这项技术的发展将在全球范围内实现.
-* 保护_919__ - 欧盟经济联盟兼容性列表
+* ⭐ ** KEEP900/KEEP** - 麦克游戏
+* ⭐ ** KEEP901/KEEP** / KEEP902/KEEP或 KEEP903/KEEP - Mac游戏修复 /兼容性 
+* ⭐ ** KEEP904/KEEP** - 蒸汽多人游戏客户端模拟器
+* KEEP905/KEEP - 麦克游戏
+* KEEP906/KEEP - 麦克游戏 / KEEP907/KEEP
+* KEEP908/KEEP - 麦克游戏
+* KEEP909/KEEP - 老学校Mac游戏
+* KEEP910/KEEP - 运行旧Mac游戏
+* KEEP911/KEEP - 史诗 / GOG / 总游戏发行商 / KEEP912/KEEP / KEEP913/KEEP
+* KEEP914/KEEP / KEEP915/KEEP - 史诗游戏发行商
+* KEEP916/KEEP - 游戏子 iso.dec 转换为ISO转换器
+* KEEP917/KEEP - 麦克游戏社区
+* KEEP919/KEEP - CEMU兼容性列表
 
 ***
 
@@ -708,129 +708,129 @@
 
 ## ▷  Mac 广告区块 / 隐私
 
-*  **[Awesome OSX Security](https://github.com/ashishb/osx-and-ios-security-awesome)** - 麦克安全资源
-* ️ **[Mac 2FA](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_password_privacy_.2F_2fa)**
-* ️ **[DNS Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25B7_dns_adblocking)**
-* ⭐ **[Malwarebytes](https://www.malwarebytes.com/mac-download)**,[BlockBlock](https://objective-see.org/products/blockblock.html)或[KnockKnock](https://objective-see.org/products/knockknock.html) - 抗病毒
-* 保护_926__,保护_927__,保护_928__ / 保护_929__或保护_930__ - Safari 广告屏蔽器
-* 保护_931__ - DNS 广告封锁器
-* 封锁追踪器 / 广告
-* 通过主机文件阻止广告
-* 您的位置: 首页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页 页
-* 密码化DNS个人资料
-* 保护_936__ - 麦克防火墙
-* 保护_937__ - 勒索软件阻器
-* 电脑电脑监视器
-* 分析PKG文件
-* 双边授权系统
-* 鱼捕鱼扫描仪
-* 密码和签字数据 / 通信
-* 查看文件密码签名
-* 删除URL跟踪元素
-* 没有任何信息,
-* 查看所有内核模块
-* 保护_947__ - 艺术品解析工具
-* 保护_948__或保护_949__ - VPN道
-* 基于隐私的电子邮件客户端
-* 密码信息客户端
+*  **KEEP920/KEEP** - 麦克安全资源
+* ️ **KEEP921/KEEP**
+* ️ **KEEP922/KEEP**
+* ⭐ **KEEP923/KEEP**, KEEP924/KEEP或 KEEP925/KEEP - 抗病毒
+* KEEP926/KEEP, KEEP927/KEEP, KEEP928/KEEP / KEEP929/KEEP或 KEEP930/KEEP - 萨菲广告屏蔽器
+* KEEP931/KEEP - DNS 广告封锁器
+* KEEP932/KEEP - 阻断跟踪器 /广告
+* KEEP933/KEEP - 通过主机文件阻止广告
+* KEEP934/KEEP - Mac隐私与安全指南
+* KEEP935/KEEP - 加密的DNS个人资料
+* KEEP936/KEEP - 麦克防火墙
+* KEEP937/KEEP - 勒索软件阻器
+* KEEP938/KEEP - 网络摄像机/麦克风监视器
+* KEEP939/KEEP - 分析PKG文件
+* KEEP940/KEEP - 二进制授权系统
+* KEEP941/KEEP - 迪利布劫持扫描仪
+* KEEP942/KEEP - 加密和签字数据 /通信
+* KEEP943/KEEP - 查看文件加密签名
+* KEEP944/KEEP - 删除URL跟踪元素
+* KEEP945/KEEP - 虚假的 MAC 地址
+* KEEP946/KEEP - 查看所有内核模块
+* KEEP947/KEEP - 艺术品解析工具
+* KEEP948/KEEP或 KEEP949/KEEP - VPN道
+* KEEP950/KEEP - 基于隐私的电子邮件客户端
+* KEEP951/KEEP - 加密消息客户端
 
 ***
 
 ## ▷ 麦克互联网
 
-* ️ **[Mac Torrent Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_clients)**
-* 密码管理器
-* 网络诊断工具
-* 电子邮件客户
-* 浏览器提示器
-* 浏览器使用Chrome+Firefox扩展支持
+* ️ **KEEP952/KEEP**
+* KEEP953/KEEP或 KEEP954/KEEP - 密码管理器
+* KEEP955/KEEP - 网络诊断工具
+* KEEP956/KEEP - 电子邮件客户
+* KEEP957/KEEP - 浏览器提示器
+* KEEP958/KEEP - 浏览器有Chrome+Firefox扩展支持
 
 ***
 
 ## ▷ 系统工具
 
-*  **[AppleDB](https://appledb.dev/)** - 果设备/软件信息数据库
-* ⭐ **[Alfred](https://www.alfredapp.com/)** / [Workflows / Themes](https://www.packal.org/), [Raycast](https://www.raycast.com/), [Albert](https://albertlauncher.github.io/) / [GitHub](https://github.com/albertlauncher/albert), [Quicksilver](https://qsapp.com/), [⁠KeyboardCowboy](https://github.com/zenangst/KeyboardCowboy)或 [SOL](https://sol.ospfranco.com/) - 键盘发射器 / 聚光灯替换器
-* ⭐ **[CustomShortcuts](https://www.houdah.com/customShortcuts/)**, [Karabiner-Elements](https://karabiner-elements.pqrs.org/)或 [ShortcutKeeper](https://shortcutkeeper.com/) - 定制键盘快捷键
-* ⭐ **[alt-tab-macos](https://alt-tab-macos.netlify.app/)** - 对于Mac的 Alt-Tab
-* 保护_973__ - 高级命令行工具
-* 保护_974__ / 保护_975__, 保护_976__, 保护_977__, 保护_978__或 保护_979__ - 硬件/系统监测器
-* 处理器监控器
-* 工作管理器/观看器
-* 系统清理/优化多工具
-* 系统清理 / 卸载器 / 保护_984__
-* 显示器控制器
-* 双监视器管理器
-* 连接Mac键盘到移动设备
-* 保护_988__或保护_989__ - 鼠标重组
-* 接到放大手势
-* 通过3个指纹击/跟踪板或魔术鼠标点击
-* 保护_992__ - 设备单滚动设置
-* 现在的应用程序的快捷键
-* 您的位置: 首页
-* 保护_995__ - 外部监视器亮度/音量控制
-* 动机/自动停机
-* 电源管理员
-* 电池指标是可爱的
-* 设备电池跟踪器
-* 保护机
-* 保护_1002__ - 触摸杆模拟器
-* 快速UI 关门保安配置GUI
-* 您可以在此访问.
-* 其他简单方法
-* 您的位置: 首页 > 列表 > 列表
-* 系统命令小工具
-* 标签: 标签: 标签:
-* 列表列会议日历
-* 管理菜单条目 / 管理菜单条目
-* 管理创业项目
-* 您的位置: 首页 > 列表 > 列表 > 列表
-* 关键键键:
-* 保护_1018__ - 过程管理员
-* 预防睡眠模式
-* 保护_1020__,保护_1021__ / 保护_1022__,保护_1023__,保护_1024__,保护_1025__,保护_1026__或保护_1027__ - 窗口管理人员
-* 保护_1028__,保护_1029__,保护_1030__,保护_1031__或保护_1032__ - 剪辑板管理人员
-* 保护_1033__,保护_1034__或保护_1035__ - 定制应用图标
-* 保护_1036__或保护_1037__ - 改变文件颜色
-* 您的位置: 首页
-* 动态壁纸应用程序
-* 动态壁纸制作人
-* 网站作为壁纸
-* 保护屏幕保护器
-* 系统暗模式应用程序
-* 分析性能与Intel PT
+*  **KEEP960/KEEP** - 果设备/软件信息数据库
+* ⭐ **KEEP961/KEEP** / KEEP962/KEEP, KEEP963/KEEP, KEEP964/KEEP / KEEP965/KEEP, KEEP966/KEEP, KEEP967/KEEP或 KEEP968/KEEP - 键盘发射器 / 聚光灯替代器
+* ⭐ **KEEP969/KEEP**, KEEP970/KEEP或 KEEP971/KEEP - 定制键盘快捷键
+* ⭐ **KEEP972/KEEP** - 适用于Mac的 Alt-Tab
+* KEEP973/KEEP - 高级命令行工具
+* KEEP974/KEEP / KEEP975/KEEP, KEEP976/KEEP, KEEP977/KEEP, KEEP978/KEEP或 KEEP979/KEEP - 硬件/系统监测器
+* KEEP980/KEEP - 处理器监测器
+* KEEP981/KEEP - 任务管理员/观众
+* KEEP982/KEEP - 系统清洁/优化多工具
+* KEEP983/KEEP - 系统清洁/卸载器
+* KEEP985/KEEP - 显示器控制器
+* KEEP986/KEEP - 双监视器管理员
+* KEEP987/KEEP - 将Mac键盘连接到移动设备
+* KEEP988/KEEP或 KEEP989/KEEP - 鼠标重复
+* KEEP990/KEEP - 轨道盘点点到放大手势
+* KEEP991/KEEP - 中部/滚动 点击通过3个指纹点击/跟踪器或魔术鼠标
+* KEEP992/KEEP - 设备单卷设置
+* KEEP993/KEEP - 现在的应用程序快捷方式 CheatSheet
+* KEEP994/KEEP - 键盘按可视化器
+* KEEP995/KEEP - 外部监视器亮度/音量控制
+* KEEP996/KEEP - 音量混合器/自动停机
+* KEEP997/KEEP - 充电管理员
+* KEEP998/KEEP - 可爱的电池指标
+* KEEP999/KEEP或 KEEP1000/KEEP - 设备电池跟踪器
+* KEEP1001/KEEP - 风扇控制器
+* KEEP1002/KEEP - 触摸杆模拟器
+* KEEP1003/KEEP - SwiftUI门卫器配置GUI
+* KEEP1004/KEEP - 映射macOSUSB端口
+* KEEP1005/KEEP - 额外的快捷方式应用程序行动
+* KEEP1006/KEEP - 触摸杆小工具管理器 / KEEP1007/KEEP
+* KEEP1008/KEEP - 系统命令小工具
+* KEEP1009/KEEP - 菜单日历
+* KEEP1010/KEEP或 KEEP1011/KEEP - 菜单会议日历
+* KEEP1012/KEEP - 管理菜单项 / KEEP1013/KEEP
+* KEEP1014/KEEP - 管理创业项目
+* KEEP1015/KEEP - 菜单管理员
+* KEEP1017/KEEP - 菜单转换开关
+* KEEP1018/KEEP - 过程经理
+* KEEP1019/KEEP - 预防睡眠模式
+* KEEP1020/KEEP, KEEP1021/KEEP / KEEP1022/KEEP, KEEP1023/KEEP, KEEP1024/KEEP, KEEP1025/KEEP, KEEP1026/KEEP或 KEEP1027/KEEP - 窗口管理员
+* KEEP1028/KEEP, KEEP1029/KEEP, KEEP1030/KEEP, KEEP1031/KEEP或 KEEP1032/KEEP - 剪辑板管理者
+* KEEP1033/KEEP, KEEP1034/KEEP或 KEEP1035/KEEP - 定制应用程序图标
+* KEEP1036/KEEP或 KEEP1037/KEEP - 改变文件颜色
+* KEEP1038/KEEP - 麦克壁纸管理器
+* KEEP1039/KEEP - 动态壁纸应用程序
+* KEEP1040/KEEP或 KEEP1041/KEEP - 动态壁纸制作人
+* KEEP1042/KEEP - 作为壁纸使用网站
+* KEEP1043/KEEP - 极限屏幕保护器
+* KEEP1044/KEEP或 KEEP1045/KEEP - 系统暗模式应用程序
+* KEEP1046/KEEP - 通过Intel PT进行性能分析
 
 ***
 
 ## ▷ 文件工具
 
-* ⭐ **[PeaZip](https://peazip.github.io/peazip-macos.html)** / [GitHub](https://github.com/peazip/PeaZip/), [The Unarchiver](https://theunarchiver.com/), [unxip](https://github.com/saagarjha/unxip)或 [Keka](https://www.keka.io/) - 文件档案
-* ⭐ **[Readdle](https://readdle.com/documents)** - 多功能文件工具
-* 您的位置: 首页 > 列表 > 列表
-* 显示复制数据的进展
-* 媒体目录软件套件
-* 终端文件管理器 / [GitHub](https://github.com/yorukot/superfile)
-* 保护_1059__ -  Mac 文件集成
-* 文件下载管理器 / 保护_1061__ / 保护_1062__, 保护_1063__ / 保护_1064__ / 保护_1065__
-* 文件下载管理器 / 保护_1067__ / 保护_1068__ / 保护_1069__
-* 文件下载管理器
-* 保护_1071__ - 现代的保护_0__ 替代
-* 保护_1072__或保护_1073__ - 大量文件/文件重命名
-* 的发现器
-* 防护机械设备的使用
+* ⭐ **KEEP1047/KEEP** / KEEP1048/KEEP, KEEP1049/KEEP, KEEP1050/KEEP或 KEEP1051/KEEP - 文件档案档案
+* ⭐ **KEEP1052/KEEP** - 多功能文件工具
+* KEEP1053/KEEP - Mac/Android文件转移
+* KEEP1055/KEEP - 显示复制数据的进展
+* KEEP1056/KEEP - 媒体目录软件套件
+* KEEP1057/KEEP - 终端文件管理器
+* KEEP1059/KEEP - 麦克文件集成
+* KEEP1060/KEEP - 文件下载管理器 / KEEP1061/KEEP / KEEP1062/KEEP, KEEP1063/KEEP / KEEP1064/KEEP / KEEP1065/KEEP
+* KEEP1066/KEEP - 文件下载管理器 / KEEP1067/KEEP / KEEP1068/KEEP / KEEP1069/KEEP
+* KEEP1070/KEEP - 文件下载管理器
+* KEEP1071/KEEP - 现代的KEEP0/KEEP替代品
+* KEEP1072/KEEP或 KEEP1073/KEEP - 大量文件/文件重命名
+* KEEP1074/KEEP或 KEEP1075/KEEP - 模糊的发现器
+* KEEP1076/KEEP - 跨平台空降 / KEEP1077/KEEP
 
 ***
 
 #  像Unix一样
 
-*  **[ATL ISO Archive](https://iso.atl.dev/)** - Linux / BSD ISO档案
-*  **[Awesome-ttygames](https://github.com/ligurio/awesome-ttygames)** - 联合国教科文组织ASCII游戏
-*  **[Awesome BSD](https://github.com/DiscoverBSD/awesome-bsd)** - BSD资源
-*  **[Hardware for BSD](https://bsd-hardware.info/)** - BSD硬件兼容性数据库 / [GitHub](https://github.com/bsdhw/)
-* 保护性问题 - 公共服务论坛/社区
-* 免费BSD Wiki / 导游 / 免费BSD
-* 您的位置: 首页 > 列表 > 列表
-* 果版的游戏
-* 保护_1089__ - 联合国教科文组织的
-* 保护_1090__ - 完全可定制的Unix颜色方案
-* 系统的系统系统, 系统的系统, 系统的系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统, 系统
+*  **KEEP1078/KEEP** -  लिनक्स / BSD ISO档案
+*  **KEEP1079/KEEP** - 联合国教科文组织ASCII游戏
+*  **KEEP1080/KEEP** - BSD资源
+*  **KEEP1081/KEEP** - BSD硬件兼容性数据库 / KEEP1082/KEEP
+* KEEP1083/KEEP - BSD论坛 / 社区
+* KEEP1084/KEEP - 免费BSD Wiki / 导游 / KEEP1085/KEEP
+* KEEP1086/KEEP - 联合体包 / KEEP1087/KEEP
+* KEEP1088/KEEP - 联合学习游戏
+* KEEP1089/KEEP - 联合克斯
+* KEEP1090/KEEP - 完全可定制的Unix颜色方案
+* KEEP1091/KEEP - 计划9图书馆+程序的Unix端口

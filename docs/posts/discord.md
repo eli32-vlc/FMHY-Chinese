@@ -12,7 +12,7 @@ footer: true
 
 <Post authors="nbats" />
 
-# 公共URL: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+# 公共地址: KEEP1/KEEP
 
 ---
 

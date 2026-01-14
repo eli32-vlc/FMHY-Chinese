@@ -14,7 +14,7 @@ prev: false
 
 带着我们的美丽壁纸,提升自己到下一个层次.
 
-它们都是由[taskylizard](https://github.com/taskylizard)制作的.
+所有这些壁纸都是由KEEP5/KEEP制作的.
 
 <WallpaperCard
   title="Arc"

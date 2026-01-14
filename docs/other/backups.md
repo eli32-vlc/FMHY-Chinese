@@ -2,29 +2,29 @@
 
 官方网站,镜子,GitHub,标记,以及自主托管指南.
 
-* 保护的网站
-* 官方镜子
-* 官方镜子
-* 官方GitHub来源报告
-* 保护_5__ - 运行FMHY本地
-* 保护_6__ - 原始 .zip 档案
-* 保护_7__ (镜子: 保护_8__/ 保护_9__) - 单页上的全部标记
-* 单页的整个JSON
+* **KEEP1/KEEP** - 主页
+* KEEP2/KEEP - 官方镜子
+* KEEP3/KEEP - 官方镜子
+* KEEP4/KEEP - 官方GitHub来源汇报
+* KEEP5/KEEP - 在本地运行FMHY
+* KEEP6/KEEP - 原料.zip档案
+* KEEP7/KEEP (镜子: KEEP8/KEEP/KEEP/KEEP) - 单页上的全部标记
+* KEEP10/KEEP - 单页面上整体JSON
 
 ***
 
 **备份实例**
 
-验证反映官方FMHY [repository](https://github.com/fmhy/edit)的实例.
+反映官方 FMHY KEEP11/KEEP的验证实例.
 
-* 保护的方法
-* 保护的
-* 保护的
-* 保护的
-* 保护的_17__
-* 保护_18__ (镜子: 保护_19__/ 保护_20__/ 保护_21__/ 保护_22__/ 保护_23__/ 保护_24__/ 保护_25__/ 保护_26__)
-* 保护工作安全 (无 nsfw页)
-* 保护的 - 原创风格
+* KEEP12/KEEP - 替代风格
+* KEEP13/KEEP
+* KEEP14/KEEP
+* KEEP15/KEEP
+* KEEP16/KEEP / KEEP17/KEEP
+* KEEP18/KEEP (镜子: KEEP19/KEEP/KEEP20/KEEP/KEEP21/KEEP/KEEP22/KEEP/KEEP23/KEEP/KEEP24/KEEP/KEEP/KEEP25/KEEP/KEEP26/KEEP)
+* KEEP27/KEEP - 安全工作 (没有nsfw页面)
+* KEEP28/KEEP - 原创风格
 
 ***
 
@@ -32,15 +32,15 @@
 
 官方镜子和可视性 FMHY的替代方式.
 
-* 保护的
-*  加入任何[Redlib instance](https://github.com/redlib-org/redlib-instances/blob/main/instances.md) / [2](https://github.com/libreddit/libreddit-instances/blob/master/instances.md)的最后_PROTECTED_0__
-* 保护的
-* 保护的
-* 保护的_35__
-* 保护的_36__ / 保护的_37__
+* KEEP29/KEEP**
+*  加入任何KEEP30/KEEP / KEEP31/KEEP的尾部
+* KEEP32/KEEP
+* KEEP33/KEEP
+* KEEP34/KEEP / KEEP35/KEEP
+* KEEP36/KEEP / KEEP37/KEEP
 
 ***
 
 备份页面备份
 
-保护的_38__ / 保护的_39__ / 保护的_40__ / 保护的_41__
+KEEP38/KEEP / KEEP39/KEEP / KEEP40/KEEP / KEEP41/KEEP

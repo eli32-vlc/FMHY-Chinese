@@ -12,7 +12,7 @@ footer: true
 
 <Post authors="taskylizard" />
 
-### 其他信息:
+### 新的URL: KEEP1/KEEP
 
 别人,我想让你们知道,我们终于完成了
 我知道很多不同的网站,

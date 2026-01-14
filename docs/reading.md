@@ -1,368 +1,368 @@
 ***
 ***
-保护的
+        
 ***
 ***
 
 # 电子书
 
-*  **[Open Slum](https://open-slum.org/)**, [2](https://open-slum.pages.dev/) - 书网站指数 / 更新时间跟踪
-* ⭐ **[Anna's Archive](https://annas-archive.li/)**, [2](https://annas-archive.se/), [3](https://annas-archive.pm/), [4](https://annas-archive.in/) - 书籍 / 漫画 / [Auto-Expand](https://greasyfork.org/en/scripts/494262) / [Matrix](https://matrix.to/#/#annas:archivecommunication.org) / [Subreddit](https://www.reddit.com/r/Annas_Archive/)
-* ⭐ **[Z-Library](https://z-lib.gd/)**, [2](https://articles.sk/), [3](https://1lib.sk/), [4](https://z-lib.fm/) - 书籍 / 漫画 / [Apps / Extensions](https://go-to-library.sk/), [2](https://playtorrio.xyz/) / [.onion](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/), [2](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/) / [Subreddit](https://www.reddit.com/r/zlibrary/)
-* ⭐ **[Mobilism](https://forum.mobilism.org)**, [2](https://forum.mobilism.me/) - 书籍 / 音频书籍 / 杂志 / 新闻报纸 / 漫画 / [Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - 书籍 / 音频书籍 / 漫画 / 页面音乐 / [Invite Required](https://www.myanonamouse.net/inviteapp.php)
-* ⭐ **[Library Genesis](https://libgen.li/)** - 书籍 / 漫画 / 漫画 / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_libgen_tools) / [Mirrors](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage/#wiki_libgen_mirrors) / [Subreddit](https://reddit.com/r/libgen)
-* 保护的书籍 / 音频书籍 / 杂志 / 新闻
-* 保护的镜子
-* 保护的 - 书籍 / 下载
-* 保护的 - 书籍 / 下载
-* 保护的书籍
-* 保护的书籍
-* 保护的书籍
-* 保护的 - 书籍 / 杂志 / 维克
-* 保护 - 书籍 / 杂志 / 报名
-* 保护人 - 书籍 / 在线阅读
-* 保护人 - 书籍 / 在线阅读
-* 保护人 - 书籍 / 在线阅读
-* 保护的 - 书籍 / 在线阅读
-* 保护人 - 书籍 / 电报
-* 保护人 - 书籍 / 电报
-* 保护人 - 书籍 / 电报
-* 美国禁止书籍
-* 电子书管理器 / 下载器 / 保护_49__
-* 保护_50__ / 保护_51__ / 保护_52__ / 保护_53__, 保护_54__或 保护_55__ - 多站点书查
-* 俄罗斯电子书库 / 注册 / 使用 _ PROTECTED_59__
-* 保护_60__ - I2P 要求
-* 保护_61__ - 电子书 推广
-* 保护_62__ - 找文章/书籍的指南
-* 保护的_______________________________________________
-* 电脑系统的系统
+*  **KEEP2/KEEP**, KEEP3/KEEP - 书网站指数 / 更新时间跟踪
+* ⭐ **KEEP4/KEEP**, KEEP5/KEEP, KEEP6/KEEP, KEEP7/KEEP - 书籍 / 漫画 / KEEP8/KEEP / KEEP9/KEEP / KEEP10/KEEP
+* ⭐ **KEEP11/KEEP**, KEEP12/KEEP, KEEP13/KEEP, KEEP14/KEEP - 书籍 / 漫画 / KEEP15/KEEP, KEEP16/KEEP / KEEP17/KEEP, KEEP18/KEEP / KEEP19/KEEP
+* ⭐ **KEEP20/KEEP**, KEEP21/KEEP - 书籍 / 音频书籍 / 杂志 / 新闻报纸 / 漫画 / KEEP22/KEEP
+* ⭐ **KEEP23/KEEP** - 书籍 / 音频书籍 / 漫画 / 纸张音乐 / KEEP24/KEEP
+* ⭐ **KEEP25/KEEP** - 书籍 / 漫画 / 漫画 / KEEP26/KEEP / KEEP27/KEEP / KEEP28/KEEP
+* KEEP29/KEEP - 书籍 / 音频书籍 / 杂志 / 新闻
+* KEEP31/KEEP - 安娜的档案镜子
+* KEEP33/KEEP - 书籍 / 下载
+* KEEP34/KEEP - 书籍 / 下载
+* KEEP35/KEEP - 书查 / 下载
+* KEEP36/KEEP - 书查 / 下载
+* KEEP37/KEEP - 书籍
+* KEEP38/KEEP - 书籍 /杂志 / VK
+* KEEP39/KEEP - 书籍 / 杂志 / 报名
+* KEEP40/KEEP - 书籍 / 在线阅读
+* KEEP41/KEEP - 书籍 / 在线阅读
+* KEEP42/KEEP - 书籍 / 在线阅读
+* KEEP43/KEEP - 书籍 / 在线阅读
+* KEEP44/KEEP - 书籍 / 电报
+* KEEP45/KEEP - 书籍 / 电报
+* KEEP46/KEEP - 书籍 / 电报
+* KEEP47/KEEP - 美国禁止书籍
+* KEEP48/KEEP - 电子书管理器 / 下载器 / KEEP49/KEEP
+* KEEP50/KEEP / KEEP51/KEEP / KEEP52/KEEP / KEEP53/KEEP, KEEP54/KEEP或 KEEP55/KEEP - 多站点书搜索
+* KEEP56/KEEP / KEEP57/KEEP, KEEP58/KEEP - 俄罗斯电子书库 / 注册 / 使用 KEEP59/KEEP
+* KEEP60/KEEP - I2P 要求
+* KEEP61/KEEP - 电子书 推广
+* KEEP62/KEEP - 找到文章/书籍的指南
+* KEEP0/KEEP / KEEP63/KEEP
+* KEEP64/KEEP / KEEP65/KEEP / KEEP66/KEEP
 
 ***
 
 ## ▷ 公共领域
 
-* ⭐ **[Project Gutenberg](https://www.gutenberg.org/)** - 历史小说 / 非小说 / [Australia](https://gutenberg.net.au/) / [Canada](https://gutenberg.ca/index.html) / [Nordic](https://runeberg.org/)
-* ⭐ **[Unglue.it](https://unglue.it/)**
-* 保护的72
-* 保护的
-* 保护的
-* 保护的_75__ / 保护的_76__
-* 保护的
-* 保护的78
-* 保护的
-* 保护的80
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 专业的专业
-* 保护的经典
-* 保护的 - 经典
-* 没有人知道.
-* 关于"福尔摩斯"的全文
-* 保护96个小说或保护97个小说
-* 维基媒体社区
-* 需要使用图书馆卡
-* 搜索本地图书馆 / 搜索本地图书馆 / 搜索本地图书馆
-* 公共领域材料的评论/论文
-* 保护_105__ - 帮助数字化公共领域的书籍成电子书
+* ⭐ **KEEP67/KEEP** - 历史小说 / 非小说 / KEEP68/KEEP / KEEP69/KEEP / KEEP70/KEEP
+* ⭐ ** KEEP71/KEEP**
+* KEEP72/KEEP
+* KEEP73/KEEP
+* KEEP74/KEEP
+* KEEP75/KEEP / KEEP76/KEEP
+* KEEP77/KEEP
+* KEEP78/KEEP
+* KEEP79/KEEP
+* KEEP80/KEEP
+* KEEP81/KEEP
+* KEEP82/KEEP
+* KEEP83/KEEP
+* KEEP84/KEEP
+* KEEP85/KEEP
+* KEEP86/KEEP
+* KEEP87/KEEP
+* KEEP88/KEEP
+* KEEP89/KEEP
+* KEEP90/KEEP
+* KEEP91/KEEP - 经典
+* KEEP92/KEEP - 经典
+* KEEP93/KEEP - 经典
+* KEEP94/KEEP - 黑暗的书籍
+* KEEP95/KEEP - 完整的夏洛克·福尔摩斯法典
+* KEEP96/KEEP或KEEP97/KEEP - 童话故事
+* KEEP98/KEEP - 维基媒体社区
+* KEEP99/KEEP - 需要图书馆卡
+* KEEP100/KEEP, KEEP101/KEEP或 KEEP102/KEEP - 搜索本地图书馆 / KEEP103/KEEP
+* KEEP104/KEEP - 公共领域材料的评论/论文
+* KEEP105/KEEP - 帮助数字化公共领域的书籍成电子书
 
 ***
 
 ## 搜索
 
-* 保护的书籍 / 漫画
-* 保护的书籍 / 漫画
-* 保护的书籍
-* 保护的书籍
-* 保护的111 书籍
-* 保护的书籍
-* 保护的书籍
-* 保护的书籍
-* 保护的书籍
-* 搜索在 AWS 上的 PDF 文件
+* KEEP106/KEEP - 书籍 / 漫画
+* KEEP107/KEEP - 书籍 / 漫画
+* KEEP108/KEEP - 书籍
+* KEEP109/KEEP - 书籍
+* KEEP110/KEEP, KEEP111/KEEP - 书籍
+* KEEP112/KEEP - 书籍
+* KEEP113/KEEP - 书籍
+* KEEP114/KEEP - 书籍
+* KEEP115/KEEP - 书籍
+* KEEP116/KEEP - 在 AWS 上找到 PDF 文件
 
 ***
 
 ## 级图书馆
 
-* ️ **[Calibre Libraries](https://rentry.co/FMHYB64#calibre-libraries)**
-* ⭐ **[Ebook-Translator](https://translator.bookfere.com)** - 校准翻译器
-* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子
-* 社区共享校准图书馆
-* 保护_121__或_保护_122__ - 校准网络应用程序
-* 保护_123__ - ACSM插件
+* ️ **KEEP117/KEEP**
+* ⭐ **KEEP118/KEEP** - 校准翻译器
+* KEEP119/KEEP - 利本
+* KEEP120/KEEP - 社区共享校准图书馆
+* KEEP121/KEEP或 KEEP122/KEEP - 校准网络应用程序
+* KEEP123/KEEP - ACSM插件
 
 ***
 
 ## ▷ 电子书阅读者
 
-*  **[Ebook Reader Index](https://wiki.mobileread.com/wiki/E-book_software)**或 [Mobile Read](https://www.mobileread.com/) - 电子书阅读器指数
-* ️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_reading) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_ios_reading)** - 移动电子书阅读器
-* ⭐ **[Koodo](https://www.koodoreader.com/)** - 电子书阅读器 / 所有平台 / [GitHub](https://github.com/koodo-reader/koodo-reader)
-* ⭐ **[KoReader](https://koreader.rocks/)** - 电子书阅读器 / Windows,Linux,Android / [GitHub](https://github.com/koreader/koreader)
-* ⭐ **[SumatraPDFReader](https://www.sumatrapdfreader.org/free-pdf-reader)** - 电子书和PDF阅读器 / Windows
-* ⭐ **[Calibre](https://calibre-ebook.com/)** - 电子书阅读器 / Windows,Mac,Linux
-* ⭐ **[Foxit](https://www.foxit.com/pdf-reader/)** - PDF Reader / 所有平台 / [Features](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites) (搜索) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning)
-* ⭐ **[EinkBro](https://github.com/plateaukao/einkbro)** - 电子墨水浏览器
-* 电子阅读器的比较
-* 保护的_139__ - 电子书阅读器 / 窗户 / 保护的_140__ / 保护的_141__
-* 保护所有平台
-* 电子书阅读器 / Windows,Mac,Android,iOS
-* 电子书阅读器 / 窗户,Mac
-* 电子书阅读器 / Windows,Android,iOS
-* 保护_147__ - 电子书阅读器 / Windows,Mac,Android,iOS / 保护_148__
-* 电子书阅读器 / Windows,Mac,Linux
-* 保护_150__ - 电子书阅读器 / Windows,Mac,Linux /
-* 保护_152__ - 电子书阅读器 / Windows,Mac,Linux
-* 保护_153__ - PDF / 窗户,Mac,Linux
-* 保护_154__ - 电子书阅读器 / 窗户
-* 保护_155__ - 电子书阅读器 / 窗户
-* 保护的_156__ - 电子书阅读器 / Linux
-* 保护_157__ - PDF / 窗户
-* 保护_158__ - PDF / 窗户,Linux,Android
-* 保护的系统
-* 保护_161__ - PDF / 窗户,Mac,Linux
-* 电子书阅读器 / Mac,iOS
-* 电子书阅读器 / Mac,iOS
-* 保护_164__ - PDF / Linux
-* 保护_165__ - DjVu读者 / 窗户
-* 保护_166__ - DjVu读者 / 窗户
-* 系统的基本操作系统电子书阅读器
-* 互动翻页阅读器
-* 保护的书目录
-* 转换网页为电子书
-* 保护的电子书阅读器
-* 保护_172__ - 同步Kobo到云服务
-* 电子阅读器壁纸
+*  **KEEP124/KEEP**或 KEEP125/KEEP - 电子书阅读器指数
+* ️ **KEEP126/KEEP / KEEP127/KEEP** - 移动电子书阅读者
+* ⭐ **KEEP128/KEEP** - 电子书阅读器 / 所有平台 / KEEP129/KEEP
+* ⭐ **KEEP130/KEEP** - 电子书阅读器 / Windows,Linux,Android / KEEP131/KEEP
+* ⭐ **KEEP132/KEEP** - 电子书和PDF阅读器 / Windows
+* ⭐ **KEEP133/KEEP** - 电子书阅读器 / Windows,Mac,Linux
+* ⭐ **KEEP134/KEEP** - PDF阅读器 / 所有平台 / KEEP135/KEEP (搜索) / KEEP136/KEEP
+* ⭐ ** KEEP137/KEEP** - 电子墨水浏览器
+* KEEP138/KEEP - 进行电子阅读器的比较
+* KEEP139/KEEP - 电子书阅读器 / 窗户 / KEEP140/KEEP / KEEP141/KEEP
+* KEEP142/KEEP - 电子书阅读器 / 所有平台 / KEEP143/KEEP
+* KEEP144/KEEP - 电子书阅读器 / Windows,Mac,Android,iOS
+* KEEP145/KEEP - 电子书阅读器 / Windows,Mac
+* KEEP146/KEEP - 电子书阅读器 / Windows,Android,iOS
+* KEEP147/KEEP - 电子书阅读器 / Windows,Mac,Android,iOS / KEEP148/KEEP
+* KEEP149/KEEP - 电子书阅读器 / Windows,Mac,Linux
+* KEEP150/KEEP - 电子书阅读器 / Windows,Mac,Linux / KEEP151/KEEP
+* KEEP152/KEEP - 电子书阅读器 / Windows,Mac,Linux
+* KEEP153/KEEP - PDF / Windows,Mac,Linux
+* KEEP154/KEEP - 电子书阅读器 / 窗户
+* KEEP155/KEEP - 电子书阅读器 / 窗户
+* KEEP156/KEEP - 电子书阅读器 / Linux
+* KEEP157/KEEP - PDF / 窗户
+* KEEP158/KEEP - PDF / Windows,Linux,Android
+* KEEP159/KEEP - PDF / DjVu Reader / Linux / KEEP160/KEEP
+* KEEP161/KEEP - PDF / Windows,Mac,Linux
+* KEEP162/KEEP - 电子书阅读器 / Mac,iOS
+* KEEP163/KEEP - 电子书阅读器 / Mac,iOS
+* KEEP164/KEEP - PDF / Linux
+* KEEP165/KEEP - DjVu Reader / Windows
+* KEEP166/KEEP - DjVu Reader / Windows
+* KEEP167/KEEP - 基本操作系统电子书阅读器
+* KEEP168/KEEP - 互动翻页阅读器
+* KEEP169/KEEP - 书目录
+* KEEP170/KEEP - 将网页转换为电子书
+* KEEP171/KEEP - 自动制作电子书阅读器
+* KEEP172/KEEP - 将Kobo同步到云服务
+* KEEP173/KEEP - 电子阅读器壁纸
 
 ***
 
 ## ▷浏览器电子书阅读器
 
-* ⭐ **[Reader View](https://webextension.org/listing/chrome-reader-view.html)**,
-* ⭐ **[Google Play Books](https://play.google.com/books)** - 管理书籍 / 自动转载数据 / 允许1000次上传
-* 保护的177__
-* 保护的
-* 保护的179__
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的185
-* 保护_186__ - 图像代理 / 读者 / 保护_187__
-* 保护188__或保护189__ - 文章读者/管理者
-* 网上书管理员
-* 保护_191__ -  Firefox PDF 阅读器黑暗模式
+* ⭐ **KEEP174/KEEP**, KEEP175/KEEP
+* ⭐ **KEEP176/KEEP** - 管理书籍 / 自动转载数据 / 允许1000次上传
+* KEEP177/KEEP
+* KEEP178/KEEP
+* KEEP179/KEEP
+* KEEP180/KEEP
+* KEEP181/KEEP
+* KEEP182/KEEP
+* KEEP183/KEEP
+* KEEP184/KEEP
+* KEEP185/KEEP
+* KEEP186/KEEP - 图像代理 / 读者 / KEEP187/KEEP
+* KEEP188/KEEP或 KEEP189/KEEP - 文章读者/管理者
+* KEEP190/KEEP - 在线书管理员
+* KEEP191/KEEP - 飞狐PDF阅读器黑暗模式
 
 ***
 
 ## ▷ 果工具
 
-* ️ **[Kindle Jailbreak Tools](https://rentry.co/FMHYB64#jailbreak-kindle)**
-* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - 多格式转换器
-* 免费版的Kindle版本
-* 通过电子书向Kindle发送
-* 删除DRM从Kindle
-* 转换文件的方法
-* 修复 EPUB 处理 Send to Kindle
+* ️ **KEEP192/KEEP**
+* ⭐ ** KEEP193/KEEP** - 多格式转换器
+* KEEP194/KEEP或KEEP195/KEEP - 免费的Kindle版本
+* KEEP196/KEEP - 发送电子书到Kindle
+* KEEP198/KEEP - 从Kindle中删除DRM
+* KEEP199/KEEP - 英转换到PDF转换指南
+* KEEP200/KEEP - 修复EPUB以使用发送到Kindle
 
 ***
 
 #  特别兴趣
 
-* ️ **[Survival / Prepping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_survival)**
-* ⭐ **[The Anarchist Library](https://theanarchistlibrary.org/special/index)** - 无政府主义
-* 关于" 科幻小说"的故事
-* 爱情 / 幻想
-* 想象中的东西
-* 保护的207__,保护的208__,保护的209__或保护的210__ - 儿童书籍
-* 保护的_211__,保护的_212__,保护的_213__或保护的_214__ - 艺术书籍
-* 保护的 - 音乐书籍
-* 视频游戏艺术书籍
-* 保护的 - - 克拉克·阿什顿·史密斯
-* 保护的_218__ - 书籍图书馆
-* 专业的专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业专业
-* 关于"鱼"的故事
-* 保护的 - 孤独狼游戏书
-* 保护性爱的文献
-* 们在们的家里,
-* 保护_224__ - 抗议文件
-* 保护社会主义/共产主义
-* 保护社会
-* 保护社会
-* 保护社会
-* 们在们的家里,
+* ️ **KEEP201/KEEP**
+* ⭐ **KEEP202/KEEP** - 无政府主义
+* KEEP203/KEEP - 科幻/幻想
+* KEEP204/KEEP或 KEEP205/KEEP - 浪漫 /幻想
+* KEEP206/KEEP - 幻想
+* KEEP207/KEEP, KEEP208/KEEP, KEEP209/KEEP或 KEEP210/KEEP - 儿童书籍
+* KEEP211/KEEP, KEEP212/KEEP, KEEP213/KEEP或 KEEP214/KEEP - 艺术书籍
+* KEEP215/KEEP - 音乐书籍
+* KEEP216/KEEP - 视频游戏艺术书籍
+* KEEP217/KEEP - 克拉克·阿什顿·史密斯
+* KEEP218/KEEP - 书籍图书馆
+* KEEP219/KEEP - 自动车小册子
+* KEEP220/KEEP - 书籍 / 幻想 / TTRPG
+* KEEP221/KEEP - 孤独狼游戏书
+* KEEP222/KEEP - 转性别专注的文学
+* KEEP223/KEEP - 无政府主义 / 翻译
+* KEEP224/KEEP - 抗议文件
+* KEEP225/KEEP - 社会主义/共产主义
+* KEEP226/KEEP - 共产主义
+* KEEP227/KEEP - 共产主义
+* KEEP228/KEEP - 共产主义
+* KEEP229/KEEP - 阴谋学书籍
 
 ***
 
 ## ▷ 轻小说
 
-*  **[Wotaku](https://wotaku.wiki/websites#novels)** - 轻小说网站指数 / [Discord](https://discord.gg/vShRGx8ZBC)
-*  **[EverythingMoe](https://everythingmoe.com/section/novel)**, [2](https://everythingmoe.org/section/novel) - 轻小说网站指数 / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
-*  **[The Index](https://theindex.moe/library/novels)** - 轻小说网站指数 / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* ⭐ **[⁠NovelFire](https://novelfire.net/)** - 在线阅读
-* ⭐ **[NovelCool](https://www.novelcool.com/)** - 在线阅读
-* ⭐ **[WuxiaClick](https://wuxia.click/)** - 在线阅读
-* 保护的 - 在线阅读
-* 保护的 - 在线阅读
-* 保护的 - 在线阅读
-* 为了实现人工智能翻译,需要在线阅读/注册
-* 保护的 - 在线阅读
-* 保护的247__, 保护的248__ - 在线阅读
-* 保护_249__ - 下载
-* 保护_250__ - 下载
-* 保护_251__ - 下载
-* 保护人 - 在线阅读
-* 保护人 - 在线阅读
-* 保护人 - 在线阅读
-* 保护的255__, 保护的256__ - 在线阅读
-* 保护人 - 在线阅读
-* 保护_258__ - 下载
-* 保护的_261__或_保护的_262__ - 在线阅读
-* 保护人 - 在线阅读
-* 保护的_264__ - 下载
-* 保护人 - 在线阅读
-* 保护人 - 在线阅读
-* 保护人 - 在线阅读
-* 保护的_268__ - 下载
-* 电报 / 下载
-* 电报 / 机器人
-* 网上小说
-* 网上小说
-* 网上小说
-* 网上小说
-* 关于""的故事
-* 关于""的故事
-* 保护的小说下载
-* 简单的版本:
-* 护的小说翻译器
+*  **KEEP230/KEEP** - 轻小说网站指数 / KEEP231/KEEP
+*  **KEEP232/KEEP**, KEEP233/KEEP - 轻小说网站指数 / KEEP234/KEEP / KEEP235/KEEP
+*  **KEEP236/KEEP** - 轻小说网站指数 / KEEP237/KEEP / KEEP238/KEEP
+* ⭐ **KEEP239/KEEP** - 在线阅读
+* ⭐ **KEEP240/KEEP** - 在线阅读
+* ⭐ **KEEP241/KEEP** - 在线阅读
+* KEEP242/KEEP - 在线阅读
+* KEEP243/KEEP - 在线阅读
+* KEEP244/KEEP - 在线阅读
+* KEEP245/KEEP - 需要在线阅读/注册才能进行人工智能翻译
+* KEEP246/KEEP - 在线阅读
+* KEEP247/KEEP, KEEP248/KEEP - 在线阅读
+* KEEP249/KEEP - 下载
+* KEEP250/KEEP - 下载
+* KEEP251/KEEP - 下载
+* KEEP252/KEEP - 在线阅读
+* KEEP253/KEEP - 在线阅读
+* KEEP254/KEEP - 在线阅读
+* KEEP255/KEEP, KEEP256/KEEP - 在线阅读
+* KEEP257/KEEP - 在线阅读
+* KEEP258/KEEP - 下载
+* KEEP259/KEEP, KEEP260/KEEP, KEEP261/KEEP或 KEEP262/KEEP - 在线阅读
+* KEEP263/KEEP - 在线阅读
+* KEEP264/KEEP - 下载
+* KEEP265/KEEP - 在线阅读
+* KEEP266/KEEP - 在线阅读
+* KEEP267/KEEP - 在线阅读
+* KEEP268/KEEP - 下载
+* KEEP269/KEEP或KEEP270/KEEP - 电报 / 下载
+* KEEP271/KEEP - 电报 / 机器人
+* KEEP272/KEEP - 网络小说
+* KEEP273/KEEP - 网络小说
+* KEEP274/KEEP - 网络小说
+* KEEP275/KEEP - 网络小说
+* KEEP276/KEEP - 小说 / 音频录音
+* KEEP277/KEEP - 小说 / 音频录音
+* KEEP278/KEEP / KEEP279/KEEP, KEEP280/KEEP, KEEP281/KEEP, KEEP282/KEEP或 KEEP283/KEEP - 轻小说下载者
+* KEEP284/KEEP - 改为EPub转换器
+* KEEP285/KEEP或 KEEP286/KEEP - 轻小说翻译者
 
 ***
 
 ## ▷ 迷幻 / 故事
 
-* ⭐ **[Archive of Our Own](https://archiveofourown.org/)** - 粉丝小说档案 / [Enhancements](https://github.com/jsmnbom/ao3-enhancements/)
-* ⭐ **[Short Stories](https://short-stories.co/)**
-* 关于"鱼"的故事
-* 保护的故事 / 诗歌 / 写作帮助
-* 保护人 - 出版短篇故事
-* 保护人 - 短篇故事
-* 保护人 - 短篇故事
-* 保护人 - 短篇故事
-* 保护人 - 短篇故事
-* 保护人 - 短篇故事
-* 保护的故事
-* 关于"古典小说故事"的杂志
-* 们在们的家里,
-* 关于"们"的故事
-* 关于"们"的故事
-* 关于"们"的故事
-* 爱好者,爱好者,爱好者
-* 爱好者,爱好者,爱好者
-* 爱好者,爱好者,爱好者
-* 爱好者,爱好者,爱好者
-* 爱好者/爱好者/爱好者/爱好者/爱好者/爱好者/爱好者/爱好者
-* 爱好者,爱好者,爱好者
-* 爱好者,爱好者,爱好者
-* 爱好者,爱好者,爱好者
-* 历史上的"如果"小说
-* 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 据报道, 报道, 据报道, 报道, 据报道, 报道,
-* 哈利波特迷人的小说
-* 们在们的家里,
-* 爱好者,爱好者,爱好者
+* ⭐ ** KEEP287/KEEP** - 粉丝小说档案 / KEEP288/KEEP
+* ⭐ ** KEEP289/KEEP**
+* KEEP290/KEEP - 虚构故事协作 / KEEP291/KEEP / KEEP292/KEEP
+* KEEP293/KEEP - 短篇故事 / 诗歌 / 写作帮助
+* KEEP294/KEEP - 出版短篇故事
+* KEEP295/KEEP - 短篇故事
+* KEEP296/KEEP - 短篇故事
+* KEEP297/KEEP - 短篇故事
+* KEEP298/KEEP - 短篇故事
+* KEEP299/KEEP - 短篇故事
+* KEEP300/KEEP - 经典短篇故事
+* KEEP301/KEEP - 经典小说故事杂志
+* KEEP302/KEEP - 随机短篇故事
+* KEEP303/KEEP - 虚构故事协作
+* KEEP304/KEEP - 虚构故事协作
+* KEEP305/KEEP - 虚构故事协作
+* KEEP306/KEEP - 粉丝小说
+* KEEP307/KEEP - 粉丝小说
+* KEEP308/KEEP - 粉丝小说
+* KEEP309/KEEP - 粉丝小说
+* KEEP310/KEEP - 粉丝小说 / KEEP311/KEEP
+* KEEP312/KEEP - 粉丝小说
+* KEEP313/KEEP - 粉丝小说
+* KEEP314/KEEP - 粉丝小说
+* KEEP315/KEEP - 历史上的"如果?"
+* KEEP316/KEEP / KEEP317/KEEP, KEEP318/KEEP或 KEEP319/KEEP - 犯罪空间故事
+* KEEP320/KEEP - 哈利波特粉丝小说
+* KEEP321/KEEP - 爱好者小说
+* KEEP322/KEEP - 粉丝小说
 
 ***
 
 ## ▷ 新闻
 
-*  **[Veridian](https://veridiansoftware.com/collections/)** - 新闻档案列表
-* ️ **[Bypass Newspaper Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ️ **[Worldwide News Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_news)**
-* ⭐ **[Mobilism Newspapers](https://forum.mobilism.org/viewforum.php?f=123)** / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[Google Newspaper Search](https://news.google.com/newspapers)**
-* 保护的
-* 报纸搜索
-* 电报
-* 电报 - 电报
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 报纸指数 - 报纸指数
-* 保护的
-* 报纸首页
-* 欧洲历史报纸
-* 保护日报 - 搜索/翻译全球报纸
+*  **KEEP323/KEEP** - 新闻档案列表
+* ️ **KEEP324/KEEP**
+* ️ **KEEP325/KEEP**
+* ⭐ **KEEP326/KEEP** / KEEP327/KEEP
+* ⭐ ** KEEP328/KEEP**
+* KEEP329/KEEP
+* KEEP330/KEEP - 新闻搜索
+* KEEP331/KEEP - 电报
+* KEEP332/KEEP - 电报
+* KEEP333/KEEP
+* KEEP334/KEEP
+* KEEP335/KEEP
+* KEEP336/KEEP
+* KEEP337/KEEP
+* KEEP338/KEEP
+* KEEP339/KEEP
+* KEEP340/KEEP
+* KEEP341/KEEP, KEEP342/KEEP或 KEEP343/KEEP - 网上报纸指数
+* KEEP344/KEEP
+* KEEP345/KEEP - 新闻首页
+* KEEP346/KEEP - 欧洲历史报纸
+* KEEP347/KEEP - 找/翻译全球报纸
 
 ***
 
 ## ▷ 异界 / 文化
 
-* ⭐ **[Sacred Text Archive](https://sacred-texts.com/)** - 宗教 / 神话 / 民间 / 爱索特里卡 / [Classic View](https://archive.sacred-texts.com/)
-* ⭐ **[Libris Adepti](https://librisadepti.com/)** - 异神 / 隐性
-* 保护的351__,保护的352__或保护的353__ - 魔术书籍
-* 保护人 - 宗教 / 魔术 / 佛教 / 异常学 / 哲学
-* 古代文本 / 神话 /  occult
-* 古代文本 / 神话
-* 保护的 - 圣经 / 宗教 / 佛教
-* 保护的 - 圣经 / 宗教 / 佛教
-* 保护的 - 圣经 / 宗教
-* 保护人 - 宗教 / 异世界 / 魔术
-* 关于"杀"的故事
-* 们在们的家里,
-* 们的生活,
-* 保护的 - 爱苏特里卡
-* 保护的
-* 其他国家:
-* 其他国家:
-* 其他国家:
-* 为了帮助人们,我们需要帮助他们.
-* 们的生活,
-* 红十字军东道主义
-* 保护的 - 精神主义 / 魔术期刊
-* 关于"尸"的说法
-* 保护的374__或保护的375__ - 神学
-* 论论 - 论论论
-* 印度教
-* 印度教
-* 印度教百科全书
-* 守之三百八十__或守之三百八十__ - 佛陀圣经应用程序
-* 保护人 - 圣洁主史瓦米 / 书籍 / 转录 / 书信
-* 佛教
-* 佛教百科全书
-* 佛教词典
-* 基督教/异教
-* 保护的宗教文本
-* 保护的 - 死海卷轴档案
-* 维护_389__ - 瓦蒂冈数字图书馆
-* 保护的390__,保护的391__或保护的392__ - 基督教圣经
-* 保护_393__ - 基督教圣经桌面应用程序
-* 保护人 - - 基督教
-* 子的子
-* 守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守的,守,守的,守,守的,守,守,守,守的,守,守,的,守,守,
-* 伊斯兰教相关项目/应用
-* 保护的 - 伊斯兰书籍
-* 伊斯兰研究应用程序
-* 道德翻译
-* 语翻译
-* 犹太文本翻译
-* 穆斯林学者数据库
-* 保护人 - 穆斯林资源
-* 保护_407__ - 穆斯林工具应用程序
-* ,我不想说.
+* ⭐ **KEEP348/KEEP** - 宗教 / 神话 / 民间 / 埃索特里卡 / KEEP349/KEEP
+* ⭐ ** KEEP350/KEEP** - 爱索特里卡 / 魔术
+* KEEP351/KEEP, KEEP352/KEEP或 KEEP353/KEEP - 魔术书籍
+* KEEP354/KEEP - 宗教 / 神 / 佛教 / 默默 / 哲学
+* KEEP355/KEEP - 古代文本 / 神话 /  occult
+* KEEP356/KEEP - 古代文本 / 神话
+* KEEP357/KEEP - 圣经 / 宗教 / 佛教
+* KEEP358/KEEP - 圣经 / 宗教 / 佛教
+* KEEP359/KEEP - 圣经 / 宗教
+* KEEP360/KEEP - 宗教 / 伊斯兰教 / 魔术
+* KEEP361/KEEP - 神话 / 阴谋 / 爱索特里卡
+* KEEP362/KEEP - 佛教主义
+* KEEP363/KEEP - 佛教主义 / 隐性主义
+* KEEP364/KEEP - 欧洲
+* KEEP365/KEEP - 欧洲
+* KEEP366/KEEP - 埃索特里卡 / 电报
+* KEEP367/KEEP - 埃索特里卡 / 电报
+* KEEP368/KEEP - 埃索特里卡 / 电报
+* KEEP369/KEEP - 埃索特里卡 / 电报
+* KEEP370/KEEP - 爱索特里卡 / 自由 Masonry
+* KEEP371/KEEP - 红十字军东道主义
+* KEEP372/KEEP - 精神主义/神秘期刊
+* KEEP373/KEEP - 形态学 / 阴谋 / 精神病
+* KEEP374/KEEP或KEEP375/KEEP - 神学
+* KEEP376/KEEP - 异常主义
+* KEEP377/KEEP - 印度教
+* KEEP378/KEEP - 印度教
+* KEEP379/KEEP - 印度教百科全书
+* KEEP380/KEEP或KEEP381/KEEP - 佛陀圣经应用程序
+* KEEP382/KEEP - 圣灵圣母 स्वामी / 书籍 / 转录 / 书信
+* KEEP383/KEEP - 佛教
+* KEEP384/KEEP - 佛教百科全书
+* KEEP385/KEEP - 佛教词典
+* KEEP386/KEEP - 基督教/异教
+* KEEP387/KEEP - 宗教文本
+* KEEP388/KEEP - 死海卷轴档案
+* KEEP389/KEEP - 瓦蒂冈数字图书馆
+* KEEP390/KEEP, KEEP391/KEEP或 KEEP392/KEEP - 基督教圣经
+* KEEP393/KEEP - 基督教圣经桌面应用程序
+* KEEP394/KEEP - 基督教
+* KEEP395/KEEP - 亨哥翻译
+* KEEP396/KEEP或 KEEP397/KEEP - 圣经翻译
+* KEEP399/KEEP - 伊斯兰教相关项目/应用
+* KEEP400/KEEP - 伊斯兰书籍
+* KEEP401/KEEP - 伊斯兰研究应用程序
+* KEEP402/KEEP - 塔尔摩德翻译
+* KEEP403/KEEP - 塔吉姆翻译
+* KEEP404/KEEP - 犹太文本翻译
+* KEEP405/KEEP - 穆斯林学者数据库
+* KEEP406/KEEP - 穆斯林资源
+* KEEP407/KEEP - 穆斯林工具应用程序
+* KEEP408/KEEP - 哈迪斯翻译
 
 ***
 
@@ -370,55 +370,55 @@
 
 ## ▷ 下载
 
-* ⭐ **[Mobilism Audiobooks](https://forum.mobilism.org/viewforum.php?f=124)**, 保护的_410__ / 保护的_411__
-* ⭐ **[AudiobookBay](https://audiobookbay.lu/)** - 流浪 / **[Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#audiobookbay-warning)**
-* ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - 保护的_415__
-* ⭐ **[Audiobook CSE](https://cse.google.com/cse?cx=006516753008110874046:cwbbza56vhd)**或 **[Rave Search](https://ravebooksearch.com/index-audiobooks)** - 多站点音频书搜索
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 通过使用_PROTECTED_427__
-* 电报 - 电报
-* 电报:
-* 保护的经典音频书
-* 保护儿童 儿童 听力故事
-* 保护的 - 音频书 / 诗歌
-* 保护_433__ - 音频书下载工具
+* ⭐ **KEEP409/KEEP**, KEEP410/KEEP / KEEP411/KEEP
+* ⭐ **KEEP412/KEEP** - 流水 / **KEEP413/KEEP**
+* ⭐ **KEEP414/KEEP** - KEEP415/KEEP
+* ⭐ **KEEP416/KEEP**或 **KEEP417/KEEP** - 多站点音频书搜索
+* KEEP418/KEEP
+* KEEP419/KEEP
+* KEEP420/KEEP
+* KEEP421/KEEP
+* KEEP422/KEEP
+* KEEP423/KEEP
+* KEEP424/KEEP
+* KEEP425/KEEP
+* KEEP426/KEEP - 使用 KEEP427/KEEP
+* KEEP428/KEEP - 电报
+* KEEP429/KEEP - 电报
+* KEEP430/KEEP - 经典音频书籍
+* KEEP431/KEEP - 儿童录音故事
+* KEEP432/KEEP - 音频书籍 / 诗歌
+* KEEP433/KEEP - 音频书下载工具
 
 ***
 
 ## ▷ 流媒体
 
-* ⭐ **[Tokybook](https://tokybook.com/)** / [Downloader](https://github.com/rahaaatul/TokySnatcher), [2](https://github.com/nazdridoy/audiobooksnatcher)
-* ⭐ **[NEPU Audiobooks](https://nepu.to/ebooks)**
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的_443__ / 保护的_444__
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护_451__ - 音频书应用程序 / 窗户 / 保护_451__ / 保护_452__
-* 选择播放列表
+* ⭐ **KEEP434/KEEP** / KEEP435/KEEP, KEEP436/KEEP
+* ⭐ ** KEEP437/KEEP**
+* KEEP438/KEEP
+* KEEP439/KEEP
+* KEEP440/KEEP
+* KEEP441/KEEP
+* KEEP442/KEEP
+* KEEP443/KEEP / KEEP444/KEEP
+* KEEP445/KEEP
+* KEEP446/KEEP
+* KEEP447/KEEP
+* KEEP448/KEEP
+* KEEP449/KEEP
+* KEEP450/KEEP - 音频书应用程序 / 窗户 / KEEP451/KEEP / KEEP452/KEEP
+* KEEP453/KEEP - 选择播放列表
 
 ***
 
 ## ▷ 音频书工具
 
-* 为了让我们可以获得更多的支持,
-* 保护_455__,保护_456__ / 保护_457__,保护_458__,保护_459__或保护_460__ (重置试验) - 将书籍/文档转换为音频书
-* 保护_461__ - 音频书格式转换器
-* 保护_462__,保护_463__或保护_464__ - 听力DRM移除器/管理器
-* 保护_465__ / 保护_466__ / 保护_467__, 保护_468__或 保护_469__ - 自主托管的音频书服务器
+* KEEP454/KEEP - 下载音频书封面
+* KEEP455/KEEP, KEEP456/KEEP / KEEP457/KEEP, KEEP458/KEEP, KEEP459/KEEP或 KEEP460/KEEP (重置试验) - 将书籍/文档转换为听力书
+* KEEP461/KEEP - 音频书格式转换器
+* KEEP462/KEEP, KEEP463/KEEP或 KEEP464/KEEP - 听力DRM移除器/管理器
+* KEEP465/KEEP / KEEP466/KEEP / KEEP467/KEEP, KEEP468/KEEP或 KEEP469/KEEP - 自主托管的音频书服务器
 
 ***
 
@@ -426,546 +426,546 @@
 
 ## ▷ 漫画
 
-* ⭐ **[ReadComicsOnline](https://readcomiconline.li/)**
-* ⭐ **[BatCave](https://batcave.biz/)** - 可能需要VPN
-* ⭐ **[GetComics](https://getcomics.org/)** - 下载漫画
-* ⭐ **[ComicBookPlus](https://comicbookplus.com/)** - 黄金时代漫画
-* ⭐ **[Explosm](https://explosm.net/rcg)** - 化和幸福网漫画
-* ⭐ **[xkcd](https://xkcd.com/)**或_PROTECTED_476__ - 网络漫画 / [Explanations](https://www.explainxkcd.com/wiki/index.php/Main_Page)
-* ⭐ **[Comic CSE](https://cse.google.com/cse?cx=006516753008110874046:p4hgytyrohg)** - 多站点漫画搜索
-* 保护的482__,保护的483__,保护的484__,保护的486__,保护的487__,保护的488__或__保护的489__ - 漫画读者 / 管理者
-* 保护的
-* 保护的
-* 保护的
-* 周刊下载
-* 保护的
-* 黄金时代漫画下载
-* 黄金时代漫画下载
-* 们在们的家里,
-* 为了让我们能够获得更多的支持,
-* 网红漫画
-* 网上漫画
-* 网上漫画
-* 超级英雄网络漫画
-* 保护_504__ - 需要电源
-* 漫画档案工具
-* 为了让我们可以在线观看,
-* 为了让我们能够获得更多的支持,
-* 们在们的家里,
-* 们在们的家里,
-* 网红漫画下载器
-* 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频: 视频:
-* 标签: 标签: 标签:
+* ⭐ **KEEP470/KEEP**
+* ⭐ ** KEEP471/KEEP** - 可能需要VPN
+* ⭐ ** KEEP472/KEEP** - 下载漫画
+* ⭐ ** KEEP473/KEEP** - 黄金时代漫画
+* ⭐ ** KEEP474/KEEP** - 化和幸福网漫画
+* ⭐ ** KEEP475/KEEP**或 KEEP476/KEEP - xkcd 网络漫画 / KEEP477/KEEP
+* ⭐ ** KEEP478/KEEP** - 多站点漫画搜索
+* KEEP482/KEEP, KEEP484/KEEP, KEEP486/KEEP, KEEP487/KEEP, KEEP488/KEEP或 KEEP489/KEEP - 漫画读者/经理
+* KEEP490/KEEP
+* KEEP491/KEEP
+* KEEP492/KEEP
+* KEEP493/KEEP - 周刊下载
+* KEEP494/KEEP
+* KEEP495/KEEP - 黄金时代漫画下载
+* KEEP496/KEEP - 黄金时代漫画下载
+* KEEP497/KEEP - 漫画条
+* KEEP498/KEEP - 漫画条 / KEEP499/KEEP
+* KEEP500/KEEP - 网络漫画
+* KEEP501/KEEP - 网络漫画
+* KEEP502/KEEP - 网络漫画
+* KEEP503/KEEP - 超级英雄网络漫画
+* KEEP504/KEEP - 需要使用 Tor
+* KEEP505/KEEP - 漫画档案工具
+* KEEP506/KEEP, KEEP507/KEEP, KEEP508/KEEP - 漫画下载
+* KEEP509/KEEP或 KEEP510/KEEP - 网上漫画阅读器
+* KEEP511/KEEP - 用户制作的漫画
+* KEEP512/KEEP - 漫画翻译
+* KEEP513/KEEP - 网络漫画下载器
+* KEEP514/KEEP - 漫画 / 漫画媒体服务器 / KEEP515/KEEP / KEEP516/KEEP
+* KEEP517/KEEP - 漫画元数据标记器
 
 ***
 
 ## ▷ 漫画
 
-*  **[Wotaku](https://wotaku.wiki/websites#manga)** / [Discord](https://discord.gg/vShRGx8ZBC), [The Index](https://theindex.moe/library/manga) / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)或 [EverythingMoe](https://everythingmoe.com/section/manga), [2](https://everythingmoe.org/#section-manga) / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS) - 漫画网站索引
-*  **[Rawmangaz](https://claraiscute.neocities.org/Guides/rawmangaz/)** - 原料漫画网站列表
-* ️ **[Manga Readers / Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_readers)**
-* ️ **[Manga Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_manga_downloaders)**
-* ⭐ **[Weeb Central](https://weebcentral.com/)**
-* ⭐ **[MangaDex](https://mangadex.org/)** / [Downloader](https://mangadex-dl.mansuf.link/) / [Script](https://github.com/frozenpandaman/mangadex-dl) / [Subreddit](https://www.reddit.com/r/mangadex/) / [Discord](https://discord.gg/mangadex)
-* ⭐ **[MangaPark](https://mangapark.net/)** / [Discord](https://discord.gg/jctSzUBWyQ)
-* ⭐ **[⁠Comix](https://comix.to/)** / [Subreddit](https://reddit.com/r/comix) / [Discord](https://discord.com/invite/kZgWWHUj22)
-* ⭐ **[MangaFire](https://mangafire.to/)** / [Subreddit](https://www.reddit.com/r/Mangafire/) / [Discord](https://discord.com/invite/KRQQKzQ6CS)
-* ⭐ **[MangaNato](https://www.manganato.gg/)**, _PROTECTED_545__, _PROTECTED_546__, _PROTECTED_547__ / _PROTECTED_548__
-* ⭐ **[BATO.TO](https://bato.to/)**, [2](https://fto.to/) / [Mirrors](https://batotomirrors.pages.dev/) / [Discord](https://discord.com/invite/batoto)
-* ⭐ **[Kagane](https://kagane.org/)** / [Discord](https://discord.com/invite/kBPYVSzwUE)
-* ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - 流浪
-* 保护的
-* 保护的_557__ / 保护的_558__
-* 保护的_559__,保护的_560__或保护的_561__
-* 保护的
-* 保护的
-* 保护的
-* 保护的_565__或保护的_566__
-* 保护的
-* 保护的
-* 保护的_569__
-* 保护的570__
-* 保护的
-* 保护的_572__
-* 网站链接: 网站链接:
-* 保护_575__ - 使用 [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
-* 保护人群
-* 马 / 马 / 马
-* 保护人群
-* 保护人群
-* 保护人
-* 果版的果版
-* 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子
-* 果版的版本:
-* 子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子
-* 果版版 / 发布更新
-* 果版的果版
-* 果版的版本:
-* 果版的自主播放
-* 预装图像,记住进步和键盘支持
-* 果版的果版
-* 果版的管理者
-* 检查发布更新
+*  **KEEP518/KEEP** / KEEP519/KEEP, KEEP520/KEEP / KEEP521/KEEP / KEEP522/KEEP或 KEEP523/KEEP, KEEP524/KEEP / KEEP525/KEEP / KEEP526/KEEP - 漫画网站索引
+*  **KEEP527/KEEP** - 原料漫画网站列表
+* ️ **KEEP528/KEEP**
+* ️ **KEEP529/KEEP**
+* ⭐ **KEEP530/KEEP**
+* ⭐ **KEEP531/KEEP** / KEEP532/KEEP / KEEP533/KEEP / KEEP534/KEEP / KEEP535/KEEP
+* ⭐ **KEEP536/KEEP** / KEEP537/KEEP
+* ⭐ **KEEP538/KEEP** / KEEP539/KEEP / KEEP540/KEEP
+* ⭐ **KEEP541/KEEP** / KEEP542/KEEP / KEEP543/KEEP
+* ⭐ **KEEP544/KEEP**, KEEP545/KEEP, KEEP546/KEEP, KEEP547/KEEP / KEEP548/KEEP
+* ⭐ **KEEP549/KEEP**, KEEP550/KEEP / KEEP551/KEEP / KEEP552/KEEP
+* ⭐ **KEEP553/KEEP** / KEEP554/KEEP
+* ⭐ **KEEP555/KEEP** - 流
+* KEEP556/KEEP
+* KEEP557/KEEP / KEEP558/KEEP
+* KEEP559/KEEP, KEEP560/KEEP或 KEEP561/KEEP
+* KEEP562/KEEP
+* KEEP563/KEEP
+* KEEP564/KEEP
+* KEEP565/KEEP或 KEEP566/KEEP
+* KEEP567/KEEP
+* KEEP568/KEEP
+* KEEP569/KEEP
+* KEEP570/KEEP
+* KEEP571/KEEP
+* KEEP572/KEEP
+* KEEP573/KEEP - 多个网站网页客户端
+* KEEP575/KEEP - 使用 KEEP576/KEEP
+* KEEP577/KEEP - 曼瓦 / 曼瓦
+* KEEP578/KEEP - 曼华
+* KEEP580/KEEP - 曼华
+* KEEP581/KEEP - 曼华
+* KEEP582/KEEP - 曼哈华
+* KEEP583/KEEP或KEEP584/KEEP - 漫画扫描组
+* KEEP585/KEEP - 马卡米卡米下载指南
+* KEEP587/KEEP或KEEP588/KEEP - 用户创建的漫画
+* KEEP589/KEEP或KEEP590/KEEP - 漫画下载
+* KEEP591/KEEP - 漫画数据库 / 发布更新
+* KEEP592/KEEP / KEEP593/KEEP - 多站点漫画搜索
+* KEEP594/KEEP - 漫画应用程序 / 窗户 / KEEP595/KEEP / KEEP596/KEEP
+* KEEP597/KEEP - 自主主持漫画应用
+* KEEP598/KEEP - 预装图像,记住进展和键盘支持
+* KEEP599/KEEP, KEEP600/KEEP或 KEEP601/KEEP - 漫画翻译
+* KEEP602/KEEP - 漫画经理
+* KEEP603/KEEP - 扫描发布更新
 
 ***
 
 ## ▷ 杂志
 
-* ⭐ **[Mobilism Magazines](https://forum.mobilism.org/viewforum.php?f=123)** - 多主机 / [User Ranks](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#mobilism-ranks)
-* ⭐ **[PDFMagazines](https://pdfmagazines.club/)** - 新文件
-* ⭐ **[DownMagaz](https://downmagaz.net/)** - 新文件/轮
-* ⭐ **[MagazineLib](https://magazinelib.com/)** - 维基
-* 保护人 - 在线阅读
-* 保护性_610__ - 在线阅读
-* 保护性质的信息
-* 保护的信息
-* 保护的信息
-* 保护的_614__ - VK
-* 保护的_615__ - VK
-* 保护的_616__ - VK
-* 电报:
-* 电报:
-* 保护_619__ - 光/新文件
-* 保护_620__ - 新文件
-* 保护_621__ - 新文件
-* 保护_622__ - 新文件
-* 保护_623__ - 新文件
-* 射气
-* 保护地球科学杂志
-* 其他媒体报道
-* 博杂志
-* 保护性质的电子产品
-* 电子游戏世界杂志
-* 据悉, 美国的计算机技术技术技术技术
-* 据报道, 美国政府已将其推出.
-* 家庭电力杂志
-* 时尚杂志
-* 音乐杂志
+* ⭐ **KEEP604/KEEP** - 多主机 / KEEP605/KEEP
+* ⭐ **KEEP606/KEEP** - 新文件
+* ⭐ **KEEP607/KEEP** - 新文件/轮
+* ⭐ **KEEP608/KEEP** - 维克
+* KEEP609/KEEP - 在线阅读
+* KEEP610/KEEP - 在线阅读
+* KEEP611/KEEP - 在线阅读
+* KEEP612/KEEP - 档案网
+* KEEP613/KEEP - 档案网
+* KEEP614/KEEP - VK
+* KEEP615/KEEP - 维克
+* KEEP616/KEEP - 维克
+* KEEP617/KEEP - 电报
+* KEEP618/KEEP - 电报
+* KEEP619/KEEP - 尼特洛光/新文件
+* KEEP620/KEEP - 新文件
+* KEEP621/KEEP - 新文件
+* KEEP622/KEEP - 新文件
+* KEEP623/KEEP - 新文件
+* KEEP624/KEEP - 酸
+* KEEP625/KEEP - 全地球科学杂志
+* KEEP626/KEEP - 其他灵感杂志
+* KEEP627/KEEP, KEEP628/KEEP或 KEEP629/KEEP - 退休游戏杂志
+* KEEP630/KEEP - PC区杂志
+* KEEP631/KEEP - 计算机游戏世界杂志
+* KEEP632/KEEP - 经典计算机杂志档案
+* KEEP633/KEEP - 广播电台目录档案
+* KEEP634/KEEP - 家庭电力杂志
+* KEEP635/KEEP - 时尚杂志
+* KEEP636/KEEP - 音乐杂志
 
 ***
 
 #  教育书籍
 
-* ️ **[Language Learning Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_language_learning)**
-* ️ **[Dictionaries / Thesaurus'](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_dictionaries_.2F_thesaurus)**
-* ️ **[Encyclopedias](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_encyclopedias)**
-* ⭐ **[Openstax](https://openstax.org/)**
-* ⭐ **[AcademicTorrents](https://academictorrents.com/)**
-* 保护_642__ - 要求机构访问的PDF文件
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的_647__, 保护的_648__, 保护的_649__
-* 保护的_650__
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的,保护的,保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护性资源,指南,测试,工具等
-* 保护的书籍
-* 保护的书籍
-* 保护的书籍
-* 为了让我们可以找到一个好处的东西
-* 保护性质的信息
-* 保护性 - 互动性CC-12
-* 保护的书籍 / 考试书籍
-* 保护的大学图书馆
-* 专业研究库搜索
-* 保护性问题 - 论坛 / 科学
-* 保护世界文化百科全书
-* 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子 子
-* 伊朗文化百科全书
-* 贸易 / 股票
-* 医疗保健
-* 动物医疗
-* 国际法书籍 / 免费仅供学生使用
+* ️ **KEEP637/KEEP**
+* ️ **KEEP638/KEEP**
+* ️ **KEEP639/KEEP**
+* ⭐ **KEEP640/KEEP**
+* ⭐ ** KEEP641/KEEP**
+* KEEP642/KEEP - 要求机构访问PDF文件
+* KEEP643/KEEP
+* KEEP644/KEEP
+* KEEP645/KEEP
+* KEEP646/KEEP
+* KEEP647/KEEP, KEEP648/KEEP, KEEP649/KEEP
+* KEEP650/KEEP
+* KEEP651/KEEP
+* KEEP652/KEEP
+* KEEP653/KEEP
+* KEEP654/KEEP
+* KEEP655/KEEP
+* KEEP656/KEEP
+* KEEP657/KEEP
+* KEEP658/KEEP
+* KEEP659/KEEP
+* KEEP660/KEEP, KEEP661/KEEP
+* KEEP662/KEEP
+* KEEP663/KEEP
+* KEEP664/KEEP
+* KEEP665/KEEP
+* KEEP666/KEEP
+* KEEP667/KEEP
+* KEEP668/KEEP
+* KEEP669/KEEP
+* KEEP670/KEEP
+* KEEP671/KEEP
+* KEEP672/KEEP
+* KEEP673/KEEP - 学习资源,指南,测试,工具等
+* KEEP674/KEEP - 书籍 /期刊
+* KEEP675/KEEP - 书籍 /期刊
+* KEEP676/KEEP - 书籍 /期刊
+* KEEP677/KEEP - 子书籍系列
+* KEEP678/KEEP - 创意共享书籍
+* KEEP679/KEEP - 互动CK-12
+* KEEP680/KEEP - 书籍 / 考试书籍
+* KEEP681/KEEP - 网上大学图书馆
+* KEEP682/KEEP - 学术库搜索
+* KEEP683/KEEP - 论坛 / 科学
+* KEEP684/KEEP - 世界文化百科全书
+* KEEP685/KEEP - 日本文化/历史百科全书
+* KEEP686/KEEP - 伊朗文化百科全书
+* KEEP687/KEEP - 交易/股票
+* KEEP688/KEEP - 医疗
+* KEEP689/KEEP - 兽医
+* KEEP690/KEEP - 国际法书籍 / 仅供学生免费阅读
 
 ***
 
 ## ▷ 教科书
 
-* ️ **[JEE / NEET Textbooks](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_jee_.2F_neet)**
-*  **[IvyPanda](https://ivypanda.com/blog/1000-open-textbooks-and-learning-resources-for-all-subjects/)** - 开源教科书
-* 保护的书籍
-* 保护_695__ - 教科书
-* 保护的书籍
-* 保护的书籍
-* 保护_698__ - 课本
-* 保护性_699__ - 开放内容的文本
-* 计算教科书
-* 保护_701__ - 皮尔森教科书 下载指南
+* ️ **KEEP691/KEEP**
+*  **KEEP692/KEEP** - 开源教科书
+* KEEP693/KEEP, KEEP694/KEEP - 搜索教科书
+* KEEP695/KEEP - 教科书
+* KEEP696/KEEP - 教科书
+* KEEP697/KEEP - 教科书
+* KEEP698/KEEP - 教科书
+* KEEP699/KEEP - 开放内容的文本
+* KEEP700/KEEP - 计算教科书
+* KEEP701/KEEP - 皮尔森教科书下载指南
 
 ***
 
 ## ▷ STEM资源
 
-*  **[Awesome AI](https://github.com/owainlewis/awesome-artificial-intelligence#free-content)** - 人工智能书籍
-* 保护的科学
-* 关于"鱼"的研究
-* 保护的_705__ - 书籍 / 笔记 / 天文学 / 物理
-* 专业技术: 理论物理
-* 化学 / 书籍
-* 生物 / 书籍
-* 专业知识 - 数学 / 书籍
-* 专业知识 - 数学 / 书籍
-* 专业知识 - 数学 / 书籍
-* 电子设备
-* 电子图案 / 模拟
-* 半导体 Wiki
-* 保护的信息
-* 专业的计算机
+*  **KEEP702/KEEP** - 人工智能书籍
+* KEEP703/KEEP - 科学
+* KEEP704/KEEP - 播客/节目/科学
+* KEEP705/KEEP - 书籍 / 笔记 / 天文学 / 物理
+* KEEP706/KEEP - 理论物理
+* KEEP707/KEEP - 化学 / 书籍
+* KEEP708/KEEP - 生物学 / 书籍
+* KEEP709/KEEP - 数学 / 书籍
+* KEEP710/KEEP - 数学 / 书籍
+* KEEP711/KEEP - 数学 / 书籍
+* KEEP712/KEEP - 电子
+* KEEP713/KEEP - 电子图案 /模拟
+* KEEP714/KEEP - 半导体维基
+* KEEP715/KEEP - 信息书籍
+* KEEP716/KEEP - 高级计算机解释
 
 ***
 
 ## 历史书
 
-*  **[r/AskHistorians Recommended](https://www.reddit.com/r/AskHistorians/wiki/books)** - 推的历史书籍
-* ⭐ **[EarlyModernTexts](https://www.earlymoderntexts.com)** - 历史文本
-* ⭐ **[World History](https://www.worldhistory.org/)**或_PROTECTED_720__ - 历史百科全书
-* 历史书籍
-* 保护_722__,保护_723__或保护_724__ - 历史文本/书籍
-* 美国历史
-* 保护的_726__ - 经典文学集 / [Full List](https://docs.google.com/spreadsheets/d/1OGFA-vSmu7yTZutb9f7uVZGT2mWkKYP1sWO2-I3huQQ/)
-* 保护_728__ - 经典 / 希腊 / 罗马 / 阿拉伯 / 德国
-* 历史故事
-* 爱尔兰人 / 历史 / 文学 / 政治
-* 文件的指数
-* 历史文件
-* 保护_733__ - 历史文件
-* 美国历史文件
-* 欧洲历史文件
-* 保护_736__ - 英国历史文件
-* 历史希腊文档
-* 保护_738__ - 犹太/以色列历史百科全书
-* 广播历史档案
-* 保护_740__或保护_741__ - 音乐手稿
-* 保护的战争文件
-* 军事歌曲书
-* 保护的 - 中世纪军事历史
-* 维护的 - 拜占庭军事历史
-* 保护的海洋历史
-* 历史欧洲武术 Wiki
-* 艾米丽·迪金森的碎片 / 文本
-* 保护海盗历史博客
-* 维护的 - 文森特·范高的信件
-* 为了保护女性的健康,
+*  **KEEP717/KEEP** - 推历史书籍
+* ⭐ **KEEP718/KEEP** - 历史文本
+* ⭐ **KEEP719/KEEP**或 KEEP720/KEEP - 历史百科全书
+* KEEP721/KEEP - 历史书籍
+* KEEP722/KEEP, KEEP723/KEEP或 KEEP724/KEEP - 历史文本/书籍
+* KEEP725/KEEP - 美国历史
+* KEEP726/KEEP - 经典文学集
+* KEEP728/KEEP - 经典 / 希腊 / 罗马 / 阿拉伯 / 德国
+* KEEP729/KEEP - 历史故事
+* KEEP730/KEEP - 爱尔兰 / 历史 / 文学 / 政治
+* KEEP731/KEEP - 1980年代文本文件指数
+* KEEP732/KEEP - 历史文件
+* KEEP733/KEEP - 历史文件
+* KEEP734/KEEP - 美国历史文件
+* KEEP735/KEEP - 欧洲历史文件
+* KEEP736/KEEP - 英国历史文件
+* KEEP737/KEEP - 希腊历史文件
+* KEEP738/KEEP - 犹太/以色列历史百科全书
+* KEEP739/KEEP - 广播历史档案
+* KEEP740/KEEP或 KEEP741/KEEP - 音乐手稿
+* KEEP742/KEEP - 第二次世界大战装甲战争文件 / KEEP743/KEEP
+* KEEP744/KEEP - 军事歌曲书
+* KEEP745/KEEP - 中世纪军事历史
+* KEEP746/KEEP - 拜占庭军事历史
+* KEEP747/KEEP - 海洋历史
+* KEEP748/KEEP - 历史欧洲武术维基
+* KEEP749/KEEP - 艾米丽·迪金森的碎片 / 文字
+* KEEP750/KEEP - 海盗历史博客
+* KEEP751/KEEP - 文森特·范高的信件
+* KEEP752/KEEP - 跨性别历史档案
 
 ***
 
 ## 引用 / 诗歌
 
-* ⭐ **[Wikiquote](https://en.wikiquote.org)**
-* ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)**
-* 保护的书 - 合作的智慧书 / 引用
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
+* ⭐ ** KEEP753/KEEP**
+* ⭐ ** KEEP754/KEEP**
+* KEEP755/KEEP - 合作智慧书 / 引用
+* KEEP756/KEEP
+* KEEP757/KEEP
+* KEEP758/KEEP
+* KEEP759/KEEP
+* KEEP760/KEEP
+* KEEP761/KEEP
+* KEEP762/KEEP
+* KEEP763/KEEP
+* KEEP764/KEEP
+* KEEP765/KEEP
+* KEEP766/KEEP
+* KEEP767/KEEP
+* KEEP768/KEEP
 
 ***
 
 ## ▷ 编程书籍
 
-*  **[Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books)** - 编程书指数
-* ⭐ **[O'Reilly](https://www.oreilly.com/)** - 技术 / 编程 / [Downloader](https://github.com/lorenzodifuccia/safaribooks) / 通过清除cookies和创建新帐户进行无限试验
-* ⭐ **[ScanLibs](https://scanlibs.com/)**, 保护的773__, 保护的774__
-* ⭐ **[EbookFoundation Programming Books](https://ebookfoundation.github.io/free-programming-books/)**
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 保护的781
-* 保护的
-* 保护的
-* 保护的
-* 保护的
-* 根据"Python数据科学"的规定,
-* 们在们的家里,
-* 博平台 - 博平台
-* 技术 / 编程
-* 为了帮助我们,我们需要一个新的平台.
-* 保护_792__ - 在HN上提到的书籍
+*  **KEEP769/KEEP** - 编程书指数
+* ⭐ ** KEEP770/KEEP** - 技术 / 编程 / KEEP771/KEEP / 通过清除cookies和创建新帐户进行无限试用
+* ⭐ **KEEP772/KEEP**, KEEP773/KEEP, KEEP774/KEEP
+* ⭐ **KEEP775/KEEP**
+* KEEP776/KEEP
+* KEEP777/KEEP
+* KEEP778/KEEP
+* KEEP779/KEEP
+* KEEP780/KEEP
+* KEEP781/KEEP
+* KEEP782/KEEP
+* KEEP783/KEEP
+* KEEP784/KEEP
+* KEEP785/KEEP
+* KEEP786/KEEP - 字符串数据科学
+* KEEP788/KEEP - 戈兰书籍
+* KEEP789/KEEP - JavaScript书籍
+* KEEP790/KEEP - 技术/编程
+* KEEP791/KEEP - 象棋编程维基
+* KEEP792/KEEP - 在HN上提到的书籍
 
 ***
 
 ## ▷ 学术论文
 
-* ️ **[Study / Research Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_study_.2F_research)**
-* ️ **[Research Paper Chatbots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_specialized_chatbots)**
-* ⭐ **[Sci-Hub](https://sci-hub.se/)** - 科学文章 / 研究论文 / [Mirrors](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down) / [VK](https://vk.com/sci_hub) / [Subreddit](https://reddit.com/r/scihub)
-* ⭐ **科学中心工具** - [Official TG Bot](https://t.me/scihubot), [2](https://t.me/freescience) / [Extension](https://addons.mozilla.org/en-US/firefox/addon/sci-hub-scholar/) / [DL Button](https://greasyfork.org/zh-CN/scripts/370246-sci-hub-button), [2](https://github.com/gchenfc/sci-hub-now) / [PDF Download](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) / [Dumps](https://redd.it/edwi9b) / [DOI Redirect](https://greasyfork.org/en/scripts/412498)
-* ⭐ **[arXiv](https://arxiv.org/)**或_PROTECTED_808__ - 研究论文
-* ⭐ **arXiv工具** - 保护_809__, 保护_810__ / 保护_811__ / 保护_812__, 保护_813__ / 保护_814__
-* ⭐ **[Google Scholar](https://scholar.google.com/)** - 学术论文搜索引擎
-* ⭐ **[Citrus Search](https://citrus-search.com/)** - 找到类似的研究论文
-* ⭐ **[ResearchGate](https://www.researchgate.net/)** - 研究论文 /出版物
-* ⭐ **[SciLit](https://www.scilit.com/)** - 研究论文 /出版物
-* ⭐ **[Mendeley](https://www.mendeley.com/)** - 研究论文 / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/)
-* 技术研究报告 / 技术研究报告
-* 保护性工作
-* 保护性_825__ - 研究论文/出版物
-* 保护性研究论文
-* 专业论文搜索引擎
-* 专业论文搜索引擎
-* 专业论文搜索引擎
-* 专业论文搜索引擎
-* 专业论文搜索引擎
-* 关于""的文章
-* 专利数据库
-* 专利数据库
-* 专业论文 / 专业论文
-* 专业论文
-* 公共资源研究
-* 保护性_840__ - 研究论文/出版物
-* 保护的研究论文
-* 保护的研究论文
-* 保护的研究论文
-* 保护性_844__ - 研究论文
-* 保护性_845__ - 研究论文
-* 保护的研究论文
-* 保护的研究论文
-* 保护_848__ - 研究数据
-* 已撤销的研究论文
-* 保护性论文
-* 保护性论文
-* 计算机视觉研究论文
-* 经济研究论文
-* 心理研究论文
-* 保护性研究论文
-* 保护的_857__ - 研究论文
-* 保护性研究论文
-* 保护的_859__ - 研究论文
-* 保护性_860__ - 研究论文
-* 保护性_861__ - 研究论文
-* 保护性研究论文
-* 保护性质的研究
-* 保护性研究论文
-* 专业专业研究论文
-* 预训练式语言模型调整文件
-* 专业论文 / 学术
-* 保护_868__ - 数据集
-* 保护_869__ - 数据集
-* 保护_870__ - 数据集
-* 保护_871__ - 数据集
-* 生物多样性数据集
-* 标记数据发布
-* 医疗杂志 / 保护
-* 医疗杂志
-* 医疗杂志
-* 生物医学/生命科学期刊
-* 医药预印
-* 生物学预印
-* 生物科学期刊
-* 保护_882__ - 早期研究论文
-* 关于科学研究的评论 / 评论
-* 保护性_884__,保护性_885__,保护性_886__,保护性_887__或保护性_888__ - AI研究论文
-* 互联网审查研究论文
-* 找相关学术论文
+* ️ **KEEP793/KEEP**
+* ️ **KEEP794/KEEP**
+* ⭐ **KEEP795/KEEP** - 科学文章 / 研究论文 / KEEP796/KEEP / KEEP797/KEEP / KEEP798/KEEP
+* ⭐ **科学中心工具** - KEEP799/KEEP, KEEP800/KEEP / KEEP801/KEEP / KEEP802/KEEP, KEEP803/KEEP / KEEP804/KEEP / KEEP805/KEEP / KEEP806/KEEP
+* ⭐ **KEEP807/KEEP**或 KEEP808/KEEP - 研究论文
+* ⭐ **arXiv工具** - KEEP809/KEEP, KEEP810/KEEP / KEEP811/KEEP / KEEP812/KEEP, KEEP813/KEEP / KEEP814/KEEP
+* ⭐ ** KEEP815/KEEP** - 学术论文搜索引擎
+* ⭐ **KEEP816/KEEP** - 找到类似的研究论文
+* ⭐ **KEEP817/KEEP** - 研究论文/出版物
+* ⭐ **KEEP818/KEEP** - 研究论文/出版物
+* ⭐ **KEEP819/KEEP** - 研究论文 / KEEP820/KEEP / KEEP821/KEEP
+* KEEP822/KEEP - 智能智能研究论文搜索
+* KEEP824/KEEP - 论文总结
+* KEEP825/KEEP - 研究论文/出版物
+* KEEP826/KEEP - 研究论文
+* KEEP827/KEEP - 学术论文搜索引擎
+* KEEP828/KEEP - 学术论文搜索引擎
+* KEEP829/KEEP - 学术论文搜索引擎
+* KEEP831/KEEP - 学术论文搜索引擎
+* KEEP832/KEEP - 学术论文搜索引擎
+* KEEP833/KEEP - 文章 论文 搜索引擎
+* KEEP834/KEEP - 研究论文/专利数据库
+* KEEP835/KEEP - 研究论文/专利数据库
+* KEEP836/KEEP - 学术论文 / KEEP837/KEEP
+* KEEP838/KEEP - 学术论文
+* KEEP839/KEEP - 集众研究
+* KEEP840/KEEP - 研究论文/出版物
+* KEEP841/KEEP - 研究论文
+* KEEP842/KEEP - 研究论文
+* KEEP843/KEEP - 研究论文
+* KEEP844/KEEP - 研究论文
+* KEEP845/KEEP - 研究论文
+* KEEP846/KEEP - 研究论文
+* KEEP847/KEEP - 研究论文
+* KEEP848/KEEP - 研究数据
+* KEEP849/KEEP - 退休的研究论文
+* KEEP850/KEEP - 科研论文搜索
+* KEEP851/KEEP - 科研论文搜索
+* KEEP852/KEEP - 计算机视觉研究论文
+* KEEP853/KEEP或 KEEP854/KEEP - 经济研究论文
+* KEEP855/KEEP - 心理学研究论文
+* KEEP856/KEEP - 社会科学研究论文
+* KEEP857/KEEP - 研究论文
+* KEEP858/KEEP - 研究论文
+* KEEP859/KEEP - 研究论文
+* KEEP860/KEEP - 研究论文
+* KEEP861/KEEP - 研究论文
+* KEEP862/KEEP - 研究论文
+* KEEP863/KEEP - 研究论文
+* KEEP864/KEEP - 研究论文
+* KEEP865/KEEP - 士学位相关研究论文
+* KEEP866/KEEP - 预训练语言模型调整文件
+* KEEP867/KEEP - 论文 / 学术
+* KEEP868/KEEP - 数据集
+* KEEP869/KEEP - 数据集
+* KEEP870/KEEP - 数据集
+* KEEP871/KEEP - 数据集
+* KEEP872/KEEP - 生物多样性数据集
+* KEEP873/KEEP - R 标记数据发布
+* KEEP874/KEEP - 医学期刊 / KEEP875/KEEP
+* KEEP876/KEEP - 医学期刊
+* KEEP877/KEEP - 医学期刊
+* KEEP878/KEEP - 生物医学/生命科学期刊
+* KEEP879/KEEP - 医学预印
+* KEEP880/KEEP - 生物学预印
+* KEEP881/KEEP - 生物科学期刊
+* KEEP882/KEEP - 早期研究论文
+* KEEP883/KEEP - 查看科学研究批评 / 评论 
+* KEEP884/KEEP, KEEP885/KEEP, KEEP886/KEEP, KEEP887/KEEP或 KEEP888/KEEP - AI研究论文
+* KEEP889/KEEP或 KEEP890/KEEP - 互联网审查研究论文
+* KEEP891/KEEP或KEEP892/KEEP - 找到相关学术论文
 
 ***
 
 ## ▷ 文件/文章
 
-* ️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[TheFreeLibrary](https://www.thefreelibrary.com/)** - 文章
-* ⭐ **[Nexus Search](https://t.me/nexus_search/214)**, [2](https://t.me/libgen_scihub_science_nexus_bot) - 科学 / 文章
-* 保护_897__ - 公开的谷歌文件
-* 保护_898__ - 文件搜索
-* 文件搜索
-* 保护_900__ - 文件搜索
-* 保护_901__ - 文件搜索
-* 保护_902__ - 文件搜索
-* 保护性 - 科学 / 文章
-* 保护性 - 科学 / 文章
-* 保护_905__ - 期刊/文章
-* 保护_906__ - 期刊/文章
-* 保护的_907__ - 条款
-* 保护_908__ - 条款
-* 保护性教育专业
-* 国际关系条款
-* 保护工作的文件
-* 保护_912__ - 文件 / 文本 / 文件
-* 保护_913__ - 加拿大文件档案馆
-* 澳大利亚文件档案馆
-* 专题论文 /论文
-* 简单的论文
-* 保护_917__ - 报告
-* 保护_918__ - 报告
-* 保护_919__ - 解决贫困问题的研究数据
-* 艾因斯坦收集的文件档案
-* 论文 / 标签 现代
-* 保护_922__ - 历史 / 报告
-* 保护_923__ - 未审查 / 解除机密文件
-* 保护_924__ - 已被解除密钥的文件
-* 保护_925__ - 已被解除密钥的文件
-* 保护_926__ - 已被解除密钥的文件
-* 保护人群
-* 文件泄露 / 文件泄露
-* 文件泄露
-* 斯诺登文件泄露
-* 保护_932__,保护_933__或保护_934__ (电子邮件) - 已被解除密钥的爱普斯坦文件 / 观众的谨慎建议 / 包含被审查的NSFW图像
-* 据悉,在此之前,
-* 保护世界宪法数据库
-* 总统文件
-* 保护_938__,保护_939__,保护_940__或保护_941__ - 军事文件/手册
-* 美国宇航局的文件
-* 保护_944__,保护_945__或保护_946__ - 法庭文件
-* 保护_947__ - 英国议会文件
-* 保护的948__ - 罗马天主教文件
-* 医疗器械公司支付报告
-* 文件指数工具
-* 搜索数据集
-* 保护的
+* ️ **KEEP893/KEEP**
+* ⭐ **KEEP894/KEEP** - 文章
+* ⭐ **KEEP895/KEEP**, KEEP896/KEEP - 科学/文章
+* KEEP897/KEEP - 公开的谷歌文件
+* KEEP898/KEEP - 文件搜索
+* KEEP899/KEEP - 文件搜索
+* KEEP900/KEEP - 文件搜索
+* KEEP901/KEEP - 文件搜索
+* KEEP902/KEEP - 文件搜索
+* KEEP903/KEEP - 科学/文章
+* KEEP904/KEEP - 科学/文章
+* KEEP905/KEEP - 期刊/文章
+* KEEP906/KEEP - 期刊/文章
+* KEEP907/KEEP - 条款
+* KEEP908/KEEP - 条款
+* KEEP909/KEEP - 教育文章和论文
+* KEEP910/KEEP - 国际关系文章
+* KEEP911/KEEP - 工作培训文件
+* KEEP912/KEEP - 文件 / 文本 / 文件
+* KEEP913/KEEP - 加拿大文档档档
+* KEEP914/KEEP - 澳大利亚文档档档
+* KEEP915/KEEP - 论文/论文
+* KEEP916/KEEP - 总结论
+* KEEP917/KEEP - 报告
+* KEEP918/KEEP - 报告
+* KEEP919/KEEP - 解决贫困问题的研究数据
+* KEEP920/KEEP - 阿尔伯特·爱因斯坦收集的文件档案
+* KEEP921/KEEP - 审美学文章 / 现代笔记
+* KEEP922/KEEP - 历史 / 报告
+* KEEP923/KEEP - 未审查/非机密文件
+* KEEP924/KEEP - 已被解除密钥的文件
+* KEEP925/KEEP - 已被解除密钥的文件
+* KEEP926/KEEP - 已被解除密钥的文件
+* KEEP927/KEEP - 透明度集体
+* KEEP928/KEEP - 泄露文件
+* KEEP930/KEEP - 泄露的文件
+* KEEP931/KEEP - 斯诺登文件泄露
+* KEEP932/KEEP, KEEP933/KEEP或 KEEP934/KEEP (电子邮件) - 已被解除密钥的爱普斯坦文件 / 观众的谨慎建议 / 包含被审查的NSFW图像
+* KEEP935/KEEP - 泄露的谷歌文件
+* KEEP936/KEEP - 世界宪法数据库
+* KEEP937/KEEP - 总统文件
+* KEEP938/KEEP, KEEP939/KEEP, KEEP940/KEEP或 KEEP941/KEEP - 军事文件/手册
+* KEEP942/KEEP或 KEEP943/KEEP - 美国宇航局文件
+* KEEP944/KEEP, KEEP945/KEEP或 KEEP946/KEEP - 法庭文件
+* KEEP947/KEEP - 英国议会文件
+* KEEP948/KEEP - 罗马天主教教的文件
+* KEEP949/KEEP - 医疗设备公司支付报告
+* KEEP950/KEEP - 文件指数工具
+* KEEP951/KEEP - 数据集搜索谷歌
+* KEEP952/KEEP
 
 ***
 
 ## ▷ 书籍
 
-*  **[Manuals & Schematics](https://redd.it/nlw3er)**, [SafeManuals](https://safe-manuals.com/), [Manuzoid](https://manuzoid.com/), [manualzz](https://manualzz.com/), [ManualsNet](https://manualsnet.com/), [manua.ls](https://www.manua.ls/)或 [ManualsLib](https://www.manualslib.com/) - 手动目录
-* ⭐ **[RepairWiki](https://repair.wiki/)** - 修理品 / [Old Layout](https://old.repair.wiki/)
-* 您的位置: 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页 首页
-* 修复手册
-* 保护_965__ - 设备维修维基 / 导游
-* 技术如何?
-* 操作系统手册
-* 保护_968__ - 逆控制台维修指南 + 信息 / [Discord](https://discord.gg/D4Envqc5jr)
-* 保护_970__ - 设备利用维基
-* 保护_971__,保护_972__,保护_973__或保护_974__ - 自动修理手册
-* 车主手册
-* 车辆手册
-* 保护_978__ - 实验室手册
+*  **KEEP953/KEEP**, KEEP954/KEEP, KEEP955/KEEP, KEEP956/KEEP, KEEP957/KEEP, KEEP958/KEEP或 KEEP959/KEEP - 手动目录
+* ⭐ **KEEP960/KEEP** - 修理物品 / KEEP961/KEEP
+* KEEP962/KEEP或 KEEP963/KEEP - 手动搜索
+* KEEP964/KEEP - 修理手册
+* KEEP965/KEEP - 设备维修维基 / 导游
+* KEEP966/KEEP - 技术如何
+* KEEP967/KEEP - 操作系统手册
+* KEEP968/KEEP - 逆转机控制台维修指南 + 信息 / KEEP969/KEEP
+* KEEP970/KEEP - 设备利用维基
+* KEEP971/KEEP, KEEP972/KEEP, KEEP973/KEEP或 KEEP974/KEEP - 车辆维修手册
+* KEEP975/KEEP - 车主手册
+* KEEP976/KEEP或 KEEP977/KEEP - 车辆手册
+* KEEP978/KEEP - 实验室手册
 
 ***
 
 #  追踪/数据库
 
-* ⭐ **[GoodReads](https://www.goodreads.com/)** - 追踪 / 数据库 / 评论 / 建议 / [Frontend](https://github.com/nesaku/BiblioReads)
-* ⭐ **[StoryGraph](https://www.thestorygraph.com/)** - 追踪/建议
-* ⭐ **[MyAnimeList](https://myanimelist.net/)** - 漫画 / 轻小说 / 追踪 / 数据库 / 评论 / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - 漫画 / 轻小说 / 曼华 / 曼华 / 追踪 / 数据库 / 评论 [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
-* ⭐ **[MangaBaka](https://mangabaka.org/)** - 多站点漫画+小说评级集体 / 追踪 / [Discord](https://mangabaka.org/discord)
-* ⭐ **[Novel Updates](https://www.novelupdates.com/)**或 [⁠RanobeDB](https://ranobedb.org/) - 轻小说追踪 / 数据库
-* ⭐ **[LeagueOfComicGeeks](https://leagueofcomicgeeks.com/)** - 漫画追踪 / 数据库 / 发布
-* 保护_992__ - 书籍数据库
-* 保护_993__ - 书籍数据库
-* 保护_994__ - 通过描述书籍来找到书籍
-* 保护_995__ - 阅读量 / 存储图评级集成器 + 过器
-* 关于"鱼"的说法
-* 关于"科学小说"的评论
-* 爱情数据库
-* 保护_999__ - 书籍跟踪平台
-* 保护_1000__ - 社交书籍跟踪平台
-* 保护书的追踪平台
-* 果版的果版
-* 监测/评价/建议
-* 保护书 - 书目录社区
-* 保护性信息 - 书籍跟踪 / 建议
-* 保护_1007__ - 书目录 / 评论
-* 保护_1008__或_保护_1009__ - 媒体追踪器
-* 电脑设备的数据库
+* ⭐ **KEEP979/KEEP** - 追踪 / 数据库 / 评论 / 建议 / KEEP980/KEEP
+* ⭐ **KEEP981/KEEP** - 追踪/建议
+* ⭐ **KEEP982/KEEP** - 漫画 / 小说 / 追踪 / 数据库 / 评论 / KEEP983/KEEP
+* ⭐ **KEEP984/KEEP** - 漫画 / 轻小说 / 曼华 / 曼华 / 追踪 / 数据库 / 评论 KEEP985/KEEP / KEEP986/KEEP
+* ⭐ **KEEP987/KEEP** - 多站点漫画+小说评级集成器 / 追踪 / KEEP988/KEEP
+* ⭐ **KEEP989/KEEP**或 KEEP990/KEEP - 轻小说追踪 / 数据库
+* ⭐ ** KEEP991/KEEP** - 漫画追踪 / 数据库 / 发布
+* KEEP992/KEEP - 书籍数据库
+* KEEP993/KEEP - 书籍数据库
+* KEEP994/KEEP - 通过描述书籍来找到书籍
+* KEEP995/KEEP - 阅读力/图库图评分集成器+过器
+* KEEP996/KEEP - 猜测小说
+* KEEP997/KEEP - 科幻小说
+* KEEP998/KEEP - 浪漫数据库
+* KEEP999/KEEP - 书籍跟踪平台
+* KEEP1000/KEEP - 社交书籍跟踪平台
+* KEEP1001/KEEP - 书籍跟踪平台
+* KEEP1003/KEEP - 漫画追踪
+* KEEP1004/KEEP - 追踪 / 评价 / 建议
+* KEEP1005/KEEP - 书目录社区
+* KEEP1006/KEEP - 追踪书籍 / 建议
+* KEEP1007/KEEP - 书目录 / 评论
+* KEEP1008/KEEP或 KEEP1009/KEEP - 媒体追踪器
+* KEEP1010/KEEP - 桌面媒体目录
 
 ***
 
 ## ▷ 精选建议
 
-* ⭐ **[The Greatest Books](https://www.thegreatestbooks.org/)** - 算法书籍列表
-* ⭐ **[Five Books](https://fivebooks.com/)** - 专家推的书籍
-* ⭐ **[TasteDive](https://tastedive.com/books)** - 发现和建议
-* ⭐ **[ComicBookRoundup](https://comicbookroundup.com/)** - 漫画评级集体
-* ⭐ **[MangaUpdates](https://www.mangaupdates.com/)** - 漫画数据库 / 发布更新
-*                                                                                                                                                                                                                                                               
-* 个人推 推 推
-* 保护性_1018__ - 书籍发现 / 建议
-*                                                                                                                                                                                                                                                               
-* 保护性_1020__ - 书籍发现 / 建议
-* 保护的书 - 第一页书的小说
-* 根据情绪的书籍发现
-* 保护的1023__ - 书籍建议
-* 保护的1024__ - 书籍建议
-* 保护的1025__ - 书籍建议
-* 保护性_1026__ - 书籍发现 / 建议
-* 关于"鱼"的评论
-* 专家: 专家: 专家:
-* 挑战狭的口味
-* 保护的1030__ - 书籍建议
-* 保护_1031__ - 书籍建议
-* 保护_1032__ - 书籍建议
-* 保护的1033__ - 书籍建议
-* 保护的_1034__ - 书籍建议
-* 保护_1036__ - 书籍推 / 照片共享社区
-* 关于"论"的信息
-* 保护的书籍
-* 保护的1039__,保护的1040__,保护的1041__或保护的1042__ - 书总结
-* 漫画 / 漫画 排行榜
-* 们在们的家里,
-* 美国漫画出版社
-* 保护_1046__ - 全台媒体列表 (1935-2024)
-* 阅读漫画的命令
-* 果版 / 社交媒体
-* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子
-* 果版的果版
-* 找一个随机漫画
-* 子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子,子
-* 子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子
-* 子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子子
-* 果版 果版 果版 果版 果版 果版
-* 视觉小说
-* 视觉小说推
+* ⭐ **KEEP1011/KEEP** - 算法书籍列表
+* ⭐ **KEEP1012/KEEP** - 专家推的书籍
+* ⭐ **KEEP1013/KEEP** - 发现和建议
+* ⭐ ** KEEP1014/KEEP** - 漫画评级总结器
+* ⭐ **KEEP1015/KEEP** - 漫画数据库 / 发布更新
+* KEEP1016/KEEP - 书籍 / 漫画 / 漫画推目录
+* KEEP1017/KEEP - 个性化推
+* KEEP1018/KEEP - 书籍发现 /建议
+* KEEP1019/KEEP - 超受欢迎的书籍
+* KEEP1020/KEEP - 书籍发现 /建议
+* KEEP1021/KEEP - 第一页书的小说
+* KEEP1022/KEEP - 基于情绪的书籍发现
+* KEEP1023/KEEP - 书籍建议
+* KEEP1024/KEEP - 书籍建议
+* KEEP1025/KEEP - 书籍建议
+* KEEP1026/KEEP - 书籍发现 /建议
+* KEEP1027/KEEP - 书发现 / 评论
+* KEEP1028/KEEP - 作者 品种的发现
+* KEEP1029/KEEP - 挑战狭的口味
+* KEEP1030/KEEP - 书籍建议
+* KEEP1031/KEEP - 书籍建议
+* KEEP1032/KEEP - 书籍建议
+* KEEP1033/KEEP - 书籍建议
+* KEEP1034/KEEP - 书籍建议
+* KEEP1036/KEEP - 书籍推 / 照片共享社区
+* KEEP1037/KEEP - 书评集成器
+* KEEP1038/KEEP - 最好的5000本书
+* KEEP1039/KEEP, KEEP1040/KEEP, KEEP1041/KEEP或 KEEP1042/KEEP - 书总结
+* KEEP1043/KEEP - 漫画 / 漫画排行榜
+* KEEP1044/KEEP - 漫画推
+* KEEP1045/KEEP - 美国漫画推
+* KEEP1046/KEEP - 完整的DC媒体列表 (1935-2024)
+* KEEP1047/KEEP - 漫画阅读订单
+* KEEP1048/KEEP - 漫画 / 社交媒体
+* KEEP1049/KEEP - 漫画
+* KEEP1050/KEEP - 漫画推
+* KEEP1051/KEEP - 找到随机漫画
+* KEEP1052/KEEP - 漫画
+* KEEP1053/KEEP - 漫画 / KEEP1054/KEEP
+* KEEP1055/KEEP - 漫画 / KEEP1056/KEEP
+* KEEP1057/KEEP - 漫画信息图片和销售统计数据
+* KEEP1058/KEEP - 视觉小说
+* KEEP1059/KEEP或 KEEP1060/KEEP - 视觉小说推
 
 ***
 
 #  有帮助的网站/应用程序
 
-*  **[Ebook Converters Wiki](https://wiki.mobileread.com/wiki/E-book_conversion)**,[Ebook-Converter](https://ebook-converter.com/)或 [Ebook-Online-Convert](https://ebook.online-convert.com/) - 电子书转换器指数
-*  **[DeDRM_tools](https://github.com/noDRM/DeDRM_tools)** - 电子书DRM删除工具
-* ️ **[Summary Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_text_rephrasing)**
-* ️ **[PDF File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools/#wiki_.25B7_pdf_tools)**
-* ⭐ **[Spreeder](https://www.spreeder.com/app.php?intro=1)**, [BR Script](https://greasyfork.org/en/scripts/465635), [PlayText](https://playtext.app/), [AccelaReader](https://accelareader.com/), [SwiftRead](https://swiftread.com/), [Notation](https://github.com/numanzamandipuu/Notation), [Tailwind BR](https://crisanlucid.github.io/vite-react-tailwind-bionic-reading/)或 [SpeedRead](https://github.com/pasky/speedread) - 速度阅读工具
-* ⭐ **[Kindle Comic Converter](https://github.com/ciromattia/kcc)** - 多格式转换器
-* ⭐ **[Papeer](https://papeer.tech/)** / [GitHub](https://github.com/lapwat/papeer)或 [epub-creator](https://github.com/NiklasGollenstede/epub-creator) - 网页转换为EPUB转换器
-* 保护_1079__,保护_1080__或_保护_1081__ / 保护_1082__ / 保护_1083__ / 保护_1084__ / 保护_1085__ - Scribd 下载者
-* 电报电子书转换器
-* 标记下来到 EPUB转换器
-* 您的位置: 首页 首页 首页 首页
-* 保护的
-* 通过ISBN获取书籍信息
-* 保护_1093__ - 多个文章可访问性工具
-* 监视数字图书馆流量健康
-* 您可以在此查看下载的文件.
-* 为了让我们可以在线观看,
-* 保护_1099__ - EPUB编辑器
-* 您可以在此查看更多信息.
-* 织在一起的网页
-* 通过故事/粉丝小说生成电子书
-* 找书长度 /阅读时间
-* 预测,预测,预测,预测,预测
-* 如何扫描书籍
-* 找一个出版商
+*  **KEEP1061/KEEP**, KEEP1062/KEEP或 KEEP1063/KEEP - 电子书转换器指数
+*  **KEEP1064/KEEP** - 电子书DRM删除工具
+* ️ **KEEP1065/KEEP**
+* ️ **KEEP1066/KEEP**
+* ⭐ **KEEP1067/KEEP**, KEEP1068/KEEP, KEEP1069/KEEP, KEEP1070/KEEP, KEEP1071/KEEP, KEEP1072/KEEP, KEEP1073/KEEP或 KEEP1074/KEEP - 速度阅读工具
+* ⭐ **KEEP1075/KEEP** - 多格式转换器
+* ⭐ ** KEEP1076/KEEP** / KEEP1077/KEEP或 KEEP1078/KEEP - 网页转换为EPUB转换器
+* KEEP1079/KEEP, KEEP1080/KEEP或 KEEP1081/KEEP / KEEP1082/KEEP / KEEP1083/KEEP / KEEP1084/KEEP / KEEP1085/KEEP - Scribd 下载者
+* KEEP1086/KEEP - 电报电子书转换器 / KEEP1087/KEEP
+* KEEP1088/KEEP - 标记下至EPUB转换器
+* KEEP1089/KEEP - 图书馆搜索 / KEEP1090/KEEP
+* KEEP1091/KEEP
+* KEEP1092/KEEP - 通过ISBN获取书籍信息
+* KEEP1093/KEEP - 多种文章可访问性工具
+* KEEP1094/KEEP - 监视数字图书馆流量健康
+* KEEP1095/KEEP或 KEEP1096/KEEP - 书流自动下载 / 管理器
+* KEEP1097/KEEP或 KEEP1098/KEEP - 粉丝小说下载器
+* KEEP1099/KEEP - EPUB编辑器
+* KEEP1100/KEEP或 KEEP1101/KEEP - EPUB翻译器
+* KEEP1102/KEEP - 连接网页
+* KEEP1103/KEEP - 从故事/粉丝小说中生成电子书
+* KEEP1104/KEEP或 KEEP1105/KEEP - 找书长度 /阅读时间
+* KEEP1106/KEEP - 预警引擎
+* KEEP1107/KEEP - 如何扫描书籍
+* KEEP1108/KEEP - 找一个出版商
