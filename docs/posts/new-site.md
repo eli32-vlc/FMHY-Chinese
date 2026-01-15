@@ -1,6 +1,6 @@
 ---
-title: New Website
-description: Our brand new site (which you're on currently)
+title: 新网站
+description: 我们全新的网站（您当前就在这个网站上）
 date: 2023-11-12
 next: false
 
@@ -11,27 +11,22 @@ footer: true
 
 <Post authors="taskylizard" />
 
-### New URL: https://fmhy.net/
+### 新网址：https://fmhy.net/
 
-Hey everyone, just wanted to let you all know that we're finally done with the
-new website, and are officially launching it today! I know a lot of different
-versions of FMHY have been made over the years, but we've put a ton of effort
-into this one, and honestly feel like its the best version to date.
+大家好，只想让大家知道我们终于完成了新网站，并于今天正式推出！我知道多年来已经制作了很多不同版本的 FMHY，但我们在这个版本上投入了大量的精力，老实说，我觉得这是迄今为止最好的版本。
 
-We really hope you enjoy it, and if you have any issues or suggestions feel free
-to leave them in the comments here, or by using the new feedback system built
-into the site.
+我们真的希望您喜欢它，如果您有任何问题或建议，请随时在这里的评论区留下您的意见，或使用内置在网站中的新反馈系统。
 
 ---
 
-### Site Features
+### 网站功能
 
-- Star Only Toggle
-- Dark / Light Modes
-- Feedback System
-- Improved UI + Site Speed
-- Improved Search Functionality
-- Automatic Updates
-- Table of Content Sidebars
-- Storage URLs Direct to Site Rather than Reddit
-- NSFW Section
+- 仅收藏切换
+- 深色/浅色模式
+- 反馈系统
+- 改进的用户界面+网站速度
+- 改进的搜索功能
+- 自动更新
+- 目录侧边栏
+- 存储网址直接指向网站而非 Reddit
+- NSFW 部分

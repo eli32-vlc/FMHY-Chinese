@@ -1,6 +1,6 @@
 ---
-title: The Internet Archive needs your help.
-description: Support IA
+title: 互联网档案馆需要您的帮助。
+description: 支持 IA
 date: 2025-04-21
 next: false
 
@@ -11,18 +11,18 @@ footer: true
 
 <Post authors="" />
 
-A coalition of major record labels has filed a lawsuit against the Internet Archive—demanding **$700 million** for our work preserving and providing access to historical 78rpm records. These fragile, obsolete discs hold some of the earliest recordings of a vanishing American culture. But this lawsuit goes far beyond old records. It’s an attack on the Internet Archive itself.
+主要唱片公司联盟已对互联网档案馆提起诉讼——要求**7亿美元**赔偿，针对我们保存和提供历史 78 转唱片访问的工作。这些脆弱、过时的唱片保存了一些正在消失的美国文化的最早录音。但这场诉讼远不止涉及老唱片。这是对互联网档案馆本身的攻击。
 
-This lawsuit is an **existential threat** to the Internet Archive and everything we preserve—including the **Wayback Machine**, a cornerstone of memory and preservation on the internet.
+这场诉讼对互联网档案馆和我们保存的一切构成了**生存威胁**——包括**时光倒流机**（Wayback Machine），这是互联网记忆和保存的基石。
 
-**At a time when digital information is disappearing, being rewritten, or erased entirely, the tools to preserve history must be defended—not dismantled.**
+**在数字信息正在消失、被重写或完全被抹除的时代，保存历史的工具必须得到捍卫——而不是被拆解。**
 
-This isn’t just about music. It’s about whether future generations will have access to knowledge, history, and culture.
+这不仅仅是关于音乐。这是关于后代是否能接触到知识、历史和文化的问题。
 ***
-## [Sign our open letter](https://www.change.org/p/defend-the-internet-archive) and tell the record labels to drop their lawsuit.
+## [签署我们的公开信](https://www.change.org/p/defend-the-internet-archive) 并告诉唱片公司撤回他们的诉讼。
 ***
-**Posted by Chris Freeland, Director of Library Services at Internet Archive**
+**由互联网档案馆图书馆服务总监 Chris Freeland 发布**
 
-###### Source: https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/
+###### 来源：https://blog.archive.org/2025/04/17/take-action-defend-the-internet-archive/
 
-###### Reddit Discussion: https://redd.it/1k4qqid
+###### Reddit 讨论：https://redd.it/1k4qqid

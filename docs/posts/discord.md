@@ -1,6 +1,6 @@
 ---
-title: Public Discord Server
-description: Our new space to chat in.
+title: 公共 Discord 服务器
+description: 我们新的聊天空间。
 date: 2023-10-24
 next: false
 
@@ -11,14 +11,14 @@ footer: true
 
 <Post authors="nbats" />
 
-# Public URL: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
+# 公共 URL: https://github.com/fmhy/FMHY/wiki/FMHY-Discord
 
 ---
 
-## Server Rules
+## 服务器规则
 
-1. Please be kind and helpful to one another, especially beginners.
-2. No selling or advertising anything paid.
-3. No direct links to pirated content.
-4. No NSFW content (or requests) outside of NSFW channels.
-5. No racism, sexism, ableism, homophobia, transphobia.
+1. 请彼此友善和乐于助人，特别是对新手。
+2. 不得销售或宣传任何付费内容。
+3. 不得直接链接到盗版内容。
+4. 在 NSFW 频道之外不得发布 NSFW 内容（或请求）。
+5. 不得种族主义、性别歧视、残疾歧视、恐同、跨性别恐惧。

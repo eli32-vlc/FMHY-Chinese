@@ -1,73 +1,69 @@
-***
-***
-**[◄◄ Back to Wiki Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)**
-***
-***
 
-# ► Indexes
 
-* 🌐 **[Awesome List Index](https://github.com/sindresorhus/awesome), [GitHub Topics](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - All Awesome Lists
-* 🌐 **[Lists](https://github.com/jnv/lists)** - List of Lists Index
-* ↪️ **[AI Indexes](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
-* ⭐ **[FMHY Search](https://fmhy.net/posts/search)** - Search the Wiki
-* ⭐ **[Awesome Search](https://awesomelists.top/)** - Awesome List Search
-* ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
-* ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
-* [Track Awesome List](https://www.trackawesomelist.com/) - Daily Awesome List Updates
-* [⁠ForumDirectory](https://www.forumdirectory.com/) - Forum Directory
-* [ooh.directory](https://ooh.directory/) - Blog Directory
-* [Dan's Guides](https://dan.valeena.dev/#my-guides) - List of Guides by Dan
-* [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/sites/int), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) or [CuteStat](https://www.cutestat.com/) - Site Rankings
-* [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) or [Electron](https://www.electronjs.org/apps) - Web App Indexes
-* [SmartLinks](https://smartlinks.org/index.html) - Website Directory
-* [OneMillionScreenshots](https://onemillionscreenshots.com/) - Website Snapshot Map
-* [Data Hoarding](https://datahoarding.org/) - Data Hoarding Sites / Resources
-* [Archive-It](https://archive-it.org/) - Archive.org Collections
-* [Single Serving Sites](https://singleservingsites.cool/) - Single-Purpose Sites
-* [Clone Wars](https://gourav.io/clone-wars) - Site Clone Index / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
-* [Open Sustainable Technology](https://opensustain.tech/) - Sustainable Tech Project Index
-* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) or [href.cool](https://href.cool/) - Oldschool Site Indexes
-* [DeletedCity](http://deletedcity.net/) or [Restorativland](https://geocities.restorativland.org/) - Geocities Site Indexes
-* [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - UK Government Site Archive
-* [The Hive Index](https://thehiveindex.com/) - Online Communities Index
-* [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) or [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze Wiki Indexes
-* [NetSplit](https://netsplit.de/) - IRC Channel Index
-* [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons Content Sites
-* [sourcehut](https://sr.ht/) - Public Project Index
+# ► 索引
+
+* 🌐 **[Awesome 列表索引](https://github.com/sindresorhus/awesome), [GitHub 主题](https://github.com/topics/awesome)** / [2](https://github.com/topics/awesome-list) - 所有 Awesome 列表
+* 🌐 **[列表](https://github.com/jnv/lists)** - 列表的列表索引
+* ↪️ **[AI 索引](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25BA_ai_indexes)**
+* ⭐ **[FMHY 搜索](https://fmhy.net/posts/search)** - 搜索维基
+* ⭐ **[Awesome 搜索](https://awesomelists.top/)** - Awesome 列表搜索
+* ⭐ **[Couleur Tweak 提示](https://ctt.cx/)** - 综合资源和工具中心 / [Discord](https://discord.gg/CTT)
+* ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - 有帮助/有趣的网站
+* [Track Awesome List](https://www.trackawesomelist.com/) - 每日 Awesome 列表更新
+* [⁠ForumDirectory](https://www.forumdirectory.com/) - 论坛目录
+* [ooh.directory](https://ooh.directory/) - 博客目录
+* [Dan's Guides](https://dan.valeena.dev/#my-guides) - Dan 的指南列表
+* [xRanks](https://xranks.com/), [Start.me Stats](https://start.me/sites/int), [StatCrop](https://www.statscrop.com/websites/top-sites/), [HypeStat](https://hypestat.com/), [10 Million Sites](https://www.domcop.com/top-10-million-websites) 或 [CuteStat](https://www.cutestat.com/) - 网站排名
+* [findPWA](https://findpwa.com/), [Store.app](https://store.app/), [SaaS Discovery](https://saasdiscovery.com/) 或 [Electron](https://www.electronjs.org/apps) - 网页应用索引
+* [SmartLinks](https://smartlinks.org/index.html) - 网站目录
+* [OneMillionScreenshots](https://onemillionscreenshots.com/) - 网站快照地图
+* [Data Hoarding](https://datahoarding.org/) - 数据囤积网站/资源
+* [Archive-It](https://archive-it.org/) - Archive.org 收藏
+* [Single Serving Sites](https://singleservingsites.cool/) - 单用途网站
+* [Clone Wars](https://gourav.io/clone-wars) - 网站克隆索引 / [GitHub](https://github.com/GorvGoyl/Clone-Wars)
+* [Open Sustainable Technology](https://opensustain.tech/) - 可持续技术项目索引
+* [OldSchoolSitesCatalogue](https://github.com/rarelygoeshere/OldSchoolSitesCatalogue) 或 [href.cool](https://href.cool/) - 老式网站索引
+* [DeletedCity](http://deletedcity.net/) 或 [Restorativland](https://geocities.restorativland.org/) - Geocities 网站索引
+* [National Archives](https://www.nationalarchives.gov.uk/webarchive/) - 英国政府网站档案
+* [The Hive Index](https://thehiveindex.com/) - 在线社区索引
+* [Gazetteer of Wikis](https://meta.miraheze.org/wiki/Gazetteer_of_wikis), [Wiki Stats](https://wikistats.wmcloud.org/display.php?t=mh) 或 [WikiDiscover](https://meta.miraheze.org/wiki/Special:WikiDiscover) - Miraheze 维基索引
+* [NetSplit](https://netsplit.de/) - IRC 频道索引
+* [Creative Commons](https://github.com/fmhy/FMHYedit/issues/1386#issuecomment-1906854653) - Creative Commons 内容网站
+* [sourcehut](https://sr.ht/) - 公共项目索引
 
 ***
 
-## ▷ Site / Tool Indexes
+## ▷ 网站/工具索引
 
-* ⭐ **[Ripped](https://ripped.guide/)** - Piracy Index / [Discord](https://discord.ripped.guide/)
-* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - Game Piracy Index / [Discord](https://discord.gg/dZWwhUy)
-* ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)**, [2](https://csrin.org/) - Game Piracy Index
-* ⭐ **[privateersclub](https://megathread.pages.dev/)** - Game Piracy Index / [Discord](https://discord.gg/jz8dUnnD6Q)
-* ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* ⭐ **[The Index](https://theindex.moe)** - Japanese Piracy Index / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
-* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - Media Creation Index
-* [refdesk.com](https://www.refdesk.com/toc.html) - Fact-checking Index
-* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - Site / Tool Index
-* [OSS Insight](https://ossinsight.io/) - GitHub Project Indexes
-* [ibiblio](https://www.ibiblio.org/) - Site / Tool Index
-* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - Site / Tool Index
-* [mw.rat.bz](https://mw.rat.bz/index.html) - Site / Tool Index
+* ⭐ **[Ripped](https://ripped.guide/)** - 盗版索引 / [Discord](https://discord.ripped.guide/)
+* ⭐ **[r/PiratedGames Megathread](https://rentry.org/pgames)** - 游戏盗版索引 / [Discord](https://discord.gg/dZWwhUy)
+* ⭐ **[CS.RIN Mega](https://cs.rin.ru/forum/viewtopic.php?f=10&t=95461)**, [2](https://csrin.org/) - 游戏盗版索引
+* ⭐ **[privateersclub](https://megathread.pages.dev/)** - 游戏盗版索引 / [Discord](https://discord.gg/jz8dUnnD6Q)
+* ⭐ **[Wotaku](https://wotaku.wiki/)** - 御宅族索引 / [Discord](https://discord.gg/vShRGx8ZBC)
+* ⭐ **[The Index](https://theindex.moe)** - 日本盗版索引 / [维基](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
+* ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - 御宅族媒体索引 / [子版块](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
+* [Delightful Creative Tools](https://codeberg.org/ADHDefy/delightful-creative-tools) - 媒体制作索引
+* [refdesk.com](https://www.refdesk.com/toc.html) - 事实核查索引
+* [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/), [2](https://rentry.org/Pixelated_Pathways) - 网站/工具索引
+* [OSS Insight](https://ossinsight.io/) - GitHub 项目索引
+* [ibiblio](https://www.ibiblio.org/) - 网站/工具索引
+* [unapothecary's terminal](https://unapothecary.neocities.org/websites) - 网站/工具索引
+* [mw.rat.bz](https://mw.rat.bz/index.html) - 网站/工具索引
 
 ***
 
-# ► Free Stuff
+# ► 免费物品
 
-* [AppAgg](https://appagg.com/) - Multi-Platform / Apps / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
-* [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) or [Freegle](https://www.ilovefreegle.org/) - Free Stuff Exchange / Gifting Communities
-* [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - Free / Cheap Apps / Games / [Reddit Bot](https://github.com/a-ton/gpd-bot)
-* [App Sales](https://www.app-sales.net/nowfree/) - Free / Cheap Apps / Games
-* [Play-Deals](https://github.com/psuzn/Play-Deals) - Free / Cheap Apps / Games
-* [r/AppHookup](https://www.reddit.com/r/AppHookup/) - Free / Cheap Software & Apps / Games
-* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - Apple Platform Apps / Games / [Subreddit](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
-* [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - Books
-* [FreeForStudent](https://freeforstudents.org/) - Free for Student Deals
-* [FreeReadFeed](https://www.freereadfeed.com/) or [eReaderIQ](https://www.ereaderiq.com/freebies) - Free Kindle Releases
+* [AppAgg](https://appagg.com/) - 多平台 / 应用 / [Discord](https://discord.gg/XUhs6fcFqQ) / [GitHub](https://github.com/AppsAgg/AppAgg)
+* [FreeCycle](https://www.freecycle.org/), [TrashNothing](https://trashnothing.com/) 或 [Freegle](https://www.ilovefreegle.org/) - 免费物品交换 / 赠送社区
+* [r/GooglePlayDeals](https://reddit.com/r/googleplaydeals) - 免费/便宜的应用/游戏 / [Reddit 机器人](https://github.com/a-ton/gpd-bot)
+* [App Sales](https://www.app-sales.net/nowfree/) - 免费/便宜的应用/游戏
+* [Play-Deals](https://github.com/psuzn/Play-Deals) - 免费/便宜的应用/游戏
+* [r/AppHookup](https://www.reddit.com/r/AppHookup/) - 免费/便宜的软件和应用/游戏
+* [AppRaven](https://appraven.net/activity/pricedrops?ratingCount=0&price=FREE) - 苹果平台应用/游戏 / [子版块](https://www.reddit.com/r/AppRaven/) / [Telegram](https://t.me/AppRavenOfficial) / [Discord](https://discord.com/invite/q8nPsNAypC)
+* [BAEN](https://www.baen.com/catalog/category/view/s/free-library/id/2012) - 图书
+* [FreeForStudent](https://freeforstudents.org/) - 学生免费优惠
+* [FreeReadFeed](https://www.freereadfeed.com/) 或 [eReaderIQ](https://www.ereaderiq.com/freebies) - 免费 Kindle 发布
 * [r/FREE](https://reddit.com/r/FREE/)
 * [⁠r/freebies](https://www.reddit.com/r/freebies/)
 * [r/eFreebies](https://reddit.com/r/eFreebies)
@@ -76,455 +72,455 @@
 
 ***
 
-## ▷ Free Games
+## ▷ 免费游戏
 
-* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - Games / [Discord](https://discord.com/invite/C3K4bBh)
-* [Free Games Claimer](https://github.com/vogler/free-games-claimer) - Auto-Claim Free Epic, Amazon, and GOG Games
-* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Auto-Claim Free Epic Games
-* [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) or [SteamDB](https://steamdb.info/upcoming/free/) - Steam Games
-* [Key Hub](https://key-hub.eu/) - Steam Key Giveaways / [Discord](https://discord.gg/RbWahNY)
-* [IndieGala](https://freebies.indiegala.com/) - Games
-* [FreeGameCodes](https://freegames.codes/) - Games / [Discord](https://discord.gg/ZmUbRcp)
-* [r/freegames](https://www.reddit.com/r/freegames/) - Games
-* [FreeToKeep](https://freetokeep.gg/) - Games / [Discord](https://discord.gg/t3Yh5Pfw6Y)
-* [r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - Games
-* [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - Games
-* [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - Games
-* [Free Games Tracker](https://pyoneerc1.itch.io/free-games-tracker) - Games
-* [GamerPower](https://www.gamerpower.com/) - Games
-* [GrabFreeGames](https://grabfreegames.com/notifications) - Games / [Steam Group](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
-* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) or [Epic Free Games](https://t.me/epicfreegames) - Free Epic Games
-* [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic Free Games List
-* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam Mods
-* [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io Games
-* [⁠VRDB](https://vrdb.app/games?min_price=0&max_price=0) or [QuestStoreDB](https://queststoredb.com/free_apps/) - VR Games
-* [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - Game APKs
-* [MiniReview](https://minireview.io/browse?sort=last-added-reviews&monetization=free&monetization-android=free&monetization-ios=free) - Mobile Game Recommendations / [Discord](https://discord.gg/TJq6EXfm7f) - Game APKs
+* ⭐ **[IsThereAnyDeal](https://isthereanydeal.com/giveaways/)** - 游戏 / [Discord](https://discord.com/invite/C3K4bBh)
+* [Free Games Claimer](https://github.com/vogler/free-games-claimer) - 自动领取免费的 Epic、Amazon 和 GOG 游戏
+* [epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - 自动领取免费的 Epic 游戏
+* [SteamGifts](https://www.steamgifts.com/), [Free250](https://steam250.com/price/free), [r/FreeGamesOnSteam](https://reddit.com/r/FreeGamesOnSteam) 或 [SteamDB](https://steamdb.info/upcoming/free/) - Steam 游戏
+* [Key Hub](https://key-hub.eu/) - Steam 密钥赠送 / [Discord](https://discord.gg/RbWahNY)
+* [IndieGala](https://freebies.indiegala.com/) - 游戏
+* [FreeGameCodes](https://freegames.codes/) - 游戏 / [Discord](https://discord.gg/ZmUbRcp)
+* [r/freegames](https://www.reddit.com/r/freegames/) - 游戏
+* [FreeToKeep](https://freetokeep.gg/) - 游戏 / [Discord](https://discord.gg/t3Yh5Pfw6Y)
+* [r/RandomActsOfGaming](https://www.reddit.com/r/RandomActsOfGaming/) - 游戏
+* [TemporarilyFreeGames](https://t.me/temporarilyfreegames) - 游戏
+* [GG.deals Free](https://gg.deals/news/?availability=1&type=6) - 游戏
+* [Free Games Tracker](https://pyoneerc1.itch.io/free-games-tracker) - 游戏
+* [GamerPower](https://www.gamerpower.com/) - 游戏
+* [GrabFreeGames](https://grabfreegames.com/notifications) - 游戏 / [Steam 群组](https://steamcommunity.com/groups/GrabFreeGames) / [Discord](https://discord.gg/CjQSS4z)
+* [Epic Games Free](https://www.epicgames.com/store/en-US/free-games) 或 [Epic 免费游戏](https://t.me/epicfreegames) - 免费 Epic 游戏
+* [EpicFreeGamesList](https://josephmate.github.io/EpicFreeGamesList/) - Epic 免费游戏列表
+* [Steam Mods](https://store.steampowered.com/search/?maxprice=free&category1=997) - Steam 模组
+* [Freetchio](https://shaigrorb.github.io/freetchio/) - itch.io 游戏
+* [⁠VRDB](https://vrdb.app/games?min_price=0&max_price=0) 或 [QuestStoreDB](https://queststoredb.com/free_apps/) - VR 游戏
+* [NobsGames](https://nobsgames.stavros.io/android/?name=&genre=&rating__gt=&price=free) - 游戏 APK
+* [MiniReview](https://minireview.io/browse?sort=last-added-reviews&monetization=free&monetization-android=free&monetization-ios=free) - 手机游戏推荐 / [Discord](https://discord.gg/TJq6EXfm7f) - 游戏 APK
 * [FreeSteamOffers_Bot](https://t.me/FreeSteamOffers_Bot/) - Telegram
-* [Games Radar](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Games / Android App
-* [r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [Socials](https://freegamefindings.ca/)
+* [Games Radar](https://play.google.com/store/apps/details?id=com.arioch.efgr) - 游戏 / Android 应用
+* [r/FreeGameFindings](https://reddit.com/r/FreeGameFindings) / [社交媒体](https://freegamefindings.ca/)
 * [r/Freegamestuff](https://reddit.com/r/Freegamestuff)
-* [Free Packages](https://steamdb.info/freepackages/) - Mass Activate All Free Steam Games / $5 Account Min / [Guide](https://youtu.be/svbdw-pYNT8)
+* [Free Packages](https://steamdb.info/freepackages/) - 批量激活所有免费 Steam 游戏 / 账户最低消费 $5 / [指南](https://youtu.be/svbdw-pYNT8)
 
 ***
 
-## ▷ Assistance / Charity
+## ▷ 援助/慈善
 
-* ⭐ **[⁠FindHelp](https://www.findhelp.org/)** - Find Free or Reduced-Cost Resources / US Only
-* [⁠Single Mother Guide](https://singlemotherguide.com/) - Single Mother Government Benefits Guide / US Only
-* [Be My Eyes](https://www.bemyeyes.com/) - Assist the Visually Impaired
-* [r/Assistance](https://www.reddit.com/r/Assistance/) or [r/borrow](https://www.reddit.com/r/borrow/) - Assistance / Donation Subreddits
-* [r/Homeless](https://www.reddit.com/r/homeless/) - Homeless Assistance Subreddit
-* [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - Pizza Donation Subreddit
-* [TinyKitten](https://tinykittens.com/) - Kitten Rescue / Donation
-* [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) or [GiveWell](https://www.givewell.org) - Charity Ratings / Resources
-* [Free Rice](https://freerice.com/) - Earn Rice for the World Food Programme / Trivia
-* [⁠e-NABLE](https://enablingthefuture.org/) - Volunteer Own 3D Printer for use in Prosthetic Limb Printing
-
-***
-
-# ► Food
-
-* 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - Food Multireddit
-* 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - Top Restaurant List
-* ⭐ **[Baking Calculators](https://bakingcalculators.com/)** - Measurement System Conversion Calculators
-* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy), [Listonic](https://new.app.listonic.com/en) or [KitchenOwl](https://kitchenowl.org/) / [GitHub](https://github.com/TomBursch/kitchenowl) - Grocery / Pantry Managers
-* ⭐ **[Sporked](https://sporked.com/)** - Packaged Food Reviews
-* ⭐ **[Still Tasty](https://www.stilltasty.com/)** or [EatByDate](https://www.eatbydate.com/) - Shelf Life Guides
-* ⭐ **[OpenTable](https://www.opentable.com/)** - Restaurant Reservation Search
-* [DoesItGoBad.com](https://www.doesitgobad.com/) - Food Storage Tips
-* [Heard.](https://heardnyc.com/) - Anonymous Food & Restaurant Reviews / [Subreddit](https://www.reddit.com/r/KitchenConfidential/)
-* [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) or [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - Food Expiration Trackers
-* [⁠Cook Well](https://www.cookwell.com/) - Cooking Lessons / Science
-* [Parsnip](https://www.parsnip.ai/) - Cooking Lessons / Skill Tracking App
-* [r/Cooking](https://reddit.com/r/Cooking) - Cooking Discussion / Tips
-* [r/AskCulinary](https://reddit.com/r/AskCulinary) - Get Cooking Advice
-* [Cheese.com](https://cheese.com/) - Cheese Resources
-* [Crispy Creations](https://claraiscute.neocities.org/Guides/crispycreations/), [2](https://claraiscute.pages.dev/Guides/crispycreations/) - Potato Chip Info / Guides
-* [FermenThings](https://wiki.fermenthings.be/) - Fermentation Wiki
-* [⁠SaltYourMeat](https://www.saltyourmeat.com/) - Dry Brining Calculator
-* [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
-* [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
+* ⭐ **[⁠FindHelp](https://www.findhelp.org/)** - 寻找免费或低成本资源 / 仅限美国
+* [⁠Single Mother Guide](https://singlemotherguide.com/) - 单亲母亲政府福利指南 / 仅限美国
+* [Be My Eyes](https://www.bemyeyes.com/) - 协助视力障碍人士
+* [r/Assistance](https://www.reddit.com/r/Assistance/) 或 [r/borrow](https://www.reddit.com/r/borrow/) - 援助/捐赠子版块
+* [r/Homeless](https://www.reddit.com/r/homeless/) - 无家可归者援助子版块
+* [r/Random_Acts_Of_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) - 披萨捐赠子版块
+* [TinyKitten](https://tinykittens.com/) - 小猫救援/捐赠
+* [CharityNavigator](https://www.charitynavigator.org/), [Arab.org](https://arab.org/), [CharityWatch](https://www.charitywatch.org/), [ProPublica](https://projects.propublica.org/nonprofits/) 或 [GiveWell](https://www.givewell.org) - 慈善机构评级/资源
+* [Free Rice](https://freerice.com/) - 为世界粮食计划署赚取大米 / 知识问答
+* [⁠e-NABLE](https://enablingthefuture.org/) - 志愿使用自己的 3D 打印机打印假肢
 
 ***
 
-## ▷ Recipes
+# ► 食物
 
-* 🌐 **[TheGreatestCookbooks](https://thegreatestbooks.org/v/grid/the-greatest/cookbooks/books)** - Expert Recommended Cookbooks
-* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) or [ManageMeals](https://managemeals.com/) - Recipe Managers
-* ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) or [PlainOldRecipe](https://www.plainoldrecipe.com/) - Extract Recipes from Sites / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
-* ⭐ **[SuperCook](https://www.supercook.com/)** - Recipe Search
-* [MyFridgeFood](https://myfridgefood.com/) or [WhiskIt](https://whiskit.ai/) - Find Recipes Based on Ingredients
-* [FoodSubs](https://foodsubs.com/) - Ingredient Substitutions Database
-* [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - Blend Two Cuisines for Recipes
-* [Fit Men Cook](https://fitmencook.com/) or [PunchFork](https://www.punchfork.com/) - Recipes
-* [Search-22](https://search-22.com/recipe-search-tools) - Multi-Site Recipe Search
-* [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - Recipe Wiki
-* [Epicurious](https://www.epicurious.com/) - Recipe Search / Index
-* [PublicDomainRecipes](https://publicdomainrecipes.com/) - Recipe Search / [GitHub](https://github.com/ronaldl29/public-domain-recipes) 
-* [Recipe Search](https://recipe-search.typesense.org/) - Recipe Search
-* [Hari Recipes](https://hari.recipes/) - Recipe Search
-* [RecipeRadar](https://www.reciperadar.com/) - Recipe Search
-* [KitchenAid](https://www.kitchenaid.com/recipes.html) - Recipe Search
-* [Recipeeper](https://www.recipeeper.com/) - Dietary-Based Recipes
-* [⁠DAREBEETS](https://darebeets.com/) - Plant-Based Recipes
-* [TasteAtlas](https://www.tasteatlas.com/) - Recipe Map
-* [AmazingRibs](https://amazingribs.com/) - Rib Recipes
-* [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - Bread Baking Recipes
-* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - Historical Recipes
-* [r/GifRecipes](https://reddit.com/r/GifRecipes) - Recipes in GIF Format
-* [r/recipes](https://reddit.com/r/recipes) - Share Recipes
+* 🌐 **[/m/food](https://www.reddit.com/user/Siryonkee/m/food/)** - 食物多版块
+* 🌐 **[MapOfTheBest](https://mapofthebest.com/)** - 顶级餐厅列表
+* ⭐ **[烘焙计算器](https://bakingcalculators.com/)** - 测量单位转换计算器
+* ⭐ **[Grocy](https://grocy.info/)** / [Android](https://patrickzedler.com/grocy/) / [子版块](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy), [Listonic](https://new.app.listonic.com/en) 或 [KitchenOwl](https://kitchenowl.org/) / [GitHub](https://github.com/TomBursch/kitchenowl) - 杂货/食品储藏室管理器
+* ⭐ **[Sporked](https://sporked.com/)** - 包装食品评测
+* ⭐ **[Still Tasty](https://www.stilltasty.com/)** 或 [EatByDate](https://www.eatbydate.com/) - 保质期指南
+* ⭐ **[OpenTable](https://www.opentable.com/)** - 餐厅预订搜索
+* [DoesItGoBad.com](https://www.doesitgobad.com/) - 食物储存提示
+* [Heard.](https://heardnyc.com/) - 匿名食物和餐厅评价 / [子版块](https://www.reddit.com/r/KitchenConfidential/)
+* [FoodExpirationDates](https://github.com/lorenzovngl/FoodExpirationDates) 或 [Fridgey](https://f-droid.org/packages/lying.fengfeng.foodrecords/) - 食物过期跟踪器
+* [⁠Cook Well](https://www.cookwell.com/) - 烹饪课程/科学
+* [Parsnip](https://www.parsnip.ai/) - 烹饪课程/技能跟踪应用
+* [r/Cooking](https://reddit.com/r/Cooking) - 烹饪讨论/提示
+* [r/AskCulinary](https://reddit.com/r/AskCulinary) - 获取烹饪建议
+* [Cheese.com](https://cheese.com/) - 奶酪资源
+* [Crispy Creations](https://claraiscute.neocities.org/Guides/crispycreations/), [2](https://claraiscute.pages.dev/Guides/crispycreations/) - 薯片信息/指南
+* [FermenThings](https://wiki.fermenthings.be/) - 发酵维基
+* [⁠SaltYourMeat](https://www.saltyourmeat.com/) - 干腌计算器
+* [HackTheMenu](https://hackthemenu.com/) - 快餐秘密菜单项
+* [Too Good To Go](https://www.toogoodtogo.com/) - 剩余食物市场
 
 ***
 
-## ▷ Drinks
+## ▷ 食谱
 
-* ⭐ **[/coffee/](https://dan.valeena.dev/guides/coffee-guide/)**, [2](https://rentry.co/coffeeguide) or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
-* ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
-* [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
-* [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
-* [The Minimal Pour](https://theminimalpour.com/) - Pour-Over Coffee Calculator
-* [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - Interactive Coffee Flavor Wheel
-* [Nahbucks!](https://nahbucks.com/) - Find Local Non-Starbucks Coffee Shops (US)
-* [⁠Aeromatic](https://aeromatic.app/) - AeroPress Recipe App
-* [/tea/](https://claraiscute.pages.dev/Guides/teageneral/) - Tea Brewing Masterlist / Guide
-* [Drinkable](https://github.com/MOIMOB/drinkable) - Create Cocktails from Home Ingredients
-* [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - Cocktail Builders
-
-***
-
-# ► Household
-
-* ↪️ **[Raspberry Pi Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_raspberry_pi)**
-* ⭐ **[Home Assistant](https://www.home-assistant.io/)** - Home Assistant / IoT / [Tracker](https://github.com/djdevil/person-tracker-card/) / [Appliances](https://github.com/Andre0512/hOn) / [GUI](https://github.com/LAB02-Research/HASS.Agent) / [Mobile Apps](https://companion.home-assistant.io/)
-* ⭐ **[Grocy](https://grocy.info/)** - Grocery / Household Management Tool / [Android](https://patrickzedler.com/grocy/) / [Subreddit](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
-* [OpenHab](https://www.openhab.org/) - Home Assistant / IoT / [Setup](https://github.com/openhab/openhabian) / [Mobile](https://github.com/openhab/openhab-android)
-* [Esphome](https://esphome.io/) - Home Assistant / IoT
-* [ioBroker](https://www.iobroker.net/) - Home Assistant / IoT / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
-* [Exo](https://github.com/exo-explore/exo/) - Run AI Home Device Cluster / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
-* [BudgetDuo](https://budgetduo.com/) - Split Household Expenses
-* [OpenVoiceOS](https://www.openvoiceos.org/) - Custom Voice-Controlled Interfaces / [GitHub](https://github.com/OpenVoiceOS/)
-* [Sweet Home 3D](https://www.sweethome3d.com/) or [Homestyler](https://www.homestyler.com/) - Interior Design Apps
-* [BlockLayer](https://www.blocklayer.com/) - Construction / Remodeling Calculators
-* [PlanYourRoom](https://www.planyourroom.com/) - Visualize PC Setups
+* 🌐 **[TheGreatestCookbooks](https://thegreatestbooks.org/v/grid/the-greatest/cookbooks/books)** - 专家推荐的食谱书
+* ⭐ **[Tandoor Recipes](https://docs.tandoor.dev/)**, [Mealie](https://mealie.io/) / [Discord](https://discord.com/invite/QuStdQGSGK), [⁠GrubPick](https://grubpick.com/), [Cooked](https://cooked.wiki/) 或 [ManageMeals](https://managemeals.com/) - 食谱管理器
+* ⭐ **[Noods.io](https://noods.io/)**, [⁠Gobsmacked](https://gobsmacked.io/), [Just the Recipe](https://www.justtherecipe.com/), [WheresTheDish](https://www.wheresthedish.com/), [⁠Forkestrate](https://app.forkestrate.com/), [Copy Me That](https://www.copymethat.com/), [drizzlelemons](https://www.drizzlelemons.com/) 或 [PlainOldRecipe](https://www.plainoldrecipe.com/) - 从网站提取食谱 / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/recipe-filter/) / [Chrome](https://chromewebstore.google.com/detail/ahlcdjbkdaegmljnnncfnhiioiadakae)
+* ⭐ **[SuperCook](https://www.supercook.com/)** - 食谱搜索
+* [MyFridgeFood](https://myfridgefood.com/) 或 [WhiskIt](https://whiskit.ai/) - 根据食材查找食谱
+* [FoodSubs](https://foodsubs.com/) - 食材替换数据库
+* [Food Mood](https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en) - 融合两种菜系创造食谱
+* [Fit Men Cook](https://fitmencook.com/) 或 [PunchFork](https://www.punchfork.com/) - 食谱
+* [Search-22](https://search-22.com/recipe-search-tools) - 多网站食谱搜索
+* [Wikibook Recipes](https://en.wikibooks.org/wiki/Category:Cookbook) - 食谱维基
+* [Epicurious](https://www.epicurious.com/) - 食谱搜索/索引
+* [PublicDomainRecipes](https://publicdomainrecipes.com/) - 食谱搜索 / [GitHub](https://github.com/ronaldl29/public-domain-recipes)
+* [Recipe Search](https://recipe-search.typesense.org/) - 食谱搜索
+* [Hari Recipes](https://hari.recipes/) - 食谱搜索
+* [RecipeRadar](https://www.reciperadar.com/) - 食谱搜索
+* [KitchenAid](https://www.kitchenaid.com/recipes.html) - 食谱搜索
+* [Recipeeper](https://www.recipeeper.com/) - 基于饮食的食谱
+* [⁠DAREBEETS](https://darebeets.com/) - 植物性食谱
+* [TasteAtlas](https://www.tasteatlas.com/) - 食谱地图
+* [AmazingRibs](https://amazingribs.com/) - 肋排食谱
+* [The Bread Code Manifesto](https://github.com/hendricius/the-sourdough-framework) - 面包烘焙食谱
+* [Historical Recipes](https://l-lists.com/en/lists/55cbww.html) - 历史食谱
+* [r/GifRecipes](https://reddit.com/r/GifRecipes) - GIF格式的食谱
+* [r/recipes](https://reddit.com/r/recipes) - 分享食谱
 
 ***
 
-# ► Gardening
+## ▷ 饮料
 
-* 🌐 **[Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)** - Agriculture Resources
-* 🌐 **[Agriculture / Gardening Subreddits](https://claraiscute.pages.dev/Guides/touchgrasss/)**
-* 🌐 **[Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)** or [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
-* ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
-* ⭐ **[r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
-* ⭐ **[r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - Plant Identification Community
-* [PictureThis](https://www.picturethisai.com/) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identification Tools / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
-* [WildFlowerSearch](https://wildflowersearch.org/) - Flower Identifier
-* [Permapeople](https://permapeople.org/) - Garden Plant Info
-* [How Many Plants](https://howmanyplants.com/) - House Plant Information
-* [Florae](https://github.com/aeri/Florae) or [Plant-it](https://plant-it.org/) / [GitHub](https://github.com/MDeLuise/plant-it) - Plant Care Reminders
-* [WorldOfSucculents](https://worldofsucculents.com/) - Succulent Database
-* [MyGarden](https://gitlab.com/m9712/mygarden) - Garden Management App
-* [Gardenia](https://www.gardenia.net/) or [Garden Design](https://www.gardendesign.com/) - Garden Design Resources
-* [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - Urban Gardening Community
-* [r/Farming](https://reddit.com/r/farming/) - Farming Community
-* [Composting](https://learn.eartheasy.com/guides/composting/) - Composting Guides
-* [Modern Farmer](https://modernfarmer.com/) - Agricultural News
-* [Chip Drop](https://getchipdrop.com/) - Free Mulch
-* [World Hardiness Zones](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) or [Plantmaps](https://www.plantmaps.com/) - Global Map of Hardiness Zones
-* [r/Microgrowery](https://reddit.com/r/microgrowery/) or [GrassCity](https://forum.grasscity.com/) - Cannabis Growing Communities
-* [SeedFinder](https://seedfinder.eu/en) - 35500+ Strain Database
+* ⭐ **[/coffee/](https://dan.valeena.dev/guides/coffee-guide/)**, [2](https://rentry.co/coffeeguide) 或 [Coffee Time General](https://pastebin.com/UEzwuyLz) - 咖啡冲泡总清单/指南
+* ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) 或 [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - 咖啡追踪应用/计时器
+* [Cofi](https://github.com/rozPierog/Cofi) - 咖啡冲泡计时器 / [注释](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#cofi-note)
+* [Brew Great Coffee](https://www.brewgreat.coffee/) - 浓缩咖啡/手冲咖啡工具+提示
+* [The Minimal Pour](https://theminimalpour.com/) - 手冲咖啡计算器
+* [Notbadcoffee](https://notbadcoffee.com/flavor-wheel-en/) - 互动式咖啡风味轮
+* [Nahbucks!](https://nahbucks.com/) - 寻找当地非星巴克咖啡店（美国）
+* [⁠Aeromatic](https://aeromatic.app/) - AeroPress 食谱应用
+* [/tea/](https://claraiscute.pages.dev/Guides/teageneral/) - 茶叶冲泡总清单/指南
+* [Drinkable](https://github.com/MOIMOB/drinkable) - 用家中原料制作鸡尾酒
+* [Make Me a Cocktail](https://makemeacocktail.com/mybar/) - 鸡尾酒制作器
 
 ***
 
-# ► Vehicle
+# ► 家庭
 
-* 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - Vehicle Security Resources
-* [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) or [CarComplaints](https://www.carcomplaints.com/) - Car Repair Sites
-* [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/) or [ProCarManuals](https://procarmanuals.com/) - Auto Repair Manuals
-* [Ownersman.com](https://ownersman.com/) - Car Owner Manuals
-* [PremierProduct](https://www.premierproducts-uk.co.uk/) or [Auto Manual](https://www.auto-manual.com/) - Vehicle Manuals
-* [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
-* [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
-* [How a Car Works](https://www.howacarworks.com/) - Car Mechanics / Automotive Engineering Guides
-* [Internet Movie Cars Database](https://www.imcdb.org/) - Movie Vehicle Database
-* [Internet Game Cars Database](https://igcd.net/) - Game Vehicle Database
-* [PlateRecognizer](https://platerecognizer.com/) - License Plate Recognition
-* [GasPrices](https://gasprices.aaa.com/) - Gas Price Tracker
-* [Fuel.io](https://fuel.io/) - Vehicle Fuel Tracking
-* [LubeLogger](https://lubelogger.com/) - Self-Hosted Maintenance + Fuel Mileage Tracker / [GitHub](https://github.com/hargata/lubelog) 
-* [EV-Map](https://ev-map.app/) - Electronic Vehicle Charging Map
-* [Alibi](https://github.com/Myzel394/Alibi) or [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - Mobile Dashcams
+* ↪️ **[树莓派工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/linux#wiki_.25B7_raspberry_pi)**
+* ⭐ **[Home Assistant](https://www.home-assistant.io/)** - 家庭助手 / 物联网 / [追踪器](https://github.com/djdevil/person-tracker-card/) / [家电](https://github.com/Andre0512/hOn) / [图形界面](https://github.com/LAB02-Research/HASS.Agent) / [移动应用](https://companion.home-assistant.io/)
+* ⭐ **[Grocy](https://grocy.info/)** - 杂货/家庭管理工具 / [Android](https://patrickzedler.com/grocy/) / [子版块](https://www.reddit.com/r/grocy) / [GitHub](https://github.com/grocy/grocy)
+* [OpenHab](https://www.openhab.org/) - 家庭助手 / 物联网 / [设置](https://github.com/openhab/openhabian) / [移动版](https://github.com/openhab/openhab-android)
+* [Esphome](https://esphome.io/) - 家庭助手 / 物联网
+* [ioBroker](https://www.iobroker.net/) - 家庭助手 / 物联网 / [Discord](https://discord.com/invite/HwUCwsH) / [GitHub](https://github.com/ioBroker/ioBroker)
+* [Exo](https://github.com/exo-explore/exo/) - 运行 AI 家庭设备集群 / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
+* [BudgetDuo](https://budgetduo.com/) - 分摊家庭开支
+* [OpenVoiceOS](https://www.openvoiceos.org/) - 自定义语音控制界面 / [GitHub](https://github.com/OpenVoiceOS/)
+* [Sweet Home 3D](https://www.sweethome3d.com/) 或 [Homestyler](https://www.homestyler.com/) - 室内设计应用
+* [BlockLayer](https://www.blocklayer.com/) - 建筑/改造计算器
+* [PlanYourRoom](https://www.planyourroom.com/) - 可视化 PC 设置
 
 ***
 
-# ► Travel
+# ► 园艺
 
-* ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) or [WikiTravel](https://wikitravel.org/) - Travel Guides
-* [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
-* [⁠Ikuyo](https://ikuyo.kenrick95.org/) - Trip / Travel Planning
-* [Roadside America](https://www.roadsideamerica.com/) - Roadside Attraction Guides
-* [Bike Sharing](https://bikesharingworldmap.com/) - Bike Rental Map
-* [SkyDB](https://www.skydb.net/) - Skyscraper Locations / Info
-* [Seat61](https://www.seat61.com/) - Train Travel Guide
-* [⁠Trustroots](https://www.trustroots.org/) - Traveler Hospitality Community
-* [SitInShade](https://sitinshade.com/) - Avoid the Sun While Traveling
-* [eSIMDB](https://esimdb.com/) - Compare eSIM Prices
-
-***
-
-## ▷ Flights
-
-* **Note** - Remember it's always good to cross-check flight prices across multiple providers + the airline's site itself to be sure you're getting the best deal.
-
-***
-
-* ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/), [Air Loom](https://objectiveunclear.com/airloom.html) or [FlightAware](https://www.flightaware.com/) - Live Flight Trackers
-* [VisaIndex](https://visaindex.com/) - Worldwide Travel Visa Guides
-* [Google Flights](https://www.google.com/travel/flights) or [⁠SkyScanner](https://skyscanner.net/) - Compare / Book Flights
-* [seats.aero](https://seats.aero/) - Flight Search Engine / [Discord](https://discord.gg/PaHdCqb7eh)
-* [Matrix](https://matrix.itasoftware.com/) - Airfare Search
-* [FlightConnections](https://www.flightconnections.com/) - Interactive Flight Routes
-* [SkyVector](https://skyvector.com/) - Flight Planner
-* [⁠ADSB.im](https://adsb.im/) - ADSB Tracking for Single Board Computers
+* 🌐 **[Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)** - 农业资源
+* 🌐 **[农业/园艺子版块](https://claraiscute.pages.dev/Guides/touchgrasss/)**
+* 🌐 **[大麻种植子版块](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)** 或 [大麻子版块](https://www.reddit.com/r/trees/wiki/entreddits_social) - 大麻相关子版块
+* ⭐ **[EarthEasy](https://learn.eartheasy.com/)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [GrowStuff](https://www.growstuff.org/) 或 [GrowVeg](https://www.growveg.com/) - 园艺指南
+* ⭐ **[r/Gardening](https://reddit.com/r/gardening)** - 园艺社区
+* ⭐ **[r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - 植物识别社区
+* [PictureThis](https://www.picturethisai.com/) 或 [Pl@ntNet](https://identify.plantnet.org/) - 植物识别工具 / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
+* [WildFlowerSearch](https://wildflowersearch.org/) - 花卉识别器
+* [Permapeople](https://permapeople.org/) - 花园植物信息
+* [How Many Plants](https://howmanyplants.com/) - 室内植物信息
+* [Florae](https://github.com/aeri/Florae) 或 [Plant-it](https://plant-it.org/) / [GitHub](https://github.com/MDeLuise/plant-it) - 植物护理提醒
+* [WorldOfSucculents](https://worldofsucculents.com/) - 多肉植物数据库
+* [MyGarden](https://gitlab.com/m9712/mygarden) - 花园管理应用
+* [Gardenia](https://www.gardenia.net/) 或 [Garden Design](https://www.gardendesign.com/) - 花园设计资源
+* [r/UrbanGardening](https://www.reddit.com/r/UrbanGardening/) - 城市园艺社区
+* [r/Farming](https://reddit.com/r/farming/) - 农业社区
+* [Composting](https://learn.eartheasy.com/guides/composting/) - 堆肥指南
+* [Modern Farmer](https://modernfarmer.com/) - 农业新闻
+* [Chip Drop](https://getchipdrop.com/) - 免费覆盖物
+* [世界耐寒区](https://upload.wikimedia.org/wikipedia/commons/a/a7/World_Hardiness_Zones.png) 或 [Plantmaps](https://www.plantmaps.com/) - 全球耐寒区地图
+* [r/Microgrowery](https://reddit.com/r/microgrowery/) 或 [GrassCity](https://forum.grasscity.com/) - 大麻种植社区
+* [SeedFinder](https://seedfinder.eu/en) - 35500+ 品种数据库
 
 ***
 
-# ► Maps
+# ► 车辆
 
-* 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - Online Map Resources
-* 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/) or [Cool Maps](https://coolmaps.esri.com/) - Atlases
-* 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - All NCEI Maps
-* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) or [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - Global Conflicts Map
-* [Maps.com](https://www.maps.com/) - Interesting / Educational Maps
-* [FreeMapTools](https://www.freemaptools.com/) - Map Tools
-* [The Cartographers' Guild](https://www.cartographersguild.com/) - Cartography Forum
-* [TextToMap](https://www.textomap.com/) - Text-Based Map Search
-* [Copernix](https://copernix.io/) or [Local Map](https://www.matthewsiu.com/local-map) - Explore a Map with Wikipedia
-* [Flickr Map](https://www.flickr.com/map/) - Flickr Map
-* [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit Map Community
-* [NearbyWiki](https://en.nearbywiki.org/) - Explore Interesting Places Near You
-* [Urbex](https://urbexology.com/) - Abandoned Places Map
-* [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - Arcade Game Map + Database
-* [Wikimapia](https://wikimapia.org/) - Online Editable Map
-* [Orhyginals Map](http://map.orhyginal.fr/) - Online Editable Map
-* [MapChart](https://mapchart.net/) or [Qgis](https://qgis.org/) - Create Custom Maps
-* [There to Where](https://theretowhere.com/) - Find Apartments Near Important Things
-* [Scribble Maps](https://www.scribblemaps.com/create/) - Custom Location Map
-* [Dawarich](https://dawarich.app/) - Self-Hosted Google Maps Timeline Alternative / [Discord](https://discord.gg/pHsBjpt5J8)
-* [gpx.studio](https://gpx.studio/) - GPX File Editor
-* [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - Open Map Links in Alt Map Apps / Copy Coordinates 
-* [OpenDroneMap](https://www.opendronemap.org/) - Drone Mapping Software
-* [Mobac](https://mobac.sourceforge.io/) - Mobile Atlas Creator
-* [Freedom House](https://freedomhouse.org/explore-the-map) or [Civicus Monitor](https://monitor.civicus.org/) - Freedom Maps
-* [BlueW](https://bluew.org/) - Free Water Refill Map
-* [Notable People](https://tjukanovt.github.io/notable-people) or [People Map](https://pudding.cool/2019/05/people-map/) - Notable People Maps
-* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [NukeSim](https://www.nukesim.com/), [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) or [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - Interactive Damage Effect Maps
-* [CAD Mapper](https://cadmapper.com/) - Free CAD Files
+* 🌐 **[Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)** - 车辆安全资源
+* [Startmycar](https://www.startmycar.com), [CarCareKiosk](https://www.carcarekiosk.com/) 或 [CarComplaints](https://www.carcomplaints.com/) - 汽车维修网站
+* [JDMFSM](https://jdmfsm.info/Auto/), [Charm](https://charm.li/), [CarPDFManual](https://www.carpdfmanual.com/) 或 [ProCarManuals](https://procarmanuals.com/) - 汽车维修手册
+* [Ownersman.com](https://ownersman.com/) - 汽车车主手册
+* [PremierProduct](https://www.premierproducts-uk.co.uk/) 或 [Auto Manual](https://www.auto-manual.com/) - 车辆手册
+* [Cars.com](https://www.cars.com/research/compare/) - 车辆评测/对比
+* [⁠CarSized](https://www.carsized.com/) - 车辆尺寸对比
+* [How a Car Works](https://www.howacarworks.com/) - 汽车机械/汽车工程指南
+* [Internet Movie Cars Database](https://www.imcdb.org/) - 电影车辆数据库
+* [Internet Game Cars Database](https://igcd.net/) - 游戏车辆数据库
+* [PlateRecognizer](https://platerecognizer.com/) - 车牌识别
+* [GasPrices](https://gasprices.aaa.com/) - 汽油价格追踪器
+* [Fuel.io](https://fuel.io/) - 车辆燃油追踪
+* [LubeLogger](https://lubelogger.com/) - 自托管维护+燃油里程追踪器 / [GitHub](https://github.com/hargata/lubelog)
+* [EV-Map](https://ev-map.app/) - 电动车充电地图
+* [Alibi](https://github.com/Myzel394/Alibi) 或 [DroidDashcam](https://play.google.com/store/apps/details?id=com.helge.droiddashcam) - 手机行车记录仪
 
 ***
 
-## ▷ Navigation / Transport
+# ► 旅行
 
-* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://osmand.net/) or [Mapy](https://mapy.com) - Online / Offline Maps
-* ⭐ **[CoMaps](https://www.comaps.app/)** / [Source Code](https://codeberg.org/comaps/comaps) or [Organic Maps](https://organicmaps.app/) / [Subreddit](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - Offline Maps
-* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - Open Community Maps
-* ⭐ **OpenStreetMap Tools** - [Resources](https://github.com/osmlab/awesome-openstreetmap) / [Features](https://github.com/deevroman/better-osm-org) / [Advanced Search](https://nominatim.openstreetmap.org/ui/search.html) / [Advanced Editor](https://level0.osmz.ru/) / [AI Editor](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
-* [Magic Earth](https://www.magicearth.com/) - Mobile Maps
-* [Waze](https://www.waze.com/) - Driving / Navigation Focused Map / [Editor](https://www.waze.com/en-US/editor)
-* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - Restricted Google Maps WebView Wrapper / [GitHub](https://github.com/woheller69/maps)
-* [CubeTrek](https://cubetrek.com/) - GPS Track Manager
-* [DeFlock](https://deflock.me/) - AI Automated License Plate Reader Cameras / ALPR Map / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock)
-* [Wikiroutes](https://wikiroutes.info/) or [CityMapper](https://citymapper.com/) - Public Transport Maps
-* [AnyTrip](https://anytrip.com.au/) - Australia & New Zealand Public Transport Maps
-* [Mini Tokyo 3D](https://minitokyo3d.com/) - Tokyo Public Transport Map / [GitHub](https://github.com/nagix/mini-tokyo-3d)
-* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - Russia Public Transport Map
-* [kakaomap](https://map.kakao.com/) - Map of South Korea
-* [Skimap.org](https://skimap.org/) - Detailed Ski Maps
+* ↪️ **[音乐会/现场演出](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [手机版](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org) 或 [WikiTravel](https://wikitravel.org/) - 旅游指南
+* [⁠CozyCozy](https://www.cozycozy.com/) - 比较 100+ 个旅游住宿网站
+* [⁠Ikuyo](https://ikuyo.kenrick95.org/) - 旅行/旅游规划
+* [Roadside America](https://www.roadsideamerica.com/) - 路边景点指南
+* [Bike Sharing](https://bikesharingworldmap.com/) - 自行车租赁地图
+* [SkyDB](https://www.skydb.net/) - 摩天大楼位置/信息
+* [Seat61](https://www.seat61.com/) - 火车旅行指南
+* [⁠Trustroots](https://www.trustroots.org/) - 旅行者接待社区
+* [SitInShade](https://sitinshade.com/) - 旅行时避开阳光
+* [eSIMDB](https://esimdb.com/) - 比较 eSIM 价格
 
 ***
 
-## ▷ Railway Maps
+## ▷ 航班
 
-* [OpenRailwayMap](https://www.openrailwaymap.org/) - World's Railway Infrastructure
-* [trains.fyi](https://trains.fyi/) - Real-Time North America Train Tracker
-* [amtrak explorer](https://amtrakexplorer.com/) - North America Railway Map
-* [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - Detailed Subway Maps / History
-* [AP Transit](https://aptransit.co/) - NYC Live Subway Map
-* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - Switzerland Railway Map
-* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - Finland Train Tracker Map
-* [IndianRailInfo](https://indiarailinfo.com/newatlas) - Indian Railways Map
-* [SignalBox](https://www.map.signalbox.io/) or [Live Tube Map](https://www.londonunderground.live/) - UK Live Train Maps
-* [Train positions](https://treinposities.nl/) - Netherlands Train Info Map
-* [Chronotrains](https://www.chronotrains.com/) - European Train Distances
-* [Abandoned Rails](https://www.abandonedrails.com/) - Abandoned US Railroad Routes
+* **注意** - 记住最好在多个供应商和航空公司官网之间交叉检查航班价格，以确保获得最佳交易。
 
 ***
 
-## ▷ Climate / Weather
-
-* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [⁠WXCharts](https://wxcharts.com/), [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Weatherwise](https://web.weatherwise.app/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) or [satellite-map.gosur](https://satellite-map.gosur.com/) - General Weather / Climate Maps
-* [⁠CyclonicWx](https://cyclonicwx.com/) - Tropical Weather Tracking Tools / Plotting
-* [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - Global Jetstream Forecast Map
-* [Cyclocane](https://www.cyclocane.com/) - Cyclone and Hurricane Tracker Map
-* [Supercell Wx](https://supercellwx.net/) - Visualize / Archive NEXRAD Data + Weather Alerts / [GitHub](https://github.com/dpaulat/supercell-wx)
-* [tornado.live](https://tornado.live/) - Real-Time US Severe Weather Alerts Map
-* [Tropical Tidbits](https://www.tropicaltidbits.com/) - Hurricane Forecast Models
-* [FloodMap](https://www.floodmap.net/) - Sea Level / Flood Map
-* [Snow Forcast](https://www.snow-forecast.com/maps) - Snow Forecast Maps
-* [AtticRadar](https://atticradar.steepatticstairs.net/) - Advanced Weather Radar / NOAA Stations
-* [Tornado Archive](https://tornadoarchive.com/) - Tornado Archive Data Explorer
-* [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - Tornado Shelter Map
-* [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) or [Lightning Maps](https://www.lightningmaps.org/) - Lightning / Thunderstorms Maps
-* [ClearOutside](https://clearoutside.com/) - Weather Visibility Tracker
-* [aqicn.org](https://aqicn.org/map/world) - Air Quality Map
-* [Light Pollution Map](https://lightpollutionmap.info/) or [lightpollutionmap](https://lightpollutionmap.app) - Light Pollution Maps
-* [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - England Light Pollution and Dark Skies
-* [Electricity Maps](https://app.electricitymaps.com/map) - Electricity CO₂ Emissions Map
-* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - Radioactivity / Air Quality in Ukraine
+* ⭐ **[ADS-B Exchange](https://globe.adsbexchange.com/)**, [FlightRadar24](https://www.flightradar24.com/), [PlaneFinder](https://planefinder.net/), [Airplanes.live](https://globe.airplanes.live/), [Radarbox](https://www.airnavradar.com/), [Air Loom](https://objectiveunclear.com/airloom.html) 或 [FlightAware](https://www.flightaware.com/) - 实时航班追踪器
+* [VisaIndex](https://visaindex.com/) - 全球旅行签证指南
+* [Google Flights](https://www.google.com/travel/flights) 或 [⁠SkyScanner](https://skyscanner.net/) - 比较/预订航班
+* [seats.aero](https://seats.aero/) - 航班搜索引擎 / [Discord](https://discord.gg/PaHdCqb7eh)
+* [Matrix](https://matrix.itasoftware.com/) - 机票搜索
+* [FlightConnections](https://www.flightconnections.com/) - 互动航班路线
+* [SkyVector](https://skyvector.com/) - 航班规划器
+* [⁠ADSB.im](https://adsb.im/) - 单板计算机的 ADSB 追踪
 
 ***
 
-## ▷ Geography Maps
+# ► 地图
 
-* [Falling Fruit](https://fallingfruit.org/) - Urban Harvesting Map
-* [HungerMap](https://hungermap.wfp.org/) - Global Hunger Map
-* [Global Fishing Watch](https://globalfishingwatch.org/map) - Fishing Activity Map
-* [OCEARCH](https://www.ocearch.org/tracker/) - Shark Tracker
-* [MarineTraffic](https://www.marinetraffic.com/), [CruiseMapper](https://www.cruisemapper.com/) or [MyShipTracking](https://www.myshiptracking.com/) - Live Ship Trackers
-* [EuroBirdPortal](https://www.eurobirdportal.org/) - European Bird Distribution Map
-* [Global Forest Watch](https://www.globalforestwatch.org/map/) - Interactive Forest & Tree Cover Map
-* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - Forest Sounds Map
-* [Aporee](https://aporee.org/maps/) - World Map of Sounds
-* [Cost of Living](https://www.numbeo.com/cost-of-living/) - Cost of Living Map
-* [MoveMap](https://www.movemap.io/) - North America Property Costs Map
-* [ExoRoad](https://www.exoroad.com/) - Find Places to Live via Description
-* [Beacon](https://beacon.schneidercorp.com/) - Property Info / Map Search
-* [World Population Density](https://luminocity3d.org/WorldPopDen/) - Population Density Map
-* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - Fire / Thermal Anomalies Map
-* [Native Land](https://native-land.ca/) - Indigenous Territory Map
-* [kepler.gl](https://kepler.gl/) - Geospatial Analysis Tool / [GitHub](https://github.com/keplergl/kepler.gl)
-
-***
-
-## ▷ Geology Maps
-
-* [USGS Maps](https://www.usgs.gov/products/maps) - Geologic Maps / 3-D Geologic Frameworks
-* [Macrostrat](https://macrostrat.org/) - Geological Data Map
-* [Fishermap](https://usa.fishermap.org/depth-map/) - Water Depth Maps
-* [River Runner](https://river-runner.samlearner.com/) / [3D Map](https://river-runner-global.samlearner.com/) - Raindrop Tracking Map
-* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - Wetlands Map
-* [Mindat](https://www.mindat.org/countrylist.php) - Mineral Deposits Map
-* [PeakFinder](https://www.peakfinder.com/) - Mountain Names Map
-* [topographic-map](https://en-gb.topographic-map.com/) - Topographic Map
-* [KCG2](https://prop.kc2g.com/) - Ionospheric Conditions Map
-* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - Volcano Activity Map
-* [USGS](https://earthquake.usgs.gov/earthquakes/map/) - Earthquake Activity Map
-* [GPlates](https://www.gplates.org/) - Plate Tectonics Simulator
+* 🌐 **[Awesome Maps](https://github.com/simsieg/awesome-maps)** - 在线地图资源
+* 🌐 **[Soar](https://soar.earth/)**, [ArcGIS Living Atlas](https://livingatlas.arcgis.com/) 或 [Cool Maps](https://coolmaps.esri.com/) - 地图集
+* 🌐 **[Maps and Geospatial Products](https://www.ncei.noaa.gov/maps-and-geospatial-products)** - 所有 NCEI 地图
+* ⭐ **[CrisisWatch](https://www.crisisgroup.org/crisiswatch)**, [ACLED](https://acleddata.com/data/), [Global Conflict Tracker](https://www.cfr.org/global-conflict-tracker), [LiveUAMap](https://liveuamap.com/) 或 [Israeli-Palestine Conflict](https://israelpalestine.liveuamap.com/) - 全球冲突地图
+* [Maps.com](https://www.maps.com/) - 有趣/教育地图
+* [FreeMapTools](https://www.freemaptools.com/) - 地图工具
+* [The Cartographers' Guild](https://www.cartographersguild.com/) - 制图论坛
+* [TextToMap](https://www.textomap.com/) - 基于文本的地图搜索
+* [Copernix](https://copernix.io/) 或 [Local Map](https://www.matthewsiu.com/local-map) - 使用维基百科探索地图
+* [Flickr Map](https://www.flickr.com/map/) - Flickr 地图
+* [r/MapPorn](https://reddit.com/r/MapPorn) - Reddit 地图社区
+* [NearbyWiki](https://en.nearbywiki.org/) - 探索您附近的有趣地点
+* [Urbex](https://urbexology.com/) - 废弃地点地图
+* [⁠Arcade Database](https://zenius-i-vanisher.com/v5.2/arcades.php) - 街机游戏地图 + 数据库
+* [Wikimapia](https://wikimapia.org/) - 在线可编辑地图
+* [Orhyginals Map](http://map.orhyginal.fr/) - 在线可编辑地图
+* [MapChart](https://mapchart.net/) 或 [Qgis](https://qgis.org/) - 创建自定义地图
+* [There to Where](https://theretowhere.com/) - 查找重要地点附近的公寓
+* [Scribble Maps](https://www.scribblemaps.com/create/) - 自定义位置地图
+* [Dawarich](https://dawarich.app/) - 自托管 Google Maps 时间线替代方案 / [Discord](https://discord.gg/pHsBjpt5J8)
+* [gpx.studio](https://gpx.studio/) - GPX 文件编辑器
+* [⁠Geo Share](https://github.com/jakubvalenta/geoshare) - 在替代地图应用中打开地图链接 / 复制坐标
+* [OpenDroneMap](https://www.opendronemap.org/) - 无人机测绘软件
+* [Mobac](https://mobac.sourceforge.io/) - 移动地图集创建器
+* [Freedom House](https://freedomhouse.org/explore-the-map) 或 [Civicus Monitor](https://monitor.civicus.org/) - 自由度地图
+* [BlueW](https://bluew.org/) - 免费饮水点地图
+* [Notable People](https://tjukanovt.github.io/notable-people) 或 [People Map](https://pudding.cool/2019/05/people-map/) - 名人地图
+* [NUKEMAP](https://nuclearsecrecy.com/nukemap/), [NukeSim](https://www.nukesim.com/), [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) 或 [MISSILEMAP](https://nuclearsecrecy.com/missilemap/) - 交互式损害效果地图
+* [CAD Mapper](https://cadmapper.com/) - 免费 CAD 文件
 
 ***
 
-## ▷ Historic Maps
+## ▷ 导航 / 交通
 
-* 🌐 **[Map History](https://www.maphistory.info/)** or [David Rumsey Map Collection](https://www.davidrumsey.com/) - Historical Map Indexes
-* ⭐ **[Running Reality](https://www.runningreality.org/)**, [World History Maps](https://www.worldhistory.org/mapselect/), [⁠Globe of History](https://www.globeofhistory.com/) (desktop), [Chronas](https://www.chronas.org/) or [OldMapsOnline](https://www.oldmapsonline.org/) - Interactive Historical Maps
-* [HMDB](https://www.hmdb.org/) - Historical Marker Database / Map
-* [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS Map Archive
-* [Cronobook](https://cronobook.com/) - Historic Street View
-* [EuraAtlas](https://euratlas.com/) - Historical Atlas of Europe
-* [r/oldmaps](https://www.reddit.com/r/oldmaps/) or [r/papertowns](https://www.reddit.com/r/papertowns/) - Historical Maps Community
-* [Historical City Maps](https://redd.it/61fdp6) - Collection of Historical City Maps
-* [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - LOC Historic Maps Archive
-* [Historic Borders](https://historicborders.app/) - Borders History Map
-* [American Panorama](https://dsl.richmond.edu/panorama/) - Interactive US History Maps
-* [Mused](https://mused.com/) - Text to 3D Historical Simulation Map
-* [NLS Maps](https://maps.nls.uk/) - Historical Maps of Scotland
-* [Imperium](https://imperium.ahlfeldt.se/) - Digital Atlas of the Roman Empire
-* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - Globe of Ancient Earth
-* [1940s NYC](https://1940s.nyc/) - Explore 1940's New York
-* [⁠Project ’44](https://www.project44.ca/) - World War II Historical Map / [X](https://x.com/project4_4) / [Discord](https://discord.gg/bzWEuc6JJv)
-* [Project Athena](https://www.projectathena.ca/) - War in Afghanistan Historical Map / [X](https://x.com/TFProjectAthena) / [Discord](https://discord.gg/jMmxWZpUKs)
-* [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - The Battle of Hong Kong 1941 Interactive Map
-* [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - Interactive Medieval Murder / Death Maps
+* ⭐ **[Google Maps](https://www.google.com/maps/)**, [Apple Maps](https://beta.maps.apple.com/), [Bing Maps](https://www.bing.com/maps), [OsmAnd](https://osmand.net/) 或 [Mapy](https://mapy.com) - 在线/离线地图
+* ⭐ **[CoMaps](https://www.comaps.app/)** / [源代码](https://codeberg.org/comaps/comaps) 或 [Organic Maps](https://organicmaps.app/) / [子版块](https://www.reddit.com/r/organicmaps/) / [Telegram](https://t.me/OrganicMaps) / [GitHub](https://github.com/organicmaps/organicmaps) - 离线地图
+* ⭐ **[OpenStreetMap](https://www.openstreetmap.org/)** - 开放社区地图
+* ⭐ **OpenStreetMap 工具** - [资源](https://github.com/osmlab/awesome-openstreetmap) / [功能](https://github.com/deevroman/better-osm-org) / [高级搜索](https://nominatim.openstreetmap.org/ui/search.html) / [高级编辑器](https://level0.osmz.ru/) / [AI 编辑器](https://rapideditor.org/) / [Overpass API GUI](https://overpass-turbo.eu/)
+* [Magic Earth](https://www.magicearth.com/) - 移动地图
+* [Waze](https://www.waze.com/) - 驾驶/导航专注地图 / [编辑器](https://www.waze.com/en-US/editor)
+* [GMaps WV](https://f-droid.org/packages/us.spotco.maps/) - 受限制的 Google Maps WebView 包装器 / [GitHub](https://github.com/woheller69/maps)
+* [CubeTrek](https://cubetrek.com/) - GPS 轨迹管理器
+* [DeFlock](https://deflock.me/) - AI 自动车牌读取摄像头 / ALPR 地图 / [Discord](https://discord.gg/aV7v4R3sKT) / [GitHub](https://github.com/FoggedLens/deflock)
+* [Wikiroutes](https://wikiroutes.info/) 或 [CityMapper](https://citymapper.com/) - 公共交通地图
+* [AnyTrip](https://anytrip.com.au/) - 澳大利亚和新西兰公共交通地图
+* [Mini Tokyo 3D](https://minitokyo3d.com/) - 东京公共交通地图 / [GitHub](https://github.com/nagix/mini-tokyo-3d)
+* [rasp.yandex](https://rasp.yandex.ru/map/trains/) - 俄罗斯公共交通地图
+* [kakaomap](https://map.kakao.com/) - 韩国地图
+* [Skimap.org](https://skimap.org/) - 详细滑雪地图
 
 ***
 
-## ▷ Infrastructure Maps
+## ▷ 铁路地图
 
-* [Open Infrastructure Map](https://openinframap.org/) - Global Infrastructure Map / [GitHub](https://github.com/openinframap/openinframap/)
-* [PowerOutage.us](https://poweroutage.us/) - US Power Outage Map
-* [CoverageMap](https://coveragemap.com/) - Cell Coverage Map
-* [CellMapper](https://www.cellmapper.net/) or [OpenCelliD](https://opencellid.org/) - Cell Tower Maps
-* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - Cell Carrier FCC Spectrum Map
-* [WiGLE](https://wigle.net/) - Wireless Networks Map
-* [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC National Broadband Map
-* [Submarine Cable Map](https://www.submarinecablemap.com/) - Undersea Internet Cable Map
-
-***
-
-## ▷ Satellite / Earth Data
-
-* ⭐ **[Google Earth](https://www.google.com/earth/about/versions/)** - Earth Viewer
-* [Huge Earth Maps](https://maps.drsys.eu/) - High Res Earth Maps
-* [StreetComplete](https://streetcomplete.app/) - OpenStreetMap Surveyor App
-* [FacilMap](https://facilmap.org/) or [OsmAPP](https://osmapp.org/) - OSM Web Apps
-* [OpenMapTiles](https://openmaptiles.org/) - Self-Hosted Map Tools
-* [NASA Earthdata](https://search.earthdata.nasa.gov/search) - Earth Data Archive
-* [glifwc](https://maps.glifwc.org/) - Map with Data
-* [Mapillary](https://www.mapillary.com/) or [Mapcarta](https://mapcarta.com/) - Open Street View Data
-* [Instant Street View](https://www.instantstreetview.com/) - Instantly Load Street View
-* [MapCrunch](https://www.mapcrunch.com/) or [Random Street View](https://randomstreetview.com/) - Random Street View
-* [city roads](https://anvaka.github.io/city-roads/) - City Roads Map
-* [GeoHack](https://geohack.toolforge.org/) - Uncensored Google Satellite View
+* [OpenRailwayMap](https://www.openrailwaymap.org/) - 世界铁路基础设施
+* [trains.fyi](https://trains.fyi/) - 实时北美列车追踪器
+* [amtrak explorer](https://amtrakexplorer.com/) - 北美铁路地图
+* [Vanshnookenraggen Track Maps](https://www.vanshnookenraggen.com/_index/category/maps/track-maps/) - 详细地铁地图/历史
+* [AP Transit](https://aptransit.co/) - 纽约实时地铁地图
+* [Swiss Railways Network](https://maps.vasile.ch/transit-sbb/) - 瑞士铁路地图
+* [vr.fi](https://www.vr.fi/en/live-train-tracker-map) - 芬兰列车追踪地图
+* [IndianRailInfo](https://indiarailinfo.com/newatlas) - 印度铁路地图
+* [SignalBox](https://www.map.signalbox.io/) 或 [Live Tube Map](https://www.londonunderground.live/) - 英国实时列车地图
+* [Train positions](https://treinposities.nl/) - 荷兰列车信息地图
+* [Chronotrains](https://www.chronotrains.com/) - 欧洲列车距离
+* [Abandoned Rails](https://www.abandonedrails.com/) - 美国废弃铁路线路
 
 ***
 
-# ► News
+## ▷ 气候 / 天气
 
-* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)** - Worldwide News Sites Index
-* ↪️ **[Newspaper Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
-* ↪️ **[Bypass Article Paywalls](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
-* ⭐ **[TorrentFreak](https://torrentfreak.com/)** - Piracy News / [Telegram](https://t.me/torrentfreaks)
-* ⭐ **[Current Events Wiki](https://en.wikipedia.org/wiki/Portal:Current_events)** - Breaking News
-* ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** or [Happy Daze](https://happydaze.io/) - Uplifting News
-* [News as Facts](https://newsasfacts.com/) - Wiki-Based News
-* [Google Alerts](https://www.google.com/alerts) - News Alerts by Topics
-* [Top Stories](https://murmel.social/top) - Top Fediverse News
-* [CBM](https://comicbookmovie.com/) - Comic / Movie / TV News
-* [Anime News Network](https://www.animenewsnetwork.com/) - Anime News
-* [Anime Corner](https://animecorner.me/) - Anime / Manga News
-* [ArtDaily](https://artdaily.com) - Art News
-* [Codrops](https://tympanus.net/codrops/) - Design News
-* [The Athletic](https://www.nytimes.com/athletic/) - Sports News / [Bypass Paywall](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [Mobile](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search)
-* [EventMap](https://rsoe-edis.org/eventMap) - Emergency and Disaster Maps
-* [Interactive News Map](https://usa.liveuamap.com/) - Geolocated News Alerts / Headlines U.S.
-* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) or [WebMD](https://www.webmd.com/) - Health News
-* [MathURLs](https://mathurls.com/) - Math News
-* [Dailynous](https://dailynous.com/) - Philosophy News
-* [Medievalists](https://www.medievalists.net/category/news/) - Medieval History News
-* [FinURLs](https://finurls.com/) - Finance & Business News
-* [⁠NCS](https://www.newscaststudio.com/) - Television Broadcast Network News
-* [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 Disaster News
-* [Citizen](https://citizen.com/explore) - Real Time Local News (US Only)
-* [POTUS Tracker](https://potustracker.us/), [GovData](https://www.govactionlist.com/) or [WikiPolitica](https://wikipolitica.org/) - Government Executive Orders, Location & more
-* [FlightSaftey](https://asn.flightsafety.org/), [PlaneCrashInfo](https://www.planecrashinfo.com/) or [AVHerald](https://avherald.com/) - Aviation Incidents / News
-* [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) or [BoredReading](https://boredreading.com/) - Random Articles / Blog Posts
-* [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) or [HonestyMeter](https://www.honestymeter.com/) - Media Bias Checkers
-* [PressMob](https://pressmob.ai/) - Journalist Search
-* [Scribe](https://sr.ht/~edwardloveall/Scribe/) or [LibMedium](https://libmedium.batsense.net/) - Medium Frontends
+* ⭐ **[Windy](https://www.windy.com/)**, **[Ventusky](https://www.ventusky.com/)**, [⁠WXCharts](https://wxcharts.com/), [Earth Observatory](https://earthobservatory.nasa.gov/global-maps), [Zoom Earth](https://zoom.earth/), [Weatherwise](https://web.weatherwise.app/), [Earth Now](https://climate.nasa.gov/earth-now/), [Earth](https://earth.nullschool.net/) 或 [satellite-map.gosur](https://satellite-map.gosur.com/) - 通用天气/气候地图
+* [⁠CyclonicWx](https://cyclonicwx.com/) - 热带天气追踪工具/绘图
+* [Netweather](https://www.netweather.tv/charts-and-data/global-jetstream) - 全球急流预报地图
+* [Cyclocane](https://www.cyclocane.com/) - 飓风和台风追踪地图
+* [Supercell Wx](https://supercellwx.net/) - 可视化/存档 NEXRAD 数据 + 天气警报 / [GitHub](https://github.com/dpaulat/supercell-wx)
+* [tornado.live](https://tornado.live/) - 实时美国严重天气警报地图
+* [Tropical Tidbits](https://www.tropicaltidbits.com/) - 飓风预报模型
+* [FloodMap](https://www.floodmap.net/) - 海平面/洪水地图
+* [Snow Forcast](https://www.snow-forecast.com/maps) - 雪预报地图
+* [AtticRadar](https://atticradar.steepatticstairs.net/) - 高级天气雷达/NOAA 站点
+* [Tornado Archive](https://tornadoarchive.com/) - 龙卷风档案数据浏览器
+* [Find Your Tornado Shelter](https://findyourtornadoshelter.com/) - 龙卷风避难所地图
+* [Blitzortung.org](https://www.blitzortung.org/en/live_lightning_maps.php) 或 [Lightning Maps](https://www.lightningmaps.org/) - 闪电/雷暴地图
+* [ClearOutside](https://clearoutside.com/) - 天气能见度追踪器
+* [aqicn.org](https://aqicn.org/map/world) - 空气质量地图
+* [Light Pollution Map](https://lightpollutionmap.info/) 或 [lightpollutionmap](https://lightpollutionmap.app) - 光污染地图
+* [CPRE](https://www.cpre.org.uk/light-pollution-dark-skies-map/) - 英格兰光污染和暗夜天空
+* [Electricity Maps](https://app.electricitymaps.com/map) - 电力 CO₂ 排放地图
+* [SaveEcoBot](https://www.saveecobot.com/en/radiation-maps) - 乌克兰放射性/空气质量
 
 ***
 
-## ▷ Aggregators
+## ▷ 地理地图
+
+* [Falling Fruit](https://fallingfruit.org/) - 城市采摘地图
+* [HungerMap](https://hungermap.wfp.org/) - 全球饥饿地图
+* [Global Fishing Watch](https://globalfishingwatch.org/map) - 捕鱼活动地图
+* [OCEARCH](https://www.ocearch.org/tracker/) - 鲨鱼追踪器
+* [MarineTraffic](https://www.marinetraffic.com/), [CruiseMapper](https://www.cruisemapper.com/) 或 [MyShipTracking](https://www.myshiptracking.com/) - 实时船舶追踪器
+* [EuroBirdPortal](https://www.eurobirdportal.org/) - 欧洲鸟类分布地图
+* [Global Forest Watch](https://www.globalforestwatch.org/map/) - 交互式森林与树木覆盖地图
+* [Sounds of the Forest](https://timberfestival.org.uk/soundsoftheforest-soundmap/) - 森林声音地图
+* [Aporee](https://aporee.org/maps/) - 世界声音地图
+* [Cost of Living](https://www.numbeo.com/cost-of-living/) - 生活成本地图
+* [MoveMap](https://www.movemap.io/) - 北美房产成本地图
+* [ExoRoad](https://www.exoroad.com/) - 通过描述查找居住地
+* [Beacon](https://beacon.schneidercorp.com/) - 房产信息/地图搜索
+* [World Population Density](https://luminocity3d.org/WorldPopDen/) - 人口密度地图
+* [FIRMS](https://firms.modaps.eosdis.nasa.gov/map/) - 火灾/热异常地图
+* [Native Land](https://native-land.ca/) - 原住民领土地图
+* [kepler.gl](https://kepler.gl/) - 地理空间分析工具 / [GitHub](https://github.com/keplergl/kepler.gl)
+
+***
+
+## ▷ 地质地图
+
+* [USGS Maps](https://www.usgs.gov/products/maps) - 地质地图/3D 地质框架
+* [Macrostrat](https://macrostrat.org/) - 地质数据地图
+* [Fishermap](https://usa.fishermap.org/depth-map/) - 水深地图
+* [River Runner](https://river-runner.samlearner.com/) / [3D 地图](https://river-runner-global.samlearner.com/) - 雨滴追踪地图
+* [Global Wetlands](https://www2.cifor.org/global-wetlands/) - 湿地地图
+* [Mindat](https://www.mindat.org/countrylist.php) - 矿物沉积地图
+* [PeakFinder](https://www.peakfinder.com/) - 山峰名称地图
+* [topographic-map](https://en-gb.topographic-map.com/) - 地形图
+* [KCG2](https://prop.kc2g.com/) - 电离层状况地图
+* [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html) - 火山活动地图
+* [USGS](https://earthquake.usgs.gov/earthquakes/map/) - 地震活动地图
+* [GPlates](https://www.gplates.org/) - 板块构造模拟器
+
+***
+
+## ▷ 历史地图
+
+* 🌐 **[Map History](https://www.maphistory.info/)** 或 [David Rumsey Map Collection](https://www.davidrumsey.com/) - 历史地图索引
+* ⭐ **[Running Reality](https://www.runningreality.org/)**, [World History Maps](https://www.worldhistory.org/mapselect/), [⁠Globe of History](https://www.globeofhistory.com/) (桌面版), [Chronas](https://www.chronas.org/) 或 [OldMapsOnline](https://www.oldmapsonline.org/) - 交互式历史地图
+* [HMDB](https://www.hmdb.org/) - 历史标记数据库/地图
+* [Harvard WorldMap](https://worldmap.maps.arcgis.com/home/index.html) - ArcGIS 地图档案
+* [Cronobook](https://cronobook.com/) - 历史街景
+* [EuraAtlas](https://euratlas.com/) - 欧洲历史地图集
+* [r/oldmaps](https://www.reddit.com/r/oldmaps/) 或 [r/papertowns](https://www.reddit.com/r/papertowns/) - 历史地图社区
+* [Historical City Maps](https://redd.it/61fdp6) - 历史城市地图集合
+* [Library of Congress](https://www.loc.gov/collections/?fa=partof:geography+and+map+division) - 美国国会图书馆历史地图档案
+* [Historic Borders](https://historicborders.app/) - 边界历史地图
+* [American Panorama](https://dsl.richmond.edu/panorama/) - 交互式美国历史地图
+* [Mused](https://mused.com/) - 文字转 3D 历史模拟地图
+* [NLS Maps](https://maps.nls.uk/) - 苏格兰历史地图
+* [Imperium](https://imperium.ahlfeldt.se/) - 罗马帝国数字地图集
+* [Ancient Earth](https://dinosaurpictures.org/ancient-earth) - 古代地球球体
+* [1940s NYC](https://1940s.nyc/) - 探索 1940 年代纽约
+* [⁠Project '44](https://www.project44.ca/) - 第二次世界大战历史地图 / [X](https://x.com/project4_4) / [Discord](https://discord.gg/bzWEuc6JJv)
+* [Project Athena](https://www.projectathena.ca/) - 阿富汗战争历史地图 / [X](https://x.com/TFProjectAthena) / [Discord](https://discord.gg/jMmxWZpUKs)
+* [HK Battle 1941](https://digital.lib.hkbu.edu.hk/1941hkbattle/en/index.php) - 1941 年香港战役交互式地图
+* [Medieval Murder Maps](https://medievalmurdermap.co.uk/) - 中世纪谋杀/死亡交互式地图
+
+***
+
+## ▷ 基础设施地图
+
+* [Open Infrastructure Map](https://openinframap.org/) - 全球基础设施地图 / [GitHub](https://github.com/openinframap/openinframap/)
+* [PowerOutage.us](https://poweroutage.us/) - 美国停电地图
+* [CoverageMap](https://coveragemap.com/) - 手机信号覆盖地图
+* [CellMapper](https://www.cellmapper.net/) 或 [OpenCelliD](https://opencellid.org/) - 基站地图
+* [Spectrum Ownership Map](https://specmap.sequence-omega.net/) - 手机运营商 FCC 频谱地图
+* [WiGLE](https://wigle.net/) - 无线网络地图
+* [broadbandmap.fcc.gov](https://broadbandmap.fcc.gov/) - FCC 全国宽带地图
+* [Submarine Cable Map](https://www.submarinecablemap.com/) - 海底互联网电缆地图
+
+***
+
+## ▷ 卫星 / 地球数据
+
+* ⭐ **[Google Earth](https://www.google.com/earth/about/versions/)** - 地球查看器
+* [Huge Earth Maps](https://maps.drsys.eu/) - 高分辨率地球地图
+* [StreetComplete](https://streetcomplete.app/) - OpenStreetMap 调查员应用
+* [FacilMap](https://facilmap.org/) 或 [OsmAPP](https://osmapp.org/) - OSM 网页应用
+* [OpenMapTiles](https://openmaptiles.org/) - 自托管地图工具
+* [NASA Earthdata](https://search.earthdata.nasa.gov/search) - 地球数据档案
+* [glifwc](https://maps.glifwc.org/) - 带数据的地图
+* [Mapillary](https://www.mapillary.com/) 或 [Mapcarta](https://mapcarta.com/) - 开放街景数据
+* [Instant Street View](https://www.instantstreetview.com/) - 立即加载街景
+* [MapCrunch](https://www.mapcrunch.com/) 或 [Random Street View](https://randomstreetview.com/) - 随机街景
+* [city roads](https://anvaka.github.io/city-roads/) - 城市道路地图
+* [GeoHack](https://geohack.toolforge.org/) - 未审查的谷歌卫星视图
+
+***
+
+# ► 新闻
+
+* 🌐 **[AllYouCanRead](https://www.allyoucanread.com/)** - 全球新闻站点索引
+* ↪️ **[报纸站点](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/reading#wiki_.25B7_newspapers)**
+* ↪️ **[绕过文章付费墙](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools#wiki_.25B7_paywall_bypass)**
+* ⭐ **[TorrentFreak](https://torrentfreak.com/)** - 盗版新闻 / [Telegram](https://t.me/torrentfreaks)
+* ⭐ **[Current Events Wiki](https://en.wikipedia.org/wiki/Portal:Current_events)** - 突发新闻
+* ⭐ **[Good News Network](https://www.goodnewsnetwork.org/)** 或 [Happy Daze](https://happydaze.io/) - 振奋人心的新闻
+* [News as Facts](https://newsasfacts.com/) - 基于维基的新闻
+* [Google Alerts](https://www.google.com/alerts) - 按主题分类的新闻提醒
+* [Top Stories](https://murmel.social/top) - 联邦宇宙热门新闻
+* [CBM](https://comicbookmovie.com/) - 漫画/电影/电视新闻
+* [Anime News Network](https://www.animenewsnetwork.com/) - 动漫新闻
+* [Anime Corner](https://animecorner.me/) - 动漫/漫画新闻
+* [ArtDaily](https://artdaily.com) - 艺术新闻
+* [Codrops](https://tympanus.net/codrops/) - 设计新闻
+* [The Athletic](https://www.nytimes.com/athletic/) - 体育新闻 / [绕过付费墙](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_paywall_bypass) / [移动版](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (搜索)
+* [EventMap](https://rsoe-edis.org/eventMap) - 紧急事件和灾难地图
+* [Interactive News Map](https://usa.liveuamap.com/) - 美国地理定位新闻提醒/头条
+* [MedicineNet](https://www.medicinenet.com/), [MedPageToday](https://www.medpagetoday.com/), [EverydayHealth](https://www.everydayhealth.com/), [Medscape](https://www.medscape.com/), [healthline](https://www.healthline.com/), [Medicalxpress](https://medicalxpress.com/) 或 [WebMD](https://www.webmd.com/) - 健康新闻
+* [MathURLs](https://mathurls.com/) - 数学新闻
+* [Dailynous](https://dailynous.com/) - 哲学新闻
+* [Medievalists](https://www.medievalists.net/category/news/) - 中世纪历史新闻
+* [FinURLs](https://finurls.com/) - 金融与商业新闻
+* [⁠NCS](https://www.newscaststudio.com/) - 电视广播网络新闻
+* [Web3 Is Going Great](https://www.web3isgoinggreat.com/) - Web3 灾难新闻
+* [Citizen](https://citizen.com/explore) - 实时本地新闻(仅限美国)
+* [POTUS Tracker](https://potustracker.us/), [GovData](https://www.govactionlist.com/) 或 [WikiPolitica](https://wikipolitica.org/) - 政府行政命令、位置等
+* [FlightSaftey](https://asn.flightsafety.org/), [PlaneCrashInfo](https://www.planecrashinfo.com/) 或 [AVHerald](https://avherald.com/) - 航空事故/新闻
+* [Read Something Wonderful](https://readsomethingwonderful.com/), [Read Something Great](https://www.readsomethinggreat.com/) 或 [BoredReading](https://boredreading.com/) - 随机文章/博客
+* [Media Bias Fact Check](https://drmikecrowe.github.io/mbfcext/) 或 [HonestyMeter](https://www.honestymeter.com/) - 媒体偏见检查器
+* [PressMob](https://pressmob.ai/) - 记者搜索
+* [Scribe](https://sr.ht/~edwardloveall/Scribe/) 或 [LibMedium](https://libmedium.batsense.net/) - Medium 前端
+
+***
+
+## ▷ 聚合器
 
 * ⭐ **[Spike News](https://readspike.com/)**, [2](https://spike.news/)
 * [QotNews](https://news.t0.vc/) - Hacker News / Reddit / Lobsters / Tildes
-* [Kagi News](https://news.kagi.com/) - Aggregator / Summaries / [GitHub](https://github.com/kagisearch/kite-public)
-* [NewsMinimalist](https://www.newsminimalist.com/) - Aggregator / Summaries
-* [⁠Particle](https://particle.news/) - Aggregator / Summaries
-* [AlDaily](https://www.aldaily.com/) - Art / Philosophy / Literature News
-* [Ground.news](https://ground.news/) - Sign-Up Required
+* [Kagi News](https://news.kagi.com/) - 聚合器/摘要 / [GitHub](https://github.com/kagisearch/kite-public)
+* [NewsMinimalist](https://www.newsminimalist.com/) - 聚合器/摘要
+* [⁠Particle](https://particle.news/) - 聚合器/摘要
+* [AlDaily](https://www.aldaily.com/) - 艺术/哲学/文学新闻
+* [Ground.news](https://ground.news/) - 需要注册
 * [Upstract](https://upstract.com/)
 * [⁠100.news](https://100.news/)
 * [AllSides](https://www.allsides.com/)
@@ -537,46 +533,46 @@
 
 ***
 
-## ▷ Tech News
+## ▷ 科技新闻
 
-* ↪️ **[Dev / Cybersecurity News](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
-* ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC Gaming News
-* ⭐ **[Hacker News](https://news.ycombinator.com/)** - Tech News / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
-* [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - Tech News Aggregator
-* [⁠DeadStack](https://deadstack.net/) - Tech / AI News Aggregator
-* [TechURLs](https://techurls.com/) - Tech News
-* [Techmeme](https://www.techmeme.com/) - Tech News
-* [The Brutalist Report](https://brutalist.report/) - Tech News
-* [Techxplore](https://techxplore.com/) - Tech News
-* [⁠ThisWeekInVideoGames](https://thisweekinvideogames.com/news/) - Gaming News
-* [TuxURLs](https://tuxurls.com/, [phoronix](https://www.phoronix.com/) or [⁠LWN](https://lwn.net/Archives/) - Linux News
-* [Liliputing](https://liliputing.com/) - Hardware / Linux Mobile News
-* [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) or [Overclock3D](https://overclock3d.net/) - Hardware News / Reviews
-* [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) or [Dupple](https://www.dupple.com/techpresso) - AI News
-* [GamesRecap](https://gamesrecap.io/) - Game Announcements / Trailers
-* [Internet Society](https://pulse.internetsociety.org/blog) - Internet Infrastructure News
-* [RestorePrivacy](https://cyberinsider.com/news/) or [Privacy International](https://www.privacyinternational.org/) - Privacy / Security News
-
-***
-
-## ▷ Hacker News Tools
-
-* 🌐 **[Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)** - HN Apps & Resources Index
-* ⭐ **[Newsit](https://newsit.benwinding.com/)** - Webpage Comments Widget / [GitHub](https://github.com/benwinding/newsit)
-* ⭐ **[Modern HN](https://www.modernhn.com/)** - Modern UI Extension
-* [Hacki](https://github.com/Livinglist/Hacki), [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) or [Glider](https://github.com/Mosc/Glider) - Android Hacker News Apps
-* [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) or [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News Apps
-* [Related Submissions](https://hnrelevant.imadij.com/) - Similar Posts Sidebar Extension / [GitHub](https://github.com/imdj/HNRelevant)
-* [The Hacker Herald](https://hackerherald.com/) or [hckrnws](https://www.hckrnws.com/) - HN Frontends
-* [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN Search Frontend
-* [HNRankings](https://hnrankings.info/) or [Lindy Hacker News](https://hn.lindylearn.io/) - Best of / Top Posts Aggregator
-* [Hacker News RSS](https://hnrss.github.io/) - HN RSS Feeds
+* ↪️ **[开发/网络安全新闻](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25BA_dev_news)**
+* ⭐ **[⁠GamersNexus](https://gamersnexus.net/)** - PC 游戏新闻
+* ⭐ **[Hacker News](https://news.ycombinator.com/)** - 科技新闻 / [工具](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_hacker_news_tools)
+* [AlternativeTo Aggregator](https://alternativeto.net/news/all/) - 科技新闻聚合器
+* [⁠DeadStack](https://deadstack.net/) - 科技/AI 新闻聚合器
+* [TechURLs](https://techurls.com/) - 科技新闻
+* [Techmeme](https://www.techmeme.com/) - 科技新闻
+* [The Brutalist Report](https://brutalist.report/) - 科技新闻
+* [Techxplore](https://techxplore.com/) - 科技新闻
+* [⁠ThisWeekInVideoGames](https://thisweekinvideogames.com/news/) - 游戏新闻
+* [TuxURLs](https://tuxurls.com/, [phoronix](https://www.phoronix.com/) 或 [⁠LWN](https://lwn.net/Archives/) - Linux 新闻
+* [Liliputing](https://liliputing.com/) - 硬件/Linux 移动新闻
+* [Geeks3D](https://www.geeks3d.com/), [Toms Hardware](https://www.tomshardware.com/) 或 [Overclock3D](https://overclock3d.net/) - 硬件新闻/评测
+* [EmergentMind](https://www.emergentmind.com/), [⁠TestingCatalog](https://www.testingcatalog.com/), [Singularity Hub](https://singularityhub.com/) 或 [Dupple](https://www.dupple.com/techpresso) - AI 新闻
+* [GamesRecap](https://gamesrecap.io/) - 游戏公告/预告片
+* [Internet Society](https://pulse.internetsociety.org/blog) - 互联网基础设施新闻
+* [RestorePrivacy](https://cyberinsider.com/news/) 或 [Privacy International](https://www.privacyinternational.org/) - 隐私/安全新闻
 
 ***
 
-## ▷ Science News
+## ▷ Hacker News 工具
 
-* ⭐ **[phys](https://phys.org/)** - Physics News / Articles
+* 🌐 **[Awesome Hacker News](https://github.com/cheeaun/awesome-hacker-news)** - HN 应用和资源索引
+* ⭐ **[Newsit](https://newsit.benwinding.com/)** - 网页评论小部件 / [GitHub](https://github.com/benwinding/newsit)
+* ⭐ **[Modern HN](https://www.modernhn.com/)** - 现代化 UI 扩展
+* [Hacki](https://github.com/Livinglist/Hacki), [Harmoni](https://play.google.com/store/apps/details?id=com.simon.harmonichackernews) 或 [Glider](https://github.com/Mosc/Glider) - Android Hacker News 应用
+* [ZCombinator](https://github.com/Livinglist/ZCombinator), [HACK](https://apps.apple.com/app/id1464477788), [Octal](https://apps.apple.com/app/id1308885491), [Hackers](https://apps.apple.com/app/id603503901) 或 [Hacki](https://apps.apple.com/app/id1602043763) - iOS Hacker News 应用
+* [Related Submissions](https://hnrelevant.imadij.com/) - 类似帖子侧边栏扩展 / [GitHub](https://github.com/imdj/HNRelevant)
+* [The Hacker Herald](https://hackerherald.com/) 或 [hckrnws](https://www.hckrnws.com/) - HN 前端
+* [Alexandria Library](https://alexandria-library.julienc.me/search/) - HN 搜索前端
+* [HNRankings](https://hnrankings.info/) 或 [Lindy Hacker News](https://hn.lindylearn.io/) - 最佳/热门帖子聚合器
+* [Hacker News RSS](https://hnrss.github.io/) - HN RSS 源
+
+***
+
+## ▷ 科学新闻
+
+* ⭐ **[phys](https://phys.org/)** - 物理新闻/文章
 * [SciURLs](https://sciurls.com/)
 * [NewScientist](https://www.newscientist.com/)
 * [PopSci](https://www.popsci.com/)
@@ -588,66 +584,66 @@
 
 ***
 
-# ► Health
+# ► 健康
 
-## ▷ Mental Health
+## ▷ 心理健康
 
-* 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** or [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - Mental Health Resources
-* ↪️ **[Relaxation / Ambient](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
-* [Health Assessment Tools](https://www.nhs.uk/mental-health/) - General Health Tools
-* [/mental health/](https://dan.valeena.dev/guides/mental-health/), [2](https://rentry.co/mentalhealthy) - Mental Help Tips
-* [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) or [Respawn](https://respawn.pro/) - Wellbeing Apps / Journals
-* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - Interactive Self-Care Guide
-* [deskspace](https://npckc.itch.io/deskspace) - Self-Care App
-* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - Mindfulness / Stress Reduction App
-* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - Mental Health Coping Skills
-* [Zen Habits](https://zenhabits.net/) - Develop Zen Habits
-* [Medito](https://github.com/meditohq/medito-app) or [Heartfulness](https://www.heartfulnessapp.org/) - Meditation App
-* [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - Meditation Techniques / Infographic
-* [Conversations](https://conversations.movember.com/en/conversations/) - Mental Health Conversation Practice
-* [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) or [DrugBank](https://go.drugbank.com/) - Drug Information / Side Effects
+* 🌐 **[Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health)** 或 [mentalillnessmouse](https://mentalillnessmouse.wordpress.com/helpfulresources/) - 心理健康资源
+* ↪️ **[放松/环境音](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_ambient_.2F_relaxation)**
+* [Health Assessment Tools](https://www.nhs.uk/mental-health/) - 通用健康工具
+* [/mental health/](https://dan.valeena.dev/guides/mental-health/), [2](https://rentry.co/mentalhealthy) - 心理帮助提示
+* [How We Feel](https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&hl=en-US) / [iOS](https://apps.apple.com/app/id1562706384), [Nomie](https://v5.nomie.app/), [Koduko](https://github.com/Mazahir26/koduko) 或 [Respawn](https://respawn.pro/) - 健康应用/日记
+* [You feel like shit.](https://philome.la/jace_harr/you-feel-like-shit-an-interactive-self-care-guide/play/index.html), [2](https://youfeellikeshit.com/) - 交互式自我护理指南
+* [deskspace](https://npckc.itch.io/deskspace) - 自我护理应用
+* [Mindfulness Coach](https://mobile.va.gov/app/mindfulness-coach) - 正念/减压应用
+* [Coping Skills Masterlist](https://docs.google.com/document/d/1KI1kzj6Bjx_O3ggYXfgEuTtOsLiCW0V-JeWpTyX5OOU/) - 心理健康应对技巧
+* [Zen Habits](https://zenhabits.net/) - 培养禅意习惯
+* [Medito](https://github.com/meditohq/medito-app) 或 [Heartfulness](https://www.heartfulnessapp.org/) - 冥想应用
+* [IIB Mindfulness](https://informationisbeautiful.net/visualizations/what-is-meditation-mindfulness-good-for/) - 冥想技巧/信息图表
+* [Conversations](https://conversations.movember.com/en/conversations/) - 心理健康对话练习
+* [TripSit](https://tripsit.me/) / [Discord](https://discord.gg/tripsit), [Drugs.com](https://www.drugs.com/) 或 [DrugBank](https://go.drugbank.com/) - 药物信息/副作用
 
 ***
 
-## ▷ Physical Health
+## ▷ 身体健康
 
-* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
-* ⭐ **[BMI Chart](https://en.wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI Range Graph
-* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI Calculator
-* ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** - Sleep Hygiene / Science Guide
-* [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
-* [The Fitness Wiki](https://thefitness.wiki/) - Fitness Information Wiki
-* [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) or [MyFitnessPal](https://www.myfitnesspal.com/) - Fitness Apps
-* [openScale](https://f-droid.org/packages/com.health.openscale/) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
-* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE Calculator
+* ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - 健身计算器
+* ⭐ **[BMI Chart](https://en.wikipedia.org/wiki/Body_mass_index#/media/File:BMI_chart.png)** - BMI 范围图
+* ⭐ **[标准 BMI 计算器](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)** - BMI 计算器
+* ⭐ **[睡眠指南](https://rentry.co/sleepguide)** - 睡眠卫生/科学指南
+* [AMMFitness](https://www.ammfitness.co.uk/) - 健身/营养信息
+* [The Fitness Wiki](https://thefitness.wiki/) - 健身信息维基
+* [FitoTrack](https://codeberg.org/jannis/FitoTrack), [Flexify](https://github.com/brandonp2412/Flexify) 或 [MyFitnessPal](https://www.myfitnesspal.com/) - 健身应用
+* [openScale](https://f-droid.org/packages/com.health.openscale/) 或 [trale](https://github.com/QuantumPhysique/trale) - 体重和身体指标追踪器
+* [SailRabbit](https://www.sailrabbit.com/bmr/) - BMR / TDEE 计算器
 * [Bodyweight Fitness Progressions](https://docs.google.com/spreadsheets/d/1a8tlZ-zbF695HA3Lmm20OIYeYYxo1lmUOczUXKLoL4s/)
-* [r/LoseIt](https://www.reddit.com/r/loseit/) - Weight Loss Subreddit
-* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - Weight Loss Program
-* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
-* [r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
-* [r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - Government Health Resources
-* [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
-* [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search
-* [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
+* [r/LoseIt](https://www.reddit.com/r/loseit/) - 减肥子版块
+* [MOVE! Coach](https://mobile.va.gov/app/move-coach) - 减肥计划
+* [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - 减肥副作用缓解
+* [r/GainIt](https://www.reddit.com/r/gainit/) - 健康增重子版块
+* [r/Flexibility](https://www.reddit.com/r/flexibility/) - 柔韧性子版块
+* [HealthDirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [medlineplus](https://medlineplus.gov/), [merckmanuals](https://www.merckmanuals.com/), [mayoclinic](https://www.mayoclinic.org/), [rxlist](https://www.rxlist.com/), [nejm](https://www.nejm.org/), [ncbi](https://www.ncbi.nlm.nih.gov/pmc/), [hhs](https://www.hhs.gov/), [nih](https://www.nih.gov/), [cdc](https://www.cdc.gov/) - 政府健康资源
+* [oshaction](https://www.oshaction.org/resources/) - 职业健康与安全资源
+* [CancerFactFinder](https://cancerfactfinder.org/) - 癌症事实搜索
+* [⁠INCIDecoder](https://incidecoder.com/) - 护肤成分搜索/数据库
 
 ***
 
-## ▷ Workout / Exercise
+## ▷ 锻炼 / 运动
 
-* 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - Evidence-Based Training Resources
-* 🌐 **[ExRx.net](https://exrx.net/)** - Exercise Resources
-* ⭐ **[DAREBEE](https://darebee.com/)** - Workout Plans
-* ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - Bodyweight Fitness Routines / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
-* ⭐ **[/u/KNightNox Diagram](https://imgur.com/bodyweight-training-skill-tree-with-over-200-exercises-high-res-gEfyf0q)** - Zoomable Exercise Diagram
-* ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) or [FitHero](https://fithero.app/) - Workout Trackers
-* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - Workout Videos
-* [Calistree](https://calistree.app/) - Exercise Search
-* [FitnessProgramer](https://fitnessprogramer.com/) - Workout Plans
-* [Workout.lol](https://workout.lol/) - Custom Workout Plans
-* [MuscleWiki](https://musclewiki.com/), [⁠Workout.cool](https://workout.cool/) or [The Casual Gym](https://gym.naya.com.np/) - Muscle / Exercise Information Tool
-* [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) or [StrongLifts](https://stronglifts.com/) - Weightlifting Trackers
-* [Liftvault](https://liftvault.com/) - Weightlifting Programs / Spreadsheets
+* 🌐 **[Evidence-Based Training Wiki](https://www.reddit.com/r/EvidenceBasedTraining/wiki/index/)** - 循证训练资源
+* 🌐 **[ExRx.net](https://exrx.net/)** - 运动资源
+* ⭐ **[DAREBEE](https://darebee.com/)** - 锻炼计划
+* ⭐ **[r/BodyweightFitness Wiki](https://www.reddit.com/r/bodyweightfitness/wiki/index/)** - 自重健身常规训练 / [Android](https://play.google.com/store/apps/details?id=com.eightxthree.app)
+* ⭐ **[/u/KNightNox 图表](https://imgur.com/bodyweight-training-skill-tree-with-over-200-exercises-high-res-gEfyf0q)** - 可缩放运动图表
+* ⭐ **[Boostcamp](https://www.boostcamp.app/)**, [Hevy](https://www.hevyapp.com/), [⁠Tracked](https://www.tracked.gg/), [Kenko](https://github.com/Iamlooker/Kenko), [FitNotes](https://www.fitnotesapp.com/) 或 [FitHero](https://fithero.app/) - 锻炼追踪器
+* [Fitness Blender](https://www.fitnessblender.com/videos?exclusive%5B%5D=0) - 锻炼视频
+* [Calistree](https://calistree.app/) - 运动搜索
+* [FitnessProgramer](https://fitnessprogramer.com/) - 锻炼计划
+* [Workout.lol](https://workout.lol/) - 自定义锻炼计划
+* [MuscleWiki](https://musclewiki.com/), [⁠Workout.cool](https://workout.cool/) 或 [The Casual Gym](https://gym.naya.com.np/) - 肌肉/运动信息工具
+* [Liftosaur](https://www.liftosaur.com/), [LiftLog](https://github.com/LiamMorrow/LiftLog) 或 [StrongLifts](https://stronglifts.com/) - 举重追踪器
+* [Liftvault](https://liftvault.com/) - 举重计划 / Spreadsheets
 * [Google Fit](https://www.google.com/fit/) - Activity Coach
 * [Impakt](https://www.impakt.com/) - AI Fitness Coach / Social Platform
 * [OpenTrack](https://opentracksapp.com/) - Sports Tracking App
@@ -665,204 +661,204 @@
 
 ***
 
-## ▷ Nutritional Health
+## ▷ 营养健康
 
-* ⭐ **[Nutritionix](https://www.nutritionix.com/)** - Nutrition Tracker App
-* ⭐ **[r/Nutrition](https://www.reddit.com/r/nutrition/)** - Nutrition Subreddit
-* ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - Caffeine Intake Calculator
-* ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - Levels of Dehydration
-* ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - Food Database & Health Information / [Scanner](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
-* [NutritionFacts.org](https://nutritionfacts.org/) - Video Library for Latest Health-Based Research
-* [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - Harvard University Health Website
-* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - Liquid Intake Tracker
-* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - Daily Diet Recommendations / Android
-* [Eat This Much](https://www.eatthismuch.com/), [Mealime](https://www.mealime.com/) or [MealPrepPro](https://mealpreppro.com/) / [Android](https://play.google.com/store/apps/details?id=com.nibbleapps.meal_prep_pro) - Meal Prep & Planning Apps / Android, iOS
-* [Calories-In](https://calories-in.com/) - Meal Prep & Planning / Web
-* [Nosh](https://nosh.tech/) - Food Management App
-* [Edamam](https://www.edamam.com/) - Food-Related APIs
-* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - Child Nutrition / Cooking Course
-* [Examine.com](https://examine.com/) - Supplement & Nutrition Analysis
-* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) or [Waistline](https://github.com/davidhealey/waistline) - Track Nutrition & Calories
-* [MyFoodData](https://www.myfooddata.com) or [Spelt](https://spe.lt/) - Food Nutrition Info
-* [FoodStruct](https://foodstruct.com/) - Food Encyclopedia & Comparison
-* [Tellspecopedia](http://www.tellspecopedia.com/) - Find Healthy Food
-* [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - Scan Ingredient Lists
-* [Kids Health](https://www.kidshealth.org/) - Kids Health Information
-
-***
-
-## ▷ Sexual Health
-
-* ⭐ **[PlannedParenthood](https://www.plannedparenthood.org/)**, [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs) or [Safe2Choose](https://safe2choose.org/) - Abortion Resources
-* ⭐ **[WomenOnWeb](https://www.womenonweb.org/en/page/521/who-we-are)** - Free Abortion Pills
-* [babycenter](https://www.babycenter.com/) - Pregnancy and Parenting Resources
-* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - Due Date Calculator
-* [DoItRight](https://trust.ph/) or [Scarleteen](https://www.scarleteen.com/) - Sex Education Resources
-* [Euki](https://eukiapp.org/) - Sexual / Reproductive Health App
-* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - Tubal Sterilization Gynecologists
-* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - Informed Consent HRT Clinics
+* ⭐ **[Nutritionix](https://www.nutritionix.com/)** - 营养追踪应用
+* ⭐ **[r/Nutrition](https://www.reddit.com/r/nutrition/)** - 营养子版块
+* ⭐ **[Caffeine Calculator](https://www.caffeineinformer.com/death-by-caffeine)** - 咖啡因摄入计算器
+* ⭐ **[Urine Color Chart](https://www.southtees.nhs.uk/wp-content/uploads/2022/08/Urine-colour-chart.pdf)** - 脱水程度
+* ⭐ **[OpenFoodFacts](https://world.openfoodfacts.org/)** - 食品数据库和健康信息 / [扫描器](https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner)
+* [NutritionFacts.org](https://nutritionfacts.org/) - 最新健康研究视频库
+* [The Nutrition Source](https://nutritionsource.hsph.harvard.edu/) - 哈佛大学健康网站
+* [Liquid Drink](https://play.google.com/store/apps/details?id=com.xpp.drink) - 液体摄入追踪器
+* [Daily Dozen](https://github.com/nutritionfactsorg/daily-dozen-android) - 每日饮食推荐 / Android
+* [Eat This Much](https://www.eatthismuch.com/), [Mealime](https://www.mealime.com/) 或 [MealPrepPro](https://mealpreppro.com/) / [Android](https://play.google.com/store/apps/details?id=com.nibbleapps.meal_prep_pro) - 餐食准备和计划应用 / Android, iOS
+* [Calories-In](https://calories-in.com/) - 餐食准备和计划 / 网页版
+* [Nosh](https://nosh.tech/) - 食品管理应用
+* [Edamam](https://www.edamam.com/) - 食品相关 API
+* [Child Nutrition](https://www.coursera.org/learn/childnutrition) - 儿童营养/烹饪课程
+* [Examine.com](https://examine.com/) - 补充剂和营养分析
+* [Cronometer](https://cronometer.com/), [Energize](https://codeberg.org/epinez/Energize/) 或 [Waistline](https://github.com/davidhealey/waistline) - 营养和卡路里追踪
+* [MyFoodData](https://www.myfooddata.com) 或 [Spelt](https://spe.lt/) - 食品营养信息
+* [FoodStruct](https://foodstruct.com/) - 食品百科全书和比较
+* [Tellspecopedia](http://www.tellspecopedia.com/) - 寻找健康食品
+* [Yuka](https://play.google.com/store/apps/details?id=io.yuka.android) - 扫描成分列表
+* [Kids Health](https://www.kidshealth.org/) - 儿童健康信息
 
 ***
 
-## ▷ Detoxing / Sobriety
+## ▷ 性健康
 
-* ⭐ **[r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - Digital Detox Community / [Discord](https://discord.com/invite/QFhXt2F)
-* [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) or [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - Control Phone Addiction
-* [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - Addiction-Help Model / [Books](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [Lessons](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL)
-* [Sobriety](https://github.com/KiARC/Sobriety) - Sobriety Tracker
-* [I Am Sober](https://iamsober.com/en/site/home) - Sobriety Tracker / Community
-* [Petals](https://github.com/LeoColman/Petals) - Quit / Reduce Marijuana Usage
-* [DrugFree](https://drugfree.org/) - Drug Abuse Prevention & Recovery Help
-
-***
-
-## ▷ Porn Quitting
-
-* ↪️ **[Site Blocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
-* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) / [Audiobook](https://youtu.be/ZktxO6adTnI) or [QuitPornEasily](https://quitporneasily.com/) - Painlessly Quit Pornography
-* [⁠FreeLife](https://rentry.org/FreeLife) - Porn Blocking Guide
-* [Plucky](https://pluckyfilter.com/) - Content Filter
-* [SelfControlApp](https://selfcontrolapp.com/) - Mac Site Blocker
-* [CleanBrowsing](https://cleanbrowsing.org/filters/) - Family DNS Filters
-* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) or [unconsenting media](https://www.unconsentingmedia.org) - Find SFW Movies
-* [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - Detect NSFW Scenes in Movies
-* [Wingman](https://github.com/wingman-jr-addon/wingman_jr) or [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) - Block NSFW Images
-* [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) or [Smart Recovery](https://www.smartrecovery.org/) - Find Sex Addiction Meetings
+* ⭐ **[PlannedParenthood](https://www.plannedparenthood.org/)**, [Abortion Resources](https://redd.it/phrcrn) / [2](https://redd.it/vm56bs) 或 [Safe2Choose](https://safe2choose.org/) - 堕胎资源
+* ⭐ **[WomenOnWeb](https://www.womenonweb.org/en/page/521/who-we-are)** - 免费堕胎药
+* [babycenter](https://www.babycenter.com/) - 怀孕和育儿资源
+* [Pregnancy Calculator](https://americanpregnancy.org/resources/pregnancy-calculator/) - 预产期计算器
+* [DoItRight](https://trust.ph/) 或 [Scarleteen](https://www.scarleteen.com/) - 性教育资源
+* [Euki](https://eukiapp.org/) - 性/生殖健康应用
+* [Tubal Sterilization](https://docs.google.com/spreadsheets/d/1Djia_WkrVO3S4jKn6odNwQk7pOcpcL4x00FMNekrb7Q/) - 输卵管结扎妇科医生
+* [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - 知情同意激素替代疗法诊所
 
 ***
 
-# ► Career
+## ▷ 戒瘾 / 戒除
 
-* 🌐 **[Common Q&As](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - Interview Questions Index
-* ⭐ **[Comparably](https://www.comparably.com/)** or [GoodFirms](https://www.goodfirms.co/) - Compare Companies / Salaries
-* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** or [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - Questions to Ask Potential Employers
-* ⭐ **[Kimai](https://www.kimai.org/)** or [Clockify](https://clockify.me/) - Work Hour Trackers
-* [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/), [Career Dreamer](https://grow.google/career-dreamer/) or [MyNextMove](https://www.mynextmove.org/) - Explore Career Options
-* [r/careerguidance](https://www.reddit.com/r/careerguidance/) - Career Guidance Subreddit
-* [UseThis](https://usesthis.com/) - Career Interviews
-* [Science Career General](https://sciencecareergeneral.neocities.org/) - PhD / STEM Career Study Guides
-* [JustLanded](https://www.justlanded.com/) - Working & Living Abroad Guides
-* [Space Crew](https://spacecrew.com/) - Find Space Related Jobs
-* [EconJobRumors](https://www.econjobrumors.com/) - Economic Job Market Forum
-* [SocJobRumors](https://www.socjobrumors.com/) - Sociology Job Market Forum
-* [Side Hustle Stack](https://sidehustlestack.co/) - Find Platform-Based Side Work
-* [MedusaJS](https://medusajs.com/) - Open Source Commerce Store
-* [Contact Card](https://contact-card.vercel.app/) - Contact Card Generator
-* [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - Cover Page Templates
-* [Linkedin Preview](https://www.alarapp.com/en/linkedin-preview) - Preview Linkedin Posts
-* [WhoPaysWriters](http://whopayswriters.com/) - Freelance Writing Publications
-* [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - Monetization Platforms Comparisons
-* [Gerev](https://github.com/GerevAI/gerev) - Search within Workplace Apps
-* [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - Business Courses / Library Card Required
-* [Pimp My Money](https://pimpmymoney.net/) (Torrent) or [HubSpot Academy](https://academy.hubspot.com/) - Digital Marketing Courses
-* [Statista](https://statista.com/) - Market Statistic Search
-* [Systeme](https://systeme.io/) or [SendPulse](https://sendpulse.com/) - Marketing Tools
-* [Marmof](https://marmof.com/) - Creator / Marketing AI
-* [MMAGlobal](https://www.mmaglobal.com/) - View Past Marketing Reports
-* [Annual Reports](https://www.annualreports.com/) - Annual Company Reports
-* [LeanTime](https://leantime.io/) - Project / Delivery Manager
-* [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) or [Textcortext](https://textcortex.com/) - AI Communication Outreach Assistants
-* [Cody](https://meetcody.ai/) - Company Management AI
-* [PHPCRM](https://www.phpcrm.com/), [Tillywork](https://github.com/tillywork/tillywork), [Monday](https://monday.com/) or [Twenty](https://github.com/twentyhq/twenty) - Company Management Tools
-* [⁠Invoify](https://invoify.vercel.app/) / [GitHub](https://github.com/al1abb/invoify), [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) or [Akaunting](https://akaunting.com/) - Invoicing Tools
-* [Google Patents](https://patents.google.com/) - Searchable Patents Database
-* [PatentsExpiringToday](https://patentsexpiringtoday.com/) - Find Expired Patents
-* [Layoffs.fyi](https://layoffs.fyi/) - Recent Layoffs Tracker
-* [GoodJobsFirst](https://goodjobsfirst.org/) - Subsidy Tracker
-* [QR Menu Creator](https://qrmenucreator.com/) - Convert Menu to QR Codes
-* [CandidateChecker](https://candidatechecker.io/) - User Backgrounds for Hiring
+* ⭐ **[r/NoSurf](https://www.reddit.com/r/nosurf/wiki/index)** - 数字排毒社区 / [Discord](https://discord.com/invite/QFhXt2F)
+* [Farhan](https://github.com/tahaak67/Farhan), [LockMeOut](https://play.google.com/store/apps/details?id=vikesh.dass.lockmeout), [DetoxDroid](https://github.com/flxapps/DetoxDroid) 或 [StopScroll](https://play.google.com/store/apps/details?id=com.noscroll.antiscroll) - 控制手机成瘾
+* [The Freedom Model](https://www.thefreedommodel.org/ebooks/) - 戒瘾帮助模型 / [书籍](https://www.youtube.com/playlist?list=PLd6KCmnSpHuE29G2f9JXHMcZKbvzSdInw) / [课程](https://www.youtube.com/playlist?list=PLd6KCmnSpHuFBFw-ei2eTYJPrSoLuwBFL)
+* [Sobriety](https://github.com/KiARC/Sobriety) - 戒除追踪器
+* [I Am Sober](https://iamsober.com/en/site/home) - 戒除追踪器/社区
+* [Petals](https://github.com/LeoColman/Petals) - 戒除/减少大麻使用
+* [DrugFree](https://drugfree.org/) - 毒品滥用预防和康复帮助
 
 ***
 
-## ▷ Job Search / Application
+## ▷ 戒除色情
 
-* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)** or [Indeed](https://www.indeed.com/) - Job Search Sites
-* ⭐ **[4-Day Week](https://4dayweek.io/)** - Find Jobs with 4-Day Weeks
-* [OnSites](https://www.onsites.fyi/) - View / Share Interview Experiences
-* [50WaysToGetAJob](https://50waystogetajob.com/) - Interactive Job Search Guide
-* [⁠Welcome To The Jungle](https://www.welcometothejungle.com/), [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiring.cafe/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) or [EuroJobs](https://eurojobs.com/) - Job Search
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Find Straightforward Hiring Processes
-* [RolePad](https://rolepad.com/) or [JobSync](https://github.com/Gsync/jobsync) - Job Search Managers
-* [DoorsOpen](https://www.doorsopen.co/) - Music Industry Jobs
-* [Job Shell](https://github.com/angelplusultra/job-shell) - Scrape Job Postings
-* [SpeedyApply](https://www.speedyapply.com/) or [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - Job Application Autofill Tools
-* [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - Scrape LinkedIn
-
-***
-
-## ▷ Resume / Portfolio
-
-* 🌐 **[⁠r/Resumes Wiki](https://www.reddit.com/r/resumes/wiki/index/)** - Resume Resources / Guides
-* ⭐ **[RX Resume](https://rxresu.me/)** / [GitHub](https://github.com/amruthpillai/reactive-resume), [FlowCV](https://flowcv.com/), [HeyCV](https://heycv.app/), [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) or [Sheets](https://sheetsresume.com/builder) - Resume Builders
-* ⭐ **[KickResume Samples](https://www.kickresume.com/en/help-center/resume-samples/)** - Resume Samples
-* [ResumGO](https://www.resumgo.com/) - Resume Templates
-* [⁠YAMLResume](https://yamlresume.dev/) / [GitHub](https://github.com/yamlresume/yamlresume) or [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/rendercv/rendercv) - YAML Based Resume Builders
-* [IntelligentCV](https://www.intelligentcv.app/) - Resume Builder Mobile App
-* [ChatProfolio](https://chatprofolio.vercel.app/) or [PeerList](https://peerlist.io/) - Portfolio Builders
-* [CoFolios](https://cofolios.com/) - Portfolio Samples
+* ↪️ **[网站屏蔽](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_productivity_.2F_time_tracking)**
+* ⭐ **[EasyPeasy](https://easypeasymethod.org/)**, [2](https://gitlab.com/snuggy/easypeasy) / [有声书](https://youtu.be/ZktxO6adTnI) 或 [QuitPornEasily](https://quitporneasily.com/) - 轻松戒除色情
+* [⁠FreeLife](https://rentry.org/FreeLife) - 色情屏蔽指南
+* [Plucky](https://pluckyfilter.com/) - 内容过滤器
+* [SelfControlApp](https://selfcontrolapp.com/) - Mac 网站屏蔽器
+* [CleanBrowsing](https://cleanbrowsing.org/filters/) - 家庭 DNS 过滤器
+* [cringeMDb](https://cringemdb.com/), [Age Rating JuJu](https://www.ageratingjuju.com/), [CommonSenseMedia](https://www.commonsensemedia.org/) 或 [unconsenting media](https://www.unconsentingmedia.org) - 寻找适合全家观看的电影
+* [Movie Parser](https://raskie.com/post/practical-ai-autodetecting-nsfw) - 检测电影中的不适宜内容场景
+* [Wingman](https://github.com/wingman-jr-addon/wingman_jr) 或 [HaramBlur](https://haramblur.com/) / [2](https://linktr.ee/haramblur) - 屏蔽不适宜内容图片
+* [SAA Recovery](https://saa-recovery.org/), [Cosa Recovery](https://cosa-recovery.org/) 或 [Smart Recovery](https://www.smartrecovery.org/) - 寻找性成瘾互助会
 
 ***
 
-## ▷ Remote Jobs
+# ► 职业
 
-* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** or [Established Remote](https://github.com/yanirs/established-remote) - Remote Job Resources
-* 🌐 **[⁠remote-jobs](https://remoteintech.company/)** - Remote Friendly Company Index / [GitHub](https://github.com/remoteintech/remote-jobs)
-* ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - Global "Work-From-Anywhere" Job Board
-* [Overemployed](https://overemployed.com/) - Discuss Working 2+ Remote Jobs / [Subreddit](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
-* [r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - Remote Jobs Subreddit / Check "Job Posts" Flag
-* [MTurk](https://www.mturk.com/) - Online Task Work
-* [NoCommute](https://www.nocommutejob.com/) - Remote Job Notifications
-* [WeNomad](https://wenomad.so/) or [Nomad List](https://nomads.com/) - Remote Work Ratings
-* [Jobspresso](https://jobspresso.co/) - Remote Jobs
-* [Remote Jobs](https://remotejobs.com/) - Remote Jobs
-* [himalayas](https://himalayas.app/) - Remote Jobs
-* [We Work Remotely](https://weworkremotely.com/) - Remote Jobs
-* [TangerineFeed](https://tangerinefeed.net/) - Remote Jobs
-* [FlexHired](https://flexhired.com/) - Remote Jobs
-* [CareerVault](https://careervault.io/) - Remote Jobs
-* [NoDesk](https://nodesk.co/) - Remote Jobs
-* [Remote OK](https://remoteok.com/) - Remote Jobs
-* [JobsCollider](https://jobscollider.com/) - Remote Jobs
-* [Dynamite Jobs](https://dynamitejobs.com/) - Remote Jobs
-* [Working Nomads](https://www.workingnomads.com/jobs) - Remote Jobs
-* [Remotive](https://remotive.com/) - Remote Jobs
-* [DailyRemote](https://dailyremote.com/) - Remote Jobs
-* [HireBasis](https://www.hirebasis.com/) - Remote Jobs
-* [Remotedom](https://remotedom.com/) - Remote Jobs
+* 🌐 **[常见问题解答](https://www.indeed.com/career-advice/interviewing/top-interview-questions-and-answers)** - 面试问题索引
+* ⭐ **[Comparably](https://www.comparably.com/)** 或 [GoodFirms](https://www.goodfirms.co/) - 比较公司/薪资
+* ⭐ **[Reverse Interview](https://github.com/viraptor/reverse-interview)** 或 [job-interview-questions](https://github.com/lkostrowski/job-interview-questions-to-ask-companies) - 向潜在雇主提问的问题
+* ⭐ **[Kimai](https://www.kimai.org/)** 或 [Clockify](https://clockify.me/) - 工作时间追踪器
+* [80,000 Hours](https://80000hours.org/), [O*NET](https://www.onetonline.org/), [Career Dreamer](https://grow.google/career-dreamer/) 或 [MyNextMove](https://www.mynextmove.org/) - 探索职业选择
+* [r/careerguidance](https://www.reddit.com/r/careerguidance/) - 职业指导子版块
+* [UseThis](https://usesthis.com/) - 职业访谈
+* [Science Career General](https://sciencecareergeneral.neocities.org/) - 博士/STEM 职业学习指南
+* [JustLanded](https://www.justlanded.com/) - 海外工作和生活指南
+* [Space Crew](https://spacecrew.com/) - 寻找太空相关工作
+* [EconJobRumors](https://www.econjobrumors.com/) - 经济就业市场论坛
+* [SocJobRumors](https://www.socjobrumors.com/) - 社会学就业市场论坛
+* [Side Hustle Stack](https://sidehustlestack.co/) - 寻找基于平台的副业
+* [MedusaJS](https://medusajs.com/) - 开源商务商店
+* [Contact Card](https://contact-card.vercel.app/) - 联系卡片生成器
+* [MS Word Cover Page Templates](https://www.mswordcoverpages.com/) - 封面模板
+* [Linkedin Preview](https://www.alarapp.com/en/linkedin-preview) - 预览 Linkedin 帖子
+* [WhoPaysWriters](http://whopayswriters.com/) - 自由撰稿出版物
+* [Creator Monetization Platforms](https://docs.google.com/spreadsheets/d/1ii59-tKBwsol4jGwVehXy-oaJfVLKUciwXtB2tuKqQg/edit#gid=0) - 变现平台比较
+* [Gerev](https://github.com/GerevAI/gerev) - 在工作场所应用中搜索
+* [Gale Presents: Udemy](https://www.gale.com/elearning/udemy) - 商业课程/需要图书馆卡
+* [Pimp My Money](https://pimpmymoney.net/) (种子) 或 [HubSpot Academy](https://academy.hubspot.com/) - 数字营销课程
+* [Statista](https://statista.com/) - 市场统计数据搜索
+* [Systeme](https://systeme.io/) 或 [SendPulse](https://sendpulse.com/) - 营销工具
+* [Marmof](https://marmof.com/) - 创作者/营销 AI
+* [MMAGlobal](https://www.mmaglobal.com/) - 查看过往营销报告
+* [Annual Reports](https://www.annualreports.com/) - 年度公司报告
+* [LeanTime](https://leantime.io/) - 项目/交付经理
+* [Twain](https://www.twain.ai/), [WriteCream](https://www.writecream.com/) 或 [Textcortext](https://textcortex.com/) - AI 通信推广助手
+* [Cody](https://meetcody.ai/) - 公司管理 AI
+* [PHPCRM](https://www.phpcrm.com/), [Tillywork](https://github.com/tillywork/tillywork), [Monday](https://monday.com/) 或 [Twenty](https://github.com/twentyhq/twenty) - 公司管理工具
+* [⁠Invoify](https://invoify.vercel.app/) / [GitHub](https://github.com/al1abb/invoify), [Invoicely](https://invoiceto.me/), [InvoiceNinja](https://invoiceninja.com/) 或 [Akaunting](https://akaunting.com/) - 开票工具
+* [Google Patents](https://patents.google.com/) - 可搜索专利数据库
+* [PatentsExpiringToday](https://patentsexpiringtoday.com/) - 查找过期专利
+* [Layoffs.fyi](https://layoffs.fyi/) - 近期裁员追踪器
+* [GoodJobsFirst](https://goodjobsfirst.org/) - 补贴追踪器
+* [QR Menu Creator](https://qrmenucreator.com/) - 将菜单转换为二维码
+* [CandidateChecker](https://candidatechecker.io/) - 招聘用户背景调查
 
 ***
 
-## ▷ Tech Jobs
+## ▷ 求职 / 申请
 
-* 🌐 **[30-sec](https://30secondsofinterviews.org/)** - Tech Interview Questions Indexes
-* 🌐 **[Summer 2026 Internships](https://github.com/SimplifyJobs/Summer2026-Internships)** - Tech Internships List / [Notifications](https://swelist.com/)
-* 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - Free Certifications / Courses Index
-* 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - Remote Tech Jobs Index
-* ↪️ **[Learn Programming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
-* ↪️ **[Learn Computer Science](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
-* ⭐ **[Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)** or [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/) - Interview Handbooks / [GitHub](https://github.com/yangshun/)
-* [MoAiJobs](https://www.moaijobs.com/) - Find Jobs in AI Companies
-* [FOSS Jobs](https://www.fossjobs.net/) - FOSS Project Jobs
-* [Authentic Jobs](https://authenticjobs.com/) - Find Developer / Designer Jobs
-* [Dribbble](https://dribbble.com/) - Designer Jobs
-* [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - Designer Jobs Subreddit
-* [Golang Jobs](https://golangjob.xyz/) - Find Golang Jobs
-* [Best PM Jobs](https://www.bestpmjobs.com/) - Tech Firm Night Jobs
-* [JS Remotely](https://jsremotely.com/) - Find Remote JavaScript Jobs
-* [js chimp](https://jschimp.com/) - Reverse Job Board / JavaScript
-* [larajobs](https://larajobs.com/) - Find Laravel Jobs
-* [Python Job Board](https://www.python.org/jobs/) - Find Python Jobs
-* [Levels.fyi](https://www.levels.fyi/) - Tech Career Salaries
-* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) - Leaked Google / Facebook / Amazon Interview Questions / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md)
-* [Interviews.school](https://interviews.school/) or [InterviewThis](https://github.com/Twipped/InterviewThis) - Interview Preparation Guides
-* [Interview Warmup](https://grow.google/certificates/interview-warmup/) - Interview Practice
-* [Cyberseek](https://www.cyberseek.org/index.html) - Cybersecurity US Job Market Info
-* [NIST](https://www.nist.gov/nice/apprenticeship-finder) - Find NICE Cybersecurity Apprenticeship Programs
-* [Data.gov Resources](https://resources.data.gov/) - Data Management Tools / Training
-* [AWS re/Start](https://aws.amazon.com/training/restart/) or [AWS Training](https://www.aws.training/) - Cloud Career Training
-* [9Tut](https://www.9tut.com/) - CCNA Certification Training
-* [CompTIA](https://www.comptia.org/) / [Practice](https://www.examcompass.com/), [Cisco Training](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) or [UI.com](https://www.ui.com/training/) - Training / Certifications
-* [web3.career](https://web3.career/) or [FindWeb3](https://findweb3.com/) - Find Web3 Jobs
+* ⭐ **[5000 Best Job Sites](http://5000best.com/websites/Jobs/)** 或 [Indeed](https://www.indeed.com/) - 求职网站
+* ⭐ **[4-Day Week](https://4dayweek.io/)** - 寻找四天工作周的工作
+* [OnSites](https://www.onsites.fyi/) - 查看/分享面试经验
+* [50WaysToGetAJob](https://50waystogetajob.com/) - 互动求职指南
+* [⁠Welcome To The Jungle](https://www.welcometothejungle.com/), [JobBoardSearch](https://jobboardsearch.com/), [⁠HiringCafe](https://hiring.cafe/), [JobsFromSpace](https://www.jobsfromspace.com/), [CyberCoders](https://www.cybercoders.com/), [whoishiring](https://whoishiring.io/), [Toby Tools](https://rentry.co/qnu6x), [The Muse](https://www.themuse.com/search/) 或 [EuroJobs](https://eurojobs.com/) - 求职搜索
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) - 寻找直接招聘流程
+* [RolePad](https://rolepad.com/) 或 [JobSync](https://github.com/Gsync/jobsync) - 求职管理器
+* [DoorsOpen](https://www.doorsopen.co/) - 音乐行业工作
+* [Job Shell](https://github.com/angelplusultra/job-shell) - 抓取职位发布
+* [SpeedyApply](https://www.speedyapply.com/) 或 [AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - 求职申请自动填写工具
+* [ScrapedIn](https://github.com/dchrastil/ScrapedIn) - 抓取 LinkedIn
+
+***
+
+## ▷ 简历 / 作品集
+
+* 🌐 **[⁠r/Resumes Wiki](https://www.reddit.com/r/resumes/wiki/index/)** - 简历资源/指南
+* ⭐ **[RX Resume](https://rxresu.me/)** / [GitHub](https://github.com/amruthpillai/reactive-resume), [FlowCV](https://flowcv.com/), [HeyCV](https://heycv.app/), [Resuminator](https://www.resuminator.in/) / [GitHub](https://github.com/resuminator/resuminator) 或 [Sheets](https://sheetsresume.com/builder) - 简历构建器
+* ⭐ **[KickResume Samples](https://www.kickresume.com/en/help-center/resume-samples/)** - 简历样本
+* [ResumGO](https://www.resumgo.com/) - 简历模板
+* [⁠YAMLResume](https://yamlresume.dev/) / [GitHub](https://github.com/yamlresume/yamlresume) 或 [RenderCV](https://rendercv.com/) / [GitHub](https://github.com/rendercv/rendercv) - 基于 YAML 的简历构建器
+* [IntelligentCV](https://www.intelligentcv.app/) - 简历构建器移动应用
+* [ChatProfolio](https://chatprofolio.vercel.app/) 或 [PeerList](https://peerlist.io/) - 作品集构建器
+* [CoFolios](https://cofolios.com/) - 作品集样本
+
+***
+
+## ▷ 远程工作
+
+* 🌐 **[Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)** 或 [Established Remote](https://github.com/yanirs/established-remote) - 远程工作资源
+* 🌐 **[⁠remote-jobs](https://remoteintech.company/)** - 远程友好公司索引 / [GitHub](https://github.com/remoteintech/remote-jobs)
+* ⭐ **[Real Work From Anywhere](https://www.realworkfromanywhere.com/)** - 全球"任意地点工作"职位板
+* [Overemployed](https://overemployed.com/) - 讨论同时从事 2+ 份远程工作 / [子版块](https://www.reddit.com/r/overemployed) / [Discord](https://discord.com/invite/a8VGhbZyek)
+* [r/RemoteJobs](https://www.reddit.com/r/RemoteJobs/) - 远程工作子版块 / 检查"职位发布"标志
+* [MTurk](https://www.mturk.com/) - 在线任务工作
+* [NoCommute](https://www.nocommutejob.com/) - 远程工作通知
+* [WeNomad](https://wenomad.so/) 或 [Nomad List](https://nomads.com/) - 远程工作评分
+* [Jobspresso](https://jobspresso.co/) - 远程工作
+* [Remote Jobs](https://remotejobs.com/) - 远程工作
+* [himalayas](https://himalayas.app/) - 远程工作
+* [We Work Remotely](https://weworkremotely.com/) - 远程工作
+* [TangerineFeed](https://tangerinefeed.net/) - 远程工作
+* [FlexHired](https://flexhired.com/) - 远程工作
+* [CareerVault](https://careervault.io/) - 远程工作
+* [NoDesk](https://nodesk.co/) - 远程工作
+* [Remote OK](https://remoteok.com/) - 远程工作
+* [JobsCollider](https://jobscollider.com/) - 远程工作
+* [Dynamite Jobs](https://dynamitejobs.com/) - 远程工作
+* [Working Nomads](https://www.workingnomads.com/jobs) - 远程工作
+* [Remotive](https://remotive.com/) - 远程工作
+* [DailyRemote](https://dailyremote.com/) - 远程工作
+* [HireBasis](https://www.hirebasis.com/) - 远程工作
+* [Remotedom](https://remotedom.com/) - 远程工作
+
+***
+
+## ▷ 技术工作
+
+* 🌐 **[30-sec](https://30secondsofinterviews.org/)** - 技术面试问题索引
+* 🌐 **[Summer 2026 Internships](https://github.com/SimplifyJobs/Summer2026-Internships)** - 技术实习列表 / [通知](https://swelist.com/)
+* 🌐 **[Free-Certifications](https://github.com/cloudcommunity/Free-Certifications)** - 免费认证/课程索引
+* 🌐 **[TheRemoteFreelancer](https://github.com/engineerapart/TheRemoteFreelancer)** - 远程技术工作索引
+* ↪️ **[学习编程](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25BA_developer_learning)**
+* ↪️ **[学习计算机科学](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu/#wiki_.25B7_computer_science)**
+* ⭐ **[Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)** 或 [Frontend Interview Handbook](https://www.frontendinterviewhandbook.com/) - 面试手册 / [GitHub](https://github.com/yangshun/)
+* [MoAiJobs](https://www.moaijobs.com/) - 在 AI 公司中寻找工作
+* [FOSS Jobs](https://www.fossjobs.net/) - 自由开源软件项目工作
+* [Authentic Jobs](https://authenticjobs.com/) - 寻找开发者/设计师工作
+* [Dribbble](https://dribbble.com/) - 设计师工作
+* [r/DesignJobs](https://www.reddit.com/r/DesignJobs/) - 设计师工作子版块
+* [Golang Jobs](https://golangjob.xyz/) - 寻找 Golang 工作
+* [Best PM Jobs](https://www.bestpmjobs.com/) - 科技公司夜间工作
+* [JS Remotely](https://jsremotely.com/) - 寻找远程 JavaScript 工作
+* [js chimp](https://jschimp.com/) - 逆向职位板/JavaScript
+* [larajobs](https://larajobs.com/) - 寻找 Laravel 工作
+* [Python Job Board](https://www.python.org/jobs/) - 寻找 Python 工作
+* [Levels.fyi](https://www.levels.fyi/) - 技术职业薪资
+* [LeetFree](https://doocs.github.io/leetcode/#/README_EN) - 泄露的 Google / Facebook / Amazon 面试问题 / [GitHub](https://github.com/doocs/leetcode/blob/main/README_EN.md)
+* [Interviews.school](https://interviews.school/) 或 [InterviewThis](https://github.com/Twipped/InterviewThis) - 面试准备指南
+* [Interview Warmup](https://grow.google/certificates/interview-warmup/) - 面试练习
+* [Cyberseek](https://www.cyberseek.org/index.html) - 网络安全美国就业市场信息
+* [NIST](https://www.nist.gov/nice/apprenticeship-finder) - 查找 NICE 网络安全学徒计划
+* [Data.gov Resources](https://resources.data.gov/) - 数据管理工具/培训
+* [AWS re/Start](https://aws.amazon.com/training/restart/) 或 [AWS Training](https://www.aws.training/) - 云职业培训
+* [9Tut](https://www.9tut.com/) - CCNA 认证培训
+* [CompTIA](https://www.comptia.org/) / [练习](https://www.examcompass.com/), [Cisco 培训](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications.html) 或 [UI.com](https://www.ui.com/training/) - 培训/认证
+* [web3.career](https://web3.career/) 或 [FindWeb3](https://findweb3.com/) - 寻找 Web3 工作
 
 ***
 
@@ -878,119 +874,119 @@
 
 ***
 
-## ▷ Collaboration Platforms
+## ▷ 协作平台
 
-* ⭐ **[NextCloud](https://nextcloud.com/)** - Collaboration Platform / File Sharing / [GitHub](https://github.com/nextcloud)
-* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Teams Client / Windows, Mac, Linux
-* [Atlassian](https://www.atlassian.com/) - Collaboration Platform
-* [Twake](https://twake.app/) - Collaboration Platform / [GitHub](https://github.com/linagora/twake-drive)
-* [Mattermost](https://mattermost.com/) - Self-Hosted Collaboration Platform / [GitHub](https://github.com/mattermost/mattermost)
-* [LucidSpark](https://lucidspark.com/), [Creately](https://creately.com/) or [Miro](https://miro.com/) - Idea / Collaboration Whiteboards
-* [ScreenRec](https://screenrec.com/) - Screen Recording for Collaboration
-* [Zulip](https://zulip.com/) - Team Chat / [GitHub](https://github.com/zulip/zulip/)
-* [Freedcamp](https://freedcamp.com/) - Project / Task Organization
-* [Asana](https://asana.com/) - Project / Task Organization
-* [Linear](https://linear.app/) - Project / Task Organization 
-* [Factsplat](https://factsplat.com/) - Project Manager
-* [Mural](https://www.mural.co/) - Project Manager
-* [Taskcafe](https://github.com/JordanKnott/taskcafe) - Task Manager
-* [Nino](https://nino.app/) - Task Manager
-* [Trello](https://trello.com/), [WeKan](https:/wekan.fi), [Kanboard](https://kanboard.org/) or [Planka](https://planka.app/) - Kanban Project Managers
-* [Airtable](https://www.airtable.com/) - Spreadsheet-Database Hybrid for Team Workflows
-
-***
-
-## ▷ Finance / Savings
-
-* 🌐 **[r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** or [UK Personal Finance](https://ukpersonal.finance/) - Financial Advice / Resources
-* ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [finviz](https://finviz.com/) or [Markets.sh](https://markets.sh/) - Stock Market Trackers
-* ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** or [Candle](https://gitlab.com/cosmosapps/candle) - Mobile Stock Market Trackers
-* ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [Import](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) or [Actual](https://github.com/actualbudget/actual) - Finance / Expense Managers
-* [Weekly Market Recap](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - Weekly Stock Market Recaps
-* [⁠Free File](https://apps.irs.gov/app/freeFile/), [US Taxes](https://ustaxes.org/) or [FreeTaxUSA](https://www.freetaxusa.com/) - File Taxes for Free / [Get Pin](https://youtu.be/iPw8I-cZ1eY) / [Form Calc](https://opentaxsolver.sourceforge.net/)
-* [⁠Infolib](https://infolib.org/) - Customizable Dashboard w/ Financial News, Crypto Tracking, & Trading Tools
-* [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) / [iOS](https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930) or [Sushi](https://github.com/jerameel/sushi) - Mobile Finance / Expense Managers
-* [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - Savings Tracking App
-* [Denaro](https://github.com/NickvisionApps/Denaro) - Linux Finance Managers
-* [Ledger](https://ledger-cli.org/) or [hledger](https://hledger.org/index.html) - Accounting Systems
-* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - Visualize Portfolio
-* [r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - Financial Tips / Resources
-* [Simul8or](https://simul8or.com/) - 100K Trading Simulator
-* [r/BeerMoney](https://www.reddit.com/r/beermoney/) - Online Money Making Community / [Wiki](https://www.rxddit.com/r/beermoney/wiki/index)
-* [Compound Interest Calculator](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - Determine Compound Interest Money Growth
-* [⁠Bogleheads](https://www.bogleheads.org/wiki/Main_Page) - Investing Advice Inspired by John Bogle 
-* [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) or [KoyFin](https://www.koyfin.com/) - Investment Research Tools
-* [Portfolio Performance](https://www.portfolio-performance.info/en/) - Portfolio Investment Tracker / [GitHub](https://github.com/portfolio-performance/portfolio)
-* [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - Stock Market Data for LibreOffice Calc
-* [YieldFinder](https://yieldfinder.app/) - Rates for Savings Accounts, Market Funds, and Treasuries
-* [Quiver Quantitative](https://www.quiverquant.com/) - Stock Trading Research
-* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - Educational Trading Ebooks
-* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [Index](https://github.com/pAulseperformance/awesome-pinescript) - Send TradingView Alerts to Various Apps
-* [tickrs](https://github.com/tarkah/tickrs) - Ticker Data in Terminal
-* [⁠BestETF](https://www.bestetf.net/) or [ETFDB](https://etfdb.com/) - ETF Databases
-* [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi Derivative Guide
-* [Kitco](https://www.kitco.com/) - Gold Rate Calculators
-* [MortgageCalculator](https://www.mortgagecalculator.site/) - Mortgage Calculator
+* ⭐ **[NextCloud](https://nextcloud.com/)** - 协作平台/文件共享 / [GitHub](https://github.com/nextcloud)
+* [Teams for Linux](https://github.com/IsmaelMartinez/teams-for-linux) - 非官方 Teams 客户端 / Windows, Mac, Linux
+* [Atlassian](https://www.atlassian.com/) - 协作平台
+* [Twake](https://twake.app/) - 协作平台 / [GitHub](https://github.com/linagora/twake-drive)
+* [Mattermost](https://mattermost.com/) - 自托管协作平台 / [GitHub](https://github.com/mattermost/mattermost)
+* [LucidSpark](https://lucidspark.com/), [Creately](https://creately.com/) 或 [Miro](https://miro.com/) - 创意/协作白板
+* [ScreenRec](https://screenrec.com/) - 协作用屏幕录制
+* [Zulip](https://zulip.com/) - 团队聊天 / [GitHub](https://github.com/zulip/zulip/)
+* [Freedcamp](https://freedcamp.com/) - 项目/任务组织
+* [Asana](https://asana.com/) - 项目/任务组织
+* [Linear](https://linear.app/) - 项目/任务组织
+* [Factsplat](https://factsplat.com/) - 项目经理
+* [Mural](https://www.mural.co/) - 项目经理
+* [Taskcafe](https://github.com/JordanKnott/taskcafe) - 任务管理器
+* [Nino](https://nino.app/) - 任务管理器
+* [Trello](https://trello.com/), [WeKan](https:/wekan.fi), [Kanboard](https://kanboard.org/) 或 [Planka](https://planka.app/) - 看板项目经理
+* [Airtable](https://www.airtable.com/) - 团队工作流程的电子表格-数据库混合工具
 
 ***
 
-## ▷ Crypto / Bitcoin
+## ▷ 金融 / 储蓄
 
-* **Note** - It's recommended to store cryptocurrency offline in cold wallets such as Electrum, rather than exchanges like Binance or others. This increases security and gives you full control of your assets.
+* 🌐 **[r/PersonalFinance Wiki](https://www.reddit.com/r/personalfinance/wiki/index)** 或 [UK Personal Finance](https://ukpersonal.finance/) - 财务建议/资源
+* ⭐ **[TradingView](https://www.tradingview.com/)**, [ticker](https://github.com/achannarasappa/ticker), [finviz](https://finviz.com/) 或 [Markets.sh](https://markets.sh/) - 股票市场追踪器
+* ⭐ **[StockTicker](https://github.com/premnirmal/StockTicker)** 或 [Candle](https://gitlab.com/cosmosapps/candle) - 移动股票市场追踪器
+* ⭐ **[Ghostfolio](https://ghostfol.io/en/start)** / [导入](https://github.com/dickwolff/Export-To-Ghostfolio), [Paisa](https://paisa.fyi/) / [GitHub](https://github.com/ananthakumaran/paisa), [HomeBank](https://www.gethomebank.org/en/index.php), [Bagels](https://github.com/EnhancedJax/Bagels), [Firefly III](https://firefly-iii.org/), [Money Manager EX](https://moneymanagerex.org/) 或 [Actual](https://github.com/actualbudget/actual) - 财务/支出管理器
+* [Weekly Market Recap](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/insights/market-insights/wmr/weekly_market_recap.pdf) - 每周股票市场回顾
+* [⁠Free File](https://apps.irs.gov/app/freeFile/), [US Taxes](https://ustaxes.org/) 或 [FreeTaxUSA](https://www.freetaxusa.com/) - 免费报税 / [获取 PIN](https://youtu.be/iPw8I-cZ1eY) / [表格计算](https://opentaxsolver.sourceforge.net/)
+* [⁠Infolib](https://infolib.org/) - 可定制仪表板，包含财经新闻、加密货币追踪和交易工具
+* [money-manager](https://github.com/moneymanagerex/android-money-manager-ex), [Buckwheat](https://buckwheat.app/), [My Expenses](https://www.myexpenses.mobi/), [Cashew](https://play.google.com/store/apps/details?id=com.budget.tracker_app) / [iOS](https://apps.apple.com/us/app/cashew-expense-budget-tracker/id6463662930) 或 [Sushi](https://github.com/jerameel/sushi) - 移动财务/支出管理器
+* [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) - 储蓄追踪应用
+* [Denaro](https://github.com/NickvisionApps/Denaro) - Linux 财务管理器
+* [Ledger](https://ledger-cli.org/) 或 [hledger](https://hledger.org/index.html) - 会计系统
+* [PortfolioVisualizer](https://www.portfoliovisualizer.com/) - 投资组合可视化
+* [r/povertyfinance wiki](https://www.reddit.com/r/povertyfinance/wiki/index/) - 财务提示/资源
+* [Simul8or](https://simul8or.com/) - 10万交易模拟器
+* [r/BeerMoney](https://www.reddit.com/r/beermoney/) - 在线赚钱社区 / [维基](https://www.rxddit.com/r/beermoney/wiki/index)
+* [复合利息计算器](https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator) - 确定复利增长
+* [⁠Bogleheads](https://www.bogleheads.org/wiki/Main_Page) - 受约翰·博格启发的投资建议
+* [GamestonkTerminal](https://github.com/OpenBB-finance/OpenBBTerminal), [OpenBB Terminal](https://openbb.co/) 或 [KoyFin](https://www.koyfin.com/) - 投资研究工具
+* [Portfolio Performance](https://www.portfolio-performance.info/en/) - 投资组合追踪器 / [GitHub](https://github.com/portfolio-performance/portfolio)
+* [Financials Extension](https://github.com/cmallwitz/Financials-Extension) - LibreOffice Calc 的股票市场数据
+* [YieldFinder](https://yieldfinder.app/) - 储蓄账户、货币基金和国债利率
+* [Quiver Quantitative](https://www.quiverquant.com/) - 股票交易研究
+* [Technical Library](https://t.me/+Tz4VCcFAMVJGzd8z) - 教育交易电子书
+* [TradingView Webhook Bot](https://github.com/fabston/TradingView-Webhook-Bot) / [索引](https://github.com/pAulseperformance/awesome-pinescript) - 将 TradingView 警报发送到各种应用
+* [tickrs](https://github.com/tarkah/tickrs) - 终端中的股票数据
+* [⁠BestETF](https://www.bestetf.net/) 或 [ETFDB](https://etfdb.com/) - ETF 数据库
+* [DeFi Derivative Landscape](https://github.com/0xperp/defi-derivatives) - DeFi 衍生品指南
+* [Kitco](https://www.kitco.com/) - 黄金汇率计算器
+* [MortgageCalculator](https://www.mortgagecalculator.site/) - 抵押贷款计算器
 
 ***
 
-* 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC List / [GitHub](https://github.com/DefiLlama/chainlist)
-* 🌐 **[KYCNOT.ME](https://kycnot.me/)** / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [Source Code](https://codeberg.org/pluja/kycnotme), **[NotKYC](https://notkyc.com/)** or **[⁠OrangeFren](https://orangefren.com/)** - Non-KYC Exchanges / Services
-* ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - Verify Crypto Wallets are Open-Source / Secure / [Subreddit](https://www.reddit.com/r/WalletScrutiny) / [Discord](https://discord.gg/yCNdcSJw9k) / [GitLab](https://gitlab.com/walletscrutiny/walletScrutinyCom)
-* ⭐ **[Rotki](https://rotki.com/)** - Portfolio Manager / [Discord](https://discord.rotki.com/) / [GitHub](https://github.com/rotki)
-* [BitcoinTalk](https://bitcointalk.org/) - Bitcoin Forum
-* [BTCPay](https://btcpayserver.org/) - FOSS Bitcoin Payment Processor
-* [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - Bitcoin Address Scanner
-* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [Mempool](https://mempool.space/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) or [LiveCoinWatch](https://www.livecoinwatch.com/) - Live Crypto Prices / Blockchain Explorers
-* [Privacy Watch](https://privacy.watch/) - Privacy Crypto Price Tracker
-* [CoinGlass](http://www.coinglass.com) - Crypto Derivatives Data
-* [DefiLlama](https://defillama.com/) - TVL Aggregator
-* [WalletExplorer](https://www.walletexplorer.com/) - Bitcoin Block Explorers
-* [Cryptopedia](https://www.gemini.com/cryptopedia) or [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - Crypto Learning Resources
-* [IQ.Wiki](https://iq.wiki/) - Crypto Encyclopedia
-* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - Crypto Protocols
-* [Traders Video Library](https://t.me/TradersVideo_Library) - Crypto Trading Courses
-* [HiveRSS](https://www.hiverss.com/) - Create Hive RSS Feeds
+## ▷ 加密货币 / 比特币
+
+* **注意** - 建议将加密货币存储在离线冷钱包中，如 Electrum，而不是存储在 Binance 或其他交易所。这增加了安全性并让您完全控制资产。
 
 ***
 
-# ► Shopping
+* 🌐 **[ChainList](https://chainlist.org/)** - EVM RPC 列表 / [GitHub](https://github.com/DefiLlama/chainlist)
+* 🌐 **[KYCNOT.ME](https://kycnot.me/)** / [i2p](http://nti3rj4j4disjcm2kvp4eno7otcejbbxv3ggxwr5tpfk4jucah7q.b32.i2p/) / [.onion](http://kycnotmezdiftahfmc34pqbpicxlnx3jbf5p7jypge7gdvduu7i6qjqd.onion/) / [源代码](https://codeberg.org/pluja/kycnotme), **[NotKYC](https://notkyc.com/)** 或 **[⁠OrangeFren](https://orangefren.com/)** - 无需 KYC 的交易所/服务
+* ⭐ **[WalletScrutiny](https://walletscrutiny.com/)** - 验证加密钱包是否开源/安全 / [子版块](https://www.reddit.com/r/WalletScrutiny) / [Discord](https://discord.gg/yCNdcSJw9k) / [GitLab](https://gitlab.com/walletscrutiny/walletScrutinyCom)
+* ⭐ **[Rotki](https://rotki.com/)** - 投资组合管理器 / [Discord](https://discord.rotki.com/) / [GitHub](https://github.com/rotki)
+* [BitcoinTalk](https://bitcointalk.org/) - 比特币论坛
+* [BTCPay](https://btcpayserver.org/) - 自由开源比特币支付处理器
+* [BitcoinWhosWho](https://www.bitcoinwhoswho.com/) - 比特币地址扫描器
+* [BlockChain](https://www.blockchain.com/explorer), [CoinWatch](https://github.com/shorthouse/CoinWatch), [Hivexplorer](https://hivexplorer.com/), [BlockChair](https://blockchair.com/), [Mempool](https://mempool.space/), [L2BEAT](https://l2beat.com/), [HiveblockExplorer](https://hiveblockexplorer.com/), [CoinGlass](https://www.coinglass.com/) 或 [LiveCoinWatch](https://www.livecoinwatch.com/) - 实时加密货币价格/区块链浏览器
+* [Privacy Watch](https://privacy.watch/) - 隐私加密货币价格追踪器
+* [CoinGlass](http://www.coinglass.com) - 加密衍生品数据
+* [DefiLlama](https://defillama.com/) - TVL 聚合器
+* [WalletExplorer](https://www.walletexplorer.com/) - 比特币区块浏览器
+* [Cryptopedia](https://www.gemini.com/cryptopedia) 或 [Crypto Canon](https://a16zcrypto.com/posts/article/crypto-readings-resources/) - 加密货币学习资源
+* [IQ.Wiki](https://iq.wiki/) - 加密货币百科全书
+* [protocol-reading-list](https://github.com/b-chiang/protocol-reading-list) - 加密协议
+* [Traders Video Library](https://t.me/TradersVideo_Library) - 加密交易课程
+* [HiveRSS](https://www.hiverss.com/) - 创建 Hive RSS 源
 
-* 🌐 **[⁠Monerica](https://monerica.com/status/verified)** - Monero-Friendly Online Shop Index
-* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - Find Interesting Things to Buy
-* ⭐ **[Consumer Rights Wiki](https://consumerrights.wiki/)** - Documents Practices That Impact Consumer Rights / [Discord](https://discord.gg/8w5rSNAXRf)
-* ⭐ **[Dark Patterns Tip Line](https://darkpatternstipline.org/)** or [Dark Patterns](https://hallofshame.design/collection/) - Deceptive Services to Avoid
-* [Dark Patterns Detective](https://games.productartistry.com/games/dark-patterns) - Learn to Avoid Deceptive Services
-* [Looria](https://www.looria.com/) or [ProductHunt](https://producthunt.com/) - Product / Service Reviews
-* [Pepper](https://www.pepperdeals.com/) or [SlickDeals](https://slickdeals.net/) - Shopping Deal Communities
-* [⁠BangYourBuck](https://bangyourbuck.com/) - Unit Shopping Calculator / Comparisons for Amazon 
-* [Hagglezon](https://www.hagglezon.com/) - Price Comparisons for Amazon Stores Across Europe
-* [⁠RedRecs](https://www.redrecs.com/) - Reddit Product Rankings, Summaries, and Comments / [Methodology](https://www.redrecs.com/how-redrecs-works)
-* [⁠NoBids](https://nobids.net/) or [WatchCount](https://www.watchcount.com/) - eBay Advanced Search
-* [Typo Hound](https://typohound.com/) or [FatFingers](https://fatfingers.com/) - eBay Typo Search
-* [PicClick](https://picclick.com/) - eBay Quick Search
-* [⁠a view from my seat](https://aviewfrommyseat.com/) / [UK](https://aviewfrommyseat.co.uk/) - See Event Views Before Buying Tickets
-* [Desenmascara](https://desenmascara.me/) - Spot Counterfeit Sites
-* [r/MaleFashionAdvice Spreadsheet](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - Male Clothing Brand / Price Spreadsheet
-* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - Replica Clothing Community
-* [⁠OutdoorGearLab](https://www.outdoorgearlab.com/) - Outdoor Gear Comparisons / Reviews
-* [⁠Run Repeat](https://runrepeat.com/) - Shoe Shopping Guide / Reviews
-* [GoEuropean](https://www.goeuropean.org/) - European Products / Services
-* [WornOnTV](https://wornontv.net/) or [ShopYourTV](https://shopyourtv.com/) - Find Outfits from TV Shows
-* [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - Virtual Outfit Try-On
-* [GoodOnYou](https://directory.goodonyou.eco/) - Clothing Brand Sustainability Ratings
-* [Cars.com](https://www.cars.com/research/compare/) - Vehicle Reviews / Comparisons
-* [⁠CarSized](https://www.carsized.com/) - Vehicle Size Comparisons
-* [⁠INCIDecoder](https://incidecoder.com/) - Skincare Ingredients Search / Database 
-* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) or [Parfumo](https://www.parfumo.com/) - Perfume / Fragrance Databases
-* [BabyGearLab](https://www.babygearlab.com/) - Baby Product Comparisons / Reviews
-* [Build List](https://buildlist.org/) - On-Demand Online Manufacturers
+***
+
+# ► 购物
+
+* 🌐 **[⁠Monerica](https://monerica.com/status/verified)** - 友好支持门罗币的在线商店索引
+* ⭐ **[ThisIsWhyImBroke](https://www.thisiswhyimbroke.com/)** - 寻找有趣的购买物品
+* ⭐ **[消费者权利维基](https://consumerrights.wiki/)** - 记录影响消费者权利的做法 / [Discord](https://discord.gg/8w5rSNAXRf)
+* ⭐ **[黑暗模式举报热线](https://darkpatternstipline.org/)** 或 [黑暗模式](https://hallofshame.design/collection/) - 需要避免的欺骗性服务
+* [黑暗模式侦探](https://games.productartistry.com/games/dark-patterns) - 学习如何避免欺骗性服务
+* [Looria](https://www.looria.com/) 或 [ProductHunt](https://producthunt.com/) - 产品/服务评价
+* [Pepper](https://www.pepperdeals.com/) 或 [SlickDeals](https://slickdeals.net/) - 购物优惠社区
+* [⁠BangYourBuck](https://bangyourbuck.com/) - 单位购物计算器/亚马逊商品比较
+* [Hagglezon](https://www.hagglezon.com/) - 欧洲各地亚马逊商店的价格比较
+* [⁠RedRecs](https://www.redrecs.com/) - Reddit 产品排名、摘要和评论 / [方法论](https://www.redrecs.com/how-redrecs-works)
+* [⁠NoBids](https://nobids.net/) 或 [WatchCount](https://www.watchcount.com/) - eBay 高级搜索
+* [Typo Hound](https://typohound.com/) 或 [FatFingers](https://fatfingers.com/) - eBay 错别字搜索
+* [PicClick](https://picclick.com/) - eBay 快速搜索
+* [⁠a view from my seat](https://aviewfrommyseat.com/) / [UK](https://aviewfrommyseat.co.uk/) - 购买门票前查看活动视野
+* [Desenmascara](https://desenmascara.me/) - 识别假冒网站
+* [r/MaleFashionAdvice 电子表格](https://docs.google.com/spreadsheets/d/1mhOIpjUUibBf3QueJs8iRJy5gBKCILq82ekJkiC5uqQ/) - 男装品牌/价格电子表格
+* [r/FashionReps](https://www.reddit.com/r/FashionReps/) - 复制服装社区
+* [⁠OutdoorGearLab](https://www.outdoorgearlab.com/) - 户外装备比较/评测
+* [⁠Run Repeat](https://runrepeat.com/) - 鞋类购物指南/评测
+* [GoEuropean](https://www.goeuropean.org/) - 欧洲产品/服务
+* [WornOnTV](https://wornontv.net/) 或 [ShopYourTV](https://shopyourtv.com/) - 从电视剧中找到服装
+* [Kolors](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On) - 虚拟服装试穿
+* [GoodOnYou](https://directory.goodonyou.eco/) - 服装品牌可持续性评级
+* [Cars.com](https://www.cars.com/research/compare/) - 汽车评测/比较
+* [⁠CarSized](https://www.carsized.com/) - 汽车尺寸比较
+* [⁠INCIDecoder](https://incidecoder.com/) - 护肤成分搜索/数据库
+* [Fragrantica](https://www.fragrantica.com/), [Basenotes](https://basenotes.com/) 或 [Parfumo](https://www.parfumo.com/) - 香水/香氛数据库
+* [BabyGearLab](https://www.babygearlab.com/) - 婴儿产品比较/评测
+* [Build List](https://buildlist.org/) - 按需在线制造商
 
 ***
 
@@ -1018,7 +1014,7 @@
 * [Mouse Ratings](https://www.rtings.com/mouse/reviews/best), [EloShapes](https://www.eloshapes.com/), [Sensor.fyi](https://sensor.fyi/info/), [RocketJumpNinja](https://www.rocketjumpninja.com/) or [r/MouseReview](https://www.reddit.com/r/MouseReview/) / [Discord](https://discord.gg/mousereview) - Mouse Buying Guides
 * [PSU Tier List](https://docs.google.com/spreadsheets/d/1akCHL7Vhzk_EhrpIGkz8zTEvYfLDcaSpZRB6Xt6JWkc/) - PSU Buying Guide
 * [4K TV Guide](https://www.reddit.com/r/4kTV/comments/1mxcuv7/) - 4K TV Buying Guide
-* [⁠r/HTBuyingGuides](https://www.reddit.com/r/HTBuyingGuides/) - Home Theater Buying Guides 
+* [⁠r/HTBuyingGuides](https://www.reddit.com/r/HTBuyingGuides/) - Home Theater Buying Guides
 * [DisplaySpecifications](https://www.displayspecifications.com/), [PC Monitors](https://pcmonitors.info/), [TFTCentral](https://tftcentral.co.uk/), [Monitor Hunter](https://docs.google.com/document/d/1illeNLsUfZ4KuJ9cIWKwTDUEXUVpplhUYHAiom-FaDo/), [Monitor Spreadsheet](https://docs.google.com/spreadsheets/d/1wBV0U3a1XuP1yFLvs_Ald3FE1y45bVxtS2zBXixsGLs/edit) or [DisplayNinja](https://www.displayninja.com/) - Monitor Buying Guides
 * [sven dpi](https://www.sven.de/dpi/) - Screen / Monitor Size Comparisons
 * [AudioScienceReview](https://www.audiosciencereview.com/forum/index.php) - Audio Equipment Discussion
@@ -1028,7 +1024,7 @@
 * [SpeakerRanking](https://www.speakerranking.com/) - Speaker Comparisons / Reviews
 * [Erin's Audio Corner](https://www.erinsaudiocorner.com/) or [Equipboard](https://equipboard.com/) - Audio Equipment Comparisons
 * [⁠Audio Test Kitchen](https://www.audiotestkitchen.com/) - Compare Microphone Sounds
-* [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons 
+* [⁠The Great MicroSD Card Survey](https://www.bahjeez.com/the-great-microsd-card-survey/) - MicroSD Tests / Comparisons
 * [Don’t kill my app!](https://dontkillmyapp.com/) - Manufacturer Battery Life vs. App Functionality
 * [PhoneSized](https://phonesized.com/) or [HotSpot3D](https://www.hotspot3d.com/) - Phone Size Comparisons
 * [Gamepadla](https://gamepadla.com/) - Gamepad / Controller Latency Tests
@@ -1473,7 +1469,7 @@
 * [SongMeanings](https://songmeanings.com/) - Discover Song Meanings
 * [The Dictionary of Obscure Sorrows](https://www.thedictionaryofobscuresorrows.com/) - Made Up Words for Sorrows
 * [Hypertranslate](https://www.ravbug.com/hypertranslate/) - Google Translate Telephone Game
-* [⁠GomiTier](https://www.gomitier.tech/) - Create Custom Anime Tier Lists w/ AniList or Mal Account 
+* [⁠GomiTier](https://www.gomitier.tech/) - Create Custom Anime Tier Lists w/ AniList or Mal Account
 * [House Creep](https://www.housecreep.com/) - Homes with A Curious or Criminal History
 * [Wiby](https://www.wiby.me/) - Explore Old Sites
 * [eieio.games](https://eieio.games/) - Experimental Games / Showcases
@@ -1490,7 +1486,7 @@
 * [VGA Museum](https://www.vgamuseum.info/) - Graphic Cards History
 * [Virus Encyclopedia](http://virus.wikidot.com/) - Computer Virus History
 * [MobilePhoneMuseum](https://www.mobilephonemuseum.com/) - Mobile Phone History / Info
-* [WalkmanLand](https://walkman.land/) - Walkman History / Database 
+* [WalkmanLand](https://walkman.land/) - Walkman History / Database
 * [KilledByGoogle](https://killedbygoogle.com/), [Microsoft Graveyard](https://microsoftgraveyard.com/) or [SuedByNintendo](https://www.suedbynintendo.com/) - Dead Projects Archives
 * [Projectrho](https://www.projectrho.com/public_html/rocket/) - Fantasy Rocket Encyclopedia
 * [EnigmaLabs](https://enigmalabs.io/) or [UFO Casebook](https://www.ufocasebook.com/) - UFO Sighting Lists / Tracking

@@ -1,5 +1,5 @@
 ---
-title: What We're Capable Of
+title: 我们的能力
 description: 🤍
 date: 2026-01-06
 next: false
@@ -11,20 +11,20 @@ footer: true
 
 <Post authors="nbats" />
 
-There are 8.2 billion humans on earth.
+地球上有人类82亿。
 
-We're extremely dynamic. You will meet people all through your life with different personalities, skills, and interests. This individual uniqueness not only makes life more interesting, but it also increases our collective ability to handle a wide range of ideas and problems.
+我们极其动态。你一生中会遇到性格、技能和兴趣各不相同的人。这种个人独特性不仅使生活更加有趣，也增强了我们集体处理各种想法和问题的能力。
 
-Despite these capabilities, our differences can also lead to an overwhelming feeling of division in some. Differences often lead to disagreement, anger, hostility, or violence. To say humans don't often inflict cruelty on one another would be a lie. We absolutely have shown our teeth. In innumerable ways, we've caused horror to our own species. We've dehumanized, caused suffering, and in many cases killed one another.
+尽管有这些能力，我们的差异也可能导致一些人产生压倒性的分裂感。差异往往会导致分歧、愤怒、敌意或暴力。说人类不经常互相施加残酷将是谎言。我们绝对展示过獠牙。以无数种方式，我们给自己的物种带来了恐怖。我们去人性化、造成痛苦，很多时候互相杀害。
 
-In many ways, we're still learning. Humanity is still growing. A lot of people are trying to sort right from wrong, fair from unfair, true from untrue. This leads to a lot of confusion, a lot of chaos, and a lot of violence. To see humans go after other humans in such efficient and relentless manners is terrifying and beyond disheartening. It can be easy to lose hope, but the truth is... *none of it is necessary.* 
+在很多方面，我们仍在学习。人性仍在成长。很多人试图区分是非、公平与不公平、真假。这导致了大量的困惑、混乱和暴力。看到人类以如此高效和无情的方式相互追逐是可怕的，令人沮丧不已。很容易失去希望，但事实是……*这一切都不是必要的。*
 
-***None of the violence, none of the hate, none of the inequality is mandatory.***
+***暴力、仇恨、不平等都不是强制性的。***
 
-We are allowed to go against the grain of things we know are wrong. *We are allowed to improve our world.* Never be scared to do what you know is right, even when its hard, even when it might benefit someone else more than yourself. Match relentless selfishness with your own relentless generosity. Resist chaos and confusion with serenity and understanding. Engulf violence with endless harmony. 
+我们可以违背那些我们知道是错误的事情。*我们有权改善我们的世界。*永远不要害怕做你知道是正确的事，即使它很困难，即使它可能让别人比你自己受益更多。用你不懈的慷慨来对抗无情的自私。用宁静和理解来抵制混乱和困惑。用无尽的和谐来包围暴力。
 
-Remember that truth doesn't rely on anyone. Truth doesn't ask for our opinions. Truth is eternal, unwavering, and it will always be there, waiting for us to realize what we're capable of together. 
+记住真理不依赖于任何人。真理不需要我们的意见。真理是永恒的、坚定不移的，它总是在那里，等待我们意识到我们共同拥有的能力。
 
 ***
 
-* "***In this world there’s room for everyone and the good earth is rich, and can provide for everyone. The way of life can be free and beautiful, but we have lost the way.*** Greed has poisoned men's souls, has barricaded the world with hate, has goose-stepped us into misery and bloodshed. We have developed speed, but we have shut ourselves in. Machinery that gives abundance has left us in want. Our knowledge has made us cynical. Our cleverness hard and unkind. We think too much, and feel too little. ***More than machinery, we need humanity. More than cleverness, we need kindness and gentleness. Without these qualities life will be violent, and all will be lost.***" - Charlie Chaplin
+* "***在这个世界上，每个人都有容身之地，美好的大地富饶，可以养活每个人。生活方式可以自由而美好，但我们迷失了方向。***贪婪毒害了人们的灵魂，用仇恨筑起了世界的壁垒，让我们踏着正步走向苦难和流血。我们发展了速度，但把自己关了起来。带来丰盛的机器却让我们陷入匮乏。我们的知识使我们变得愤世嫉俗。我们的聪明变得冷酷无情。我们想得太多，感受得太少。***比起机械，我们需要人性。比起聪明，我们需要善良和温柔。没有这些品质，生活将是暴力的，一切都将失去。***" - 查理·卓别林

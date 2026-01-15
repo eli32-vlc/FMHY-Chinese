@@ -1,57 +1,57 @@
 ---
-title: FAQ
-description: A List Of Questions And Answers Related To FMHY.
+title: 常见问题解答
+description: 与 FMHY 相关的问题和答案列表。
 ---
 
-# FAQ
+# 常见问题解答
 
-**Q:** Why are there no posts? Is the subreddit dead? :( 
+**问：** 为什么没有帖子？这个子版块是不是死了？:(
 
-**A:** Posting has always been off to keep the chances of the sub surviving as high as possible. Our main focus is the [**Wiki**](https://fmhy.net), which has grown to include nearly 30k links. It's 100% alive, and gets updated [daily](https://github.com/nbats/FMHYedit/commits/main). For a discussion sub, check out [r/Piracy](https://www.reddit.com/r/Piracy). 
-
-***
-
-**Q:** Are the sites here safe to use?
-
-**A:** Yes, we always scan files and research sites before adding them. We also listen to the community, so if there's something you feel needs to be addressed you're more than welcome to contact us. 
+**答：** 发帖功能一直关闭，以尽可能提高该子版块的存活几率。我们的主要重点是 [**维基**](https://fmhy.net)，其中已包含近 3 万个链接。它是 100% 活跃的，并且每天都在更新。要参与讨论，请查看 [r/Piracy](https://www.reddit.com/r/Piracy)。
 
 ***
 
-**Q:** The site won't load, what should I do?
+**问：** 这里的网站安全吗？
 
-**A:** If you can't get the site to load, we'd recommend trying some of the methods listed [here](https://rentry.co/7vycxgn2), or try any of the [backups](https://fmhy.net/other/backups)
-
-***
-
-**Q:** How can I contact you?
-
-**A:** The best way is to join us in [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord). Here you can submit links, get help or suggest changes to the wiki. My reddit [DMs](https://www.reddit.com/message/compose?to=nbatman) and [mod messages](https://www.reddit.com/message/compose/?to=%2Fr%2FFREEMEDIAHECKYEAH) are also open. 
+**答：** 是的，我们在添加之前总是扫描文件并研究网站。我们也会听取社区的意见，所以如果您觉得有什么需要解决的问题，欢迎随时联系我们。
 
 ***
 
-**Q:** Can I edit FMHY?
+**问：** 网站打不开，我该怎么办？
 
-**A:** Absolutely. This project was made by and belongs to the community, so we allow anyone to suggest changes via [pull requests](https://github.com/fmhy/FMHYedit). We want this project to be as organized and useful as possible, so if you feel like you can help improve it, please do. 
-
-***
-
-**Q:** How do I view encoded links?
-
-**A:** Use any [base64 decoding](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_encode_.2F_decode) site or extension. 
+**答：** 如果您无法加载网站，我们建议尝试这里列出的一些方法，或者尝试任何备份。
 
 ***
 
-**Q:** Can I donate?
+**问：** 我如何联系你们？
 
-**A:** We appreciate that people want to support us, but we never have and never will accept donations. We maintain this project because it's fun and we want to help others, not make money. 
-
-***
-
-**Q:** When was FMHY created?
-
-**A:** The original sub was created on [April 29th, 2018](https://i.ibb.co/VJQmQ9t/image.png). 
+**答：** 最好的方式是在 Discord 上加入我们。在这里您可以提交链接、获得帮助或建议对维基的更改。我的 Reddit 私信和版主消息也是开放的。
 
 ***
 
+**问：** 我可以编辑 FMHY 吗？
 
-If you have any questions feel free to leave a comment [here](https://redd.it/xrxen7) and we'll do our best to answer.
+**答：** 当然可以。这个项目是由社区创建并属于社区的，所以我们允许任何人通过拉取请求建议更改。我们希望这个项目尽可能有组织和有用，所以如果您觉得可以帮助改进它，请尽管去做。
+
+***
+
+**问：** 我如何查看编码的链接？
+
+**答：** 使用任何 base64 解码网站或扩展。
+
+***
+
+**问：** 我可以捐款吗？
+
+**答：** 我们感谢人们想要支持我们，但我们从未接受过也永远不会接受捐款。我们维护这个项目是因为有趣并且想帮助他人，而不是为了赚钱。
+
+***
+
+**问：** FMHY 是什么时候创建的？
+
+**答：** 原始子版块创建于 2018 年 4 月 29 日。
+
+***
+
+
+如果您有任何问题，请随时在此处留言，我们会尽力回答。
